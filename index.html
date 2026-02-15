@@ -1,0 +1,228 @@
+<!DOCTYPE html>
+<html lang="nl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Drift — Reis Anders</title>
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;700&family=DM+Serif+Display&display=swap" rel="stylesheet">
+</head>
+<body>
+    <!-- Landing Screen -->
+    <div id="landing" class="screen active">
+        <div class="landing-content">
+            <div class="logo-mark">
+                <span class="logo-icon">◇</span>
+            </div>
+            <h1 class="app-title">Drift</h1>
+            <p class="app-tagline">Reis anders. Ontdek echt.</p>
+
+            <div class="mode-cards">
+                <button class="mode-card" onclick="showScreen('notourist')">
+                    <div class="mode-icon">🧭</div>
+                    <h2>No Tourist Mode</h2>
+                    <p>Micro-trip curator voor authentieke plekken die je nergens in een reisgids vindt.</p>
+                    <span class="mode-arrow">→</span>
+                </button>
+
+                <button class="mode-card" onclick="showScreen('drift')">
+                    <div class="mode-icon">🎲</div>
+                    <h2>90-Min Drift</h2>
+                    <p>Geef controle op. Loop, observeer, ontdek. Anti-perfectionisme in actie.</p>
+                    <span class="mode-arrow">→</span>
+                </button>
+            </div>
+        </div>
+    </div>
+
+    <!-- No Tourist Mode Screen -->
+    <div id="notourist" class="screen">
+        <header class="screen-header">
+            <button class="back-btn" onclick="showScreen('landing')">← Terug</button>
+            <h2>🧭 No Tourist Mode</h2>
+        </header>
+
+        <div class="screen-content">
+            <div class="input-section">
+                <h3>Vertel me over je trip</h3>
+
+                <div class="form-group">
+                    <label>Stad</label>
+                    <div class="city-selector">
+                        <button class="city-btn active" data-city="cologne">Keulen</button>
+                        <button class="city-btn" data-city="amsterdam">Amsterdam</button>
+                        <button class="city-btn" data-city="antwerp">Antwerpen</button>
+                        <button class="city-btn" data-city="lisbon">Lissabon</button>
+                    </div>
+                </div>
+
+                <div class="form-group">
+                    <label>Wijk / Gebied</label>
+                    <select id="neighborhood" class="form-select">
+                        <option value="">Kies een wijk...</option>
+                    </select>
+                </div>
+
+                <div class="form-group">
+                    <label>Aantal dagen</label>
+                    <div class="stepper">
+                        <button class="stepper-btn" onclick="adjustDays(-1)">−</button>
+                        <span id="days-count">2</span>
+                        <button class="stepper-btn" onclick="adjustDays(1)">+</button>
+                    </div>
+                </div>
+
+                <div class="form-group">
+                    <label>Energielevel</label>
+                    <div class="energy-selector">
+                        <button class="energy-btn" data-energy="chill">😌 Chill</button>
+                        <button class="energy-btn active" data-energy="balanced">⚡ Balanced</button>
+                        <button class="energy-btn" data-energy="explorer">🔥 Explorer</button>
+                    </div>
+                </div>
+
+                <div class="form-group">
+                    <label>Budget per dag</label>
+                    <div class="budget-selector">
+                        <button class="budget-btn" data-budget="low">€ Low</button>
+                        <button class="budget-btn active" data-budget="mid">€€ Mid</button>
+                        <button class="budget-btn" data-budget="high">€€€ High</button>
+                    </div>
+                </div>
+
+                <div class="form-group">
+                    <label class="checkbox-label">
+                        <input type="checkbox" id="avoid-tourist" checked>
+                        <span class="checkmark"></span>
+                        Vermijd standaard toeristenroutes
+                    </label>
+                </div>
+
+                <button class="generate-btn" onclick="generateTrip()">
+                    <span class="btn-text">Genereer mijn micro-trip</span>
+                    <span class="btn-loader" style="display:none;">
+                        <span class="dot"></span><span class="dot"></span><span class="dot"></span>
+                    </span>
+                </button>
+            </div>
+
+            <!-- Results -->
+            <div id="trip-results" class="trip-results" style="display:none;">
+                <div class="results-header">
+                    <h3>Jouw micro-trip</h3>
+                    <p class="results-subtitle" id="results-subtitle"></p>
+                </div>
+                <div id="trip-cards" class="trip-cards"></div>
+                <button class="shuffle-btn" onclick="generateTrip()">🔄 Shuffle — geef me andere plekken</button>
+            </div>
+        </div>
+    </div>
+
+    <!-- 90-Minute Drift Mode Screen -->
+    <div id="drift" class="screen">
+        <header class="screen-header">
+            <button class="back-btn" onclick="showScreen('landing')">← Terug</button>
+            <h2>🎲 90-Min Drift</h2>
+        </header>
+
+        <div class="screen-content">
+            <div id="drift-intro" class="drift-intro">
+                <div class="drift-manifesto">
+                    <h3>De regels van de Drift</h3>
+                    <p>Geen plan. Geen Google Maps. Geen reviews.<br>
+                    Alleen jij, de stad, en het toeval.</p>
+
+                    <div class="drift-rules">
+                        <div class="rule">
+                            <span class="rule-number">01</span>
+                            <span class="rule-text">Loop. Niet scrollen.</span>
+                        </div>
+                        <div class="rule">
+                            <span class="rule-number">02</span>
+                            <span class="rule-text">Ga waar de locals zijn.</span>
+                        </div>
+                        <div class="rule">
+                            <span class="rule-number">03</span>
+                            <span class="rule-text">Bestel iets dat je niet kent.</span>
+                        </div>
+                        <div class="rule">
+                            <span class="rule-number">04</span>
+                            <span class="rule-text">Schrijf op. Niet fotograferen.</span>
+                        </div>
+                    </div>
+                </div>
+
+                <button class="drift-start-btn" onclick="startDrift()">
+                    Start de Drift
+                </button>
+            </div>
+
+            <!-- Drift Active -->
+            <div id="drift-active" class="drift-active" style="display:none;">
+                <div class="drift-timer-section">
+                    <div class="timer-ring">
+                        <svg viewBox="0 0 200 200">
+                            <circle class="timer-bg" cx="100" cy="100" r="90"/>
+                            <circle class="timer-progress" id="timer-progress" cx="100" cy="100" r="90"/>
+                        </svg>
+                        <div class="timer-display">
+                            <span id="timer-minutes">90</span>
+                            <span class="timer-label">min</span>
+                        </div>
+                    </div>
+                </div>
+
+                <div id="drift-current-step" class="drift-step-card">
+                    <!-- Current step content loaded dynamically -->
+                </div>
+
+                <div class="drift-progress">
+                    <div class="progress-dots" id="progress-dots"></div>
+                </div>
+
+                <div class="drift-controls">
+                    <button class="drift-next-btn" id="drift-next-btn" onclick="nextDriftStep()">
+                        Volgende stap →
+                    </button>
+                    <button class="drift-pause-btn" onclick="togglePause()">
+                        <span id="pause-text">⏸ Pauzeer</span>
+                    </button>
+                </div>
+
+                <!-- Observation Journal -->
+                <div class="journal-section">
+                    <h4>📝 Je observaties</h4>
+                    <div id="observations" class="observations">
+                        <div class="observation-slot" data-index="0">
+                            <span class="obs-number">1.</span>
+                            <input type="text" class="obs-input" placeholder="Wat valt je op?" oninput="saveObservation(0, this.value)">
+                        </div>
+                        <div class="observation-slot" data-index="1">
+                            <span class="obs-number">2.</span>
+                            <input type="text" class="obs-input" placeholder="Wat hoor je?" oninput="saveObservation(1, this.value)">
+                        </div>
+                        <div class="observation-slot" data-index="2">
+                            <span class="obs-number">3.</span>
+                            <input type="text" class="obs-input" placeholder="Wat voel je?" oninput="saveObservation(2, this.value)">
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Drift Complete -->
+            <div id="drift-complete" class="drift-complete" style="display:none;">
+                <div class="complete-header">
+                    <span class="complete-icon">✨</span>
+                    <h3>Drift voltooid</h3>
+                    <p>Je hebt 90 minuten echt geleefd.</p>
+                </div>
+                <div class="complete-summary" id="complete-summary"></div>
+                <button class="drift-start-btn" onclick="resetDrift()">Nog een Drift</button>
+            </div>
+        </div>
+    </div>
+
+    <script src="data.js"></script>
+    <script src="app.js"></script>
+</body>
+</html>

@@ -1,0 +1,1029 @@
+/* ============================================
+   DRIFT APP — Styling
+   TripIt-inspired, warm & editorial
+   ============================================ */
+
+:root {
+    --bg: #faf8f5;
+    --bg-card: #ffffff;
+    --text: #1a1a1a;
+    --text-secondary: #6b6b6b;
+    --accent: #e85d3a;
+    --accent-light: #fff0ec;
+    --accent-dark: #c44a2c;
+    --warm: #f5ebe0;
+    --warm-dark: #d4c5b5;
+    --green: #2d6a4f;
+    --green-light: #e8f5ef;
+    --blue: #1e3a5f;
+    --blue-light: #eef3f9;
+    --border: #e8e4e0;
+    --shadow: 0 2px 12px rgba(0,0,0,0.06);
+    --shadow-hover: 0 8px 30px rgba(0,0,0,0.1);
+    --radius: 16px;
+    --radius-sm: 10px;
+    --font: 'DM Sans', -apple-system, BlinkMacSystemFont, sans-serif;
+    --font-display: 'DM Serif Display', Georgia, serif;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: var(--font);
+    background: var(--bg);
+    color: var(--text);
+    -webkit-font-smoothing: antialiased;
+    overflow-x: hidden;
+}
+
+/* ============================================
+   SCREENS
+   ============================================ */
+
+.screen {
+    display: none;
+    min-height: 100vh;
+}
+
+.screen.active {
+    display: block;
+    animation: fadeIn 0.3s ease;
+}
+
+@keyframes fadeIn {
+    from { opacity: 0; }
+    to { opacity: 1; }
+}
+
+/* ============================================
+   LANDING
+   ============================================ */
+
+#landing {
+    background: linear-gradient(160deg, #faf8f5 0%, #f5ebe0 50%, #fff0ec 100%);
+    display: none;
+    align-items: center;
+    justify-content: center;
+}
+
+#landing.active {
+    display: flex;
+}
+
+.landing-content {
+    text-align: center;
+    padding: 40px 20px;
+    max-width: 600px;
+    width: 100%;
+}
+
+.logo-mark {
+    margin-bottom: 16px;
+}
+
+.logo-icon {
+    font-size: 48px;
+    color: var(--accent);
+    display: inline-block;
+    animation: float 3s ease-in-out infinite;
+}
+
+@keyframes float {
+    0%, 100% { transform: translateY(0) rotate(0deg); }
+    50% { transform: translateY(-8px) rotate(5deg); }
+}
+
+.app-title {
+    font-family: var(--font-display);
+    font-size: 64px;
+    color: var(--text);
+    margin-bottom: 8px;
+    letter-spacing: -1px;
+}
+
+.app-tagline {
+    font-size: 18px;
+    color: var(--text-secondary);
+    margin-bottom: 48px;
+    font-weight: 400;
+}
+
+/* Mode Cards */
+.mode-cards {
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+    max-width: 480px;
+    margin: 0 auto;
+}
+
+.mode-card {
+    background: var(--bg-card);
+    border: 1.5px solid var(--border);
+    border-radius: var(--radius);
+    padding: 28px 24px;
+    text-align: left;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    box-shadow: var(--shadow);
+    position: relative;
+    overflow: hidden;
+    font-family: var(--font);
+}
+
+.mode-card:hover {
+    border-color: var(--accent);
+    box-shadow: var(--shadow-hover);
+    transform: translateY(-2px);
+}
+
+.mode-card:hover .mode-arrow {
+    transform: translateX(4px);
+    color: var(--accent);
+}
+
+.mode-icon {
+    font-size: 32px;
+    margin-bottom: 12px;
+}
+
+.mode-card h2 {
+    font-family: var(--font-display);
+    font-size: 24px;
+    margin-bottom: 8px;
+    color: var(--text);
+}
+
+.mode-card p {
+    font-size: 14px;
+    color: var(--text-secondary);
+    line-height: 1.5;
+}
+
+.mode-arrow {
+    position: absolute;
+    right: 24px;
+    top: 50%;
+    transform: translateY(-50%);
+    font-size: 20px;
+    color: var(--text-secondary);
+    transition: all 0.3s ease;
+}
+
+/* ============================================
+   SCREEN HEADER
+   ============================================ */
+
+.screen-header {
+    background: var(--bg-card);
+    border-bottom: 1px solid var(--border);
+    padding: 16px 24px;
+    display: flex;
+    align-items: center;
+    gap: 16px;
+    position: sticky;
+    top: 0;
+    z-index: 100;
+    backdrop-filter: blur(10px);
+    background: rgba(255,255,255,0.9);
+}
+
+.back-btn {
+    background: none;
+    border: none;
+    font-family: var(--font);
+    font-size: 15px;
+    color: var(--accent);
+    cursor: pointer;
+    padding: 4px 0;
+    font-weight: 500;
+}
+
+.back-btn:hover {
+    color: var(--accent-dark);
+}
+
+.screen-header h2 {
+    font-family: var(--font-display);
+    font-size: 20px;
+}
+
+.screen-content {
+    max-width: 640px;
+    margin: 0 auto;
+    padding: 24px 20px 80px;
+}
+
+/* ============================================
+   FORM ELEMENTS
+   ============================================ */
+
+.input-section h3 {
+    font-family: var(--font-display);
+    font-size: 28px;
+    margin-bottom: 24px;
+}
+
+.form-group {
+    margin-bottom: 24px;
+}
+
+.form-group label {
+    display: block;
+    font-size: 13px;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.8px;
+    color: var(--text-secondary);
+    margin-bottom: 10px;
+}
+
+.city-selector,
+.energy-selector,
+.budget-selector {
+    display: flex;
+    gap: 8px;
+    flex-wrap: wrap;
+}
+
+.city-btn,
+.energy-btn,
+.budget-btn {
+    padding: 10px 18px;
+    border: 1.5px solid var(--border);
+    border-radius: var(--radius-sm);
+    background: var(--bg-card);
+    font-family: var(--font);
+    font-size: 14px;
+    cursor: pointer;
+    transition: all 0.2s ease;
+    color: var(--text);
+    font-weight: 500;
+}
+
+.city-btn:hover,
+.energy-btn:hover,
+.budget-btn:hover {
+    border-color: var(--accent);
+    background: var(--accent-light);
+}
+
+.city-btn.active,
+.energy-btn.active,
+.budget-btn.active {
+    background: var(--accent);
+    color: white;
+    border-color: var(--accent);
+}
+
+.form-select {
+    width: 100%;
+    padding: 12px 16px;
+    border: 1.5px solid var(--border);
+    border-radius: var(--radius-sm);
+    background: var(--bg-card);
+    font-family: var(--font);
+    font-size: 15px;
+    color: var(--text);
+    appearance: none;
+    background-image: url("data:image/svg+xml,%3Csvg width='12' height='8' viewBox='0 0 12 8' fill='none' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M1 1L6 6L11 1' stroke='%236b6b6b' stroke-width='2' stroke-linecap='round'/%3E%3C/svg%3E");
+    background-repeat: no-repeat;
+    background-position: right 16px center;
+    cursor: pointer;
+}
+
+.form-select:focus {
+    outline: none;
+    border-color: var(--accent);
+}
+
+/* Stepper */
+.stepper {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+
+.stepper-btn {
+    width: 44px;
+    height: 44px;
+    border-radius: 50%;
+    border: 1.5px solid var(--border);
+    background: var(--bg-card);
+    font-size: 20px;
+    cursor: pointer;
+    transition: all 0.2s ease;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: var(--font);
+    color: var(--text);
+}
+
+.stepper-btn:hover {
+    background: var(--accent);
+    color: white;
+    border-color: var(--accent);
+}
+
+#days-count {
+    font-family: var(--font-display);
+    font-size: 36px;
+    min-width: 40px;
+    text-align: center;
+}
+
+/* Checkbox */
+.checkbox-label {
+    display: flex !important;
+    align-items: center;
+    gap: 12px;
+    cursor: pointer;
+    text-transform: none !important;
+    font-weight: 500 !important;
+    font-size: 15px !important;
+    letter-spacing: 0 !important;
+    color: var(--text) !important;
+}
+
+.checkbox-label input[type="checkbox"] {
+    width: 20px;
+    height: 20px;
+    accent-color: var(--accent);
+    cursor: pointer;
+}
+
+/* Generate Button */
+.generate-btn {
+    width: 100%;
+    padding: 18px;
+    background: var(--accent);
+    color: white;
+    border: none;
+    border-radius: var(--radius-sm);
+    font-family: var(--font);
+    font-size: 16px;
+    font-weight: 700;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    margin-top: 8px;
+}
+
+.generate-btn:hover {
+    background: var(--accent-dark);
+    transform: translateY(-1px);
+    box-shadow: 0 4px 16px rgba(232, 93, 58, 0.3);
+}
+
+.btn-loader {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 6px;
+}
+
+.btn-loader .dot {
+    width: 8px;
+    height: 8px;
+    background: white;
+    border-radius: 50%;
+    animation: bounce 1.2s ease-in-out infinite;
+}
+
+.btn-loader .dot:nth-child(2) { animation-delay: 0.2s; }
+.btn-loader .dot:nth-child(3) { animation-delay: 0.4s; }
+
+@keyframes bounce {
+    0%, 80%, 100% { transform: scale(0.6); opacity: 0.4; }
+    40% { transform: scale(1); opacity: 1; }
+}
+
+/* ============================================
+   TRIP RESULTS
+   ============================================ */
+
+.results-header {
+    margin-bottom: 32px;
+}
+
+.results-header h3 {
+    font-family: var(--font-display);
+    font-size: 32px;
+    margin-bottom: 8px;
+}
+
+.results-subtitle {
+    color: var(--text-secondary);
+    font-size: 15px;
+}
+
+.type-section {
+    margin-bottom: 32px;
+}
+
+.type-header {
+    font-size: 14px;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.8px;
+    color: var(--text-secondary);
+    margin-bottom: 12px;
+    padding-bottom: 8px;
+    border-bottom: 1px solid var(--border);
+}
+
+.place-card {
+    background: var(--bg-card);
+    border: 1px solid var(--border);
+    border-radius: var(--radius);
+    padding: 24px;
+    margin-bottom: 12px;
+    opacity: 0;
+    transform: translateY(16px);
+    transition: all 0.4s ease;
+    cursor: default;
+}
+
+.place-card.visible {
+    opacity: 1;
+    transform: translateY(0);
+}
+
+.place-card:hover {
+    border-color: var(--warm-dark);
+    box-shadow: var(--shadow);
+}
+
+.place-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    margin-bottom: 6px;
+}
+
+.place-name {
+    font-family: var(--font-display);
+    font-size: 20px;
+    color: var(--text);
+}
+
+.place-budget {
+    font-size: 13px;
+    color: var(--green);
+    background: var(--green-light);
+    padding: 4px 10px;
+    border-radius: 20px;
+    font-weight: 600;
+    white-space: nowrap;
+}
+
+.place-address {
+    font-size: 13px;
+    color: var(--text-secondary);
+    margin-bottom: 12px;
+}
+
+.place-story {
+    font-size: 15px;
+    line-height: 1.65;
+    color: var(--text);
+    margin-bottom: 16px;
+}
+
+.place-tags {
+    display: flex;
+    gap: 8px;
+    flex-wrap: wrap;
+}
+
+.tag {
+    font-size: 12px;
+    padding: 4px 12px;
+    border-radius: 20px;
+    font-weight: 500;
+}
+
+.energy-tag {
+    background: var(--accent-light);
+    color: var(--accent-dark);
+}
+
+.hood-tag {
+    background: var(--blue-light);
+    color: var(--blue);
+}
+
+.shuffle-btn {
+    width: 100%;
+    padding: 16px;
+    background: var(--bg);
+    border: 1.5px dashed var(--border);
+    border-radius: var(--radius-sm);
+    font-family: var(--font);
+    font-size: 15px;
+    font-weight: 600;
+    color: var(--text-secondary);
+    cursor: pointer;
+    transition: all 0.2s ease;
+    margin-top: 16px;
+}
+
+.shuffle-btn:hover {
+    border-color: var(--accent);
+    color: var(--accent);
+    background: var(--accent-light);
+}
+
+/* ============================================
+   DRIFT MODE
+   ============================================ */
+
+.drift-intro {
+    text-align: center;
+    padding-top: 40px;
+}
+
+.drift-manifesto {
+    margin-bottom: 48px;
+}
+
+.drift-manifesto h3 {
+    font-family: var(--font-display);
+    font-size: 32px;
+    margin-bottom: 16px;
+}
+
+.drift-manifesto > p {
+    color: var(--text-secondary);
+    font-size: 16px;
+    line-height: 1.6;
+    margin-bottom: 36px;
+}
+
+.drift-rules {
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+    max-width: 400px;
+    margin: 0 auto;
+    text-align: left;
+}
+
+.rule {
+    display: flex;
+    align-items: center;
+    gap: 16px;
+    padding: 16px 20px;
+    background: var(--bg-card);
+    border: 1px solid var(--border);
+    border-radius: var(--radius-sm);
+}
+
+.rule-number {
+    font-family: var(--font-display);
+    font-size: 24px;
+    color: var(--accent);
+    min-width: 32px;
+}
+
+.rule-text {
+    font-size: 16px;
+    font-weight: 600;
+}
+
+.drift-start-btn {
+    padding: 18px 48px;
+    background: var(--text);
+    color: white;
+    border: none;
+    border-radius: var(--radius-sm);
+    font-family: var(--font);
+    font-size: 16px;
+    font-weight: 700;
+    cursor: pointer;
+    transition: all 0.3s ease;
+}
+
+.drift-start-btn:hover {
+    background: var(--accent);
+    transform: translateY(-2px);
+    box-shadow: 0 6px 20px rgba(232, 93, 58, 0.3);
+}
+
+/* Drift Active */
+.drift-active {
+    padding-top: 20px;
+}
+
+.drift-timer-section {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 32px;
+}
+
+.timer-ring {
+    width: 160px;
+    height: 160px;
+    position: relative;
+}
+
+.timer-ring svg {
+    width: 100%;
+    height: 100%;
+    transform: rotate(-90deg);
+}
+
+.timer-bg {
+    fill: none;
+    stroke: var(--border);
+    stroke-width: 4;
+}
+
+.timer-progress {
+    fill: none;
+    stroke: var(--accent);
+    stroke-width: 4;
+    stroke-linecap: round;
+    transition: stroke-dashoffset 1s linear;
+}
+
+.timer-display {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+}
+
+#timer-minutes {
+    font-family: var(--font-display);
+    font-size: 48px;
+    display: block;
+    line-height: 1;
+}
+
+.timer-label {
+    font-size: 13px;
+    color: var(--text-secondary);
+    text-transform: uppercase;
+    letter-spacing: 1px;
+}
+
+/* Drift Step Card */
+.drift-step-card {
+    background: var(--bg-card);
+    border: 1.5px solid var(--border);
+    border-radius: var(--radius);
+    padding: 32px 24px;
+    margin-bottom: 24px;
+    text-align: center;
+}
+
+.step-icon {
+    font-size: 40px;
+    margin-bottom: 12px;
+}
+
+.step-title {
+    font-family: var(--font-display);
+    font-size: 24px;
+    margin-bottom: 4px;
+}
+
+.step-duration {
+    font-size: 13px;
+    color: var(--accent);
+    font-weight: 600;
+    margin-bottom: 16px;
+}
+
+.step-instruction {
+    font-size: 18px;
+    font-weight: 700;
+    margin-bottom: 12px;
+    line-height: 1.4;
+}
+
+.step-details {
+    font-size: 15px;
+    color: var(--text-secondary);
+    line-height: 1.6;
+    margin-bottom: 16px;
+}
+
+.drift-direction {
+    background: var(--accent-light);
+    border: 1px solid var(--accent);
+    border-radius: var(--radius-sm);
+    padding: 12px 16px;
+    font-size: 15px;
+    font-weight: 600;
+    color: var(--accent-dark);
+    margin-bottom: 16px;
+}
+
+.step-prompt {
+    background: var(--warm);
+    border-radius: var(--radius-sm);
+    padding: 16px;
+    text-align: left;
+}
+
+.prompt-label {
+    font-size: 11px;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    color: var(--text-secondary);
+    display: block;
+    margin-bottom: 6px;
+}
+
+.step-prompt p {
+    font-size: 15px;
+    font-style: italic;
+    color: var(--text);
+    line-height: 1.5;
+}
+
+/* Progress Dots */
+.drift-progress {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 24px;
+}
+
+.progress-dots {
+    display: flex;
+    gap: 10px;
+}
+
+.progress-dot {
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    background: var(--border);
+    transition: all 0.3s ease;
+}
+
+.progress-dot.active {
+    background: var(--accent);
+    transform: scale(1.3);
+}
+
+.progress-dot.done {
+    background: var(--green);
+}
+
+/* Drift Controls */
+.drift-controls {
+    display: flex;
+    gap: 12px;
+    margin-bottom: 32px;
+}
+
+.drift-next-btn {
+    flex: 1;
+    padding: 16px;
+    background: var(--accent);
+    color: white;
+    border: none;
+    border-radius: var(--radius-sm);
+    font-family: var(--font);
+    font-size: 15px;
+    font-weight: 700;
+    cursor: pointer;
+    transition: all 0.2s ease;
+}
+
+.drift-next-btn:hover {
+    background: var(--accent-dark);
+}
+
+.drift-pause-btn {
+    padding: 16px 20px;
+    background: var(--bg);
+    border: 1.5px solid var(--border);
+    border-radius: var(--radius-sm);
+    font-family: var(--font);
+    font-size: 15px;
+    cursor: pointer;
+    transition: all 0.2s ease;
+    color: var(--text);
+}
+
+.drift-pause-btn:hover {
+    border-color: var(--text);
+}
+
+/* Journal */
+.journal-section {
+    background: var(--warm);
+    border-radius: var(--radius);
+    padding: 24px;
+}
+
+.journal-section h4 {
+    font-family: var(--font-display);
+    font-size: 18px;
+    margin-bottom: 16px;
+}
+
+.observations {
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+}
+
+.observation-slot {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+}
+
+.obs-number {
+    font-family: var(--font-display);
+    font-size: 18px;
+    color: var(--accent);
+    min-width: 24px;
+}
+
+.obs-input {
+    flex: 1;
+    padding: 12px 16px;
+    border: 1.5px solid var(--warm-dark);
+    border-radius: var(--radius-sm);
+    background: var(--bg-card);
+    font-family: var(--font);
+    font-size: 15px;
+    color: var(--text);
+    transition: border-color 0.2s ease;
+}
+
+.obs-input:focus {
+    outline: none;
+    border-color: var(--accent);
+}
+
+.obs-input::placeholder {
+    color: var(--warm-dark);
+}
+
+/* ============================================
+   DRIFT COMPLETE
+   ============================================ */
+
+.drift-complete {
+    text-align: center;
+    padding-top: 60px;
+}
+
+.complete-header {
+    margin-bottom: 40px;
+}
+
+.complete-icon {
+    font-size: 64px;
+    display: block;
+    margin-bottom: 16px;
+    animation: float 3s ease-in-out infinite;
+}
+
+.complete-header h3 {
+    font-family: var(--font-display);
+    font-size: 36px;
+    margin-bottom: 8px;
+}
+
+.complete-header p {
+    color: var(--text-secondary);
+    font-size: 16px;
+}
+
+.complete-summary {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: center;
+    margin-bottom: 40px;
+}
+
+.summary-stat {
+    background: var(--bg-card);
+    border: 1px solid var(--border);
+    border-radius: var(--radius);
+    padding: 24px 32px;
+    min-width: 140px;
+}
+
+.stat-value {
+    font-family: var(--font-display);
+    font-size: 36px;
+    display: block;
+    color: var(--accent);
+}
+
+.stat-label {
+    font-size: 13px;
+    color: var(--text-secondary);
+}
+
+.summary-observations {
+    width: 100%;
+    text-align: left;
+    background: var(--warm);
+    border-radius: var(--radius);
+    padding: 24px;
+    margin-top: 12px;
+}
+
+.summary-observations h4 {
+    font-family: var(--font-display);
+    font-size: 18px;
+    margin-bottom: 12px;
+}
+
+.obs-item {
+    font-size: 15px;
+    font-style: italic;
+    color: var(--text);
+    padding: 8px 0;
+    border-bottom: 1px solid var(--warm-dark);
+    line-height: 1.5;
+}
+
+.obs-item:last-child {
+    border-bottom: none;
+}
+
+/* ============================================
+   RESPONSIVE
+   ============================================ */
+
+@media (max-width: 480px) {
+    .app-title {
+        font-size: 48px;
+    }
+
+    .mode-card {
+        padding: 20px;
+    }
+
+    .mode-arrow {
+        display: none;
+    }
+
+    .city-selector {
+        flex-wrap: wrap;
+    }
+
+    .city-btn {
+        flex: 1;
+        min-width: calc(50% - 4px);
+        text-align: center;
+    }
+
+    .place-card {
+        padding: 20px;
+    }
+
+    .drift-step-card {
+        padding: 24px 16px;
+    }
+
+    .timer-ring {
+        width: 130px;
+        height: 130px;
+    }
+
+    #timer-minutes {
+        font-size: 40px;
+    }
+
+    .summary-stat {
+        min-width: 120px;
+        padding: 16px 20px;
+    }
+}
+
+@media (min-width: 768px) {
+    .mode-cards {
+        flex-direction: row;
+    }
+
+    .mode-card {
+        flex: 1;
+        padding-right: 48px;
+    }
+
+    .drift-controls {
+        max-width: 400px;
+        margin-left: auto;
+        margin-right: auto;
+        margin-bottom: 32px;
+    }
+}
