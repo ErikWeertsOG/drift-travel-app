@@ -7,13 +7,78 @@ let currentNeighborhood = '';
 let daysCount = 2;
 let energyLevel = 'balanced';
 let budgetLevel = 'mid';
+let locationMode = false;
+let userLat = null;
+let userLng = null;
 
 // Drift state
 let driftTimer = null;
 let driftTimeLeft = 90 * 60; // seconds
 let driftPaused = false;
 let currentDriftStep = 0;
+let currentSession = [];
 let observations = ['', '', ''];
+let driftLocationMode = false;
+let driftWatchId = null;
+
+// ============================================
+// GEO UTILITIES
+// ============================================
+
+function getDistanceKm(lat1, lng1, lat2, lng2) {
+    const R = 6371;
+    const dLat = (lat2 - lat1) * Math.PI / 180;
+    const dLng = (lng2 - lng1) * Math.PI / 180;
+    const a = Math.sin(dLat / 2) * Math.sin(dLat / 2) +
+        Math.cos(lat1 * Math.PI / 180) * Math.cos(lat2 * Math.PI / 180) *
+        Math.sin(dLng / 2) * Math.sin(dLng / 2);
+    const c = 2 * Math.atan2(Math.sqrt(a), Math.sqrt(1 - a));
+    return R * c;
+}
+
+function getBearing(lat1, lng1, lat2, lng2) {
+    const dLng = (lng2 - lng1) * Math.PI / 180;
+    const y = Math.sin(dLng) * Math.cos(lat2 * Math.PI / 180);
+    const x = Math.cos(lat1 * Math.PI / 180) * Math.sin(lat2 * Math.PI / 180) -
+        Math.sin(lat1 * Math.PI / 180) * Math.cos(lat2 * Math.PI / 180) * Math.cos(dLng);
+    let bearing = Math.atan2(y, x) * 180 / Math.PI;
+    return (bearing + 360) % 360;
+}
+
+function bearingToDirection(bearing) {
+    const directions = ['noorden', 'noordoosten', 'oosten', 'zuidoosten',
+        'zuiden', 'zuidwesten', 'westen', 'noordwesten'];
+    return directions[Math.round(bearing / 45) % 8];
+}
+
+function formatDistance(km) {
+    if (km < 1) return `~${Math.round(km * 1000)}m`;
+    return `~${km.toFixed(1)}km`;
+}
+
+function getAllPlaces(city) {
+    const places = city.places;
+    const all = [];
+    Object.values(places).forEach(arr => {
+        arr.forEach(p => all.push(p));
+    });
+    return all;
+}
+
+function findNearbyPlaces(lat, lng, radiusKm) {
+    const nearby = [];
+    Object.values(CITIES).forEach(city => {
+        getAllPlaces(city).forEach(place => {
+            if (place.lat && place.lng) {
+                const dist = getDistanceKm(lat, lng, place.lat, place.lng);
+                if (dist <= radiusKm) {
+                    nearby.push({ ...place, distance: dist });
+                }
+            }
+        });
+    });
+    return nearby.sort((a, b) => a.distance - b.distance);
+}
 
 // ============================================
 // SCREEN NAVIGATION
@@ -44,23 +109,90 @@ function showScreen(screenId) {
     }
 }
 
+function goBackFromNoTourist() {
+    // Reset results view if showing
+    document.querySelector('.input-section').style.display = 'block';
+    document.getElementById('trip-results').style.display = 'none';
+    showScreen('landing');
+}
+
+// ============================================
+// LOCATION — No Tourist Mode
+// ============================================
+
+function useMyLocation() {
+    if (!navigator.geolocation) {
+        alert('Locatie is niet beschikbaar op dit apparaat.');
+        return;
+    }
+
+    const btn = document.getElementById('use-location-btn');
+    document.getElementById('location-btn-text').style.display = 'none';
+    document.getElementById('location-btn-loader').style.display = 'inline';
+
+    navigator.geolocation.getCurrentPosition(
+        (position) => {
+            userLat = position.coords.latitude;
+            userLng = position.coords.longitude;
+            locationMode = true;
+
+            // Find closest city
+            let closestCity = null;
+            let closestDist = Infinity;
+            Object.entries(CITIES).forEach(([key, city]) => {
+                const dist = getDistanceKm(userLat, userLng, city.center.lat, city.center.lng);
+                if (dist < closestDist) {
+                    closestDist = dist;
+                    closestCity = key;
+                }
+            });
+
+            if (closestCity) {
+                currentCity = closestCity;
+                document.querySelectorAll('.city-btn').forEach(b => {
+                    b.classList.toggle('active', b.dataset.city === closestCity);
+                });
+                updateNeighborhoods();
+            }
+
+            btn.classList.add('active');
+            document.getElementById('location-btn-text').textContent = `📍 ${CITIES[currentCity].name} — ${formatDistance(closestDist)} van je`;
+            document.getElementById('location-btn-text').style.display = 'inline';
+            document.getElementById('location-btn-loader').style.display = 'none';
+        },
+        (error) => {
+            document.getElementById('location-btn-text').textContent = '📍 Locatie niet beschikbaar';
+            document.getElementById('location-btn-text').style.display = 'inline';
+            document.getElementById('location-btn-loader').style.display = 'none';
+            setTimeout(() => {
+                document.getElementById('location-btn-text').textContent = '📍 Gebruik mijn locatie';
+            }, 3000);
+        },
+        { enableHighAccuracy: true, timeout: 10000 }
+    );
+}
+
 // ============================================
 // NO TOURIST MODE
 // ============================================
 
 // City selector
 document.querySelectorAll('.city-btn').forEach(btn => {
-    btn.addEventListener('click', function() {
+    btn.addEventListener('click', function () {
         document.querySelectorAll('.city-btn').forEach(b => b.classList.remove('active'));
         this.classList.add('active');
         currentCity = this.dataset.city;
+        locationMode = false;
+        const locBtn = document.getElementById('use-location-btn');
+        locBtn.classList.remove('active');
+        document.getElementById('location-btn-text').textContent = '📍 Gebruik mijn locatie';
         updateNeighborhoods();
     });
 });
 
 // Energy selector
 document.querySelectorAll('.energy-btn').forEach(btn => {
-    btn.addEventListener('click', function() {
+    btn.addEventListener('click', function () {
         document.querySelectorAll('.energy-btn').forEach(b => b.classList.remove('active'));
         this.classList.add('active');
         energyLevel = this.dataset.energy;
@@ -69,7 +201,7 @@ document.querySelectorAll('.energy-btn').forEach(btn => {
 
 // Budget selector
 document.querySelectorAll('.budget-btn').forEach(btn => {
-    btn.addEventListener('click', function() {
+    btn.addEventListener('click', function () {
         document.querySelectorAll('.budget-btn').forEach(b => b.classList.remove('active'));
         this.classList.add('active');
         budgetLevel = this.dataset.budget;
@@ -80,6 +212,10 @@ function updateNeighborhoods() {
     const select = document.getElementById('neighborhood');
     const city = CITIES[currentCity];
     select.innerHTML = '<option value="">Kies een wijk...</option>';
+
+    if (locationMode) {
+        select.innerHTML = '<option value="">Dichtbij jou (gesorteerd op afstand)</option>';
+    }
 
     if (city && city.neighborhoods) {
         Object.entries(city.neighborhoods).forEach(([key, hood]) => {
@@ -101,7 +237,6 @@ function generateTrip() {
     if (!city) return;
 
     const neighborhood = document.getElementById('neighborhood').value;
-    const avoidTourist = document.getElementById('avoid-tourist').checked;
 
     // Show loading
     const btn = document.querySelector('.generate-btn');
@@ -110,63 +245,99 @@ function generateTrip() {
 
     setTimeout(() => {
         const places = city.places;
-        const results = [];
+        let results = [];
 
-        // Filter function
-        const filterPlace = (place) => {
-            if (neighborhood && place.neighborhood !== neighborhood) return false;
-            return true;
-        };
-
-        // Pick random items from array
-        const pickRandom = (arr, count) => {
-            const filtered = arr.filter(filterPlace);
-            const shuffled = [...filtered].sort(() => Math.random() - 0.5);
-            return shuffled.slice(0, count);
-        };
-
-        // 3 coffee spots
-        results.push(...pickRandom(places.coffee, 3));
-        // 2 character spots
-        results.push(...pickRandom(places.character, 2));
-        // 1 cultural wildcard
-        results.push(...pickRandom(places.cultural, 1));
-        // 1 evening walk
-        results.push(...pickRandom(places.walks, 1));
-        // 1 locals dinner
-        results.push(...pickRandom(places.dinner, 1));
-
-        // If not enough results with neighborhood filter, add without filter
-        if (results.length < 5) {
-            const pickAny = (arr, count) => {
-                const shuffled = [...arr].sort(() => Math.random() - 0.5);
-                return shuffled.slice(0, count);
-            };
-            if (results.filter(r => r.type.includes('Koffie')).length === 0) results.push(...pickAny(places.coffee, 2));
-            if (results.filter(r => r.type.includes('Karakter')).length === 0) results.push(...pickAny(places.character, 1));
-            if (results.filter(r => r.type.includes('Cultuur')).length === 0) results.push(...pickAny(places.cultural, 1));
-            if (results.filter(r => r.type.includes('Avondwandeling')).length === 0) results.push(...pickAny(places.walks, 1));
-            if (results.filter(r => r.type.includes('Diner')).length === 0) results.push(...pickAny(places.dinner, 1));
+        if (locationMode && userLat && userLng && !neighborhood) {
+            // Location-based: sort by distance within city
+            results = generateLocationBasedTrip(city);
+        } else {
+            // Original: random selection with optional neighborhood filter
+            results = generateRandomTrip(city, neighborhood);
         }
 
         renderTripResults(results, city.name, neighborhood);
 
-        // Reset button
         btn.querySelector('.btn-text').style.display = 'block';
         btn.querySelector('.btn-loader').style.display = 'none';
     }, 1200);
+}
+
+function generateLocationBasedTrip(city) {
+    const allPlaces = getAllPlaces(city);
+
+    // Add distance to each place
+    allPlaces.forEach(p => {
+        if (p.lat && p.lng) {
+            p._distance = getDistanceKm(userLat, userLng, p.lat, p.lng);
+        } else {
+            p._distance = 999;
+        }
+    });
+
+    const results = [];
+    const types = ['☕ Koffie', '🎭 Karakter', '🎨 Cultuur Wildcard', '🌙 Avondwandeling', '🍽️ Locals-only Diner'];
+    const counts = [3, 2, 1, 1, 1];
+
+    types.forEach((type, idx) => {
+        const ofType = allPlaces
+            .filter(p => p.type === type)
+            .sort((a, b) => a._distance - b._distance);
+        // Mix closest with some randomness
+        const pool = ofType.slice(0, Math.max(counts[idx] + 2, ofType.length));
+        const shuffled = [...pool].sort(() => Math.random() - 0.3);
+        results.push(...shuffled.slice(0, counts[idx]));
+    });
+
+    return results;
+}
+
+function generateRandomTrip(city, neighborhood) {
+    const places = city.places;
+    const results = [];
+
+    const filterPlace = (place) => {
+        if (neighborhood && place.neighborhood !== neighborhood) return false;
+        return true;
+    };
+
+    const pickRandom = (arr, count) => {
+        const filtered = arr.filter(filterPlace);
+        const shuffled = [...filtered].sort(() => Math.random() - 0.5);
+        return shuffled.slice(0, count);
+    };
+
+    results.push(...pickRandom(places.coffee, 3));
+    results.push(...pickRandom(places.character, 2));
+    results.push(...pickRandom(places.cultural, 1));
+    results.push(...pickRandom(places.walks, 1));
+    results.push(...pickRandom(places.dinner, 1));
+
+    if (results.length < 5) {
+        const pickAny = (arr, count) => {
+            const shuffled = [...arr].sort(() => Math.random() - 0.5);
+            return shuffled.slice(0, count);
+        };
+        if (results.filter(r => r.type.includes('Koffie')).length === 0) results.push(...pickAny(places.coffee, 2));
+        if (results.filter(r => r.type.includes('Karakter')).length === 0) results.push(...pickAny(places.character, 1));
+        if (results.filter(r => r.type.includes('Cultuur')).length === 0) results.push(...pickAny(places.cultural, 1));
+        if (results.filter(r => r.type.includes('Avondwandeling')).length === 0) results.push(...pickAny(places.walks, 1));
+        if (results.filter(r => r.type.includes('Diner')).length === 0) results.push(...pickAny(places.dinner, 1));
+    }
+
+    return results;
 }
 
 function renderTripResults(results, cityName, neighborhood) {
     const container = document.getElementById('trip-cards');
     const subtitle = document.getElementById('results-subtitle');
 
-    const hoodName = neighborhood ? CITIES[currentCity].neighborhoods[neighborhood]?.name : 'alle wijken';
+    const hoodName = neighborhood
+        ? CITIES[currentCity].neighborhoods[neighborhood]?.name
+        : (locationMode ? 'dichtbij jou' : 'alle wijken');
     subtitle.textContent = `${daysCount} dagen in ${cityName} — ${hoodName}`;
 
     container.innerHTML = '';
 
-    // Group by type
     const typeOrder = ['☕ Koffie', '🎭 Karakter', '🎨 Cultuur Wildcard', '🌙 Avondwandeling', '🍽️ Locals-only Diner'];
 
     typeOrder.forEach(type => {
@@ -181,12 +352,30 @@ function renderTripResults(results, cityName, neighborhood) {
             const card = document.createElement('div');
             card.className = 'place-card';
             card.style.animationDelay = `${i * 0.1}s`;
+
+            // Distance display
+            let distanceHtml = '';
+            if (locationMode && userLat && userLng && place.lat && place.lng) {
+                const dist = place._distance || getDistanceKm(userLat, userLng, place.lat, place.lng);
+                distanceHtml = `<span class="place-distance">${formatDistance(dist)} van je</span>`;
+            }
+
+            // Maps link
+            let mapsLink = '';
+            if (place.lat && place.lng) {
+                mapsLink = `<a href="https://www.google.com/maps/search/?api=1&query=${place.lat},${place.lng}" target="_blank" rel="noopener" class="maps-link">Bekijk op kaart ↗</a>`;
+            }
+
             card.innerHTML = `
                 <div class="place-header">
                     <h4 class="place-name">${place.name}</h4>
                     <span class="place-budget">${getBudgetLabel(place.budget)}</span>
                 </div>
-                <p class="place-address">📍 ${place.address}</p>
+                <div class="place-meta">
+                    <span class="place-address">📍 ${place.address}</span>
+                    ${distanceHtml}
+                    ${mapsLink}
+                </div>
                 <p class="place-story">${place.story}</p>
                 <div class="place-tags">
                     <span class="tag energy-tag">${getEnergyEmoji(place.energy)} ${place.energy}</span>
@@ -199,11 +388,9 @@ function renderTripResults(results, cityName, neighborhood) {
         container.appendChild(section);
     });
 
-    // Show results
     document.querySelector('.input-section').style.display = 'none';
     document.getElementById('trip-results').style.display = 'block';
 
-    // Animate cards
     setTimeout(() => {
         container.querySelectorAll('.place-card').forEach((card, i) => {
             setTimeout(() => {
@@ -214,7 +401,7 @@ function renderTripResults(results, cityName, neighborhood) {
 }
 
 function getBudgetLabel(budget) {
-    switch(budget) {
+    switch (budget) {
         case 'low': return '€';
         case 'mid': return '€€';
         case 'high': return '€€€';
@@ -223,7 +410,7 @@ function getBudgetLabel(budget) {
 }
 
 function getEnergyEmoji(energy) {
-    switch(energy) {
+    switch (energy) {
         case 'chill': return '😌';
         case 'balanced': return '⚡';
         case 'explorer': return '🔥';
@@ -232,10 +419,62 @@ function getEnergyEmoji(energy) {
 }
 
 // ============================================
+// 90-MINUTE DRIFT MODE — Session Builder
+// ============================================
+
+function buildDriftSession() {
+    const pick = (arr) => arr[Math.floor(Math.random() * arr.length)];
+    const session = [];
+
+    // Phase 1: Opening
+    session.push(pick(DRIFT_POOL.opening));
+
+    // Phase 2: Settle
+    session.push(pick(DRIFT_POOL.settle));
+
+    // Phase 3: Interact
+    session.push(pick(DRIFT_POOL.interact));
+
+    // 50% chance wildcard
+    if (Math.random() > 0.5) {
+        session.push(pick(DRIFT_WILDCARDS));
+    }
+
+    // Phase 4: Connect
+    session.push(pick(DRIFT_POOL.connect));
+
+    // 40% chance extra interact or settle
+    if (Math.random() > 0.6) {
+        const extra = Math.random() > 0.5 ? 'interact' : 'settle';
+        session.push(pick(DRIFT_POOL[extra]));
+    }
+
+    // Another wildcard chance
+    if (Math.random() > 0.7) {
+        session.push(pick(DRIFT_WILDCARDS));
+    }
+
+    // Phase 5: Closing
+    session.push(pick(DRIFT_POOL.closing));
+
+    return session;
+}
+
+// ============================================
 // 90-MINUTE DRIFT MODE
 // ============================================
 
 function startDrift() {
+    // Build a unique random session
+    currentSession = buildDriftSession();
+
+    // Check location toggle
+    driftLocationMode = document.getElementById('drift-use-location').checked;
+
+    if (driftLocationMode) {
+        startDriftLocationWatch();
+    }
+
     document.getElementById('drift-intro').style.display = 'none';
     document.getElementById('drift-active').style.display = 'block';
 
@@ -249,15 +488,61 @@ function startDrift() {
     startTimer();
 }
 
+function startDriftLocationWatch() {
+    if (!navigator.geolocation) return;
+
+    driftWatchId = navigator.geolocation.watchPosition(
+        (position) => {
+            userLat = position.coords.latitude;
+            userLng = position.coords.longitude;
+        },
+        () => { }, // silent fail
+        { enableHighAccuracy: false, maximumAge: 30000, timeout: 10000 }
+    );
+}
+
+function stopDriftLocationWatch() {
+    if (driftWatchId !== null) {
+        navigator.geolocation.clearWatch(driftWatchId);
+        driftWatchId = null;
+    }
+}
+
+function getLocationHint() {
+    if (!driftLocationMode || !userLat || !userLng) return '';
+
+    const nearby = findNearbyPlaces(userLat, userLng, 1.0); // within 1km
+    if (nearby.length === 0) return '';
+
+    // Pick a random nearby place (not always the closest)
+    const pick = nearby[Math.floor(Math.random() * Math.min(nearby.length, 3))];
+    const bearing = getBearing(userLat, userLng, pick.lat, pick.lng);
+    const direction = bearingToDirection(bearing);
+    const dist = Math.round(pick.distance * 1000);
+
+    return `<div class="location-hint">📍 Er is een plek met een verhaal ~${dist}m naar het ${direction}. Misschien loop je er langs.</div>`;
+}
+
 function renderDriftStep() {
-    const step = DRIFT_STEPS[currentDriftStep];
+    const step = currentSession[currentDriftStep];
     const container = document.getElementById('drift-current-step');
 
-    // Add random direction for first step
+    // Direction hint for walking phases
     let extra = '';
-    if (currentDriftStep === 0) {
+    if (step.phase === 'opening' || step.phase === 'closing') {
         const randomDirection = DRIFT_DIRECTIONS[Math.floor(Math.random() * DRIFT_DIRECTIONS.length)];
         extra = `<div class="drift-direction">💡 ${randomDirection}</div>`;
+    }
+
+    // Location hint
+    const locationHint = getLocationHint();
+
+    // Wildcard styling
+    const isWildcard = step.phase === 'wildcard';
+    if (isWildcard) {
+        container.classList.add('wildcard');
+    } else {
+        container.classList.remove('wildcard');
     }
 
     container.innerHTML = `
@@ -267,6 +552,7 @@ function renderDriftStep() {
         <p class="step-instruction">${step.instruction}</p>
         <p class="step-details">${step.details}</p>
         ${extra}
+        ${locationHint}
         <div class="step-prompt">
             <span class="prompt-label">Reflectie</span>
             <p>${step.prompt}</p>
@@ -282,12 +568,10 @@ function renderDriftStep() {
         container.style.transform = 'translateY(0)';
     }, 50);
 
-    // Update progress dots
     updateProgressDots();
 
-    // Update next button
     const nextBtn = document.getElementById('drift-next-btn');
-    if (currentDriftStep >= DRIFT_STEPS.length - 1) {
+    if (currentDriftStep >= currentSession.length - 1) {
         nextBtn.textContent = 'Voltooi Drift ✨';
     } else {
         nextBtn.textContent = 'Volgende stap →';
@@ -297,9 +581,10 @@ function renderDriftStep() {
 function renderProgressDots() {
     const container = document.getElementById('progress-dots');
     container.innerHTML = '';
-    DRIFT_STEPS.forEach((step, i) => {
+    currentSession.forEach((step, i) => {
         const dot = document.createElement('div');
         dot.className = 'progress-dot' + (i === 0 ? ' active' : '');
+        if (step.phase === 'wildcard') dot.classList.add('wildcard-dot');
         dot.title = step.title;
         container.appendChild(dot);
     });
@@ -313,7 +598,7 @@ function updateProgressDots() {
 }
 
 function nextDriftStep() {
-    if (currentDriftStep >= DRIFT_STEPS.length - 1) {
+    if (currentDriftStep >= currentSession.length - 1) {
         completeDrift();
         return;
     }
@@ -338,7 +623,6 @@ function updateTimerDisplay() {
     const minutes = Math.ceil(driftTimeLeft / 60);
     document.getElementById('timer-minutes').textContent = minutes;
 
-    // Update circle progress
     const circle = document.getElementById('timer-progress');
     const total = 90 * 60;
     const progress = driftTimeLeft / total;
@@ -358,6 +642,7 @@ function saveObservation(index, value) {
 
 function completeDrift() {
     if (driftTimer) clearInterval(driftTimer);
+    stopDriftLocationWatch();
 
     document.getElementById('drift-active').style.display = 'none';
     document.getElementById('drift-complete').style.display = 'block';
@@ -372,7 +657,7 @@ function completeDrift() {
             <span class="stat-label">minuten gedrift</span>
         </div>
         <div class="summary-stat">
-            <span class="stat-value">${currentDriftStep + 1}/${DRIFT_STEPS.length}</span>
+            <span class="stat-value">${currentDriftStep + 1}/${currentSession.length}</span>
             <span class="stat-label">stappen voltooid</span>
         </div>
         ${filledObs.length > 0 ? `
@@ -386,11 +671,13 @@ function completeDrift() {
 
 function resetDrift() {
     if (driftTimer) clearInterval(driftTimer);
+    stopDriftLocationWatch();
     document.getElementById('drift-complete').style.display = 'none';
     document.getElementById('drift-active').style.display = 'none';
     document.getElementById('drift-intro').style.display = 'block';
     currentDriftStep = 0;
     driftTimeLeft = 90 * 60;
+    currentSession = [];
     observations = ['', '', ''];
 }
 

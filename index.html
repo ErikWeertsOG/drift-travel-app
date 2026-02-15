@@ -38,7 +38,7 @@
     <!-- No Tourist Mode Screen -->
     <div id="notourist" class="screen">
         <header class="screen-header">
-            <button class="back-btn" onclick="showScreen('landing')">← Terug</button>
+            <button class="back-btn" onclick="goBackFromNoTourist()">← Terug</button>
             <h2>🧭 No Tourist Mode</h2>
         </header>
 
@@ -48,6 +48,10 @@
 
                 <div class="form-group">
                     <label>Stad</label>
+                    <button class="location-btn" id="use-location-btn" onclick="useMyLocation()">
+                        <span id="location-btn-text">📍 Gebruik mijn locatie</span>
+                        <span id="location-btn-loader" style="display:none;">📍 Locatie zoeken...</span>
+                    </button>
                     <div class="city-selector">
                         <button class="city-btn active" data-city="cologne">Keulen</button>
                         <button class="city-btn" data-city="amsterdam">Amsterdam</button>
@@ -129,7 +133,7 @@
             <div id="drift-intro" class="drift-intro">
                 <div class="drift-manifesto">
                     <h3>De regels van de Drift</h3>
-                    <p>Geen plan. Geen Google Maps. Geen reviews.<br>
+                    <p>Geen plan. Geen reviews. Geen perfectie.<br>
                     Alleen jij, de stad, en het toeval.</p>
 
                     <div class="drift-rules">
@@ -150,6 +154,15 @@
                             <span class="rule-text">Schrijf op. Niet fotograferen.</span>
                         </div>
                     </div>
+                </div>
+
+                <div class="drift-location-toggle">
+                    <label class="checkbox-label">
+                        <input type="checkbox" id="drift-use-location">
+                        <span class="checkmark"></span>
+                        📍 Gebruik mijn locatie voor slimmere uitdagingen
+                    </label>
+                    <p class="toggle-hint">De app weet dan waar je bent en geeft hints over plekken in de buurt.</p>
                 </div>
 
                 <button class="drift-start-btn" onclick="startDrift()">

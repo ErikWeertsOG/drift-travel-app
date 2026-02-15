@@ -357,6 +357,32 @@ body {
     cursor: pointer;
 }
 
+/* Location Button */
+.location-btn {
+    width: 100%;
+    padding: 14px;
+    background: var(--green-light);
+    border: 1.5px solid var(--green);
+    border-radius: var(--radius-sm);
+    font-family: var(--font);
+    font-size: 15px;
+    font-weight: 600;
+    color: var(--green);
+    cursor: pointer;
+    margin-bottom: 12px;
+    transition: all 0.2s ease;
+}
+
+.location-btn:hover {
+    background: var(--green);
+    color: white;
+}
+
+.location-btn.active {
+    background: var(--green);
+    color: white;
+}
+
 /* Generate Button */
 .generate-btn {
     width: 100%;
@@ -481,10 +507,44 @@ body {
     white-space: nowrap;
 }
 
+.place-meta {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 8px;
+    margin-bottom: 12px;
+}
+
 .place-address {
     font-size: 13px;
     color: var(--text-secondary);
-    margin-bottom: 12px;
+}
+
+.place-distance {
+    font-size: 12px;
+    color: var(--green);
+    font-weight: 600;
+    background: var(--green-light);
+    padding: 2px 8px;
+    border-radius: 12px;
+}
+
+.maps-link {
+    font-size: 12px;
+    font-weight: 600;
+    color: var(--accent);
+    text-decoration: none;
+    padding: 2px 10px;
+    border: 1px solid var(--accent);
+    border-radius: 12px;
+    transition: all 0.2s ease;
+    white-space: nowrap;
+}
+
+.maps-link:hover,
+.maps-link:active {
+    background: var(--accent);
+    color: white;
 }
 
 .place-story {
@@ -593,6 +653,51 @@ body {
 .rule-text {
     font-size: 16px;
     font-weight: 600;
+}
+
+/* Drift Location Toggle */
+.drift-location-toggle {
+    margin-bottom: 32px;
+    text-align: left;
+    max-width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 32px;
+}
+
+.toggle-hint {
+    font-size: 13px;
+    color: var(--text-secondary);
+    margin-top: 4px;
+    margin-left: 32px;
+    line-height: 1.4;
+}
+
+.location-hint {
+    background: var(--green-light);
+    border: 1px solid var(--green);
+    border-radius: var(--radius-sm);
+    padding: 12px 16px;
+    font-size: 14px;
+    color: var(--green);
+    margin-top: 12px;
+    margin-bottom: 4px;
+    font-weight: 500;
+    text-align: left;
+}
+
+.drift-step-card.wildcard {
+    border-color: var(--accent);
+    background: var(--accent-light);
+}
+
+.wildcard-dot {
+    border: 2px solid var(--accent);
+    background: var(--accent-light) !important;
+}
+
+.wildcard-dot.active {
+    background: var(--accent) !important;
 }
 
 .drift-start-btn {
