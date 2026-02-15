@@ -1066,6 +1066,386 @@ body {
 }
 
 /* ============================================
+   "VERRAS ME" TRIGGER BUTTON
+   ============================================ */
+
+.random-tip-trigger {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 8px;
+    margin-top: 20px;
+    padding: 14px 28px;
+    background: transparent;
+    border: 1.5px dashed var(--warm-dark);
+    border-radius: 50px;
+    color: var(--text-secondary);
+    font-family: var(--font);
+    font-size: 15px;
+    font-weight: 500;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    letter-spacing: 0.5px;
+}
+
+.random-tip-trigger:hover {
+    border-color: var(--accent);
+    color: var(--accent);
+    background: var(--accent-light);
+}
+
+.trigger-icon {
+    font-size: 18px;
+    animation: sparkle 2s ease-in-out infinite;
+}
+
+@keyframes sparkle {
+    0%, 100% { opacity: 1; transform: scale(1); }
+    50% { opacity: 0.6; transform: scale(1.2) rotate(15deg); }
+}
+
+/* ============================================
+   "IK HEB ZIN IN..." CRAVING SCREEN
+   ============================================ */
+
+.craving-section h3 {
+    font-family: var(--font-display);
+    font-size: 28px;
+    margin-bottom: 24px;
+    color: var(--text);
+}
+
+.craving-input-wrap {
+    display: flex;
+    gap: 8px;
+    margin-bottom: 16px;
+}
+
+.craving-input {
+    flex: 1;
+    padding: 14px 18px;
+    border: 1.5px solid var(--border);
+    border-radius: var(--radius-sm);
+    font-family: var(--font);
+    font-size: 16px;
+    background: var(--bg-card);
+    color: var(--text);
+    transition: border-color 0.2s ease;
+    -webkit-appearance: none;
+}
+
+.craving-input:focus {
+    outline: none;
+    border-color: var(--accent);
+}
+
+.craving-input::placeholder {
+    color: var(--text-secondary);
+    opacity: 0.6;
+}
+
+.craving-search-btn {
+    padding: 14px 22px;
+    background: var(--accent);
+    color: white;
+    border: none;
+    border-radius: var(--radius-sm);
+    font-family: var(--font);
+    font-size: 15px;
+    font-weight: 600;
+    cursor: pointer;
+    transition: background 0.2s ease;
+    white-space: nowrap;
+}
+
+.craving-search-btn:hover {
+    background: var(--accent-dark);
+}
+
+/* Quick Pick Chips */
+.quick-picks {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+    margin-bottom: 24px;
+}
+
+.pick-chip {
+    padding: 8px 16px;
+    background: var(--bg-card);
+    border: 1.5px solid var(--border);
+    border-radius: 50px;
+    font-family: var(--font);
+    font-size: 14px;
+    color: var(--text);
+    cursor: pointer;
+    transition: all 0.2s ease;
+    white-space: nowrap;
+}
+
+.pick-chip:hover {
+    border-color: var(--accent);
+    background: var(--accent-light);
+    color: var(--accent-dark);
+}
+
+.pick-chip:active {
+    transform: scale(0.95);
+}
+
+/* Craving Status / Loading */
+.craving-status {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    padding: 16px 20px;
+    background: var(--warm);
+    border-radius: var(--radius-sm);
+    margin-bottom: 20px;
+    font-size: 14px;
+    color: var(--text-secondary);
+}
+
+.craving-loader {
+    display: flex;
+    gap: 4px;
+}
+
+.craving-loader .dot {
+    width: 6px;
+    height: 6px;
+    border-radius: 50%;
+    background: var(--accent);
+    animation: bounce 1.2s infinite ease-in-out;
+}
+
+.craving-loader .dot:nth-child(2) { animation-delay: 0.2s; }
+.craving-loader .dot:nth-child(3) { animation-delay: 0.4s; }
+
+/* Craving Results */
+.craving-results-header {
+    margin-bottom: 20px;
+}
+
+.craving-results-header h4 {
+    font-family: var(--font-display);
+    font-size: 24px;
+    margin-bottom: 4px;
+}
+
+/* Direction badge in craving results */
+.place-direction {
+    font-size: 12px;
+    color: var(--green);
+    background: var(--green-light);
+    padding: 3px 10px;
+    border-radius: 20px;
+    white-space: nowrap;
+}
+
+/* Google Maps Fallback Link */
+.craving-maps-fallback {
+    display: block;
+    text-align: center;
+    padding: 16px;
+    margin-top: 16px;
+    color: var(--accent);
+    font-weight: 600;
+    font-size: 15px;
+    text-decoration: none;
+    border: 1.5px dashed var(--accent);
+    border-radius: var(--radius-sm);
+    transition: all 0.2s ease;
+}
+
+.craving-maps-fallback:hover {
+    background: var(--accent-light);
+}
+
+/* Craving Error */
+.craving-error {
+    text-align: center;
+    padding: 24px;
+    background: var(--warm);
+    border-radius: var(--radius);
+}
+
+.craving-error p {
+    margin-bottom: 16px;
+    color: var(--text-secondary);
+    font-size: 15px;
+}
+
+/* ============================================
+   RANDOM TIP MODAL (Bottom Sheet)
+   ============================================ */
+
+.tip-modal {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    z-index: 1000;
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
+}
+
+.tip-backdrop {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: rgba(0, 0, 0, 0);
+    transition: background 0.3s ease;
+}
+
+.tip-modal.open .tip-backdrop {
+    background: rgba(0, 0, 0, 0.4);
+}
+
+.tip-sheet {
+    position: relative;
+    z-index: 1;
+    width: 100%;
+    max-width: 640px;
+    max-height: 85vh;
+    overflow-y: auto;
+    background: var(--bg);
+    border-radius: 20px 20px 0 0;
+    padding: 16px 24px 32px;
+    transform: translateY(100%);
+    transition: transform 0.35s cubic-bezier(0.32, 0.72, 0, 1);
+    -webkit-overflow-scrolling: touch;
+}
+
+.tip-modal.open .tip-sheet {
+    transform: translateY(0);
+}
+
+.tip-handle {
+    width: 40px;
+    height: 4px;
+    background: var(--warm-dark);
+    border-radius: 2px;
+    margin: 0 auto 16px;
+}
+
+.tip-label {
+    font-family: var(--font);
+    font-size: 13px;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    color: var(--accent);
+    margin-bottom: 16px;
+    display: block;
+}
+
+/* Tip Place Card */
+.tip-place-card {
+    background: var(--bg-card);
+    border: 1.5px solid var(--border);
+    border-radius: var(--radius);
+    padding: 24px;
+    margin-bottom: 20px;
+}
+
+.tip-type {
+    font-size: 13px;
+    color: var(--text-secondary);
+    margin-bottom: 8px;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+}
+
+.tip-place-name {
+    font-family: var(--font-display);
+    font-size: 24px;
+    margin-bottom: 12px;
+    color: var(--text);
+}
+
+.tip-place-card .place-meta {
+    margin-bottom: 16px;
+}
+
+.tip-place-card .place-story {
+    font-size: 15px;
+    line-height: 1.65;
+    color: var(--text-secondary);
+    margin-bottom: 16px;
+}
+
+.tip-place-card .place-tags {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+    margin-bottom: 16px;
+}
+
+.tip-maps-link {
+    display: block;
+    text-align: center;
+    padding: 12px;
+    border: 1.5px solid var(--accent);
+    border-radius: var(--radius-sm);
+    color: var(--accent);
+    text-decoration: none;
+    font-weight: 600;
+    font-size: 14px;
+    transition: all 0.2s ease;
+}
+
+.tip-maps-link:hover {
+    background: var(--accent);
+    color: white;
+}
+
+/* Tip Actions */
+.tip-actions {
+    display: flex;
+    gap: 12px;
+}
+
+.tip-another-btn {
+    flex: 1;
+    padding: 14px;
+    background: var(--accent);
+    color: white;
+    border: none;
+    border-radius: var(--radius-sm);
+    font-family: var(--font);
+    font-size: 15px;
+    font-weight: 600;
+    cursor: pointer;
+    transition: background 0.2s ease;
+}
+
+.tip-another-btn:hover {
+    background: var(--accent-dark);
+}
+
+.tip-close-btn {
+    padding: 14px 24px;
+    background: var(--warm);
+    color: var(--text);
+    border: 1.5px solid var(--border);
+    border-radius: var(--radius-sm);
+    font-family: var(--font);
+    font-size: 15px;
+    font-weight: 500;
+    cursor: pointer;
+    transition: all 0.2s ease;
+}
+
+.tip-close-btn:hover {
+    border-color: var(--text-secondary);
+}
+
+/* ============================================
    RESPONSIVE
    ============================================ */
 
@@ -1115,13 +1495,46 @@ body {
     }
 }
 
+@media (max-width: 480px) {
+    .quick-picks {
+        gap: 6px;
+    }
+
+    .pick-chip {
+        font-size: 13px;
+        padding: 7px 12px;
+    }
+
+    .craving-input-wrap {
+        flex-direction: column;
+    }
+
+    .craving-search-btn {
+        width: 100%;
+    }
+
+    .tip-sheet {
+        padding: 16px 16px 24px;
+    }
+
+    .tip-place-card {
+        padding: 20px;
+    }
+
+    .tip-place-name {
+        font-size: 20px;
+    }
+}
+
 @media (min-width: 768px) {
     .mode-cards {
         flex-direction: row;
+        flex-wrap: wrap;
     }
 
     .mode-card {
         flex: 1;
+        min-width: calc(50% - 8px);
         padding-right: 48px;
     }
 
@@ -1130,5 +1543,11 @@ body {
         margin-left: auto;
         margin-right: auto;
         margin-bottom: 32px;
+    }
+
+    .tip-sheet {
+        border-radius: 20px;
+        margin-bottom: 40px;
+        max-height: 80vh;
     }
 }

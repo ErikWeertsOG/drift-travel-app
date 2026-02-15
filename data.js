@@ -742,3 +742,85 @@ const DRIFT_DIRECTIONS = [
     "Kies de straat die het meest op een dorp lijkt.",
     "Loop naar de plek waar je het meeste groen ziet."
 ];
+
+// ============================================
+// "IK HEB ZIN IN..." — Craving → Overpass Tags
+// ============================================
+
+const CRAVING_MAP = {
+    'koffie':    { tags: [['amenity','cafe']], label: 'Koffieplekken', icon: '☕' },
+    'coffee':    { tags: [['amenity','cafe']], label: 'Koffieplekken', icon: '☕' },
+    'espresso':  { tags: [['amenity','cafe']], label: 'Koffieplekken', icon: '☕' },
+    'cappuccino':{ tags: [['amenity','cafe']], label: 'Koffieplekken', icon: '☕' },
+    'thee':      { tags: [['amenity','cafe']], label: 'Theeplekken', icon: '🍵' },
+    'tea':       { tags: [['amenity','cafe']], label: 'Theeplekken', icon: '🍵' },
+    'bier':      { tags: [['amenity','pub'],['amenity','bar'],['amenity','biergarten']], label: 'Bierplekken', icon: '🍺' },
+    'beer':      { tags: [['amenity','pub'],['amenity','bar']], label: 'Bierplekken', icon: '🍺' },
+    'cocktail':  { tags: [['amenity','bar']], label: 'Cocktailbars', icon: '🍸' },
+    'cocktails': { tags: [['amenity','bar']], label: 'Cocktailbars', icon: '🍸' },
+    'wijn':      { tags: [['amenity','bar'],['shop','wine']], label: 'Wijnplekken', icon: '🍷' },
+    'wine':      { tags: [['amenity','bar'],['shop','wine']], label: 'Wijnplekken', icon: '🍷' },
+    'taart':     { tags: [['amenity','cafe'],['shop','pastry'],['shop','confectionery']], label: 'Taart & gebak', icon: '🍰' },
+    'gebak':     { tags: [['amenity','cafe'],['shop','pastry']], label: 'Taart & gebak', icon: '🍰' },
+    'cake':      { tags: [['amenity','cafe'],['shop','pastry']], label: 'Taart & gebak', icon: '🍰' },
+    'ijs':       { tags: [['amenity','ice_cream'],['shop','ice_cream'],['cuisine','ice_cream']], label: 'IJsjes', icon: '🍦' },
+    'gelato':    { tags: [['amenity','ice_cream'],['cuisine','ice_cream']], label: 'IJsjes', icon: '🍦' },
+    'eten':      { tags: [['amenity','restaurant']], label: 'Restaurants', icon: '🍽️' },
+    'food':      { tags: [['amenity','restaurant']], label: 'Restaurants', icon: '🍽️' },
+    'restaurant':{ tags: [['amenity','restaurant']], label: 'Restaurants', icon: '🍽️' },
+    'pizza':     { tags: [['amenity','restaurant'],['cuisine','pizza']], label: 'Pizza', icon: '🍕' },
+    'sushi':     { tags: [['amenity','restaurant'],['cuisine','sushi']], label: 'Sushi', icon: '🍣' },
+    'ramen':     { tags: [['amenity','restaurant'],['cuisine','ramen']], label: 'Ramen', icon: '🍜' },
+    'burger':    { tags: [['amenity','restaurant'],['amenity','fast_food']], label: 'Burgers', icon: '🍔' },
+    'brood':     { tags: [['shop','bakery']], label: 'Bakkerijen', icon: '🥖' },
+    'bakker':    { tags: [['shop','bakery']], label: 'Bakkerijen', icon: '🥖' },
+    'ontbijt':   { tags: [['amenity','cafe'],['amenity','restaurant']], label: 'Ontbijtplekken', icon: '🥐' },
+    'brunch':    { tags: [['amenity','cafe'],['amenity','restaurant']], label: 'Brunchplekken', icon: '🥐' },
+    'lunch':     { tags: [['amenity','restaurant'],['amenity','cafe']], label: 'Lunchplekken', icon: '🥗' },
+    'boeken':    { tags: [['shop','books']], label: 'Boekenwinkels', icon: '📚' },
+    'books':     { tags: [['shop','books']], label: 'Boekenwinkels', icon: '📚' },
+    'vinyl':     { tags: [['shop','music']], label: 'Platenwinkels', icon: '🎵' },
+    'platen':    { tags: [['shop','music']], label: 'Platenwinkels', icon: '🎵' },
+    'park':      { tags: [['leisure','park'],['leisure','garden']], label: 'Parken', icon: '🌳' },
+    'museum':    { tags: [['tourism','museum']], label: 'Musea', icon: '🏛️' },
+    'kunst':     { tags: [['tourism','museum'],['tourism','gallery']], label: 'Kunst & galerie', icon: '🎨' },
+    'galerie':   { tags: [['tourism','gallery']], label: 'Galerieën', icon: '🎨' },
+    'markt':     { tags: [['amenity','marketplace'],['shop','supermarket']], label: 'Markten', icon: '🧺' },
+    'falafel':   { tags: [['amenity','restaurant'],['amenity','fast_food']], label: 'Falafel', icon: '🧆' },
+    'kebab':     { tags: [['amenity','restaurant'],['amenity','fast_food']], label: 'Kebab', icon: '🥙' },
+    'doner':     { tags: [['amenity','restaurant'],['amenity','fast_food']], label: 'Döner', icon: '🥙' },
+};
+
+// ============================================
+// TASTE PROFILE — Erik's smaak scoring
+// ============================================
+
+const TASTE_PROFILE = {
+    vibeKeywords: [
+        'rauw', 'eerlijk', 'creatief', 'kunstenaars', 'vintage',
+        'vinyl', 'underground', 'onopvallend', 'verstopt', 'locals',
+        'geen toeristen', 'klein', 'onbekend', 'authentiek', 'puur',
+        'industrieel', 'bohemien', 'alternatief', 'atelier', 'galerie',
+        'experimenteel', 'handgeschreven', 'tweedehands', 'graffiti',
+        'street art', 'fado', 'jazz', 'live muziek', 'independent',
+        'single-origin', 'specialty', 'vakmanschap', 'ambachtelijk',
+        'persoonlijk', 'eigenaar', 'familie', 'generaties', 'traditie',
+        'geheim', 'verborgen', 'intiem', 'parel', 'chaos',
+        'vrijheid', 'transformeert', 'ritueel', 'ziel'
+    ],
+    preferredNeighborhoods: {
+        cologne: ['ehrenfeld', 'belgisches', 'suedstadt'],
+        amsterdam: ['jordaan', 'noord', 'oost'],
+        antwerp: ['zurenborg', 'eilandje'],
+        lisbon: ['alfama', 'mouraria', 'lxfactory']
+    },
+    energyWeights: { chill: 1.2, balanced: 1.0, explorer: 0.8 },
+    budgetWeights: { low: 1.3, mid: 1.0, high: 0.6 },
+    typeWeights: {
+        'character': 1.4,
+        'cultural': 1.3,
+        'coffee': 1.1,
+        'dinner': 1.0,
+        'walks': 0.9
+    }
+};

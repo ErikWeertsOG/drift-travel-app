@@ -31,7 +31,19 @@
                     <p>Geef controle op. Loop, observeer, ontdek. Anti-perfectionisme in actie.</p>
                     <span class="mode-arrow">→</span>
                 </button>
+
+                <button class="mode-card" onclick="showScreen('craving')">
+                    <div class="mode-icon">🔍</div>
+                    <h2>Ik heb zin in...</h2>
+                    <p>Typ wat je wilt — koffie, bier, taart — en vind de beste plek bij je in de buurt.</p>
+                    <span class="mode-arrow">→</span>
+                </button>
             </div>
+
+            <button class="random-tip-trigger" onclick="showRandomTip()">
+                <span class="trigger-icon">✦</span>
+                <span>Verras me</span>
+            </button>
         </div>
     </div>
 
@@ -231,6 +243,77 @@
                 </div>
                 <div class="complete-summary" id="complete-summary"></div>
                 <button class="drift-start-btn" onclick="resetDrift()">Nog een Drift</button>
+            </div>
+        </div>
+    </div>
+
+    <!-- "Ik heb zin in..." Craving Screen -->
+    <div id="craving" class="screen">
+        <header class="screen-header">
+            <button class="back-btn" onclick="showScreen('landing')">← Terug</button>
+            <h2>🔍 Ik heb zin in...</h2>
+        </header>
+
+        <div class="screen-content">
+            <div class="craving-section">
+                <h3>Waar heb je trek in?</h3>
+
+                <div class="craving-input-wrap">
+                    <input type="text" id="craving-input" class="craving-input" placeholder="koffie, bier, taart, boeken..." autocomplete="off" enterkeyhint="search">
+                    <button class="craving-search-btn" onclick="searchCraving()">Zoek</button>
+                </div>
+
+                <div class="quick-picks">
+                    <button class="pick-chip" onclick="quickCraving('koffie')">☕ Koffie</button>
+                    <button class="pick-chip" onclick="quickCraving('bier')">🍺 Bier</button>
+                    <button class="pick-chip" onclick="quickCraving('taart')">🍰 Taart</button>
+                    <button class="pick-chip" onclick="quickCraving('eten')">🍽️ Eten</button>
+                    <button class="pick-chip" onclick="quickCraving('ijs')">🍦 IJs</button>
+                    <button class="pick-chip" onclick="quickCraving('wijn')">🍷 Wijn</button>
+                    <button class="pick-chip" onclick="quickCraving('brood')">🥖 Brood</button>
+                    <button class="pick-chip" onclick="quickCraving('cocktail')">🍸 Cocktail</button>
+                </div>
+
+                <div id="craving-status" class="craving-status" style="display:none;">
+                    <span class="craving-loader">
+                        <span class="dot"></span><span class="dot"></span><span class="dot"></span>
+                    </span>
+                    <span id="craving-status-text">Plekken zoeken in de buurt...</span>
+                </div>
+
+                <div id="craving-results" class="craving-results" style="display:none;">
+                    <div class="craving-results-header">
+                        <h4 id="craving-results-title"></h4>
+                        <p id="craving-results-subtitle" class="results-subtitle"></p>
+                    </div>
+                    <div id="craving-cards" class="trip-cards"></div>
+                    <a id="craving-maps-link" class="craving-maps-fallback" href="#" target="_blank" rel="noopener">
+                        Meer resultaten op Google Maps →
+                    </a>
+                </div>
+
+                <div id="craving-error" class="craving-error" style="display:none;">
+                    <p id="craving-error-text"></p>
+                    <a id="craving-error-maps" class="craving-maps-fallback" href="#" target="_blank" rel="noopener">
+                        Zoek op Google Maps →
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Random Tip Modal (Bottom Sheet) -->
+    <div id="random-tip-modal" class="tip-modal" style="display:none;">
+        <div class="tip-backdrop" onclick="dismissRandomTip()"></div>
+        <div class="tip-sheet">
+            <div class="tip-handle"></div>
+            <div class="tip-label">✦ Random Tip</div>
+            <div id="tip-content" class="tip-content">
+                <!-- Dynamically populated -->
+            </div>
+            <div class="tip-actions">
+                <button class="tip-another-btn" onclick="nextRandomTip()">Nog een ✦</button>
+                <button class="tip-close-btn" onclick="dismissRandomTip()">Sluiten</button>
             </div>
         </div>
     </div>

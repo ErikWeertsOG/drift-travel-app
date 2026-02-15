@@ -682,9 +682,488 @@ function resetDrift() {
 }
 
 // ============================================
+// "IK HEB ZIN IN..." — Craving Search
+// ============================================
+
+let cravingLat = null;
+let cravingLng = null;
+let cravingLocationReady = false;
+
+function initCravingLocation() {
+    // Try to get location for craving search
+    if (userLat && userLng) {
+        cravingLat = userLat;
+        cravingLng = userLng;
+        cravingLocationReady = true;
+        return Promise.resolve();
+    }
+
+    return new Promise((resolve) => {
+        if (!navigator.geolocation) {
+            // Fallback: use closest city center
+            useCityCenter();
+            resolve();
+            return;
+        }
+
+        navigator.geolocation.getCurrentPosition(
+            (pos) => {
+                cravingLat = pos.coords.latitude;
+                cravingLng = pos.coords.longitude;
+                userLat = cravingLat;
+                userLng = cravingLng;
+                cravingLocationReady = true;
+                resolve();
+            },
+            () => {
+                useCityCenter();
+                resolve();
+            },
+            { enableHighAccuracy: true, timeout: 8000 }
+        );
+    });
+}
+
+function useCityCenter() {
+    const city = CITIES[currentCity] || CITIES.cologne;
+    cravingLat = city.center.lat;
+    cravingLng = city.center.lng;
+    cravingLocationReady = true;
+}
+
+function quickCraving(term) {
+    document.getElementById('craving-input').value = term;
+    searchCraving();
+}
+
+function matchCraving(input) {
+    const term = input.toLowerCase().trim();
+
+    // Direct match
+    if (CRAVING_MAP[term]) {
+        return CRAVING_MAP[term];
+    }
+
+    // Partial match — check if input is contained in any key or vice versa
+    for (const [key, val] of Object.entries(CRAVING_MAP)) {
+        if (key.includes(term) || term.includes(key)) {
+            return val;
+        }
+    }
+
+    return null;
+}
+
+async function searchCraving() {
+    const input = document.getElementById('craving-input').value.trim();
+    if (!input) return;
+
+    const statusEl = document.getElementById('craving-status');
+    const resultsEl = document.getElementById('craving-results');
+    const errorEl = document.getElementById('craving-error');
+
+    // Reset UI
+    resultsEl.style.display = 'none';
+    errorEl.style.display = 'none';
+    statusEl.style.display = 'flex';
+    document.getElementById('craving-status-text').textContent = 'Locatie zoeken...';
+
+    // Get location
+    await initCravingLocation();
+
+    document.getElementById('craving-status-text').textContent = `${input} zoeken in de buurt...`;
+
+    const match = matchCraving(input);
+
+    if (!match) {
+        // Unknown term — try generic name search on Overpass, then fallback
+        try {
+            const results = await queryOverpassGeneric(input, cravingLat, cravingLng, 1000);
+            if (results.length > 0) {
+                statusEl.style.display = 'none';
+                renderCravingResults(results, input, `🔍 ${input}`);
+                return;
+            }
+        } catch (e) {
+            // Fall through to fallback
+        }
+
+        statusEl.style.display = 'none';
+        showCravingError(`Niks gevonden voor "${input}" in de buurt.`, input);
+        return;
+    }
+
+    // Matched craving — query Overpass
+    try {
+        const results = await queryOverpass(match.tags, cravingLat, cravingLng, 800);
+        statusEl.style.display = 'none';
+
+        if (results.length === 0) {
+            // Try wider radius
+            const widerResults = await queryOverpass(match.tags, cravingLat, cravingLng, 2000);
+            if (widerResults.length > 0) {
+                renderCravingResults(widerResults, input, `${match.icon} ${match.label}`);
+            } else {
+                showCravingError(`Geen ${match.label.toLowerCase()} gevonden in de buurt.`, input);
+            }
+            return;
+        }
+
+        renderCravingResults(results, input, `${match.icon} ${match.label}`);
+    } catch (err) {
+        statusEl.style.display = 'none';
+        showCravingError('Zoeken mislukt. Probeer Google Maps:', input);
+    }
+}
+
+async function queryOverpass(tags, lat, lng, radius) {
+    // Build Overpass query for multiple tag combinations
+    const unionParts = tags.map(([key, val]) => {
+        return `node["${key}"="${val}"](around:${radius},${lat},${lng});
+way["${key}"="${val}"](around:${radius},${lat},${lng});`;
+    }).join('\n');
+
+    const query = `[out:json][timeout:10];
+(
+${unionParts}
+);
+out center body 8;`;
+
+    const url = 'https://overpass-api.de/api/interpreter';
+    const response = await fetch(url, {
+        method: 'POST',
+        body: `data=${encodeURIComponent(query)}`,
+        headers: { 'Content-Type': 'application/x-www-form-urlencoded' },
+        signal: AbortSignal.timeout(12000)
+    });
+
+    const data = await response.json();
+    return processOverpassResults(data.elements || [], lat, lng);
+}
+
+async function queryOverpassGeneric(name, lat, lng, radius) {
+    const query = `[out:json][timeout:10];
+(
+node["name"~"${name}",i](around:${radius},${lat},${lng});
+way["name"~"${name}",i](around:${radius},${lat},${lng});
+);
+out center body 5;`;
+
+    const url = 'https://overpass-api.de/api/interpreter';
+    const response = await fetch(url, {
+        method: 'POST',
+        body: `data=${encodeURIComponent(query)}`,
+        headers: { 'Content-Type': 'application/x-www-form-urlencoded' },
+        signal: AbortSignal.timeout(12000)
+    });
+
+    const data = await response.json();
+    return processOverpassResults(data.elements || [], lat, lng);
+}
+
+function processOverpassResults(elements, lat, lng) {
+    const results = [];
+    const seen = new Set();
+
+    for (const el of elements) {
+        const tags = el.tags || {};
+        const name = tags.name;
+        if (!name || seen.has(name.toLowerCase())) continue;
+        seen.add(name.toLowerCase());
+
+        const elLat = el.lat || (el.center && el.center.lat);
+        const elLng = el.lon || (el.center && el.center.lon);
+        if (!elLat || !elLng) continue;
+
+        const dist = getDistanceKm(lat, lng, elLat, elLng);
+        const bearing = getBearing(lat, lng, elLat, elLng);
+        const direction = bearingToDirection(bearing);
+
+        const address = [tags['addr:street'], tags['addr:housenumber']].filter(Boolean).join(' ');
+        const openingHours = tags.opening_hours || '';
+        const cuisine = tags.cuisine || '';
+
+        results.push({
+            name,
+            lat: elLat,
+            lng: elLng,
+            distance: dist,
+            direction,
+            address,
+            openingHours,
+            cuisine
+        });
+    }
+
+    return results
+        .sort((a, b) => a.distance - b.distance)
+        .slice(0, 6);
+}
+
+function renderCravingResults(results, query, title) {
+    const resultsEl = document.getElementById('craving-results');
+    const titleEl = document.getElementById('craving-results-title');
+    const subtitleEl = document.getElementById('craving-results-subtitle');
+    const cardsEl = document.getElementById('craving-cards');
+    const mapsLinkEl = document.getElementById('craving-maps-link');
+
+    titleEl.textContent = title;
+    subtitleEl.textContent = `${results.length} plekken gevonden bij je in de buurt`;
+    cardsEl.innerHTML = '';
+
+    results.forEach((place, i) => {
+        const card = document.createElement('div');
+        card.className = 'place-card';
+
+        const searchQuery = encodeURIComponent(`${place.name} ${place.address}`);
+        const distText = formatDistance(place.distance);
+
+        let extraInfo = '';
+        if (place.cuisine) {
+            extraInfo += `<span class="tag energy-tag">🍴 ${place.cuisine}</span>`;
+        }
+        if (place.openingHours) {
+            extraInfo += `<span class="tag hood-tag">🕐 ${place.openingHours}</span>`;
+        }
+
+        card.innerHTML = `
+            <div class="place-header">
+                <h4 class="place-name">${place.name}</h4>
+                <span class="place-distance">${distText}</span>
+            </div>
+            <div class="place-meta">
+                ${place.address ? `<span class="place-address">📍 ${place.address}</span>` : ''}
+                <span class="place-direction">🧭 ${distText} naar het ${place.direction}</span>
+                <a href="https://www.google.com/maps/search/?api=1&query=${searchQuery}" target="_blank" rel="noopener" class="maps-link">Bekijk op kaart ↗</a>
+            </div>
+            ${extraInfo ? `<div class="place-tags">${extraInfo}</div>` : ''}
+        `;
+        cardsEl.appendChild(card);
+
+        // Animate in
+        setTimeout(() => card.classList.add('visible'), i * 100 + 100);
+    });
+
+    // Google Maps fallback link
+    const mapsQuery = encodeURIComponent(`${query} near me`);
+    mapsLinkEl.href = `https://www.google.com/maps/search/${mapsQuery}/@${cravingLat},${cravingLng},15z`;
+
+    resultsEl.style.display = 'block';
+}
+
+function showCravingError(message, query) {
+    const errorEl = document.getElementById('craving-error');
+    const errorText = document.getElementById('craving-error-text');
+    const errorMaps = document.getElementById('craving-error-maps');
+
+    errorText.textContent = message;
+    const mapsQuery = encodeURIComponent(`${query} near me`);
+    errorMaps.href = `https://www.google.com/maps/search/${mapsQuery}/@${cravingLat},${cravingLng},15z`;
+
+    errorEl.style.display = 'block';
+}
+
+// ============================================
+// RANDOM TIP — Taste-based recommendation
+// ============================================
+
+let tipExclusions = [];
+let tipCity = null;
+
+function showRandomTip() {
+    const modal = document.getElementById('random-tip-modal');
+    modal.style.display = 'flex';
+
+    // Animate in
+    setTimeout(() => modal.classList.add('open'), 10);
+
+    // Get location and pick a tip
+    if (userLat && userLng) {
+        pickAndShowTip();
+    } else if (navigator.geolocation) {
+        navigator.geolocation.getCurrentPosition(
+            (pos) => {
+                userLat = pos.coords.latitude;
+                userLng = pos.coords.longitude;
+                pickAndShowTip();
+            },
+            () => {
+                pickAndShowTip(); // Without location
+            },
+            { enableHighAccuracy: true, timeout: 8000 }
+        );
+    } else {
+        pickAndShowTip();
+    }
+}
+
+function pickAndShowTip() {
+    // Find closest city (or use currently selected)
+    if (userLat && userLng) {
+        let closestCity = null;
+        let closestDist = Infinity;
+        Object.entries(CITIES).forEach(([key, city]) => {
+            const dist = getDistanceKm(userLat, userLng, city.center.lat, city.center.lng);
+            if (dist < closestDist) {
+                closestDist = dist;
+                closestCity = key;
+            }
+        });
+        tipCity = closestCity || currentCity;
+    } else {
+        tipCity = currentCity;
+    }
+
+    // Score all places in this city
+    const city = CITIES[tipCity];
+    if (!city) return;
+
+    const allPlaces = [];
+    Object.entries(city.places).forEach(([type, places]) => {
+        places.forEach(p => {
+            allPlaces.push({ ...p, _type: type });
+        });
+    });
+
+    // Score each place
+    const scored = allPlaces
+        .filter(p => !tipExclusions.includes(p.name))
+        .map(place => ({
+            place,
+            score: scorePlaceForTaste(place, tipCity)
+        }))
+        .sort((a, b) => b.score - a.score);
+
+    // Pick from top 5 with weighted randomness
+    const topN = scored.slice(0, Math.min(5, scored.length));
+    if (topN.length === 0) {
+        tipExclusions = []; // Reset if we've shown everything
+        return pickAndShowTip();
+    }
+
+    const pick = pickWeightedRandom(topN);
+    tipExclusions.push(pick.place.name);
+
+    renderRandomTipModal(pick.place);
+}
+
+function scorePlaceForTaste(place, cityKey) {
+    let score = 0;
+
+    // Vibe keyword matching in story
+    const storyLower = (place.story || '').toLowerCase();
+    TASTE_PROFILE.vibeKeywords.forEach(keyword => {
+        if (storyLower.includes(keyword)) {
+            score += 2;
+        }
+    });
+
+    // Neighborhood preference
+    const preferred = TASTE_PROFILE.preferredNeighborhoods[cityKey] || [];
+    if (preferred.includes(place.neighborhood)) {
+        score += 3;
+    }
+
+    // Energy weight
+    const energyW = TASTE_PROFILE.energyWeights[place.energy] || 1.0;
+    score *= energyW;
+
+    // Budget weight
+    const budgetW = TASTE_PROFILE.budgetWeights[place.budget] || 1.0;
+    score *= budgetW;
+
+    // Type weight
+    const typeW = TASTE_PROFILE.typeWeights[place._type] || 1.0;
+    score *= typeW;
+
+    // Proximity bonus (if location available)
+    if (userLat && userLng && place.lat && place.lng) {
+        const dist = getDistanceKm(userLat, userLng, place.lat, place.lng);
+        if (dist < 1) score += 5;
+        else if (dist < 2) score += 3;
+        else if (dist < 5) score += 1;
+    }
+
+    // Random factor for variety
+    score += Math.random() * 3;
+
+    return score;
+}
+
+function pickWeightedRandom(scoredPlaces) {
+    const totalScore = scoredPlaces.reduce((sum, s) => sum + s.score, 0);
+    let rand = Math.random() * totalScore;
+
+    for (const item of scoredPlaces) {
+        rand -= item.score;
+        if (rand <= 0) return item;
+    }
+
+    return scoredPlaces[0];
+}
+
+function renderRandomTipModal(place) {
+    const content = document.getElementById('tip-content');
+    const cityData = CITIES[tipCity];
+    const cityName = cityData?.name || '';
+
+    let distHtml = '';
+    if (userLat && userLng && place.lat && place.lng) {
+        const dist = getDistanceKm(userLat, userLng, place.lat, place.lng);
+        const bearing = getBearing(userLat, userLng, place.lat, place.lng);
+        const direction = bearingToDirection(bearing);
+        distHtml = `<span class="place-distance">${formatDistance(dist)} naar het ${direction}</span>`;
+    }
+
+    const searchQuery = encodeURIComponent(`${place.name} ${place.address} ${cityName}`);
+    const hoodName = cityData?.neighborhoods[place.neighborhood]?.name || '';
+
+    content.innerHTML = `
+        <div class="tip-place-card">
+            <div class="tip-type">${place.type}</div>
+            <h3 class="tip-place-name">${place.name}</h3>
+            <div class="place-meta">
+                <span class="place-address">📍 ${place.address}</span>
+                ${distHtml}
+            </div>
+            <p class="place-story">${place.story}</p>
+            <div class="place-tags">
+                <span class="tag energy-tag">${getEnergyEmoji(place.energy)} ${place.energy}</span>
+                <span class="tag hood-tag">${hoodName}</span>
+                <span class="place-budget">${getBudgetLabel(place.budget)}</span>
+            </div>
+            <a href="https://www.google.com/maps/search/?api=1&query=${searchQuery}" target="_blank" rel="noopener" class="maps-link tip-maps-link">Bekijk op kaart ↗</a>
+        </div>
+    `;
+}
+
+function nextRandomTip() {
+    pickAndShowTip();
+}
+
+function dismissRandomTip() {
+    const modal = document.getElementById('random-tip-modal');
+    modal.classList.remove('open');
+    setTimeout(() => {
+        modal.style.display = 'none';
+    }, 300);
+}
+
+// ============================================
 // INIT
 // ============================================
 
 document.addEventListener('DOMContentLoaded', () => {
     updateNeighborhoods();
+
+    // Craving input: search on Enter key
+    const cravingInput = document.getElementById('craving-input');
+    if (cravingInput) {
+        cravingInput.addEventListener('keydown', (e) => {
+            if (e.key === 'Enter') {
+                e.preventDefault();
+                searchCraving();
+            }
+        });
+    }
 });
