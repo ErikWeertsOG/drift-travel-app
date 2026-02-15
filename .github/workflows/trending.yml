@@ -1,0 +1,29 @@
+name: Update Trending Places
+
+on:
+  schedule:
+    - cron: '0 6 * * 1'  # Elke maandag om 6:00 UTC
+  workflow_dispatch:        # Handmatig triggeren via GitHub UI
+
+jobs:
+  update-trending:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Fetch trending data
+        run: node scripts/fetch-trending.js
+        env:
+          FOURSQUARE_API_KEY: ${{ secrets.FOURSQUARE_API_KEY }}
+
+      - name: Commit and push if changed
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Auto-update trending places [skip ci]"
+          file_pattern: trending.json

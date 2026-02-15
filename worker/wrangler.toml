@@ -1,0 +1,11 @@
+name = "drift-trending"
+main = "trending-worker.js"
+compatibility_date = "2024-01-01"
+
+# De FOURSQUARE_API_KEY wordt als secret ingesteld:
+# wrangler secret put FOURSQUARE_API_KEY
+
+# Optioneel: KV namespace voor langere cache
+# [[kv_namespaces]]
+# binding = "TRENDING_CACHE"
+# id = "..."

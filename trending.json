@@ -1,0 +1,290 @@
+{
+    "lastUpdated": "2026-02-15T06:00:00Z",
+    "source": "static-dummy",
+    "cities": {
+        "cologne": {
+            "places": [
+                {
+                    "name": "Torburg",
+                    "source": "reddit",
+                    "category": "Brouwerij",
+                    "address": "Weyerstraße 12, Südstadt",
+                    "lat": 50.9261,
+                    "lng": 6.9457,
+                    "score": 92,
+                    "signal": "18x genoemd op r/cologne deze week",
+                    "url": "https://reddit.com/r/cologne/"
+                },
+                {
+                    "name": "Bumann & SOHN",
+                    "source": "foursquare",
+                    "category": "Bar",
+                    "address": "Aachener Str. 60, Belgisches Viertel",
+                    "lat": 50.9373,
+                    "lng": 6.9310,
+                    "score": 87,
+                    "signal": "Trending op Foursquare — 340% meer check-ins",
+                    "url": null
+                },
+                {
+                    "name": "Metzgerei Schmitz",
+                    "source": "reddit",
+                    "category": "Restaurant",
+                    "address": "Aachener Str. 28, Belgisches Viertel",
+                    "lat": 50.9375,
+                    "lng": 6.9356,
+                    "score": 78,
+                    "signal": "12x genoemd op r/cologne — 'best late night food'",
+                    "url": "https://reddit.com/r/cologne/"
+                },
+                {
+                    "name": "Odonien",
+                    "source": "foursquare",
+                    "category": "Biergarten / Kunstraum",
+                    "address": "Hornstraße 85, Ehrenfeld",
+                    "lat": 50.9508,
+                    "lng": 6.9165,
+                    "score": 71,
+                    "signal": "Trending op Foursquare — populaire outdoor venue",
+                    "url": null
+                },
+                {
+                    "name": "Südstadt Kiosk-Tour",
+                    "source": "reddit",
+                    "category": "Ervaring",
+                    "address": "Diverse locaties, Südstadt",
+                    "lat": 50.9230,
+                    "lng": 6.9470,
+                    "score": 65,
+                    "signal": "Viral post op r/cologne — 'best Büdchen route'",
+                    "url": "https://reddit.com/r/cologne/"
+                }
+            ]
+        },
+        "amsterdam": {
+            "places": [
+                {
+                    "name": "Pllek",
+                    "source": "foursquare",
+                    "category": "Restaurant / Strand",
+                    "address": "tt. Neveritaweg 59, Noord",
+                    "lat": 52.3919,
+                    "lng": 4.8912,
+                    "score": 95,
+                    "signal": "Trending op Foursquare — 280% meer check-ins",
+                    "url": null
+                },
+                {
+                    "name": "Café de Ceuvel",
+                    "source": "reddit",
+                    "category": "Café / Terras",
+                    "address": "Korte Papaverweg 4, Noord",
+                    "lat": 52.3930,
+                    "lng": 4.9020,
+                    "score": 88,
+                    "signal": "15x genoemd op r/amsterdam — 'hidden gem in Noord'",
+                    "url": "https://reddit.com/r/amsterdam/"
+                },
+                {
+                    "name": "Worst Wijncafé",
+                    "source": "foursquare",
+                    "category": "Wijnbar",
+                    "address": "Barentszplein 171, Jordaan",
+                    "lat": 52.3840,
+                    "lng": 4.8790,
+                    "score": 82,
+                    "signal": "Trending op Foursquare — populaire natural wine bar",
+                    "url": null
+                },
+                {
+                    "name": "Waterkant",
+                    "source": "reddit",
+                    "category": "Bar / Terras",
+                    "address": "Marnixstraat 246, Jordaan",
+                    "lat": 52.3698,
+                    "lng": 4.8783,
+                    "score": 74,
+                    "signal": "9x genoemd op r/amsterdam — 'best canal-side drinks'",
+                    "url": "https://reddit.com/r/amsterdam/"
+                },
+                {
+                    "name": "Ij-Hallen Vlooienmarkt",
+                    "source": "reddit",
+                    "category": "Markt",
+                    "address": "tt. Neveritaweg 15, Noord",
+                    "lat": 52.3940,
+                    "lng": 4.8910,
+                    "score": 69,
+                    "signal": "Trending op Reddit — 'Europe's biggest flea market this weekend'",
+                    "url": "https://reddit.com/r/amsterdam/"
+                }
+            ]
+        },
+        "antwerp": {
+            "places": [
+                {
+                    "name": "Bar Paniek",
+                    "source": "foursquare",
+                    "category": "Bar",
+                    "address": "Marnixplaats 14, Zuid",
+                    "lat": 51.2095,
+                    "lng": 4.3955,
+                    "score": 90,
+                    "signal": "Trending op Foursquare — 310% meer check-ins",
+                    "url": null
+                },
+                {
+                    "name": "Fiskebar",
+                    "source": "reddit",
+                    "category": "Restaurant",
+                    "address": "Marnixplaats 18, Zuid",
+                    "lat": 51.2093,
+                    "lng": 4.3960,
+                    "score": 83,
+                    "signal": "11x genoemd op r/antwerp — 'freshest seafood in town'",
+                    "url": "https://reddit.com/r/antwerp/"
+                },
+                {
+                    "name": "Graanmarkt 13",
+                    "source": "foursquare",
+                    "category": "Restaurant / Concept Store",
+                    "address": "Graanmarkt 13, Centrum",
+                    "lat": 51.2199,
+                    "lng": 4.4005,
+                    "score": 76,
+                    "signal": "Trending op Foursquare — consistent populair",
+                    "url": null
+                },
+                {
+                    "name": "Dok Brewing Company",
+                    "source": "reddit",
+                    "category": "Brouwerij",
+                    "address": "Montevideostraat 3, Eilandje",
+                    "lat": 51.2310,
+                    "lng": 4.4020,
+                    "score": 70,
+                    "signal": "8x genoemd op r/antwerp — 'best craft beer terrace'",
+                    "url": "https://reddit.com/r/antwerp/"
+                }
+            ]
+        },
+        "lisbon": {
+            "places": [
+                {
+                    "name": "Cervejaria Ramiro",
+                    "source": "foursquare",
+                    "category": "Restaurant",
+                    "address": "Av. Almirante Reis 1-H, Intendente",
+                    "lat": 38.7236,
+                    "lng": -9.1351,
+                    "score": 96,
+                    "signal": "Trending op Foursquare — 420% meer check-ins",
+                    "url": null
+                },
+                {
+                    "name": "Time Out Market",
+                    "source": "reddit",
+                    "category": "Food Hall",
+                    "address": "Av. 24 de Julho 49, Cais do Sodré",
+                    "lat": 38.7068,
+                    "lng": -9.1452,
+                    "score": 85,
+                    "signal": "14x genoemd op r/lisbon — 'still worth it for specific stalls'",
+                    "url": "https://reddit.com/r/lisbon/"
+                },
+                {
+                    "name": "Pensão Amor",
+                    "source": "foursquare",
+                    "category": "Bar / Culturele ruimte",
+                    "address": "Rua do Alecrim 19, Cais do Sodré",
+                    "lat": 38.7073,
+                    "lng": -9.1432,
+                    "score": 80,
+                    "signal": "Trending op Foursquare — iconische cocktailbar",
+                    "url": null
+                },
+                {
+                    "name": "Feira da Ladra",
+                    "source": "reddit",
+                    "category": "Markt",
+                    "address": "Campo de Santa Clara, Alfama",
+                    "lat": 38.7150,
+                    "lng": -9.1240,
+                    "score": 72,
+                    "signal": "10x genoemd op r/lisbon — 'go early for the best finds'",
+                    "url": "https://reddit.com/r/lisbon/"
+                },
+                {
+                    "name": "Village Underground Lisboa",
+                    "source": "foursquare",
+                    "category": "Creatieve ruimte / Events",
+                    "address": "Rua 1 de Maio 103, Alcântara",
+                    "lat": 38.7051,
+                    "lng": -9.1810,
+                    "score": 67,
+                    "signal": "Trending op Foursquare — events & co-working buzz",
+                    "url": null
+                }
+            ]
+        },
+        "newcastle": {
+            "places": [
+                {
+                    "name": "By The River Brew Co.",
+                    "source": "reddit",
+                    "category": "Brouwerij / Food Market",
+                    "address": "Hillgate Quays, Gateshead",
+                    "lat": 54.9685,
+                    "lng": -1.5990,
+                    "score": 93,
+                    "signal": "20x genoemd op r/NewcastleUponTyne — 'best weekend vibes'",
+                    "url": "https://reddit.com/r/NewcastleUponTyne/"
+                },
+                {
+                    "name": "Ernest",
+                    "source": "foursquare",
+                    "category": "Restaurant",
+                    "address": "1 Boyd Street, Ouseburn",
+                    "lat": 54.9732,
+                    "lng": -1.5880,
+                    "score": 86,
+                    "signal": "Trending op Foursquare — 290% meer check-ins",
+                    "url": null
+                },
+                {
+                    "name": "The Broad Chare",
+                    "source": "reddit",
+                    "category": "Gastropub",
+                    "address": "25 Broad Chare, Quayside",
+                    "lat": 54.9700,
+                    "lng": -1.6050,
+                    "score": 79,
+                    "signal": "13x genoemd op r/NewcastleUponTyne — 'proper pub grub'",
+                    "url": "https://reddit.com/r/NewcastleUponTyne/"
+                },
+                {
+                    "name": "Quayside Sunday Market",
+                    "source": "reddit",
+                    "category": "Markt",
+                    "address": "Quayside, Newcastle",
+                    "lat": 54.9698,
+                    "lng": -1.6080,
+                    "score": 74,
+                    "signal": "9x genoemd op r/NewcastleUponTyne — 'a must on Sundays'",
+                    "url": "https://reddit.com/r/NewcastleUponTyne/"
+                },
+                {
+                    "name": "The Cluny",
+                    "source": "foursquare",
+                    "category": "Live muziek / Pub",
+                    "address": "36 Lime Street, Ouseburn",
+                    "lat": 54.9748,
+                    "lng": -1.5915,
+                    "score": 68,
+                    "signal": "Trending op Foursquare — indie music venue buzz",
+                    "url": null
+                }
+            ]
+        }
+    }
+}

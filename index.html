@@ -38,6 +38,13 @@
                     <p>Typ wat je wilt — koffie, bier, taart — en vind de beste plek bij je in de buurt.</p>
                     <span class="mode-arrow">→</span>
                 </button>
+
+                <button class="mode-card trending-card-landing" onclick="showScreen('trending')">
+                    <div class="mode-icon">🔥</div>
+                    <h2>Trending Now</h2>
+                    <p>Plekken waar locals het nu over hebben. Via Reddit, Foursquare en social buzz.</p>
+                    <span class="mode-arrow">→</span>
+                </button>
             </div>
 
             <button class="random-tip-trigger" onclick="showRandomTip()">
@@ -69,6 +76,7 @@
                         <button class="city-btn" data-city="amsterdam">Amsterdam</button>
                         <button class="city-btn" data-city="antwerp">Antwerpen</button>
                         <button class="city-btn" data-city="lisbon">Lissabon</button>
+                        <button class="city-btn" data-city="newcastle">Newcastle</button>
                     </div>
                 </div>
 
@@ -296,6 +304,55 @@
                     <p id="craving-error-text"></p>
                     <a id="craving-error-maps" class="craving-maps-fallback" href="#" target="_blank" rel="noopener">
                         Zoek op Google Maps →
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- 🔥 Trending Now Screen -->
+    <div id="trending" class="screen">
+        <header class="screen-header">
+            <button class="back-btn" onclick="showScreen('landing')">← Terug</button>
+            <h2>🔥 Trending Now</h2>
+        </header>
+
+        <div class="screen-content">
+            <div class="trending-section">
+                <h3>Wat is er hot?</h3>
+                <p class="trending-intro">Plekken waar de afgelopen week veel over gepraat wordt op Reddit en Foursquare.</p>
+
+                <div class="trending-city-selector">
+                    <button class="trending-city-btn active" data-trending-city="cologne">Keulen</button>
+                    <button class="trending-city-btn" data-trending-city="amsterdam">Amsterdam</button>
+                    <button class="trending-city-btn" data-trending-city="antwerp">Antwerpen</button>
+                    <button class="trending-city-btn" data-trending-city="lisbon">Lissabon</button>
+                    <button class="trending-city-btn" data-trending-city="newcastle">Newcastle</button>
+                </div>
+
+                <button class="location-btn trending-location-btn" id="trending-location-btn" onclick="trendingUseLocation()">
+                    <span id="trending-location-text">📍 Gebruik mijn locatie</span>
+                </button>
+
+                <div id="trending-loading" class="trending-loading" style="display:none;">
+                    <span class="craving-loader">
+                        <span class="dot"></span><span class="dot"></span><span class="dot"></span>
+                    </span>
+                    <span>Trending data laden...</span>
+                </div>
+
+                <div id="trending-results" class="trending-results" style="display:none;">
+                    <div class="trending-results-header">
+                        <h4 id="trending-results-title"></h4>
+                        <p id="trending-last-updated" class="trending-meta"></p>
+                    </div>
+                    <div id="trending-cards" class="trip-cards"></div>
+                </div>
+
+                <div id="trending-error" class="craving-error" style="display:none;">
+                    <p id="trending-error-text">Trending data niet beschikbaar.</p>
+                    <a class="craving-maps-fallback" href="https://www.reddit.com" target="_blank" rel="noopener">
+                        Bekijk Reddit voor lokale tips →
                     </a>
                 </div>
             </div>

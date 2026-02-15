@@ -415,6 +415,38 @@ const CITIES = {
                 { name: "Tasca do Chico", neighborhood: "alfama", type: "🍽️ Locals-only Diner", address: "Rua do Diário de Notícias 39", lat: 38.7118, lng: -9.1440, story: "Fado + eten + te veel wijn in een ruimte zo klein dat je elleboog in het bord van je buurman belandt. Als de zanger begint, stopt alles. Letterlijk alles. Dit is waarom je naar Lissabon kwam.", budget: "mid", energy: "balanced" }
             ]
         }
+    },
+    newcastle: {
+        name: "Newcastle",
+        center: { lat: 54.9783, lng: -1.6178 },
+        neighborhoods: {
+            ouseburn: { name: "Ouseburn", vibe: "Creatief, rauw, kunstenaars en brouwerijen" },
+            jesmond: { name: "Jesmond", vibe: "Groen, brunch-cultuur, jong-professioneel" },
+            grainger: { name: "Grainger Town", vibe: "Historisch, architectuur, independent winkels" },
+            quayside: { name: "Quayside", vibe: "Rivier, modern, zondagsmarkt" }
+        },
+        places: {
+            coffee: [
+                { name: "Ouseburn Coffee Co.", neighborhood: "ouseburn", type: "☕ Koffie", address: "276 Shields Road", lat: 54.9735, lng: -1.5895, story: "Micro-rösterij verstopt in het creatieve hart van Ouseburn. Ze branden ter plekke in kleine batches, en de ruimte fungeert als hangout voor lokale kunstenaars en makers. De geur van vers gebrande bonen mengt met verf en ambacht.", budget: "low", energy: "chill" },
+                { name: "Flat Caps Coffee", neighborhood: "grainger", type: "☕ Koffie", address: "9 Carliol Square", lat: 54.9745, lng: -1.6095, story: "Minimaal, geen-onzin specialty coffee bar gerund door obsessieve baristas. Locals beschouwen dit als de beste espresso van het noordoosten van Engeland. Geen franje, alleen vakmanschap in een kopje.", budget: "low", energy: "balanced" },
+                { name: "Pink Lane Coffee", neighborhood: "grainger", type: "☕ Koffie", address: "1 Pink Lane", lat: 54.9690, lng: -1.6200, story: "Verstopt in een steegje bij Central Station. Deze röster-café is een hoeksteen van Newcastle's third-wave koffiescene. Wisselende single-origin bonen en een cult-following onder locals die weten waar ze moeten zijn.", budget: "low", energy: "balanced" }
+            ],
+            character: [
+                { name: "The Biscuit Factory", neighborhood: "ouseburn", type: "🎭 Karakter", address: "16 Stoddart Street", lat: 54.9753, lng: -1.5940, story: "De grootste onafhankelijke commerciële kunstgalerie van het VK, in een verbouwd Victoriaans pakhuis. Twee verdiepingen hedendaagse kunst, craft en design. Een plek waar je uren kunt dwalen en altijd iets vindt dat je raakt.", budget: "low", energy: "balanced" },
+                { name: "Tyneside Cinema", neighborhood: "grainger", type: "🎭 Karakter", address: "10-12 Pilgrim Street", lat: 54.9730, lng: -1.6115, story: "Een prachtig gerestaureerde bioscoop uit 1937 — het laatste overgebleven purpose-built newsreel theater in het VK. Nu arthouse en wereldcinema, met een art deco café-bar. Hier kijk je film zoals film bedoeld was.", budget: "mid", energy: "chill" }
+            ],
+            cultural: [
+                { name: "Star and Shadow Cinema", neighborhood: "ouseburn", type: "🎨 Cultuur Wildcard", address: "Warwick Street", lat: 54.9758, lng: -1.5920, story: "Vrijwilligers-run, radicaal onafhankelijke bioscoop en live muziek venue. DIY-ethos, experimentele programmering, punk en underground gigs. Het spirituele hart van Newcastle's tegencultuur. Als NTS een gebouw was.", budget: "low", energy: "explorer" },
+                { name: "BALTIC Centre for Contemporary Art", neighborhood: "quayside", type: "🎨 Cultuur Wildcard", address: "South Shore Road, Gateshead", lat: 54.9690, lng: -1.6005, story: "Een verbouwde meelfabriek getransformeerd tot een van de grootste hedendaagse kunsthallen ter wereld. Gratis entree, wisselende tentoonstellingen, en een dakterras met panoramisch uitzicht over de Tyne. Architectuur als statement.", budget: "low", energy: "balanced" }
+            ],
+            walks: [
+                { name: "Quayside → Ouseburn zonsondergang", neighborhood: "quayside", type: "🌙 Avondwandeling", address: "Millennium Bridge → Free Trade Inn", lat: 54.9695, lng: -1.5995, story: "Loop oost langs de noordoever van de Tyne vanaf de Millennium Bridge. Volg het rivierpad terwijl het zich de Ouseburn Valley in slingert. Eindig bij de Free Trade Inn — een pub op een heuvel met het beste zonsondergangsterras van de stad. De bruggen lichten op terwijl jij je pint drinkt.", budget: "low", energy: "balanced" }
+            ],
+            dinner: [
+                { name: "Dabbawal", neighborhood: "grainger", type: "🍽️ Locals-only Diner", address: "69-75 High Bridge", lat: 54.9735, lng: -1.6135, story: "Street-food-geïnspireerde Indiase keuken waar locals bij zweren. Kleine gerechten, gedurfde smaken, en een bruisende sfeer. Lichtjaren verwijderd van generieke curry houses — hier draait het om regionale Indiase kookkunst, goed gedaan.", budget: "mid", energy: "balanced" },
+                { name: "Cook House", neighborhood: "ouseburn", type: "🍽️ Locals-only Diner", address: "Foundry Lane", lat: 54.9718, lng: -1.5880, story: "Klein, seizoensgebonden restaurant in een verbouwde container aan de Ouseburn. Chef Anna Hedworth kookt met hyper-lokale ingrediënten en een dagelijks wisselend menu. Het voelt als eten bij een briljante vriendin — als die vriendin een award-winning chef is.", budget: "mid", energy: "chill" }
+            ]
+        }
     }
 };
 
@@ -812,7 +844,8 @@ const TASTE_PROFILE = {
         cologne: ['ehrenfeld', 'belgisches', 'suedstadt'],
         amsterdam: ['jordaan', 'noord', 'oost'],
         antwerp: ['zurenborg', 'eilandje'],
-        lisbon: ['alfama', 'mouraria', 'lxfactory']
+        lisbon: ['alfama', 'mouraria', 'lxfactory'],
+        newcastle: ['ouseburn', 'grainger']
     },
     energyWeights: { chill: 1.2, balanced: 1.0, explorer: 0.8 },
     budgetWeights: { low: 1.3, mid: 1.0, high: 0.6 },

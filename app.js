@@ -107,6 +107,10 @@ function showScreen(screenId) {
     if (screenId === 'notourist') {
         updateNeighborhoods();
     }
+
+    if (screenId === 'trending') {
+        loadTrending();
+    }
 }
 
 function goBackFromNoTourist() {
@@ -1150,6 +1154,266 @@ function dismissRandomTip() {
 }
 
 // ============================================
+// 🔥 TRENDING NOW — Load & Render
+// ============================================
+
+let trendingData = null;
+let trendingCity = 'cologne';
+const WORKER_URL = ''; // Set when Cloudflare Worker is deployed, e.g. 'https://drift-trending.erikweerts.workers.dev'
+
+async function loadTrending() {
+    const loadingEl = document.getElementById('trending-loading');
+    const resultsEl = document.getElementById('trending-results');
+    const errorEl = document.getElementById('trending-error');
+
+    // Reset UI
+    resultsEl.style.display = 'none';
+    errorEl.style.display = 'none';
+    loadingEl.style.display = 'flex';
+
+    try {
+        // Layer 1: Load static trending.json
+        const staticData = await fetchStaticTrending();
+
+        // Layer 2: Try Cloudflare Worker for fresh data (if configured)
+        let liveData = null;
+        if (WORKER_URL) {
+            try {
+                liveData = await fetchLiveTrending(trendingCity);
+            } catch (e) {
+                // Silently fall back to static
+            }
+        }
+
+        // Merge sources
+        trendingData = mergeTrendingSources(staticData, liveData);
+
+        loadingEl.style.display = 'none';
+        renderTrendingResults(trendingData, trendingCity);
+    } catch (err) {
+        loadingEl.style.display = 'none';
+        errorEl.style.display = 'block';
+        document.getElementById('trending-error-text').textContent =
+            'Trending data niet beschikbaar. Check je internetverbinding.';
+    }
+}
+
+async function fetchStaticTrending() {
+    const response = await fetch('trending.json', {
+        signal: AbortSignal.timeout(8000)
+    });
+    if (!response.ok) throw new Error('Failed to fetch trending.json');
+    return response.json();
+}
+
+async function fetchLiveTrending(city) {
+    if (!WORKER_URL) return null;
+
+    const cityData = CITIES[city];
+    if (!cityData) return null;
+
+    const url = `${WORKER_URL}/trending?city=${city}&lat=${cityData.center.lat}&lng=${cityData.center.lng}`;
+    const response = await fetch(url, {
+        signal: AbortSignal.timeout(6000)
+    });
+    if (!response.ok) throw new Error('Worker request failed');
+    return response.json();
+}
+
+function mergeTrendingSources(staticData, liveData) {
+    // If no live data, just return static
+    if (!liveData || !liveData.cities) return staticData;
+
+    const merged = JSON.parse(JSON.stringify(staticData));
+
+    // For each city in live data, merge places
+    Object.entries(liveData.cities).forEach(([cityKey, cityData]) => {
+        if (!merged.cities[cityKey]) {
+            merged.cities[cityKey] = { places: [] };
+        }
+
+        const existingNames = new Set(
+            merged.cities[cityKey].places.map(p => p.name.toLowerCase())
+        );
+
+        // Add live places that don't exist in static data
+        (cityData.places || []).forEach(place => {
+            if (!existingNames.has(place.name.toLowerCase())) {
+                place.source = place.source || 'live';
+                place.signal = place.signal || 'Live data';
+                merged.cities[cityKey].places.push(place);
+            } else {
+                // Update existing with live score if higher
+                const existing = merged.cities[cityKey].places.find(
+                    p => p.name.toLowerCase() === place.name.toLowerCase()
+                );
+                if (existing && place.score > existing.score) {
+                    existing.score = place.score;
+                    existing.signal = place.signal || existing.signal;
+                    existing.source = 'live';
+                }
+            }
+        });
+
+        // Re-sort by score
+        merged.cities[cityKey].places.sort((a, b) => b.score - a.score);
+    });
+
+    // Update timestamp to most recent
+    if (liveData.lastUpdated) {
+        merged.lastUpdated = liveData.lastUpdated;
+        merged.hasLiveData = true;
+    }
+
+    return merged;
+}
+
+function renderTrendingResults(data, city) {
+    const resultsEl = document.getElementById('trending-results');
+    const titleEl = document.getElementById('trending-results-title');
+    const updatedEl = document.getElementById('trending-last-updated');
+    const cardsEl = document.getElementById('trending-cards');
+
+    const cityData = data.cities[city];
+    if (!cityData || !cityData.places || cityData.places.length === 0) {
+        document.getElementById('trending-error').style.display = 'block';
+        document.getElementById('trending-error-text').textContent =
+            `Geen trending data voor ${CITIES[city]?.name || city}.`;
+        return;
+    }
+
+    const cityName = CITIES[city]?.name || city;
+    titleEl.textContent = `🔥 Trending in ${cityName}`;
+
+    // Format last updated
+    if (data.lastUpdated) {
+        const updated = new Date(data.lastUpdated);
+        const now = new Date();
+        const diffHours = Math.round((now - updated) / (1000 * 60 * 60));
+        let timeAgo;
+        if (diffHours < 1) timeAgo = 'zojuist';
+        else if (diffHours < 24) timeAgo = `${diffHours} uur geleden`;
+        else if (diffHours < 48) timeAgo = 'gisteren';
+        else timeAgo = `${Math.round(diffHours / 24)} dagen geleden`;
+
+        updatedEl.textContent = `Laatst bijgewerkt: ${timeAgo}`;
+        if (data.hasLiveData) {
+            updatedEl.textContent += ' • Live data beschikbaar';
+        }
+    }
+
+    cardsEl.innerHTML = '';
+
+    cityData.places.forEach((place, i) => {
+        const card = document.createElement('div');
+        card.className = 'place-card trending-place-card';
+
+        // Score badge color
+        let scoreClass = 'trending-score-hot';
+        if (place.score < 70) scoreClass = 'trending-score-warm';
+        if (place.score < 50) scoreClass = 'trending-score-mild';
+
+        // Source icon
+        const sourceIcon = place.source === 'reddit' ? '💬' : (place.source === 'live' ? '⚡' : '📍');
+        const sourceLabel = place.source === 'reddit' ? 'Reddit' :
+            (place.source === 'live' ? 'Live' : 'Foursquare');
+
+        // Distance if location available
+        let distHtml = '';
+        if (userLat && userLng && place.lat && place.lng) {
+            const dist = getDistanceKm(userLat, userLng, place.lat, place.lng);
+            const bearing = getBearing(userLat, userLng, place.lat, place.lng);
+            const direction = bearingToDirection(bearing);
+            distHtml = `<span class="place-distance">${formatDistance(dist)} naar het ${direction}</span>`;
+        }
+
+        // Google Maps link
+        const searchQuery = encodeURIComponent(`${place.name} ${place.address || ''}`);
+        const mapsLink = `https://www.google.com/maps/search/?api=1&query=${searchQuery}`;
+
+        // Reddit link
+        let sourceLink = '';
+        if (place.url) {
+            sourceLink = `<a href="${place.url}" target="_blank" rel="noopener" class="trending-source-link">Bekijk op Reddit ↗</a>`;
+        }
+
+        card.innerHTML = `
+            <div class="place-header">
+                <h4 class="place-name">${place.name}</h4>
+                <span class="trending-score ${scoreClass}">${place.score}</span>
+            </div>
+            <div class="trending-signal">
+                <span class="trending-signal-icon">🔥</span>
+                <span>${place.signal}</span>
+            </div>
+            <div class="place-meta">
+                <span class="trending-category">${place.category}</span>
+                ${place.address ? `<span class="place-address">📍 ${place.address}</span>` : ''}
+                ${distHtml}
+            </div>
+            <div class="place-tags">
+                <span class="tag trending-source-tag">${sourceIcon} ${sourceLabel}</span>
+                <a href="${mapsLink}" target="_blank" rel="noopener" class="maps-link">Bekijk op kaart ↗</a>
+                ${sourceLink}
+            </div>
+        `;
+
+        cardsEl.appendChild(card);
+
+        // Animate in
+        setTimeout(() => card.classList.add('visible'), i * 100 + 100);
+    });
+
+    resultsEl.style.display = 'block';
+}
+
+function trendingUseLocation() {
+    if (!navigator.geolocation) return;
+
+    const btn = document.getElementById('trending-location-btn');
+    document.getElementById('trending-location-text').textContent = '📍 Locatie zoeken...';
+
+    navigator.geolocation.getCurrentPosition(
+        (pos) => {
+            userLat = pos.coords.latitude;
+            userLng = pos.coords.longitude;
+
+            // Find closest city
+            let closestCity = null;
+            let closestDist = Infinity;
+            Object.entries(CITIES).forEach(([key, city]) => {
+                const dist = getDistanceKm(userLat, userLng, city.center.lat, city.center.lng);
+                if (dist < closestDist) {
+                    closestDist = dist;
+                    closestCity = key;
+                }
+            });
+
+            if (closestCity) {
+                trendingCity = closestCity;
+                document.querySelectorAll('.trending-city-btn').forEach(b => {
+                    b.classList.toggle('active', b.dataset.trendingCity === closestCity);
+                });
+            }
+
+            btn.classList.add('active');
+            document.getElementById('trending-location-text').textContent =
+                `📍 ${CITIES[trendingCity]?.name || trendingCity} — ${formatDistance(closestDist)} van je`;
+
+            // Reload trending for this city
+            loadTrending();
+        },
+        () => {
+            document.getElementById('trending-location-text').textContent = '📍 Locatie niet beschikbaar';
+            setTimeout(() => {
+                document.getElementById('trending-location-text').textContent = '📍 Gebruik mijn locatie';
+            }, 3000);
+        },
+        { enableHighAccuracy: true, timeout: 10000 }
+    );
+}
+
+// ============================================
 // INIT
 // ============================================
 
@@ -1166,4 +1430,23 @@ document.addEventListener('DOMContentLoaded', () => {
             }
         });
     }
+
+    // Trending city selector
+    document.querySelectorAll('.trending-city-btn').forEach(btn => {
+        btn.addEventListener('click', function () {
+            document.querySelectorAll('.trending-city-btn').forEach(b => b.classList.remove('active'));
+            this.classList.add('active');
+            trendingCity = this.dataset.trendingCity;
+            // Reset location button
+            const locBtn = document.getElementById('trending-location-btn');
+            locBtn.classList.remove('active');
+            document.getElementById('trending-location-text').textContent = '📍 Gebruik mijn locatie';
+            // Reload trending
+            if (trendingData) {
+                renderTrendingResults(trendingData, trendingCity);
+            } else {
+                loadTrending();
+            }
+        });
+    });
 });

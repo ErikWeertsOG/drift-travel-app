@@ -1446,6 +1446,181 @@ body {
 }
 
 /* ============================================
+   🔥 TRENDING NOW
+   ============================================ */
+
+.trending-card-landing {
+    border-left: 3px solid var(--accent) !important;
+}
+
+.trending-section h3 {
+    font-family: var(--font-display);
+    font-size: 28px;
+    margin-bottom: 8px;
+    color: var(--text);
+}
+
+.trending-intro {
+    color: var(--text-secondary);
+    font-size: 15px;
+    line-height: 1.5;
+    margin-bottom: 24px;
+}
+
+.trending-city-selector {
+    display: flex;
+    gap: 8px;
+    flex-wrap: wrap;
+    margin-bottom: 16px;
+}
+
+.trending-city-btn {
+    padding: 10px 18px;
+    border: 1.5px solid var(--border);
+    border-radius: var(--radius-sm);
+    background: var(--bg-card);
+    font-family: var(--font);
+    font-size: 14px;
+    cursor: pointer;
+    transition: all 0.2s ease;
+    color: var(--text);
+    font-weight: 500;
+}
+
+.trending-city-btn:hover {
+    border-color: var(--accent);
+    background: var(--accent-light);
+}
+
+.trending-city-btn.active {
+    background: var(--accent);
+    color: white;
+    border-color: var(--accent);
+}
+
+.trending-location-btn {
+    margin-bottom: 20px;
+}
+
+/* Trending Loading */
+.trending-loading {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    padding: 16px 20px;
+    background: var(--warm);
+    border-radius: var(--radius-sm);
+    margin-bottom: 20px;
+    font-size: 14px;
+    color: var(--text-secondary);
+}
+
+/* Trending Results Header */
+.trending-results-header {
+    margin-bottom: 20px;
+}
+
+.trending-results-header h4 {
+    font-family: var(--font-display);
+    font-size: 24px;
+    margin-bottom: 4px;
+}
+
+.trending-meta {
+    font-size: 13px;
+    color: var(--text-secondary);
+    font-style: italic;
+}
+
+/* Trending Place Card (extends .place-card) */
+.trending-place-card {
+    border-left: 3px solid var(--accent);
+}
+
+/* Score Badge */
+.trending-score {
+    font-family: var(--font);
+    font-size: 14px;
+    font-weight: 700;
+    padding: 4px 12px;
+    border-radius: 20px;
+    white-space: nowrap;
+    min-width: 40px;
+    text-align: center;
+}
+
+.trending-score-hot {
+    background: var(--accent);
+    color: white;
+}
+
+.trending-score-warm {
+    background: var(--accent-light);
+    color: var(--accent-dark);
+}
+
+.trending-score-mild {
+    background: var(--warm);
+    color: var(--text-secondary);
+}
+
+/* Trending Signal */
+.trending-signal {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    padding: 8px 14px;
+    background: var(--accent-light);
+    border-radius: var(--radius-sm);
+    margin-bottom: 12px;
+    font-size: 13px;
+    font-weight: 500;
+    color: var(--accent-dark);
+    line-height: 1.4;
+}
+
+.trending-signal-icon {
+    font-size: 14px;
+    flex-shrink: 0;
+}
+
+/* Trending Category */
+.trending-category {
+    font-size: 12px;
+    color: var(--blue);
+    background: var(--blue-light);
+    padding: 3px 10px;
+    border-radius: 20px;
+    font-weight: 500;
+    white-space: nowrap;
+}
+
+/* Source Tag */
+.trending-source-tag {
+    background: var(--warm);
+    color: var(--text-secondary);
+}
+
+/* Source Link (Reddit) */
+.trending-source-link {
+    font-size: 12px;
+    font-weight: 600;
+    color: var(--blue);
+    text-decoration: none;
+    padding: 2px 10px;
+    border: 1px solid var(--blue);
+    border-radius: 12px;
+    transition: all 0.2s ease;
+    white-space: nowrap;
+}
+
+.trending-source-link:hover,
+.trending-source-link:active {
+    background: var(--blue);
+    color: white;
+}
+
+/* ============================================
    RESPONSIVE
    ============================================ */
 
@@ -1466,7 +1641,8 @@ body {
         flex-wrap: wrap;
     }
 
-    .city-btn {
+    .city-btn,
+    .trending-city-btn {
         flex: 1;
         min-width: calc(50% - 4px);
         text-align: center;
