@@ -360,11 +360,11 @@ function renderTripResults(results, cityName, neighborhood) {
                 distanceHtml = `<span class="place-distance">${formatDistance(dist)} van je</span>`;
             }
 
-            // Maps link
+            // Maps link — search by name + address + city for accurate results
             let mapsLink = '';
-            if (place.lat && place.lng) {
-                mapsLink = `<a href="https://www.google.com/maps/search/?api=1&query=${place.lat},${place.lng}" target="_blank" rel="noopener" class="maps-link">Bekijk op kaart ↗</a>`;
-            }
+            const cityName_ = CITIES[currentCity]?.name || '';
+            const searchQuery = encodeURIComponent(`${place.name} ${place.address} ${cityName_}`);
+            mapsLink = `<a href="https://www.google.com/maps/search/?api=1&query=${searchQuery}" target="_blank" rel="noopener" class="maps-link">Bekijk op kaart ↗</a>`;
 
             card.innerHTML = `
                 <div class="place-header">

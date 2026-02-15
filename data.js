@@ -35,8 +35,8 @@ const CITIES = {
                     neighborhood: "belgisches",
                     type: "☕ Koffie",
                     address: "Brüsseler Platz area",
-                    lat: 50.9367,
-                    lng: 6.9400,
+                    lat: 50.9388,
+                    lng: 6.9350,
                     story: "Een micro-rösterij waar de eigenaar elke boon persoonlijk selecteert. Ga vroeg — de locals zitten hier al om 8u met hun laptop en een flat white. De geur van vers gebrande bonen trekt je naar binnen voordat je het bordje ziet.",
                     budget: "low",
                     energy: "chill"
@@ -46,8 +46,8 @@ const CITIES = {
                     neighborhood: "ehrenfeld",
                     type: "☕ Koffie",
                     address: "Körnerstraße 54",
-                    lat: 50.9465,
-                    lng: 6.9192,
+                    lat: 50.9493,
+                    lng: 6.9226,
                     story: "Third-wave coffee in een voormalige industriehal. Hier kom je niet voor de latte art maar voor het gesprek met de barista over single-origin uit Ethiopië. De ruimte ademt Ehrenfeld: rauw, eerlijk, zonder pretentie.",
                     budget: "low",
                     energy: "balanced"
@@ -57,8 +57,8 @@ const CITIES = {
                     neighborhood: "suedstadt",
                     type: "☕ Koffie",
                     address: "Bonner Straße 48",
-                    lat: 50.9213,
-                    lng: 6.9615,
+                    lat: 50.9499,
+                    lng: 6.9233,
                     story: "Sehnsucht — verlangen naar iets moois. De naam zegt alles. Klein café met tweedehands meubels, verse taart, en een eigenares die je naam onthoudt na twee bezoeken. Het is alsof je bij iemand thuis koffie drinkt.",
                     budget: "low",
                     energy: "chill"
@@ -68,8 +68,8 @@ const CITIES = {
                     neighborhood: "altstadt",
                     type: "☕ Koffie",
                     address: "Kyffhäuserstraße 18",
-                    lat: 50.9320,
-                    lng: 6.9420,
+                    lat: 50.9559,
+                    lng: 6.9053,
                     story: "Sinds 1949 brandt deze familie koffie in Keulen. Geen hipster-vibes, gewoon generaties aan vakmanschap. De filterkoffie hier is een tijdmachine naar hoe koffie bedoeld was.",
                     budget: "low",
                     energy: "balanced"
@@ -79,8 +79,8 @@ const CITIES = {
                     neighborhood: "nippes",
                     type: "☕ Koffie",
                     address: "Neusser Straße 173",
-                    lat: 50.9628,
-                    lng: 6.9540,
+                    lat: 50.9614,
+                    lng: 6.9502,
                     story: "Technisch een bakker, maar de koffie is een excuus om hun Sauerteig-brood te proeven. Zaterdag ochtend is het hier vol met Nippes-bewoners die hun weekendbrood ophalen. Ga in de rij staan — het is het waard.",
                     budget: "low",
                     energy: "chill"
@@ -90,8 +90,8 @@ const CITIES = {
                     neighborhood: "suedstadt",
                     type: "☕ Koffie",
                     address: "Bonner Straße 56",
-                    lat: 50.9208,
-                    lng: 6.9610,
+                    lat: 50.9222,
+                    lng: 6.9484,
                     story: "Minimalisme in een kopje. Witte muren, perfecte espresso, en een eigenaar die 'nee' zegt als je om havermelk vraagt. Hier gaat het om de boon, niet om jouw voorkeur. Verfrissend eerlijk.",
                     budget: "mid",
                     energy: "balanced"
@@ -103,8 +103,8 @@ const CITIES = {
                     neighborhood: "belgisches",
                     type: "🎭 Karakter",
                     address: "Brüsseler Platz",
-                    lat: 50.9368,
-                    lng: 6.9397,
+                    lat: 50.9386,
+                    lng: 6.9342,
                     story: "Overdag een onopvallend pleintje bij een kerk. Na vijf uur 's middags transformeert het in Keulens onofficiële woonkamer. Mensen zitten op de trappen, delen wijn uit flesjes, en het geluid van gitaren mengt met gesprekken in zes talen.",
                     budget: "low",
                     energy: "balanced"
@@ -114,8 +114,8 @@ const CITIES = {
                     neighborhood: "ehrenfeld",
                     type: "🎭 Karakter",
                     address: "Hospeltstraße 69",
-                    lat: 50.9510,
-                    lng: 6.9155,
+                    lat: 50.9521,
+                    lng: 6.9026,
                     story: "Een voormalig fabrieksgebouw waar kunstenaars werken met open deuren. Loop binnen, kijk rond, praat met iemand. Geen entree, geen gids, geen regels. Alleen creatie in haar puurste vorm.",
                     budget: "low",
                     energy: "explorer"
@@ -125,8 +125,8 @@ const CITIES = {
                     neighborhood: "altstadt",
                     type: "🎭 Karakter",
                     address: "Aachener Straße 5",
-                    lat: 50.9362,
-                    lng: 6.9425,
+                    lat: 50.9364,
+                    lng: 6.9368,
                     story: "Keuls dialect-theater dat al generaties publiek trekt. Je hoeft niet alles te verstaan — de sfeer vertelt het verhaal. Hier lach je mee met een zaal vol mensen die dit als traditie koesteren.",
                     budget: "mid",
                     energy: "balanced"
@@ -136,8 +136,8 @@ const CITIES = {
                     neighborhood: "ehrenfeld",
                     type: "🎭 Karakter",
                     address: "Neptunplatz 1",
-                    lat: 50.9488,
-                    lng: 6.9218,
+                    lat: 50.9470,
+                    lng: 6.9187,
                     story: "Art deco zwembad uit 1912, getransformeerd tot wellness-tempel. De architectuur alleen is een bezoek waard. Zwem baantjes in een ruimte die je doet vergeten dat je in een stad bent.",
                     budget: "high",
                     energy: "chill"
@@ -147,8 +147,8 @@ const CITIES = {
                     neighborhood: "nippes",
                     type: "🎭 Karakter",
                     address: "Neusser Straße 197",
-                    lat: 50.9635,
-                    lng: 6.9545,
+                    lat: 50.9630,
+                    lng: 6.9531,
                     story: "Een boekenwinkel waar de eigenaar je boek kiest op basis van je humeur. Zeg wat je voelt, en je krijgt een stapel die je leven verandert. Tenminste, dat beweert ze. En ze heeft vaak gelijk.",
                     budget: "low",
                     energy: "chill"
@@ -158,8 +158,8 @@ const CITIES = {
                     neighborhood: "suedstadt",
                     type: "🎭 Karakter",
                     address: "Volksgarten",
-                    lat: 50.9222,
-                    lng: 6.9555,
+                    lat: 50.9219,
+                    lng: 6.9493,
                     story: "Zondagochtend, 8u: vintage jassen, DDR-design, vinyl voor 2 euro. Het is niet de spullen die het bijzonder maken, maar het ritueel. Koffie in de hand, langzaam slenteren, met vreemden onderhandelen over een lamp.",
                     budget: "low",
                     energy: "balanced"
@@ -171,8 +171,8 @@ const CITIES = {
                     neighborhood: "altstadt",
                     type: "🎨 Cultuur Wildcard",
                     address: "Heinrich-Böll-Platz",
-                    lat: 50.9407,
-                    lng: 6.9597,
+                    lat: 50.9408,
+                    lng: 6.9600,
                     story: "Vergeet de Dom — dit is Keulens echte meesterwerk. De grootste Pop Art collectie buiten de VS, Picasso's die je sprakeloos maken, en een gebouw dat zelf kunst is. Ga op donderdag na 17u voor rust.",
                     budget: "mid",
                     energy: "balanced"
@@ -182,8 +182,8 @@ const CITIES = {
                     neighborhood: "altstadt",
                     type: "🎨 Cultuur Wildcard",
                     address: "Kolumbastraße 4",
-                    lat: 50.9385,
-                    lng: 6.9533,
+                    lat: 50.9364,
+                    lng: 6.9526,
                     story: "Peter Zumthor bouwde dit museum letterlijk op de ruïnes van een gotische kerk. Licht, stilte, en kunst die je niet uitlegt maar laat voelen. Dit is geen museum — het is meditatie met muren.",
                     budget: "mid",
                     energy: "chill"
@@ -193,8 +193,8 @@ const CITIES = {
                     neighborhood: "altstadt",
                     type: "🎨 Cultuur Wildcard",
                     address: "Roncalliplatz",
-                    lat: 50.9410,
-                    lng: 6.9570,
+                    lat: 50.9412,
+                    lng: 6.9571,
                     story: "Onder je voeten ligt 2000 jaar geschiedenis. Romeinse riolen, middeleeuwse kelders, WWII-bunkers. Een lokale gids neemt je mee naar wat toeristen nooit zien: de stad onder de stad.",
                     budget: "mid",
                     energy: "explorer"
@@ -204,8 +204,8 @@ const CITIES = {
                     neighborhood: "suedstadt",
                     type: "🎨 Cultuur Wildcard",
                     address: "Sudermanstraße 2",
-                    lat: 50.9230,
-                    lng: 6.9638,
+                    lat: 50.9510,
+                    lng: 6.9564,
                     story: "Geen aankondigingen op Facebook, geen reserveringen. Loop binnen op een doordeweekse avond en er is 50% kans dat er iemand speelt die je nooit hebt gehoord maar nooit zal vergeten.",
                     budget: "low",
                     energy: "explorer"
@@ -215,8 +215,8 @@ const CITIES = {
                     neighborhood: "altstadt",
                     type: "🎨 Cultuur Wildcard",
                     address: "Cäcilienstraße 29-33",
-                    lat: 50.9348,
-                    lng: 6.9490,
+                    lat: 50.9354,
+                    lng: 6.9517,
                     story: "Culturen van de wereld, verteld zonder koloniaal perspectief. Dit museum laat je nadenken over hoe we naar 'de ander' kijken. Verrassend confronterend, verrassend relevant.",
                     budget: "mid",
                     energy: "balanced"
@@ -228,7 +228,7 @@ const CITIES = {
                     neighborhood: "suedstadt",
                     type: "🌙 Avondwandeling",
                     address: "Rheinauhafen → Südbrücke",
-                    lat: 50.9270,
+                    lat: 50.9252,
                     lng: 6.9660,
                     story: "Loop van de Rheinauhafen richting de Südbrücke als de zon ondergaat. De kranen van de haven worden silhouetten, roeiers glijden over het water, en Keulen voelt even als een mediterrane stad.",
                     budget: "low",
@@ -239,8 +239,8 @@ const CITIES = {
                     neighborhood: "suedstadt",
                     type: "🌙 Avondwandeling",
                     address: "Volksgarten",
-                    lat: 50.9222,
-                    lng: 6.9555,
+                    lat: 50.9219,
+                    lng: 6.9493,
                     story: "Het park verandert na donker. Studenten met wijn, joggers die hun dag uitlopen, en af en toe een saxofonist bij het meer. De stad stopt hier met druk zijn.",
                     budget: "low",
                     energy: "chill"
@@ -250,8 +250,8 @@ const CITIES = {
                     neighborhood: "ehrenfeld",
                     type: "🌙 Avondwandeling",
                     address: "Mediapark → Venloer Straße",
-                    lat: 50.9480,
-                    lng: 6.9310,
+                    lat: 50.9421,
+                    lng: 6.9399,
                     story: "Van het stille Mediapark loop je geleidelijk de chaos van Ehrenfeld in. Street art verschijnt, kebabzaken gloeien, en je eindigt ergens bij een Späti met een Kölsch in de hand.",
                     budget: "low",
                     energy: "balanced"
@@ -261,8 +261,8 @@ const CITIES = {
                     neighborhood: "belgisches",
                     type: "🌙 Avondwandeling",
                     address: "Aachener Weiher",
-                    lat: 50.9338,
-                    lng: 6.9322,
+                    lat: 50.9353,
+                    lng: 6.9277,
                     story: "Een vijver omringd door oude bomen, op loopafstand van het Belgisches Viertel. In de zomer zitten hier groepen met picknickmanden. In de winter is het stil genoeg om je eigen adem te horen.",
                     budget: "low",
                     energy: "chill"
@@ -274,8 +274,8 @@ const CITIES = {
                     neighborhood: "altstadt",
                     type: "🍽️ Locals-only Diner",
                     address: "Zülpicher Straße 9",
-                    lat: 50.9310,
-                    lng: 6.9410,
+                    lat: 50.9296,
+                    lng: 6.9382,
                     story: "Schnitzel zo groot als je bord, geserveerd door een team dat je behandelt als familie. Anthony Bourdain at hier. De muren hangen vol met foto's van beroemdheden die hier 'per ongeluk' binnenkwamen. Reserveer niet — wacht gewoon.",
                     budget: "mid",
                     energy: "balanced"
@@ -285,8 +285,8 @@ const CITIES = {
                     neighborhood: "belgisches",
                     type: "🍽️ Locals-only Diner",
                     address: "Aachener Straße 28",
-                    lat: 50.9358,
-                    lng: 6.9378,
+                    lat: 50.9375,
+                    lng: 6.9356,
                     story: "Drie zaken in één: slagerij, bar, restaurant. De Metzgerei (slagerij-kant) serveert 's avonds gerechten die je oma zou goedkeuren, in een setting die je oma niet zou herkennen. Bestelling gaat via krijtbord.",
                     budget: "mid",
                     energy: "balanced"
@@ -296,8 +296,8 @@ const CITIES = {
                     neighborhood: "ehrenfeld",
                     type: "🍽️ Locals-only Diner",
                     address: "Zülpicher Straße 28",
-                    lat: 50.9298,
-                    lng: 6.9390,
+                    lat: 50.9275,
+                    lng: 6.9342,
                     story: "Na middernacht is dit de enige plek die ertoe doet. Falafel die je bijblijft, hummus waar je stil van wordt, en een rij die bewijst dat de beste dingen in het leven wachten waard zijn.",
                     budget: "low",
                     energy: "explorer"
@@ -307,8 +307,8 @@ const CITIES = {
                     neighborhood: "altstadt",
                     type: "🍽️ Locals-only Diner",
                     address: "Apostelnstraße 19",
-                    lat: 50.9370,
-                    lng: 6.9468,
+                    lat: 50.9380,
+                    lng: 6.9447,
                     story: "Voor als 'diner' eigenlijk 'laat ontbijt' betekent. Patisserie-level gebak in een café dat eruitziet als een Wes Anderson-set. De locals noemen het hun 'guilty pleasure'. Ze hebben gelijk aan beide kanten.",
                     budget: "mid",
                     energy: "chill"
@@ -318,8 +318,8 @@ const CITIES = {
                     neighborhood: "suedstadt",
                     type: "🍽️ Locals-only Diner",
                     address: "Alteburger Straße 25",
-                    lat: 50.9235,
-                    lng: 6.9585,
+                    lat: 50.9389,
+                    lng: 6.9340,
                     story: "Grieks, maar dan zoals Grieken het zelf eten. Geen toeristen-moussaka, wel meze-tafels waar je twee uur voor gaat zitten. De eigenaar schenkt ouzo als je blijft tot na tienen. Blijf tot na tienen.",
                     budget: "mid",
                     energy: "balanced"
@@ -338,24 +338,24 @@ const CITIES = {
         },
         places: {
             coffee: [
-                { name: "Scandinavian Embassy", neighborhood: "depijp", type: "☕ Koffie", address: "Sarphatipark 34", lat: 52.3545, lng: 4.8930, story: "Nordic minimalism meets Amsterdamse gezelligheid. De kanelbroodjes zijn het echte kunstwerk hier, niet de latte art. Ga op zaterdag, neem een boek mee, en doe alsof je een local bent.", budget: "mid", energy: "chill" },
-                { name: "Lot Sixty One", neighborhood: "jordaan", type: "☕ Koffie", address: "Kinkerstraat 112", lat: 52.3640, lng: 4.8710, story: "Geen wifi. Geen stopcontacten. Alleen koffie die zo goed is dat je je laptop niet mist. De eigenaren hebben in Melbourne geleerd wat koffie kan zijn.", budget: "low", energy: "balanced" },
-                { name: "Back to Black", neighborhood: "jordaan", type: "☕ Koffie", address: "Weteringstraat 48", lat: 52.3610, lng: 4.8878, story: "Verstopt achter een onopvallende gevel. Binnen is het een parel: verse roast, keramiek van lokale kunstenaars, en een barista die vijf minuten over je pour-over praat als je het toelaat.", budget: "low", energy: "chill" }
+                { name: "Scandinavian Embassy", neighborhood: "depijp", type: "☕ Koffie", address: "Sarphatipark 34", lat: 52.3535, lng: 4.8942, story: "Nordic minimalism meets Amsterdamse gezelligheid. De kanelbroodjes zijn het echte kunstwerk hier, niet de latte art. Ga op zaterdag, neem een boek mee, en doe alsof je een local bent.", budget: "mid", energy: "chill" },
+                { name: "Lot Sixty One", neighborhood: "jordaan", type: "☕ Koffie", address: "Kinkerstraat 112", lat: 52.3688, lng: 4.8695, story: "Geen wifi. Geen stopcontacten. Alleen koffie die zo goed is dat je je laptop niet mist. De eigenaren hebben in Melbourne geleerd wat koffie kan zijn.", budget: "low", energy: "balanced" },
+                { name: "Back to Black", neighborhood: "jordaan", type: "☕ Koffie", address: "Weteringstraat 48", lat: 52.3610, lng: 4.8884, story: "Verstopt achter een onopvallende gevel. Binnen is het een parel: verse roast, keramiek van lokale kunstenaars, en een barista die vijf minuten over je pour-over praat als je het toelaat.", budget: "low", energy: "chill" }
             ],
             character: [
-                { name: "NDSM Werf", neighborhood: "noord", type: "🎭 Karakter", address: "NDSM-plein 28", lat: 52.4012, lng: 4.8915, story: "Voormalige scheepswerf, nu een creatieve vrijhaven. Graffiti, ateliers, een strandje, en het gevoel dat alles hier mogelijk is. Neem de pont — de overtocht is al een beleving.", budget: "low", energy: "explorer" },
-                { name: "Noordermarkt (zaterdag)", neighborhood: "jordaan", type: "🎭 Karakter", address: "Noordermarkt 48", lat: 52.3805, lng: 4.8840, story: "Boerenmarkt op zaterdag. Organic kaas, vers brood, bloemen. De Jordanezen doen hier hun weekend-inkopen terwijl ze buurvrouwen begroeten. Dit is niet shoppen, dit is sociologie.", budget: "low", energy: "balanced" }
+                { name: "NDSM Werf", neighborhood: "noord", type: "🎭 Karakter", address: "NDSM-plein 28", lat: 52.4000, lng: 4.8931, story: "Voormalige scheepswerf, nu een creatieve vrijhaven. Graffiti, ateliers, een strandje, en het gevoel dat alles hier mogelijk is. Neem de pont — de overtocht is al een beleving.", budget: "low", energy: "explorer" },
+                { name: "Noordermarkt (zaterdag)", neighborhood: "jordaan", type: "🎭 Karakter", address: "Noordermarkt 48", lat: 52.3742, lng: 4.8850, story: "Boerenmarkt op zaterdag. Organic kaas, vers brood, bloemen. De Jordanezen doen hier hun weekend-inkopen terwijl ze buurvrouwen begroeten. Dit is niet shoppen, dit is sociologie.", budget: "low", energy: "balanced" }
             ],
             cultural: [
-                { name: "Foam Fotografiemuseum", neighborhood: "jordaan", type: "🎨 Cultuur Wildcard", address: "Keizersgracht 609", lat: 52.3635, lng: 4.8870, story: "Klein, intiem, en altijd verrassend. Fotografie die je perspectief verschuift. Het grachtenpand alleen is al de moeite waard.", budget: "mid", energy: "balanced" },
-                { name: "EYE Filmmuseum", neighborhood: "noord", type: "🎨 Cultuur Wildcard", address: "IJpromenade 1", lat: 52.3843, lng: 4.9008, story: "Het gebouw lijkt op een ruimteschip dat op de IJ-oever is geland. Binnen: filmgeschiedenis, experimentele installaties, en het beste terras van Amsterdam.", budget: "mid", energy: "balanced" }
+                { name: "Foam Fotografiemuseum", neighborhood: "jordaan", type: "🎨 Cultuur Wildcard", address: "Keizersgracht 609", lat: 52.3594, lng: 4.8942, story: "Klein, intiem, en altijd verrassend. Fotografie die je perspectief verschuift. Het grachtenpand alleen is al de moeite waard.", budget: "mid", energy: "balanced" },
+                { name: "EYE Filmmuseum", neighborhood: "noord", type: "🎨 Cultuur Wildcard", address: "IJpromenade 1", lat: 52.3843, lng: 4.9012, story: "Het gebouw lijkt op een ruimteschip dat op de IJ-oever is geland. Binnen: filmgeschiedenis, experimentele installaties, en het beste terras van Amsterdam.", budget: "mid", energy: "balanced" }
             ],
             walks: [
                 { name: "Vondelpark → Jordaan slenteren", neighborhood: "jordaan", type: "🌙 Avondwandeling", address: "Vondelpark → Jordaan", lat: 52.3580, lng: 4.8686, story: "Start bij het Vondelpark als de straatlantaarns aangaan. Loop via de stille grachten van de Jordaan waar het licht op het water danst. Eindig bij een bruin café dat al 100 jaar hetzelfde doet.", budget: "low", energy: "chill" }
             ],
             dinner: [
-                { name: "Wilde Zwijnen", neighborhood: "oost", type: "🍽️ Locals-only Diner", address: "Javaplein 23", lat: 52.3615, lng: 4.9340, story: "Farm-to-table voordat het een buzzword was. Het menu verandert dagelijks, de ingrediënten komen van boeren die de chef bij naam kent. Amsterdam-Oost op z'n best.", budget: "high", energy: "balanced" },
-                { name: "Bar Spek", neighborhood: "jordaan", type: "🍽️ Locals-only Diner", address: "Admiraal de Ruyterweg 1", lat: 52.3745, lng: 4.8710, story: "Geen menu. Je eet wat de chef maakt. Klinkt eng? Dat is het punt. Elke avond een verrassing, altijd spectaculair. Dit is blind vertrouwen in iemands talent.", budget: "mid", energy: "explorer" }
+                { name: "Wilde Zwijnen", neighborhood: "oost", type: "🍽️ Locals-only Diner", address: "Javaplein 23", lat: 52.3614, lng: 4.9412, story: "Farm-to-table voordat het een buzzword was. Het menu verandert dagelijks, de ingrediënten komen van boeren die de chef bij naam kent. Amsterdam-Oost op z'n best.", budget: "high", energy: "balanced" },
+                { name: "Bar Spek", neighborhood: "jordaan", type: "🍽️ Locals-only Diner", address: "Admiraal de Ruyterweg 1", lat: 52.3737, lng: 4.8598, story: "Geen menu. Je eet wat de chef maakt. Klinkt eng? Dat is het punt. Elke avond een verrassing, altijd spectaculair. Dit is blind vertrouwen in iemands talent.", budget: "mid", energy: "explorer" }
             ]
         }
     },
@@ -369,20 +369,20 @@ const CITIES = {
         },
         places: {
             coffee: [
-                { name: "Caffènation", neighborhood: "zuidstation", type: "☕ Koffie", address: "Hopland 46", lat: 51.2170, lng: 4.4078, story: "Antwerpen's koffie-pionier. Ze roastten al specialty coffee toen de rest van België nog oploskoffie dronk. De espresso is kort, sterk, en verandert je ochtend.", budget: "low", energy: "balanced" },
-                { name: "Normo", neighborhood: "eilandje", type: "☕ Koffie", address: "Minderbroedersrui 30", lat: 51.2230, lng: 4.4110, story: "Koffie en vinyl. Letterlijk — er staat een platenwinkel naast de bar. Bestel een V60, blader door de jazz-sectie, en vergeet dat je een toerist bent.", budget: "low", energy: "chill" }
+                { name: "Caffènation", neighborhood: "zuidstation", type: "☕ Koffie", address: "Hopland 46", lat: 51.2140, lng: 4.4062, story: "Antwerpen's koffie-pionier. Ze roastten al specialty coffee toen de rest van België nog oploskoffie dronk. De espresso is kort, sterk, en verandert je ochtend.", budget: "low", energy: "balanced" },
+                { name: "Normo", neighborhood: "eilandje", type: "☕ Koffie", address: "Minderbroedersrui 30", lat: 51.2224, lng: 4.4042, story: "Koffie en vinyl. Letterlijk — er staat een platenwinkel naast de bar. Bestel een V60, blader door de jazz-sectie, en vergeet dat je een toerist bent.", budget: "low", energy: "chill" }
             ],
             character: [
-                { name: "Cogels-Osylei wandeling", neighborhood: "zurenborg", type: "🎭 Karakter", address: "Cogels-Osylei", lat: 51.2068, lng: 4.4225, story: "De mooiste straat van België die niemand kent. Art nouveau gevels in elke kleur, elk een meesterwerk. Loop langzaam, kijk omhoog, en realiseer je dat schoonheid soms gewoon in een woonwijk woont.", budget: "low", energy: "balanced" }
+                { name: "Cogels-Osylei wandeling", neighborhood: "zurenborg", type: "🎭 Karakter", address: "Cogels-Osylei", lat: 51.2018, lng: 4.4340, story: "De mooiste straat van België die niemand kent. Art nouveau gevels in elke kleur, elk een meesterwerk. Loop langzaam, kijk omhoog, en realiseer je dat schoonheid soms gewoon in een woonwijk woont.", budget: "low", energy: "balanced" }
             ],
             cultural: [
-                { name: "M HKA", neighborhood: "zuidstation", type: "🎨 Cultuur Wildcard", address: "Leuvenstraat 32", lat: 51.2095, lng: 4.3988, story: "Museum voor Hedendaagse Kunst. Klein maar confronterend. De tentoonstellingen zijn nooit veilig — en dat is precies waarom je hier moet zijn.", budget: "mid", energy: "balanced" }
+                { name: "M HKA", neighborhood: "zuidstation", type: "🎨 Cultuur Wildcard", address: "Leuvenstraat 32", lat: 51.2111, lng: 4.3953, story: "Museum voor Hedendaagse Kunst. Klein maar confronterend. De tentoonstellingen zijn nooit veilig — en dat is precies waarom je hier moet zijn.", budget: "mid", energy: "balanced" }
             ],
             walks: [
-                { name: "Scheldekaaien bij schemering", neighborhood: "eilandje", type: "🌙 Avondwandeling", address: "Scheldekaaien", lat: 51.2215, lng: 4.3932, story: "De vernieuwde kaai langs de Schelde. Bij schemering zie je de stad in een ander licht: de kathedraal als silhouet, het water dat glinsters, en een rust die je niet verwacht van een havenstad.", budget: "low", energy: "chill" }
+                { name: "Scheldekaaien bij schemering", neighborhood: "eilandje", type: "🌙 Avondwandeling", address: "Scheldekaaien", lat: 51.2200, lng: 4.3940, story: "De vernieuwde kaai langs de Schelde. Bij schemering zie je de stad in een ander licht: de kathedraal als silhouet, het water dat glinsters, en een rust die je niet verwacht van een havenstad.", budget: "low", energy: "chill" }
             ],
             dinner: [
-                { name: "Het Gerecht", neighborhood: "zuidstation", type: "🍽️ Locals-only Diner", address: "Amerikalei 20", lat: 51.2103, lng: 4.3975, story: "Voormalige rechtbank, nu restaurant. De ironie is niet verloren: je wordt hier 'veroordeeld' tot genieten. Belgische keuken met flair, in een zaal met meer karakter dan de meeste Michelin-zaken.", budget: "high", energy: "balanced" }
+                { name: "Het Gerecht", neighborhood: "zuidstation", type: "🍽️ Locals-only Diner", address: "Amerikalei 20", lat: 51.2082, lng: 4.3990, story: "Voormalige rechtbank, nu restaurant. De ironie is niet verloren: je wordt hier 'veroordeeld' tot genieten. Belgische keuken met flair, in een zaal met meer karakter dan de meeste Michelin-zaken.", budget: "high", energy: "balanced" }
             ]
         }
     },
@@ -397,22 +397,22 @@ const CITIES = {
         },
         places: {
             coffee: [
-                { name: "Copenhagen Coffee Lab", neighborhood: "principe", type: "☕ Koffie", address: "Rua Nova da Piedade 10", lat: 38.7142, lng: -9.1485, story: "Scandinavische koffie in een Portugees paleis. De tegels op de muur zijn origineel azulejo, de melk is oat, en de contradictie is prachtig. Ga naar het terras achter — dat kent niemand.", budget: "mid", energy: "chill" },
-                { name: "Fabrica Coffee Roasters", neighborhood: "mouraria", type: "☕ Koffie", address: "Rua das Portas de Santo Antão 136", lat: 38.7170, lng: -9.1415, story: "Verstopt in een steegje dat je drie keer zou missen. Binnen ruikt het naar vers gebrande bonen en hoop. De eigenaar vluchtte uit een corporate leven en opende dit. Je proeft de vrijheid.", budget: "low", energy: "balanced" }
+                { name: "Copenhagen Coffee Lab", neighborhood: "principe", type: "☕ Koffie", address: "Rua Nova da Piedade 10", lat: 38.7106, lng: -9.1518, story: "Scandinavische koffie in een Portugees paleis. De tegels op de muur zijn origineel azulejo, de melk is oat, en de contradictie is prachtig. Ga naar het terras achter — dat kent niemand.", budget: "mid", energy: "chill" },
+                { name: "Fabrica Coffee Roasters", neighborhood: "mouraria", type: "☕ Koffie", address: "Rua das Portas de Santo Antão 136", lat: 38.7166, lng: -9.1397, story: "Verstopt in een steegje dat je drie keer zou missen. Binnen ruikt het naar vers gebrande bonen en hoop. De eigenaar vluchtte uit een corporate leven en opende dit. Je proeft de vrijheid.", budget: "low", energy: "balanced" }
             ],
             character: [
-                { name: "Feira da Ladra (dinsdag/zaterdag)", neighborhood: "alfama", type: "🎭 Karakter", address: "Campo de Santa Clara", lat: 38.7148, lng: -9.1242, story: "Rommelmarkt met ziel. Tussen de troep vind je azulejo-tegels, vintage fado-platen, en verhalen van verkopers die hier al 30 jaar staan. Het is chaos, maar de mooie soort.", budget: "low", energy: "explorer" },
-                { name: "Miradouro da Graça (niet Senhora do Monte)", neighborhood: "alfama", type: "🎭 Karakter", address: "Largo da Graça", lat: 38.7182, lng: -9.1310, story: "Elke blog noemt Senhora do Monte. Ga in plaats daarvan naar Graça: hetzelfde uitzicht, een tiende van de toeristen, en een kiosk die ginjinha schenkt voor €1. Proost op het uitzicht.", budget: "low", energy: "balanced" }
+                { name: "Feira da Ladra (dinsdag/zaterdag)", neighborhood: "alfama", type: "🎭 Karakter", address: "Campo de Santa Clara", lat: 38.7150, lng: -9.1240, story: "Rommelmarkt met ziel. Tussen de troep vind je azulejo-tegels, vintage fado-platen, en verhalen van verkopers die hier al 30 jaar staan. Het is chaos, maar de mooie soort.", budget: "low", energy: "explorer" },
+                { name: "Miradouro da Graça (niet Senhora do Monte)", neighborhood: "alfama", type: "🎭 Karakter", address: "Largo da Graça", lat: 38.7172, lng: -9.1297, story: "Elke blog noemt Senhora do Monte. Ga in plaats daarvan naar Graça: hetzelfde uitzicht, een tiende van de toeristen, en een kiosk die ginjinha schenkt voor €1. Proost op het uitzicht.", budget: "low", energy: "balanced" }
             ],
             cultural: [
-                { name: "MAAT", neighborhood: "lxfactory", type: "🎨 Cultuur Wildcard", address: "Av. Brasília", lat: 38.6965, lng: -9.1920, story: "Museum aan de Taag dat eruitziet als een golf die land raakt. De tentoonstellingen wisselen, maar het dak is altijd open: loop eroverheen en kijk uit over de rivier. Architectuur als kunst.", budget: "mid", energy: "balanced" }
+                { name: "MAAT", neighborhood: "lxfactory", type: "🎨 Cultuur Wildcard", address: "Av. Brasília", lat: 38.6959, lng: -9.1945, story: "Museum aan de Taag dat eruitziet als een golf die land raakt. De tentoonstellingen wisselen, maar het dak is altijd open: loop eroverheen en kijk uit over de rivier. Architectuur als kunst.", budget: "mid", energy: "balanced" }
             ],
             walks: [
                 { name: "Alfama verdwaal-sessie bij schemering", neighborhood: "alfama", type: "🌙 Avondwandeling", address: "Start bij Castelo de São Jorge", lat: 38.7139, lng: -9.1335, story: "Geen Google Maps. Begin bij het kasteel en loop bergafwaarts. Elke steeg is een verrassing: fado uit een open raam, katten op trappen, wasgoed als vlaggen. Je verdwaalt. Dat is het punt.", budget: "low", energy: "balanced" }
             ],
             dinner: [
-                { name: "Taberna da Rua das Flores", neighborhood: "mouraria", type: "🍽️ Locals-only Diner", address: "Rua das Flores 103", lat: 38.7115, lng: -9.1435, story: "Geen reserveringen, geen menu, geen keuze. Chef André kiest voor je. Kleine gerechten die de Portugese keuken deconstrueren en weer opbouwen. De rij op straat is je garantie.", budget: "mid", energy: "explorer" },
-                { name: "Tasca do Chico", neighborhood: "alfama", type: "🍽️ Locals-only Diner", address: "Rua do Diário de Notícias 39", lat: 38.7118, lng: -9.1430, story: "Fado + eten + te veel wijn in een ruimte zo klein dat je elleboog in het bord van je buurman belandt. Als de zanger begint, stopt alles. Letterlijk alles. Dit is waarom je naar Lissabon kwam.", budget: "mid", energy: "balanced" }
+                { name: "Taberna da Rua das Flores", neighborhood: "mouraria", type: "🍽️ Locals-only Diner", address: "Rua das Flores 103", lat: 38.7100, lng: -9.1436, story: "Geen reserveringen, geen menu, geen keuze. Chef André kiest voor je. Kleine gerechten die de Portugese keuken deconstrueren en weer opbouwen. De rij op straat is je garantie.", budget: "mid", energy: "explorer" },
+                { name: "Tasca do Chico", neighborhood: "alfama", type: "🍽️ Locals-only Diner", address: "Rua do Diário de Notícias 39", lat: 38.7118, lng: -9.1440, story: "Fado + eten + te veel wijn in een ruimte zo klein dat je elleboog in het bord van je buurman belandt. Als de zanger begint, stopt alles. Letterlijk alles. Dit is waarom je naar Lissabon kwam.", budget: "mid", energy: "balanced" }
             ]
         }
     }
