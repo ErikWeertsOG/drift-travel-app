@@ -1306,6 +1306,7 @@ function dismissRandomTip() {
 
 let trendingData = null;
 let trendingCity = 'cologne';
+let trendingFilter = 'all'; // 'all', 'food', 'music', 'culture'
 let trendingLastFetch = 0; // timestamp of last successful fetch
 
 async function loadTrending() {
@@ -1404,17 +1405,31 @@ function renderTrendingResults(data, city) {
     const titleEl = document.getElementById('trending-results-title');
     const updatedEl = document.getElementById('trending-last-updated');
     const cardsEl = document.getElementById('trending-cards');
+    const errorEl = document.getElementById('trending-error');
 
     const cityData = data.cities[city];
     if (!cityData || !cityData.places || cityData.places.length === 0) {
-        document.getElementById('trending-error').style.display = 'block';
+        errorEl.style.display = 'block';
         document.getElementById('trending-error-text').textContent =
             `Geen trending data voor ${CITIES[city]?.name || city}.`;
+        resultsEl.style.display = 'none';
         return;
     }
 
+    errorEl.style.display = 'none';
+
+    // Apply category filter
+    let places = cityData.places;
+    if (trendingFilter !== 'all') {
+        places = places.filter(p => p.trendingCategory === trendingFilter);
+    }
+
     const cityName = CITIES[city]?.name || city;
-    titleEl.textContent = `🔥 Trending in ${cityName}`;
+    const filterLabel = trendingFilter === 'all' ? '' :
+        trendingFilter === 'food' ? ' — Food & Drinks' :
+        trendingFilter === 'music' ? ' — Live Muziek' :
+        trendingFilter === 'culture' ? ' — Kunst & Musea' : '';
+    titleEl.textContent = `🔥 Trending in ${cityName}${filterLabel}`;
 
     // Format last updated with freshness indicator
     if (data.lastUpdated) {
@@ -1442,17 +1457,48 @@ function renderTrendingResults(data, city) {
 
         updatedEl.innerHTML = `${freshIcon} Bijgewerkt: ${timeAgo}`;
 
-        // Add stale warning if data is older than 48 hours
         if (diffHours > 48) {
             updatedEl.innerHTML += ' <span class="trending-stale-warning">— data wordt dagelijks ververst</span>';
         }
     }
 
+    // Count per category for badge numbers
+    const allPlaces = cityData.places;
+    const counts = {
+        all: allPlaces.length,
+        food: allPlaces.filter(p => p.trendingCategory === 'food').length,
+        music: allPlaces.filter(p => p.trendingCategory === 'music').length,
+        culture: allPlaces.filter(p => p.trendingCategory === 'culture').length
+    };
+
+    // Update filter button counts
+    document.querySelectorAll('.trending-filter-btn').forEach(btn => {
+        const filter = btn.dataset.filter;
+        const count = counts[filter] || 0;
+        const labels = {
+            all: `Alles (${count})`,
+            food: `🍴 Food (${count})`,
+            music: `🎵 Muziek (${count})`,
+            culture: `🎨 Kunst (${count})`
+        };
+        btn.textContent = labels[filter] || btn.textContent;
+    });
+
     cardsEl.innerHTML = '';
 
-    cityData.places.forEach((place, i) => {
+    if (places.length === 0) {
+        cardsEl.innerHTML = '<p class="no-results">Geen resultaten voor dit filter in deze stad.</p>';
+        resultsEl.style.display = 'block';
+        return;
+    }
+
+    places.forEach((place, i) => {
         const card = document.createElement('div');
         card.className = 'place-card trending-place-card';
+
+        // Category-specific border color
+        if (place.trendingCategory === 'music') card.classList.add('trending-music');
+        if (place.trendingCategory === 'culture') card.classList.add('trending-culture');
 
         // Score badge color
         let scoreClass = 'trending-score-hot';
@@ -1460,9 +1506,8 @@ function renderTrendingResults(data, city) {
         if (place.score < 50) scoreClass = 'trending-score-mild';
 
         // Source icon
-        const sourceIcon = place.source === 'reddit' ? '💬' : (place.source === 'live' ? '⚡' : '📍');
-        const sourceLabel = place.source === 'reddit' ? 'Reddit' :
-            (place.source === 'live' ? 'Live' : 'Foursquare');
+        const sourceIcon = place.source === 'reddit' ? '💬' : '📍';
+        const sourceLabel = place.source === 'reddit' ? 'Reddit' : 'Foursquare';
 
         // Distance if location available
         let distHtml = '';
@@ -1477,7 +1522,7 @@ function renderTrendingResults(data, city) {
         const searchQuery = encodeURIComponent(`${place.name} ${place.address || ''}`);
         const mapsLink = `https://www.google.com/maps/search/?api=1&query=${searchQuery}`;
 
-        // Reddit link
+        // Source link
         let sourceLink = '';
         if (place.url) {
             sourceLink = `<a href="${place.url}" target="_blank" rel="noopener" class="trending-source-link">Bekijk op Reddit ↗</a>`;
@@ -1507,7 +1552,7 @@ function renderTrendingResults(data, city) {
         cardsEl.appendChild(card);
 
         // Animate in
-        setTimeout(() => card.classList.add('visible'), i * 100 + 100);
+        setTimeout(() => card.classList.add('visible'), i * 80 + 80);
     });
 
     resultsEl.style.display = 'block';
@@ -1647,6 +1692,18 @@ document.addEventListener('DOMContentLoaded', () => {
                 renderTrendingResults(trendingData, trendingCity);
             } else {
                 loadTrending();
+            }
+        });
+    });
+
+    // Trending category filter
+    document.querySelectorAll('.trending-filter-btn').forEach(btn => {
+        btn.addEventListener('click', function () {
+            document.querySelectorAll('.trending-filter-btn').forEach(b => b.classList.remove('active'));
+            this.classList.add('active');
+            trendingFilter = this.dataset.filter;
+            if (trendingData) {
+                renderTrendingResults(trendingData, trendingCity);
             }
         });
     });

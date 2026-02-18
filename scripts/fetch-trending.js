@@ -2,11 +2,12 @@
 
 // ============================================
 // DRIFT APP — Fetch Trending Places
-// Runs via GitHub Actions (weekly) or manually
+// Runs via GitHub Actions (daily) or manually
 // ============================================
 // Sources:
 //   1. Reddit (public JSON endpoints, no auth needed)
 //   2. Foursquare (API key needed, set as FOURSQUARE_API_KEY)
+// Categories: 🍴 Food & Drinks, 🎵 Live Muziek, 🎨 Kunst & Musea
 // Output: trending.json
 
 const fs = require('fs');
@@ -14,42 +15,84 @@ const path = require('path');
 
 const FOURSQUARE_API_KEY = process.env.FOURSQUARE_API_KEY || '';
 
-// City configurations
+// ============================================
+// CITY & CATEGORY CONFIGURATIONS
+// ============================================
+
+const CATEGORIES = {
+    food: {
+        label: '🍴 Food & Drinks',
+        redditTerms: ['restaurant', 'bar', 'cafe', 'coffee', 'food', 'brunch', 'cocktail', 'wine', 'beer', 'tapas', 'bistro', 'bakery', 'street food'],
+        // Foursquare: Food (13000), Nightlife (10032), Coffee (13032), Bars (13003)
+        foursquareCategories: '13000,13003,13032,10032',
+        foursquareLimit: 8
+    },
+    music: {
+        label: '🎵 Live Muziek',
+        redditTerms: ['live music', 'concert', 'gig', 'jazz', 'venue', 'club', 'DJ', 'band', 'festival', 'open mic', 'techno', 'electronic', 'indie'],
+        // Foursquare: Arts & Entertainment (10000), Nightlife (10032), Music Venue (10039)
+        foursquareCategories: '10039,10032,10000',
+        foursquareLimit: 6
+    },
+    culture: {
+        label: '🎨 Kunst & Musea',
+        redditTerms: ['museum', 'gallery', 'art', 'exhibition', 'expo', 'theater', 'theatre', 'culture', 'photography', 'contemporary', 'street art', 'mural', 'installation'],
+        // Foursquare: Arts & Entertainment (10000), Museum (10027), Gallery (10025)
+        foursquareCategories: '10027,10025,10000',
+        foursquareLimit: 6
+    }
+};
+
 const CITIES = {
     cologne: {
         name: 'Keulen',
-        lat: 50.9375,
-        lng: 6.9603,
+        lat: 50.9375, lng: 6.9603,
         subreddits: ['cologne'],
-        searchTerms: ['restaurant', 'bar', 'cafe', 'coffee', 'food', 'Kneipe', 'Brauhaus']
+        extraTerms: {
+            food: ['Brauhaus', 'Kneipe', 'Kölsch', 'biergarten'],
+            music: ['Gebäude 9', 'Stadtgarten', 'Underground', 'Karneval'],
+            culture: ['Museum Ludwig', 'Kolumba', 'street art Ehrenfeld']
+        }
     },
     amsterdam: {
         name: 'Amsterdam',
-        lat: 52.3676,
-        lng: 4.9041,
+        lat: 52.3676, lng: 4.9041,
         subreddits: ['amsterdam'],
-        searchTerms: ['restaurant', 'bar', 'cafe', 'coffee', 'food', 'terrace', 'brunch']
+        extraTerms: {
+            food: ['terrace', 'borrel', 'brown cafe', 'bruin café'],
+            music: ['Paradiso', 'Melkweg', 'Bimhuis', 'Tolhuistuin', 'Concertgebouw'],
+            culture: ['Rijksmuseum', 'Stedelijk', 'FOAM', 'Eye', 'NDSM', 'gallery']
+        }
     },
     antwerp: {
         name: 'Antwerpen',
-        lat: 51.2194,
-        lng: 4.4025,
+        lat: 51.2194, lng: 4.4025,
         subreddits: ['antwerp'],
-        searchTerms: ['restaurant', 'bar', 'cafe', 'food', 'beer', 'brunch']
+        extraTerms: {
+            food: ['bier', 'frituur', 'Bolleke'],
+            music: ['Trix', 'De Roma', 'Kavka', 'Petrol'],
+            culture: ['FOMU', 'MAS', 'M HKA', 'KMSKA', 'fashion', 'design']
+        }
     },
     lisbon: {
         name: 'Lissabon',
-        lat: 38.7223,
-        lng: -9.1393,
+        lat: 38.7223, lng: -9.1393,
         subreddits: ['lisbon'],
-        searchTerms: ['restaurant', 'bar', 'cafe', 'food', 'pasteis', 'fado']
+        extraTerms: {
+            food: ['pasteis', 'tasca', 'cervejaria', 'ginjinha', 'bifana'],
+            music: ['fado', 'Musicbox', 'Lux Frágil', 'ZDB', 'Village Underground'],
+            culture: ['MAAT', 'Berardo', 'Gulbenkian', 'LX Factory', 'azulejo', 'street art']
+        }
     },
     newcastle: {
         name: 'Newcastle',
-        lat: 54.9783,
-        lng: -1.6178,
+        lat: 54.9783, lng: -1.6178,
         subreddits: ['NewcastleUponTyne'],
-        searchTerms: ['restaurant', 'bar', 'pub', 'cafe', 'food', 'brunch', 'beer']
+        extraTerms: {
+            food: ['pub', 'ale', 'Grainger Market', 'supper club'],
+            music: ['Sage', 'Cluny', 'Think Tank', 'Boiler Shop', 'Head of Steam'],
+            culture: ['BALTIC', 'Laing', 'Biscuit Factory', 'Ouseburn', 'Side Gallery']
+        }
     }
 };
 
@@ -62,15 +105,13 @@ async function fetchRedditPosts(subreddit, searchTerms) {
     const query = searchTerms.join('+OR+');
 
     try {
-        const url = `https://www.reddit.com/r/${subreddit}/search.json?q=${query}&sort=hot&t=week&limit=50`;
+        const url = `https://www.reddit.com/r/${subreddit}/search.json?q=${query}&sort=hot&t=week&limit=50&restrict_sr=on`;
         const response = await fetch(url, {
-            headers: {
-                'User-Agent': 'DriftApp/1.0 (trending-fetcher)'
-            }
+            headers: { 'User-Agent': 'DriftApp/2.0 (trending-fetcher)' }
         });
 
         if (!response.ok) {
-            console.warn(`Reddit fetch failed for r/${subreddit}: ${response.status}`);
+            console.warn(`  Reddit fetch failed for r/${subreddit}: ${response.status}`);
             return posts;
         }
 
@@ -83,7 +124,7 @@ async function fetchRedditPosts(subreddit, searchTerms) {
 
             posts.push({
                 title: post.title || '',
-                body: (post.selftext || '').substring(0, 500),
+                body: (post.selftext || '').substring(0, 1000),
                 score: post.score || 0,
                 numComments: post.num_comments || 0,
                 url: `https://reddit.com${post.permalink}`,
@@ -91,69 +132,141 @@ async function fetchRedditPosts(subreddit, searchTerms) {
             });
         }
     } catch (err) {
-        console.warn(`Reddit error for r/${subreddit}:`, err.message);
+        console.warn(`  Reddit error for r/${subreddit}:`, err.message);
     }
 
     return posts;
 }
 
-function extractPlacesFromReddit(posts, subreddit) {
-    // Simple keyword extraction — look for capitalized place names
-    // and common patterns like "X is great", "went to X", "try X"
-    const placeNamePattern = /(?:at|to|try|visited|went to|recommend|love|check out|called)\s+["']?([A-Z][A-Za-zÀ-ÿ\s'&.-]{2,30})["']?/gi;
+// Also fetch the subreddit's hot posts (not just search) for broader coverage
+async function fetchRedditHot(subreddit) {
+    const posts = [];
+
+    try {
+        const url = `https://www.reddit.com/r/${subreddit}/hot.json?limit=30`;
+        const response = await fetch(url, {
+            headers: { 'User-Agent': 'DriftApp/2.0 (trending-fetcher)' }
+        });
+
+        if (!response.ok) return posts;
+
+        const data = await response.json();
+        const children = data?.data?.children || [];
+
+        for (const child of children) {
+            const post = child.data;
+            if (!post || post.stickied) continue;
+
+            posts.push({
+                title: post.title || '',
+                body: (post.selftext || '').substring(0, 1000),
+                score: post.score || 0,
+                numComments: post.num_comments || 0,
+                url: `https://reddit.com${post.permalink}`,
+                created: post.created_utc || 0
+            });
+        }
+    } catch (err) {
+        console.warn(`  Reddit hot error for r/${subreddit}:`, err.message);
+    }
+
+    return posts;
+}
+
+function extractPlacesFromReddit(posts, subreddit, category) {
+    // Enhanced regex: captures place names after common recommendation phrases
+    const patterns = [
+        /(?:at|to|try|visited|went to|recommend|love|check out|called|been to|go to|enjoyed)\s+["']?([A-Z][A-Za-zÀ-ÿ\s'&.\-/]{2,35})["']?/gi,
+        /["']([A-Z][A-Za-zÀ-ÿ\s'&.\-/]{2,30})["']\s+(?:is|was|has|had|does|offers|serves)/gi,
+        /(?:^|\.\s+)([A-Z][A-Za-zÀ-ÿ\s'&.\-/]{3,30})\s+(?:is great|is amazing|is fantastic|is incredible|is worth|is the best|is underrated|was brilliant)/gi
+    ];
+
     const mentionCounts = {};
+    const falsePositives = /^(The|This|That|It|I|You|We|My|But|And|Not|Just|Very|Really|Also|There|They|What|Which|Where|When|How|Some|Any|Every|Most|Many|Such|Their|These|Those|Does|Has|Have|Been|Being|Would|Could|Should|Maybe|Actually|However|Although|Because|Since|After|Before|During|While|About|Like|Just|Only)$/i;
 
     for (const post of posts) {
         const text = `${post.title} ${post.body}`;
-        let match;
 
-        while ((match = placeNamePattern.exec(text)) !== null) {
-            const name = match[1].trim();
-            // Filter out common false positives
-            if (name.length < 3 || /^(The|This|That|It|I|You|We|My|But|And|Not|Just|Very|Really)$/i.test(name)) continue;
+        for (const pattern of patterns) {
+            pattern.lastIndex = 0;
+            let match;
+            while ((match = pattern.exec(text)) !== null) {
+                const name = match[1].trim().replace(/\s+/g, ' ');
+                if (name.length < 3 || name.length > 35) continue;
+                if (falsePositives.test(name)) continue;
+                // Skip if it's all lowercase after first char (likely not a place name)
+                if (name.substring(1) === name.substring(1).toLowerCase() && name.split(' ').length === 1 && name.length < 6) continue;
 
-            if (!mentionCounts[name]) {
-                mentionCounts[name] = { count: 0, totalScore: 0, url: null };
-            }
-            mentionCounts[name].count++;
-            mentionCounts[name].totalScore += post.score;
-            if (!mentionCounts[name].url) {
-                mentionCounts[name].url = post.url;
+                if (!mentionCounts[name]) {
+                    mentionCounts[name] = { count: 0, totalScore: 0, comments: 0, urls: [], bestUrl: null };
+                }
+                mentionCounts[name].count++;
+                mentionCounts[name].totalScore += post.score;
+                mentionCounts[name].comments += post.numComments;
+                if (post.url && !mentionCounts[name].urls.includes(post.url)) {
+                    mentionCounts[name].urls.push(post.url);
+                }
+                if (!mentionCounts[name].bestUrl || post.score > (mentionCounts[name].bestScore || 0)) {
+                    mentionCounts[name].bestUrl = post.url;
+                    mentionCounts[name].bestScore = post.score;
+                }
             }
         }
     }
 
-    // Convert to places array, sorted by mention count * score
     return Object.entries(mentionCounts)
+        .filter(([_, data]) => data.count >= 1) // At least 1 mention
         .map(([name, data]) => ({
             name,
             source: 'reddit',
-            category: 'Mentioned on Reddit',
+            trendingCategory: category,
+            category: categoryLabel(category),
             address: null,
             lat: null,
             lng: null,
-            score: Math.min(100, Math.round(data.count * 10 + data.totalScore / 10)),
-            signal: `${data.count}x genoemd op r/${subreddit} deze week`,
-            url: data.url
+            score: Math.min(100, Math.round(
+                (data.count * 12) +
+                (data.totalScore / 8) +
+                (data.comments / 15) +
+                (data.urls.length > 1 ? 15 : 0) // Bonus for multi-thread mentions
+            )),
+            signal: buildSignal(data, subreddit),
+            url: data.bestUrl
         }))
         .sort((a, b) => b.score - a.score)
-        .slice(0, 5);
+        .slice(0, 6);
+}
+
+function categoryLabel(cat) {
+    switch (cat) {
+        case 'food': return '🍴 Food & Drinks';
+        case 'music': return '🎵 Live Muziek';
+        case 'culture': return '🎨 Kunst & Musea';
+        default: return cat;
+    }
+}
+
+function buildSignal(data, subreddit) {
+    const parts = [];
+    if (data.count > 1) {
+        parts.push(`${data.count}x genoemd op r/${subreddit}`);
+    } else {
+        parts.push(`Genoemd op r/${subreddit}`);
+    }
+    if (data.totalScore > 50) parts.push(`${data.totalScore} upvotes`);
+    if (data.urls.length > 1) parts.push(`${data.urls.length} threads`);
+    return parts.join(' · ');
 }
 
 // ============================================
 // FOURSQUARE
 // ============================================
 
-async function fetchFoursquareTrending(lat, lng) {
-    if (!FOURSQUARE_API_KEY) {
-        console.warn('No FOURSQUARE_API_KEY set, skipping Foursquare data');
-        return [];
-    }
+async function fetchFoursquarePlaces(lat, lng, categories, limit, trendingCategory) {
+    if (!FOURSQUARE_API_KEY) return [];
 
     try {
-        // Foursquare Places API v3 — search for popular places nearby
-        const url = `https://api.foursquare.com/v3/places/search?ll=${lat},${lng}&radius=5000&sort=POPULARITY&categories=13000,13003,13032,13065&limit=10`;
-
+        const url = `https://api.foursquare.com/v3/places/search?ll=${lat},${lng}&radius=5000&sort=POPULARITY&categories=${categories}&limit=${limit}`;
         const response = await fetch(url, {
             headers: {
                 'Authorization': FOURSQUARE_API_KEY,
@@ -162,7 +275,7 @@ async function fetchFoursquareTrending(lat, lng) {
         });
 
         if (!response.ok) {
-            console.warn(`Foursquare fetch failed: ${response.status}`);
+            console.warn(`  Foursquare fetch failed: ${response.status}`);
             return [];
         }
 
@@ -172,19 +285,20 @@ async function fetchFoursquareTrending(lat, lng) {
         return results.map((place, index) => ({
             name: place.name,
             source: 'foursquare',
-            category: place.categories?.[0]?.name || 'Venue',
+            trendingCategory: trendingCategory,
+            category: place.categories?.[0]?.name || categoryLabel(trendingCategory),
             address: [
                 place.location?.address,
                 place.location?.locality
             ].filter(Boolean).join(', ') || null,
             lat: place.geocodes?.main?.latitude || null,
             lng: place.geocodes?.main?.longitude || null,
-            score: Math.max(50, 95 - (index * 8)), // Score based on popularity rank
-            signal: `Trending op Foursquare — populaire plek`,
+            score: Math.max(45, 95 - (index * 7)),
+            signal: `Trending op Foursquare — populair deze week`,
             url: null
-        })).slice(0, 5);
+        }));
     } catch (err) {
-        console.warn('Foursquare error:', err.message);
+        console.warn(`  Foursquare error:`, err.message);
         return [];
     }
 }
@@ -196,6 +310,7 @@ async function fetchFoursquareTrending(lat, lng) {
 async function main() {
     console.log('🔥 Fetching trending places...');
     console.log(`   Foursquare API key: ${FOURSQUARE_API_KEY ? 'SET' : 'NOT SET'}`);
+    console.log(`   Categories: ${Object.keys(CATEGORIES).join(', ')}`);
 
     const output = {
         lastUpdated: new Date().toISOString(),
@@ -205,44 +320,71 @@ async function main() {
 
     for (const [cityKey, cityConfig] of Object.entries(CITIES)) {
         console.log(`\n📍 Processing ${cityConfig.name}...`);
-
         const allPlaces = [];
 
-        // Fetch Reddit data
-        for (const subreddit of cityConfig.subreddits) {
-            console.log(`   Reddit: r/${subreddit}`);
-            const posts = await fetchRedditPosts(subreddit, cityConfig.searchTerms);
-            console.log(`   → ${posts.length} posts found`);
-            const redditPlaces = extractPlacesFromReddit(posts, subreddit);
-            console.log(`   → ${redditPlaces.length} places extracted`);
-            allPlaces.push(...redditPlaces);
+        // For each category, fetch Reddit + Foursquare
+        for (const [catKey, catConfig] of Object.entries(CATEGORIES)) {
+            console.log(`   [${catConfig.label}]`);
 
-            // Rate limiting: wait 2 seconds between Reddit requests
-            await new Promise(r => setTimeout(r, 2000));
+            // Build search terms: base + city-specific extras
+            const terms = [...catConfig.redditTerms, ...(cityConfig.extraTerms?.[catKey] || [])];
+
+            // Reddit: search within subreddit
+            for (const subreddit of cityConfig.subreddits) {
+                console.log(`     Reddit search: r/${subreddit} (${terms.length} terms)`);
+                const searchPosts = await fetchRedditPosts(subreddit, terms);
+                console.log(`     → ${searchPosts.length} search posts`);
+                const searchPlaces = extractPlacesFromReddit(searchPosts, subreddit, catKey);
+                console.log(`     → ${searchPlaces.length} places extracted`);
+                allPlaces.push(...searchPlaces);
+
+                // Rate limit
+                await new Promise(r => setTimeout(r, 2000));
+            }
+
+            // Reddit: also check hot posts (first category only, to save API calls)
+            if (catKey === 'food') {
+                for (const subreddit of cityConfig.subreddits) {
+                    console.log(`     Reddit hot: r/${subreddit}`);
+                    const hotPosts = await fetchRedditHot(subreddit);
+                    console.log(`     → ${hotPosts.length} hot posts`);
+                    // Try to classify hot posts into categories based on content
+                    const hotPlaces = extractPlacesFromReddit(hotPosts, subreddit, 'food');
+                    console.log(`     → ${hotPlaces.length} places from hot`);
+                    allPlaces.push(...hotPlaces);
+
+                    await new Promise(r => setTimeout(r, 2000));
+                }
+            }
+
+            // Foursquare: fetch per category
+            if (FOURSQUARE_API_KEY) {
+                console.log(`     Foursquare: ${catConfig.foursquareCategories}`);
+                const fsPlaces = await fetchFoursquarePlaces(
+                    cityConfig.lat, cityConfig.lng,
+                    catConfig.foursquareCategories,
+                    catConfig.foursquareLimit,
+                    catKey
+                );
+                console.log(`     → ${fsPlaces.length} places`);
+                allPlaces.push(...fsPlaces);
+            }
         }
 
-        // Fetch Foursquare data
-        if (FOURSQUARE_API_KEY) {
-            console.log(`   Foursquare: ${cityConfig.lat}, ${cityConfig.lng}`);
-            const fsPlaces = await fetchFoursquareTrending(cityConfig.lat, cityConfig.lng);
-            console.log(`   → ${fsPlaces.length} places found`);
-            allPlaces.push(...fsPlaces);
-        }
-
-        // Deduplicate and sort
+        // Deduplicate (case-insensitive name match)
         const seen = new Set();
         const uniquePlaces = allPlaces.filter(p => {
-            const key = p.name.toLowerCase();
+            const key = p.name.toLowerCase().trim();
             if (seen.has(key)) return false;
             seen.add(key);
             return true;
         }).sort((a, b) => b.score - a.score);
 
         output.cities[cityKey] = {
-            places: uniquePlaces.slice(0, 8) // Top 8 per city
+            places: uniquePlaces.slice(0, 15) // Top 15 per city
         };
 
-        console.log(`   ✅ ${uniquePlaces.length} unique places → top ${Math.min(8, uniquePlaces.length)} saved`);
+        console.log(`   ✅ ${uniquePlaces.length} unique places → top ${Math.min(15, uniquePlaces.length)} saved`);
     }
 
     // Write output

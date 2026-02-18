@@ -1536,7 +1536,49 @@ body {
 }
 
 .trending-location-btn {
+    margin-bottom: 16px;
+}
+
+/* Trending Category Filter */
+.trending-category-filter {
+    display: flex;
+    gap: 6px;
+    flex-wrap: wrap;
     margin-bottom: 20px;
+}
+
+.trending-filter-btn {
+    padding: 7px 14px;
+    border: 1.5px solid var(--border);
+    border-radius: 16px;
+    background: transparent;
+    font-family: var(--font-body);
+    font-size: 13px;
+    font-weight: 500;
+    color: var(--text-secondary);
+    cursor: pointer;
+    transition: all 0.2s ease;
+}
+
+.trending-filter-btn:hover,
+.trending-filter-btn:active {
+    border-color: var(--accent);
+    color: var(--text);
+}
+
+.trending-filter-btn.active {
+    background: var(--text);
+    border-color: var(--text);
+    color: white;
+}
+
+/* Category-colored card borders */
+.trending-place-card.trending-music {
+    border-left-color: #8B5CF6;
+}
+
+.trending-place-card.trending-culture {
+    border-left-color: var(--blue);
 }
 
 /* Trending Loading */
