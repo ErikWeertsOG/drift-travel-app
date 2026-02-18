@@ -1569,6 +1569,12 @@ body {
     font-style: italic;
 }
 
+.trending-stale-warning {
+    color: var(--orange);
+    font-weight: 500;
+    font-style: normal;
+}
+
 /* Trending Place Card (extends .place-card) */
 .trending-place-card {
     border-left: 3px solid var(--accent);

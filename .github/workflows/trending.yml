@@ -2,7 +2,7 @@ name: Update Trending Places
 
 on:
   schedule:
-    - cron: '0 6 * * 1'  # Elke maandag om 6:00 UTC
+    - cron: '0 6 * * *'  # Elke dag om 6:00 UTC
   workflow_dispatch:        # Handmatig triggeren via GitHub UI
 
 jobs:

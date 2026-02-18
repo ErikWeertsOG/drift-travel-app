@@ -1306,12 +1306,19 @@ function dismissRandomTip() {
 
 let trendingData = null;
 let trendingCity = 'cologne';
-const WORKER_URL = ''; // Set when Cloudflare Worker is deployed, e.g. 'https://drift-trending.erikweerts.workers.dev'
+let trendingLastFetch = 0; // timestamp of last successful fetch
 
 async function loadTrending() {
     const loadingEl = document.getElementById('trending-loading');
     const resultsEl = document.getElementById('trending-results');
     const errorEl = document.getElementById('trending-error');
+
+    // If we already have data and it's less than 5 minutes old, just re-render
+    const now = Date.now();
+    if (trendingData && (now - trendingLastFetch) < 5 * 60 * 1000) {
+        renderTrendingResults(trendingData, trendingCity);
+        return;
+    }
 
     // Reset UI
     resultsEl.style.display = 'none';
@@ -1319,21 +1326,9 @@ async function loadTrending() {
     loadingEl.style.display = 'flex';
 
     try {
-        // Layer 1: Load static trending.json
-        const staticData = await fetchStaticTrending();
-
-        // Layer 2: Try Cloudflare Worker for fresh data (if configured)
-        let liveData = null;
-        if (WORKER_URL) {
-            try {
-                liveData = await fetchLiveTrending(trendingCity);
-            } catch (e) {
-                // Silently fall back to static
-            }
-        }
-
-        // Merge sources
-        trendingData = mergeTrendingSources(staticData, liveData);
+        // Always fetch fresh with cache-busting
+        trendingData = await fetchTrendingFresh();
+        trendingLastFetch = Date.now();
 
         loadingEl.style.display = 'none';
         renderTrendingResults(trendingData, trendingCity);
@@ -1345,25 +1340,14 @@ async function loadTrending() {
     }
 }
 
-async function fetchStaticTrending() {
-    const response = await fetch('trending.json', {
-        signal: AbortSignal.timeout(8000)
+async function fetchTrendingFresh() {
+    // Cache-busting: append timestamp to force fresh fetch
+    const cacheBuster = `?v=${Date.now()}`;
+    const response = await fetch(`trending.json${cacheBuster}`, {
+        signal: AbortSignal.timeout(8000),
+        cache: 'no-store'
     });
     if (!response.ok) throw new Error('Failed to fetch trending.json');
-    return response.json();
-}
-
-async function fetchLiveTrending(city) {
-    if (!WORKER_URL) return null;
-
-    const cityData = CITIES[city];
-    if (!cityData) return null;
-
-    const url = `${WORKER_URL}/trending?city=${city}&lat=${cityData.center.lat}&lng=${cityData.center.lng}`;
-    const response = await fetch(url, {
-        signal: AbortSignal.timeout(6000)
-    });
-    if (!response.ok) throw new Error('Worker request failed');
     return response.json();
 }
 
@@ -1432,20 +1416,35 @@ function renderTrendingResults(data, city) {
     const cityName = CITIES[city]?.name || city;
     titleEl.textContent = `🔥 Trending in ${cityName}`;
 
-    // Format last updated
+    // Format last updated with freshness indicator
     if (data.lastUpdated) {
         const updated = new Date(data.lastUpdated);
         const now = new Date();
         const diffHours = Math.round((now - updated) / (1000 * 60 * 60));
         let timeAgo;
-        if (diffHours < 1) timeAgo = 'zojuist';
-        else if (diffHours < 24) timeAgo = `${diffHours} uur geleden`;
-        else if (diffHours < 48) timeAgo = 'gisteren';
-        else timeAgo = `${Math.round(diffHours / 24)} dagen geleden`;
+        let freshIcon;
+        if (diffHours < 1) {
+            timeAgo = 'zojuist';
+            freshIcon = '🟢';
+        } else if (diffHours < 12) {
+            timeAgo = `${diffHours} uur geleden`;
+            freshIcon = '🟢';
+        } else if (diffHours < 24) {
+            timeAgo = `${diffHours} uur geleden`;
+            freshIcon = '🟡';
+        } else if (diffHours < 48) {
+            timeAgo = 'gisteren';
+            freshIcon = '🟡';
+        } else {
+            timeAgo = `${Math.round(diffHours / 24)} dagen geleden`;
+            freshIcon = '🔴';
+        }
 
-        updatedEl.textContent = `Laatst bijgewerkt: ${timeAgo}`;
-        if (data.hasLiveData) {
-            updatedEl.textContent += ' • Live data beschikbaar';
+        updatedEl.innerHTML = `${freshIcon} Bijgewerkt: ${timeAgo}`;
+
+        // Add stale warning if data is older than 48 hours
+        if (diffHours > 48) {
+            updatedEl.innerHTML += ' <span class="trending-stale-warning">— data wordt dagelijks ververst</span>';
         }
     }
 
