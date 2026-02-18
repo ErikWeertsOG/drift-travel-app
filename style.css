@@ -673,6 +673,23 @@ body {
     line-height: 1.4;
 }
 
+.neighborhood-context {
+    background: rgba(0, 0, 0, 0.04);
+    border: 1px solid var(--border);
+    border-radius: var(--radius-sm);
+    padding: 10px 14px;
+    font-size: 13px;
+    color: var(--text-secondary);
+    margin-top: 12px;
+    text-align: left;
+    line-height: 1.5;
+}
+
+.neighborhood-context strong {
+    color: var(--text);
+    font-weight: 600;
+}
+
 .location-hint {
     background: var(--green-light);
     border: 1px solid var(--green);
@@ -680,10 +697,30 @@ body {
     padding: 12px 16px;
     font-size: 14px;
     color: var(--green);
-    margin-top: 12px;
+    margin-top: 8px;
     margin-bottom: 4px;
     font-weight: 500;
     text-align: left;
+}
+
+.drift-badge {
+    display: inline-block;
+    font-size: 11px;
+    font-weight: 700;
+    letter-spacing: 0.05em;
+    padding: 4px 12px;
+    border-radius: 10px;
+    margin-bottom: 12px;
+}
+
+.proximity-badge {
+    background: var(--orange);
+    color: white;
+}
+
+.drift-step-card.proximity-step {
+    border-color: var(--orange);
+    border-width: 2px;
 }
 
 .drift-step-card.wildcard {
@@ -1621,6 +1658,175 @@ body {
 }
 
 /* ============================================
+   🍴 LOKALE GERECHTEN
+   ============================================ */
+
+.localfood-card-landing {
+    border-left: 3px solid var(--orange) !important;
+}
+
+.localfood-section {
+    padding-bottom: 40px;
+}
+
+.localfood-intro {
+    color: var(--text-secondary);
+    font-size: 14px;
+    line-height: 1.6;
+    margin-bottom: 24px;
+}
+
+.localfood-city-selector {
+    display: flex;
+    gap: 8px;
+    flex-wrap: wrap;
+    margin-bottom: 28px;
+}
+
+.localfood-city-btn {
+    padding: 8px 16px;
+    border: 1.5px solid var(--border);
+    border-radius: 20px;
+    background: transparent;
+    font-family: var(--font-body);
+    font-size: 13px;
+    font-weight: 500;
+    color: var(--text-secondary);
+    cursor: pointer;
+    transition: all 0.2s ease;
+}
+
+.localfood-city-btn:hover,
+.localfood-city-btn:active {
+    border-color: var(--orange);
+    color: var(--text);
+}
+
+.localfood-city-btn.active {
+    background: var(--orange);
+    border-color: var(--orange);
+    color: white;
+}
+
+.localfood-results {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.dish-card {
+    background: var(--card-bg);
+    border: 1px solid var(--border);
+    border-radius: 16px;
+    padding: 24px;
+    position: relative;
+    transition: all 0.2s ease;
+}
+
+.dish-card:hover {
+    border-color: var(--text-secondary);
+}
+
+.dish-must-try {
+    border-color: var(--orange);
+    border-width: 2px;
+}
+
+.must-try-badge {
+    position: absolute;
+    top: -10px;
+    right: 16px;
+    background: var(--orange);
+    color: white;
+    font-family: var(--font-body);
+    font-size: 11px;
+    font-weight: 700;
+    letter-spacing: 0.05em;
+    padding: 4px 12px;
+    border-radius: 10px;
+}
+
+.dish-name {
+    font-family: var(--font-display);
+    font-size: 22px;
+    color: var(--text);
+    margin-bottom: 8px;
+    line-height: 1.2;
+}
+
+.dish-description {
+    color: var(--text-secondary);
+    font-size: 14px;
+    line-height: 1.7;
+    margin-bottom: 20px;
+}
+
+.dish-restaurant {
+    background: rgba(0,0,0,0.02);
+    border: 1px solid var(--border);
+    border-radius: 12px;
+    padding: 16px;
+}
+
+.dish-restaurant-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 6px;
+}
+
+.dish-restaurant-label {
+    font-size: 11px;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    color: var(--orange);
+    font-weight: 700;
+}
+
+.dish-price {
+    font-size: 13px;
+    color: var(--text-secondary);
+    font-weight: 500;
+}
+
+.dish-restaurant-name {
+    font-family: var(--font-display);
+    font-size: 17px;
+    color: var(--text);
+    margin-bottom: 4px;
+}
+
+.dish-address {
+    font-size: 13px;
+    color: var(--text-secondary);
+    margin-bottom: 10px;
+}
+
+.dish-why-here {
+    font-size: 13px;
+    color: var(--text-secondary);
+    line-height: 1.6;
+    font-style: italic;
+    margin-bottom: 12px;
+    padding-left: 12px;
+    border-left: 2px solid var(--orange);
+}
+
+.dish-maps-link {
+    display: inline-block;
+    font-size: 13px;
+    font-weight: 600;
+    color: var(--blue);
+    text-decoration: none;
+    transition: color 0.2s;
+}
+
+.dish-maps-link:hover,
+.dish-maps-link:active {
+    color: var(--orange);
+}
+
+/* ============================================
    RESPONSIVE
    ============================================ */
 
@@ -1642,7 +1848,8 @@ body {
     }
 
     .city-btn,
-    .trending-city-btn {
+    .trending-city-btn,
+    .localfood-city-btn {
         flex: 1;
         min-width: calc(50% - 4px);
         text-align: center;

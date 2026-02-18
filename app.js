@@ -111,6 +111,10 @@ function showScreen(screenId) {
     if (screenId === 'trending') {
         loadTrending();
     }
+
+    if (screenId === 'local-food') {
+        renderLocalFood();
+    }
 }
 
 function goBackFromNoTourist() {
@@ -426,18 +430,134 @@ function getEnergyEmoji(energy) {
 // 90-MINUTE DRIFT MODE — Session Builder
 // ============================================
 
+function detectCity() {
+    if (!userLat || !userLng) return null;
+
+    let closest = null;
+    let minDist = Infinity;
+
+    for (const [key, city] of Object.entries(CITIES)) {
+        const dist = getDistanceKm(userLat, userLng, city.center.lat, city.center.lng);
+        if (dist < minDist) {
+            minDist = dist;
+            closest = key;
+        }
+    }
+
+    // Only match if within 15km of a city center
+    return minDist < 15 ? closest : null;
+}
+
+function detectNeighborhood() {
+    if (!userLat || !userLng) return null;
+
+    const city = detectCity();
+    if (!city || !CITIES[city]) return null;
+
+    const neighborhoods = CITIES[city].neighborhoods;
+    const places = getAllPlaces(city);
+
+    // Find the neighborhood most of the nearby places belong to
+    const nearby = places.filter(p => p.lat && p.lng && getDistanceKm(userLat, userLng, p.lat, p.lng) < 1);
+    if (nearby.length === 0) return null;
+
+    const counts = {};
+    nearby.forEach(p => {
+        if (p.neighborhood) {
+            counts[p.neighborhood] = (counts[p.neighborhood] || 0) + 1;
+        }
+    });
+
+    const best = Object.entries(counts).sort((a, b) => b[1] - a[1])[0];
+    return best ? best[0] : null;
+}
+
+function getProximityChallenge() {
+    if (!driftLocationMode || !userLat || !userLng) return null;
+
+    const city = detectCity();
+    if (!city) return null;
+
+    const nearby = findNearbyPlaces(userLat, userLng, 0.5); // within 500m
+    if (nearby.length === 0) return null;
+
+    const place = nearby[Math.floor(Math.random() * Math.min(nearby.length, 3))];
+    const dist = Math.round(place.distance * 1000);
+    const bearing = getBearing(userLat, userLng, place.lat, place.lng);
+    const direction = bearingToDirection(bearing);
+
+    // Build proximity challenge based on place type
+    let instruction = '';
+    let details = '';
+    if (place.type.includes('Koffie')) {
+        instruction = `Er is een koffieplek ${dist}m bij je vandaan: ${place.name}. Ga erheen, bestel iets dat je niet kent.`;
+        details = place.story ? place.story.substring(0, 200) + '...' : `Loop ${dist}m naar het ${direction}. Bestel zonder het menu te googlen.`;
+    } else if (place.type.includes('Diner') || place.type.includes('dinner')) {
+        instruction = `${place.name} is ${dist}m naar het ${direction}. Ga naar binnen, vraag wat het huis aanraadt.`;
+        details = place.story ? place.story.substring(0, 200) + '...' : `Geen reviews checken. Geen menu googlen. Vertrouw de plek.`;
+    } else if (place.type.includes('Karakter')) {
+        instruction = `Je bent ${dist}m van ${place.name}. Loop erheen.`;
+        details = place.story ? place.story.substring(0, 200) + '...' : `Een plek met karakter, dichtbij. De stad wil je iets laten zien.`;
+    } else {
+        instruction = `Er is iets met een verhaal ${dist}m naar het ${direction}: ${place.name}.`;
+        details = place.story ? place.story.substring(0, 200) + '...' : `Soms kiest de stad voor jou. Loop die kant op.`;
+    }
+
+    return {
+        title: "Proximity Alert",
+        duration: 15,
+        icon: "📍",
+        phase: "interact",
+        instruction: instruction,
+        details: details,
+        prompt: `Wat vond je bij ${place.name}? Was het wat je verwachtte?`,
+        isProximity: true
+    };
+}
+
 function buildDriftSession() {
     const pick = (arr) => arr[Math.floor(Math.random() * arr.length)];
     const session = [];
 
-    // Phase 1: Opening
-    session.push(pick(DRIFT_POOL.opening));
+    // Detect city for city-specific challenges
+    const detectedCity = driftLocationMode ? detectCity() : null;
+    const cityChallenges = detectedCity ? DRIFT_CITY_CHALLENGES[detectedCity] : null;
 
-    // Phase 2: Settle
-    session.push(pick(DRIFT_POOL.settle));
+    // Phase 1: Opening — 60% city-specific if available
+    if (cityChallenges && Math.random() < 0.6) {
+        const cityOpening = cityChallenges.filter(c => c.phase === 'opening');
+        if (cityOpening.length > 0) {
+            session.push(pick(cityOpening));
+        } else {
+            session.push(pick(DRIFT_POOL.opening));
+        }
+    } else {
+        session.push(pick(DRIFT_POOL.opening));
+    }
 
-    // Phase 3: Interact
-    session.push(pick(DRIFT_POOL.interact));
+    // Phase 2: Settle — 60% city-specific if available
+    if (cityChallenges && Math.random() < 0.6) {
+        const citySettle = cityChallenges.filter(c => c.phase === 'settle');
+        if (citySettle.length > 0) {
+            session.push(pick(citySettle));
+        } else {
+            session.push(pick(DRIFT_POOL.settle));
+        }
+    } else {
+        session.push(pick(DRIFT_POOL.settle));
+    }
+
+    // Phase 3: Interact — 60% city-specific if available
+    if (cityChallenges && Math.random() < 0.6) {
+        const cityInteract = cityChallenges.filter(c => c.phase === 'interact');
+        if (cityInteract.length > 0) {
+            session.push(pick(cityInteract));
+        } else {
+            session.push(pick(DRIFT_POOL.interact));
+        }
+    } else {
+        session.push(pick(DRIFT_POOL.interact));
+    }
 
     // 50% chance wildcard
     if (Math.random() > 0.5) {
@@ -515,16 +635,28 @@ function stopDriftLocationWatch() {
 function getLocationHint() {
     if (!driftLocationMode || !userLat || !userLng) return '';
 
+    let hint = '';
+
+    // Neighborhood context
+    const city = detectCity();
+    const hood = detectNeighborhood();
+    if (city && hood && CITIES[city]?.neighborhoods?.[hood]) {
+        const n = CITIES[city].neighborhoods[hood];
+        hint += `<div class="neighborhood-context">📍 Je bent nu in <strong>${n.name}</strong> — ${n.vibe.toLowerCase()}</div>`;
+    }
+
+    // Proximity hint — active place suggestion
     const nearby = findNearbyPlaces(userLat, userLng, 1.0); // within 1km
-    if (nearby.length === 0) return '';
+    if (nearby.length > 0) {
+        const pick = nearby[Math.floor(Math.random() * Math.min(nearby.length, 3))];
+        const bearing = getBearing(userLat, userLng, pick.lat, pick.lng);
+        const direction = bearingToDirection(bearing);
+        const dist = Math.round(pick.distance * 1000);
 
-    // Pick a random nearby place (not always the closest)
-    const pick = nearby[Math.floor(Math.random() * Math.min(nearby.length, 3))];
-    const bearing = getBearing(userLat, userLng, pick.lat, pick.lng);
-    const direction = bearingToDirection(bearing);
-    const dist = Math.round(pick.distance * 1000);
+        hint += `<div class="location-hint">💡 Er is een plek met een verhaal ~${dist}m naar het ${direction}. Misschien loop je er langs.</div>`;
+    }
 
-    return `<div class="location-hint">📍 Er is een plek met een verhaal ~${dist}m naar het ${direction}. Misschien loop je er langs.</div>`;
+    return hint;
 }
 
 function renderDriftStep() {
@@ -538,18 +670,22 @@ function renderDriftStep() {
         extra = `<div class="drift-direction">💡 ${randomDirection}</div>`;
     }
 
-    // Location hint
+    // Location hint (neighborhood + nearby place)
     const locationHint = getLocationHint();
 
-    // Wildcard styling
+    // Styling classes
     const isWildcard = step.phase === 'wildcard';
-    if (isWildcard) {
-        container.classList.add('wildcard');
-    } else {
-        container.classList.remove('wildcard');
-    }
+    const isProximity = step.isProximity === true;
+    container.classList.toggle('wildcard', isWildcard);
+    container.classList.toggle('proximity-step', isProximity);
+
+    // City-specific badge
+    const cityBadge = step.isProximity
+        ? '<span class="drift-badge proximity-badge">📍 PROXIMITY</span>'
+        : '';
 
     container.innerHTML = `
+        ${cityBadge}
         <div class="step-icon">${step.icon}</div>
         <h3 class="step-title">${step.title}</h3>
         <p class="step-duration">${step.duration} minuten</p>
@@ -606,6 +742,17 @@ function nextDriftStep() {
         completeDrift();
         return;
     }
+
+    // 30% chance to inject a proximity challenge if user is near a place
+    if (driftLocationMode && Math.random() < 0.3) {
+        const proxChallenge = getProximityChallenge();
+        if (proxChallenge) {
+            // Insert proximity challenge at the next position
+            currentSession.splice(currentDriftStep + 1, 0, proxChallenge);
+            renderProgressDots();
+        }
+    }
+
     currentDriftStep++;
     renderDriftStep();
 }
@@ -1414,6 +1561,51 @@ function trendingUseLocation() {
 }
 
 // ============================================
+// 🍴 LOKALE GERECHTEN — Render & Filter
+// ============================================
+
+let localFoodCity = 'cologne';
+
+function renderLocalFood() {
+    const dishes = LOCAL_FOOD[localFoodCity] || [];
+    const container = document.getElementById('localfood-results');
+    if (!container) return;
+
+    if (dishes.length === 0) {
+        container.innerHTML = '<p class="no-results">Geen lokale gerechten beschikbaar voor deze stad.</p>';
+        return;
+    }
+
+    const cityName = CITIES[localFoodCity]?.name || localFoodCity;
+    const mapsBase = 'https://www.google.com/maps/search/?api=1&query=';
+
+    container.innerHTML = dishes.map(dish => {
+        const mapsQuery = encodeURIComponent(`${dish.restaurant} ${dish.address} ${cityName}`);
+        const mustTryBadge = dish.mustTry ? '<span class="must-try-badge">MUST TRY</span>' : '';
+
+        return `
+            <div class="dish-card ${dish.mustTry ? 'dish-must-try' : ''}">
+                ${mustTryBadge}
+                <h3 class="dish-name">${dish.dishName}</h3>
+                <p class="dish-description">${dish.description}</p>
+                <div class="dish-restaurant">
+                    <div class="dish-restaurant-header">
+                        <span class="dish-restaurant-label">Waar eten?</span>
+                        <span class="dish-price">${dish.priceRange}</span>
+                    </div>
+                    <h4 class="dish-restaurant-name">${dish.restaurant}</h4>
+                    <p class="dish-address">${dish.address}</p>
+                    <p class="dish-why-here">${dish.whyHere}</p>
+                    <a href="${mapsBase}${mapsQuery}" target="_blank" rel="noopener" class="dish-maps-link">
+                        📍 Open in Maps →
+                    </a>
+                </div>
+            </div>
+        `;
+    }).join('');
+}
+
+// ============================================
 // INIT
 // ============================================
 
@@ -1430,6 +1622,16 @@ document.addEventListener('DOMContentLoaded', () => {
             }
         });
     }
+
+    // Local food city selector
+    document.querySelectorAll('.localfood-city-btn').forEach(btn => {
+        btn.addEventListener('click', function () {
+            document.querySelectorAll('.localfood-city-btn').forEach(b => b.classList.remove('active'));
+            this.classList.add('active');
+            localFoodCity = this.dataset.foodCity;
+            renderLocalFood();
+        });
+    });
 
     // Trending city selector
     document.querySelectorAll('.trending-city-btn').forEach(btn => {

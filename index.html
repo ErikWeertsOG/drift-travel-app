@@ -45,6 +45,13 @@
                     <p>Plekken waar locals het nu over hebben. Via Reddit, Foursquare en social buzz.</p>
                     <span class="mode-arrow">→</span>
                 </button>
+
+                <button class="mode-card localfood-card-landing" onclick="showScreen('local-food')">
+                    <div class="mode-icon">🍴</div>
+                    <h2>Lokale Gerechten</h2>
+                    <p>Wat MOET je proeven? De beste lokale gerechten en waar je ze authentiek eet.</p>
+                    <span class="mode-arrow">→</span>
+                </button>
             </div>
 
             <button class="random-tip-trigger" onclick="showRandomTip()">
@@ -354,6 +361,33 @@
                     <a class="craving-maps-fallback" href="https://www.reddit.com" target="_blank" rel="noopener">
                         Bekijk Reddit voor lokale tips →
                     </a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- 🍴 Local Food Screen -->
+    <div id="local-food" class="screen">
+        <header class="screen-header">
+            <button class="back-btn" onclick="showScreen('landing')">← Terug</button>
+            <h2>🍴 Lokale Gerechten</h2>
+        </header>
+
+        <div class="screen-content">
+            <div class="localfood-section">
+                <h3>Wat MOET je proeven?</h3>
+                <p class="localfood-intro">De iconische gerechten van elke stad — en waar je de beste, meest authentieke versie eet. Geen toeristenvallen, alleen de echte deal.</p>
+
+                <div class="localfood-city-selector">
+                    <button class="localfood-city-btn active" data-food-city="cologne">Keulen</button>
+                    <button class="localfood-city-btn" data-food-city="amsterdam">Amsterdam</button>
+                    <button class="localfood-city-btn" data-food-city="antwerp">Antwerpen</button>
+                    <button class="localfood-city-btn" data-food-city="lisbon">Lissabon</button>
+                    <button class="localfood-city-btn" data-food-city="newcastle">Newcastle</button>
+                </div>
+
+                <div id="localfood-results" class="localfood-results">
+                    <!-- Dish cards loaded dynamically -->
                 </div>
             </div>
         </div>

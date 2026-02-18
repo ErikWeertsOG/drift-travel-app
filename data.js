@@ -334,28 +334,40 @@ const CITIES = {
             jordaan: { name: "Jordaan", vibe: "Gezellig, kunstzinnig, grachten" },
             depijp: { name: "De Pijp", vibe: "Multicultureel, markt, trendy" },
             oost: { name: "Oost", vibe: "Opkomend, divers, groen" },
-            noord: { name: "Noord", vibe: "Creatief, rauw, verrassend" }
+            noord: { name: "Noord", vibe: "Creatief, rauw, verrassend" },
+            oudwest: { name: "Oud-West", vibe: "Foodhallen, levendig, locals" },
+            centrum: { name: "Centrum", vibe: "Grachten, historisch, compact" }
         },
         places: {
             coffee: [
                 { name: "Scandinavian Embassy", neighborhood: "depijp", type: "☕ Koffie", address: "Sarphatipark 34", lat: 52.3535, lng: 4.8942, story: "Nordic minimalism meets Amsterdamse gezelligheid. De kanelbroodjes zijn het echte kunstwerk hier, niet de latte art. Ga op zaterdag, neem een boek mee, en doe alsof je een local bent.", budget: "mid", energy: "chill" },
                 { name: "Lot Sixty One", neighborhood: "jordaan", type: "☕ Koffie", address: "Kinkerstraat 112", lat: 52.3688, lng: 4.8695, story: "Geen wifi. Geen stopcontacten. Alleen koffie die zo goed is dat je je laptop niet mist. De eigenaren hebben in Melbourne geleerd wat koffie kan zijn.", budget: "low", energy: "balanced" },
-                { name: "Back to Black", neighborhood: "jordaan", type: "☕ Koffie", address: "Weteringstraat 48", lat: 52.3610, lng: 4.8884, story: "Verstopt achter een onopvallende gevel. Binnen is het een parel: verse roast, keramiek van lokale kunstenaars, en een barista die vijf minuten over je pour-over praat als je het toelaat.", budget: "low", energy: "chill" }
+                { name: "Back to Black", neighborhood: "jordaan", type: "☕ Koffie", address: "Weteringstraat 48", lat: 52.3610, lng: 4.8884, story: "Verstopt achter een onopvallende gevel. Binnen is het een parel: verse roast, keramiek van lokale kunstenaars, en een barista die vijf minuten over je pour-over praat als je het toelaat.", budget: "low", energy: "chill" },
+                { name: "White Label Coffee", neighborhood: "oost", type: "☕ Koffie", address: "Jan Evertsenstraat 136", lat: 52.3684, lng: 4.8465, story: "Een rösterij in een voormalige garage. De bonen worden hier gebrand terwijl je wacht. De eigenaren zijn obsessief over hun proces — single-origin, lichte roast, en een brutale eerlijkheid over wat goede koffie is. Geen havermelk-opties hier. Alleen bonen die voor zichzelf spreken.", budget: "low", energy: "balanced" },
+                { name: "Bocca Coffee", neighborhood: "centrum", type: "☕ Koffie", address: "Kerkstraat 96", lat: 52.3636, lng: 4.8873, story: "Amsterdam's OG specialty roaster, al bezig sinds voordat third-wave een ding was. De zaak is klein, de espresso is foutloos, en de eigenaar kan je alles vertellen over de boer die zijn bonen verbouwde. Geen fratsen. Vakmanschap.", budget: "low", energy: "balanced" }
             ],
             character: [
                 { name: "NDSM Werf", neighborhood: "noord", type: "🎭 Karakter", address: "NDSM-plein 28", lat: 52.4000, lng: 4.8931, story: "Voormalige scheepswerf, nu een creatieve vrijhaven. Graffiti, ateliers, een strandje, en het gevoel dat alles hier mogelijk is. Neem de pont — de overtocht is al een beleving.", budget: "low", energy: "explorer" },
-                { name: "Noordermarkt (zaterdag)", neighborhood: "jordaan", type: "🎭 Karakter", address: "Noordermarkt 48", lat: 52.3742, lng: 4.8850, story: "Boerenmarkt op zaterdag. Organic kaas, vers brood, bloemen. De Jordanezen doen hier hun weekend-inkopen terwijl ze buurvrouwen begroeten. Dit is niet shoppen, dit is sociologie.", budget: "low", energy: "balanced" }
+                { name: "Noordermarkt (zaterdag)", neighborhood: "jordaan", type: "🎭 Karakter", address: "Noordermarkt 48", lat: 52.3742, lng: 4.8850, story: "Boerenmarkt op zaterdag. Organic kaas, vers brood, bloemen. De Jordanezen doen hier hun weekend-inkopen terwijl ze buurvrouwen begroeten. Dit is niet shoppen, dit is sociologie.", budget: "low", energy: "balanced" },
+                { name: "De Hallen", neighborhood: "oudwest", type: "🎭 Karakter", address: "Hannie Dankbaar Passage 33", lat: 52.3627, lng: 4.8619, story: "Een voormalige tramremise omgebouwd tot cultureel epicentrum. Foodhal, bioscoop, bibliotheek, vintage markt — alles onder één industrieel dak. Geen toeristenval, maar waar Oud-West samenkomt voor een Vietnamees broodje en een ambachtelijk biertje.", budget: "mid", energy: "balanced" },
+                { name: "Amsterdam Roest", neighborhood: "oost", type: "🎭 Karakter", address: "Jacob Bontiusplaats 1", lat: 52.3636, lng: 4.9280, story: "Strandbar in een industrieel niemandsland. Zand, vuurkorven, een zeecontainer als bar, en het gevoel dat je ergens bent waar je niet hoort te zijn. Zondagmiddag is het hier vol met creatieven die doen alsof het festival is. Elke dag.", budget: "low", energy: "explorer" },
+                { name: "Electric Ladyland", neighborhood: "jordaan", type: "🎭 Karakter", address: "Tweede Leliedwarsstraat 5", lat: 52.3756, lng: 4.8818, story: "Het eerste museum ter wereld gewijd aan fluorescerende kunst. Een kelder vol UV-licht, gloeiende mineralen, en een excentrieke eigenaar die al 30 jaar zijn passie deelt. Bizar, onvergetelijk, en precies het soort plek dat alleen in de Jordaan kan bestaan.", budget: "low", energy: "explorer" }
             ],
             cultural: [
                 { name: "Foam Fotografiemuseum", neighborhood: "jordaan", type: "🎨 Cultuur Wildcard", address: "Keizersgracht 609", lat: 52.3594, lng: 4.8942, story: "Klein, intiem, en altijd verrassend. Fotografie die je perspectief verschuift. Het grachtenpand alleen is al de moeite waard.", budget: "mid", energy: "balanced" },
-                { name: "EYE Filmmuseum", neighborhood: "noord", type: "🎨 Cultuur Wildcard", address: "IJpromenade 1", lat: 52.3843, lng: 4.9012, story: "Het gebouw lijkt op een ruimteschip dat op de IJ-oever is geland. Binnen: filmgeschiedenis, experimentele installaties, en het beste terras van Amsterdam.", budget: "mid", energy: "balanced" }
+                { name: "EYE Filmmuseum", neighborhood: "noord", type: "🎨 Cultuur Wildcard", address: "IJpromenade 1", lat: 52.3843, lng: 4.9012, story: "Het gebouw lijkt op een ruimteschip dat op de IJ-oever is geland. Binnen: filmgeschiedenis, experimentele installaties, en het beste terras van Amsterdam.", budget: "mid", energy: "balanced" },
+                { name: "Tolhuistuin", neighborhood: "noord", type: "🎨 Cultuur Wildcard", address: "IJpromenade 2", lat: 52.3843, lng: 4.9030, story: "Cultuurpodium in een voormalige Shell-kantine. Concerten, debatavonden, festivals, en een tuin waar je op zomerdagen vergeet dat je in een stad van een miljoen mensen zit. Neem de pont, drink een biertje, laat je verrassen door wat er speelt.", budget: "low", energy: "explorer" }
             ],
             walks: [
-                { name: "Vondelpark → Jordaan slenteren", neighborhood: "jordaan", type: "🌙 Avondwandeling", address: "Vondelpark → Jordaan", lat: 52.3580, lng: 4.8686, story: "Start bij het Vondelpark als de straatlantaarns aangaan. Loop via de stille grachten van de Jordaan waar het licht op het water danst. Eindig bij een bruin café dat al 100 jaar hetzelfde doet.", budget: "low", energy: "chill" }
+                { name: "Vondelpark → Jordaan slenteren", neighborhood: "jordaan", type: "🌙 Avondwandeling", address: "Vondelpark → Jordaan", lat: 52.3580, lng: 4.8686, story: "Start bij het Vondelpark als de straatlantaarns aangaan. Loop via de stille grachten van de Jordaan waar het licht op het water danst. Eindig bij een bruin café dat al 100 jaar hetzelfde doet.", budget: "low", energy: "chill" },
+                { name: "Pont naar Noord → NDSM loop", neighborhood: "noord", type: "🌙 Avondwandeling", address: "Centraal Station pont → NDSM", lat: 52.3825, lng: 4.8995, story: "Neem de gratis pont achter Centraal Station. De overtocht duurt vijf minuten maar voelt als een andere wereld. Loop langs het IJ richting NDSM, passeer graffitikunst, scheepswerven en illegale strandjes. Amsterdam-Noord is het nieuwe Berlijn — alleen zegt niemand dat hardop.", budget: "low", energy: "explorer" },
+                { name: "Plantage → Oosterpark route", neighborhood: "oost", type: "🌙 Avondwandeling", address: "Artis → Tropenmuseum → Oosterpark", lat: 52.3655, lng: 4.9125, story: "Loop van de Plantagebuurt via het Tropenmuseum naar Oosterpark. De route gaat van koloniaal Amsterdam naar het multiculturele hart van Oost. Ga op een bankje zitten bij het Oosterpark. De diversiteit van de stad loopt letterlijk langs je heen.", budget: "low", energy: "balanced" }
             ],
             dinner: [
                 { name: "Wilde Zwijnen", neighborhood: "oost", type: "🍽️ Locals-only Diner", address: "Javaplein 23", lat: 52.3614, lng: 4.9412, story: "Farm-to-table voordat het een buzzword was. Het menu verandert dagelijks, de ingrediënten komen van boeren die de chef bij naam kent. Amsterdam-Oost op z'n best.", budget: "high", energy: "balanced" },
-                { name: "Bar Spek", neighborhood: "jordaan", type: "🍽️ Locals-only Diner", address: "Admiraal de Ruyterweg 1", lat: 52.3737, lng: 4.8598, story: "Geen menu. Je eet wat de chef maakt. Klinkt eng? Dat is het punt. Elke avond een verrassing, altijd spectaculair. Dit is blind vertrouwen in iemands talent.", budget: "mid", energy: "explorer" }
+                { name: "Bar Spek", neighborhood: "jordaan", type: "🍽️ Locals-only Diner", address: "Admiraal de Ruyterweg 1", lat: 52.3737, lng: 4.8598, story: "Geen menu. Je eet wat de chef maakt. Klinkt eng? Dat is het punt. Elke avond een verrassing, altijd spectaculair. Dit is blind vertrouwen in iemands talent.", budget: "mid", energy: "explorer" },
+                { name: "Restaurant Rijsel", neighborhood: "oost", type: "🍽️ Locals-only Diner", address: "Marcusstraat 52b", lat: 52.3545, lng: 4.9170, story: "Frans-Vlaamse keuken in een verbouwde school. Stoofvlees, rotisserie-kip, en friet die je doet vergeten dat je in Amsterdam bent. De rij begint om 17:30. Ga staan. Het is het waard. Elke avond is de zaal vol met mensen die hier wekelijks komen.", budget: "mid", energy: "balanced" },
+                { name: "Café Modern", neighborhood: "noord", type: "🍽️ Locals-only Diner", address: "Meidoornweg 2", lat: 52.3960, lng: 4.9220, story: "Buurtkroeg van Amsterdam-Noord die ook fantastisch eten serveert. Seizoensgebonden menu, lokale ingrediënten, en een sfeer die je doet afvragen waarom je ooit in het centrum at. Neem de pont. Je tafel wacht.", budget: "mid", energy: "chill" }
             ]
         }
     },
@@ -365,24 +377,38 @@ const CITIES = {
         neighborhoods: {
             zurenborg: { name: "Zurenborg", vibe: "Art nouveau, bohemien, kleurrijk" },
             eilandje: { name: "'t Eilandje", vibe: "Haven, modern, opkomend" },
-            zuidstation: { name: "Zuid", vibe: "Galerieën, design, culinair" }
+            zuidstation: { name: "Zuid", vibe: "Galerieën, design, culinair" },
+            oudestad: { name: "Oude Stad", vibe: "Kathedraal, steegjes, verborgen pareltjes" },
+            kloosterstraat: { name: "Kloosterstraat", vibe: "Vintage, antiek, brocante" }
         },
         places: {
             coffee: [
                 { name: "Caffènation", neighborhood: "zuidstation", type: "☕ Koffie", address: "Hopland 46", lat: 51.2140, lng: 4.4062, story: "Antwerpen's koffie-pionier. Ze roastten al specialty coffee toen de rest van België nog oploskoffie dronk. De espresso is kort, sterk, en verandert je ochtend.", budget: "low", energy: "balanced" },
-                { name: "Normo", neighborhood: "eilandje", type: "☕ Koffie", address: "Minderbroedersrui 30", lat: 51.2224, lng: 4.4042, story: "Koffie en vinyl. Letterlijk — er staat een platenwinkel naast de bar. Bestel een V60, blader door de jazz-sectie, en vergeet dat je een toerist bent.", budget: "low", energy: "chill" }
+                { name: "Normo", neighborhood: "eilandje", type: "☕ Koffie", address: "Minderbroedersrui 30", lat: 51.2224, lng: 4.4042, story: "Koffie en vinyl. Letterlijk — er staat een platenwinkel naast de bar. Bestel een V60, blader door de jazz-sectie, en vergeet dat je een toerist bent.", budget: "low", energy: "chill" },
+                { name: "Kaffeenini", neighborhood: "zuidstation", type: "☕ Koffie", address: "Volkstraat 52", lat: 51.2094, lng: 4.3990, story: "Micro-rösterij in het zuiden van de stad. Ze branden in zulke kleine batches dat de voorraad soms op is voor het middag is. De eigenaar praat over bonen alsof het wijn is — herkomst, terroir, profiel. Je leert hier meer in tien minuten dan in een barista-cursus.", budget: "low", energy: "chill" },
+                { name: "Barnini", neighborhood: "zurenborg", type: "☕ Koffie", address: "Dageraadplaats 16", lat: 51.2030, lng: 4.4250, story: "Koffie overdag, natural wines 's avonds. De perfecte Zurenborg-plek: art nouveau gevels als decor, een terras op het plein, en een barista die je met naam begroet na twee bezoeken. Zaterdagochtend is het hier alsof heel Zurenborg brunch.", budget: "mid", energy: "chill" },
+                { name: "Broer Breewijd", neighborhood: "eilandje", type: "☕ Koffie", address: "Brouwersvliet 1", lat: 51.2248, lng: 4.4010, story: "Specialty coffee in een ruimte die ooit een brouwerij was. De industriële look is echt — bakstenen muren, stalen balken, en een espressomachine die eruitziet als een oldtimer. De flat white hier is de maatstaf voor de rest van de stad.", budget: "low", energy: "balanced" }
             ],
             character: [
-                { name: "Cogels-Osylei wandeling", neighborhood: "zurenborg", type: "🎭 Karakter", address: "Cogels-Osylei", lat: 51.2018, lng: 4.4340, story: "De mooiste straat van België die niemand kent. Art nouveau gevels in elke kleur, elk een meesterwerk. Loop langzaam, kijk omhoog, en realiseer je dat schoonheid soms gewoon in een woonwijk woont.", budget: "low", energy: "balanced" }
+                { name: "Cogels-Osylei wandeling", neighborhood: "zurenborg", type: "🎭 Karakter", address: "Cogels-Osylei", lat: 51.2018, lng: 4.4340, story: "De mooiste straat van België die niemand kent. Art nouveau gevels in elke kleur, elk een meesterwerk. Loop langzaam, kijk omhoog, en realiseer je dat schoonheid soms gewoon in een woonwijk woont.", budget: "low", energy: "balanced" },
+                { name: "Dageraadplaats (zondagsmarkt)", neighborhood: "zurenborg", type: "🎭 Karakter", address: "Dageraadplaats", lat: 51.2025, lng: 4.4250, story: "Het kloppende hart van Zurenborg. Zondag is het hier markt: organic groenten, ambachtelijk brood, lokale kazen. Doordeweeks is het een plein waar buurtbewoners hun hond uitlaten en kinderen spelen. Ga op het terras zitten en kijk. Dit is hoe Belgen leven.", budget: "low", energy: "chill" },
+                { name: "MAS Museum dakterras", neighborhood: "eilandje", type: "🎭 Karakter", address: "Hanzestedenplaats 1", lat: 51.2290, lng: 4.4048, story: "Je hoeft niet naar binnen. Het dakterras van het MAS is gratis en biedt het beste uitzicht van de stad. Neem de roltrap omhoog, verdieping na verdieping, terwijl Antwerpen zich steeds verder ontvouwt. Bovenaan: 360 graden haven, stad, en Schelde. Ga bij zonsondergang.", budget: "low", energy: "balanced" },
+                { name: "Café Kapitein Zeppos", neighborhood: "oudestad", type: "🎭 Karakter", address: "Vleminckveld 78", lat: 51.2191, lng: 4.4047, story: "Verstopt in een steegje dat je drie keer mist. Push de deur open en je staat in een verborgen binnenplaats met een café dat eruitziet als een filmset uit de jaren 30. Jazz op de achtergrond, Belgisch bier op tafel, en het gevoel dat je een geheim hebt ontdekt.", budget: "mid", energy: "chill" },
+                { name: "Kloosterstraat vintage ronde", neighborhood: "kloosterstraat", type: "🎭 Karakter", address: "Kloosterstraat", lat: 51.2140, lng: 4.3950, story: "De langste antiekstraat van België. Geen ketens, geen franchises — alleen eigenaren die hun collectie kennen alsof het familie is. Van art deco lampen tot vintage Belgische posters. Ga zonder plan, eindig met iets dat je niet zocht maar niet kunt laten liggen.", budget: "low", energy: "balanced" }
             ],
             cultural: [
-                { name: "M HKA", neighborhood: "zuidstation", type: "🎨 Cultuur Wildcard", address: "Leuvenstraat 32", lat: 51.2111, lng: 4.3953, story: "Museum voor Hedendaagse Kunst. Klein maar confronterend. De tentoonstellingen zijn nooit veilig — en dat is precies waarom je hier moet zijn.", budget: "mid", energy: "balanced" }
+                { name: "M HKA", neighborhood: "zuidstation", type: "🎨 Cultuur Wildcard", address: "Leuvenstraat 32", lat: 51.2111, lng: 4.3953, story: "Museum voor Hedendaagse Kunst. Klein maar confronterend. De tentoonstellingen zijn nooit veilig — en dat is precies waarom je hier moet zijn.", budget: "mid", energy: "balanced" },
+                { name: "FotoMuseum (FOMU)", neighborhood: "zuidstation", type: "🎨 Cultuur Wildcard", address: "Waalsekaai 47", lat: 51.2125, lng: 4.3942, story: "Fotografie als kunstvorm, niet als Instagram-content. De collectie is indrukwekkend, de tijdelijke tentoonstellingen zijn altijd scherp, en het gebouw aan de Schelde is een bezoek waard op zich. Combineer met een wandeling langs de kaai.", budget: "mid", energy: "balanced" },
+                { name: "Zuiderpershuis", neighborhood: "zuidstation", type: "🎨 Cultuur Wildcard", address: "Waalsekaai 14", lat: 51.2130, lng: 4.3958, story: "Voormalig hydraulisch pompstation, nu een broedplaats voor wereldmuziek, theater en dans. Het programma is onvoorspelbaar — van Marokkaanse gnawa tot Congolese rumba. Check de agenda, of loop gewoon binnen en laat je verrassen.", budget: "low", energy: "explorer" }
             ],
             walks: [
-                { name: "Scheldekaaien bij schemering", neighborhood: "eilandje", type: "🌙 Avondwandeling", address: "Scheldekaaien", lat: 51.2200, lng: 4.3940, story: "De vernieuwde kaai langs de Schelde. Bij schemering zie je de stad in een ander licht: de kathedraal als silhouet, het water dat glinsters, en een rust die je niet verwacht van een havenstad.", budget: "low", energy: "chill" }
+                { name: "Scheldekaaien bij schemering", neighborhood: "eilandje", type: "🌙 Avondwandeling", address: "Scheldekaaien", lat: 51.2200, lng: 4.3940, story: "De vernieuwde kaai langs de Schelde. Bij schemering zie je de stad in een ander licht: de kathedraal als silhouet, het water dat glinsters, en een rust die je niet verwacht van een havenstad.", budget: "low", energy: "chill" },
+                { name: "Zurenborg → Eilandje → Zuid loop", neighborhood: "zurenborg", type: "🌙 Avondwandeling", address: "Dageraadplaats → MAS → Waalsekaai", lat: 51.2025, lng: 4.4250, story: "De ultieme Antwerpen-wandeling. Start bij de art nouveau van Zurenborg, loop door het bruisende Eilandje langs het MAS, en eindig bij de galerieën van het Zuid. Drie buurten, drie sferen, één stad. Reken op anderhalf uur als je nergens stopt. Maar je stopt overal.", budget: "low", energy: "explorer" }
             ],
             dinner: [
-                { name: "Het Gerecht", neighborhood: "zuidstation", type: "🍽️ Locals-only Diner", address: "Amerikalei 20", lat: 51.2082, lng: 4.3990, story: "Voormalige rechtbank, nu restaurant. De ironie is niet verloren: je wordt hier 'veroordeeld' tot genieten. Belgische keuken met flair, in een zaal met meer karakter dan de meeste Michelin-zaken.", budget: "high", energy: "balanced" }
+                { name: "Het Gerecht", neighborhood: "zuidstation", type: "🍽️ Locals-only Diner", address: "Amerikalei 20", lat: 51.2082, lng: 4.3990, story: "Voormalige rechtbank, nu restaurant. De ironie is niet verloren: je wordt hier 'veroordeeld' tot genieten. Belgische keuken met flair, in een zaal met meer karakter dan de meeste Michelin-zaken.", budget: "high", energy: "balanced" },
+                { name: "Bar Burbure", neighborhood: "oudestad", type: "🍽️ Locals-only Diner", address: "Graanmarkt 3", lat: 51.2207, lng: 4.4000, story: "Low-key briljant. Klein, onopvallend, en toch weten alle locals het te vinden. Seizoensgebonden menu, open keuken, en een chef die kookt alsof het voor vrienden is. Reserveer — er zijn maar 20 plekken. Dit is waar Antwerpse foodies stiekem heen gaan.", budget: "mid", energy: "chill" },
+                { name: "Gin-Fish", neighborhood: "zurenborg", type: "🍽️ Locals-only Diner", address: "Dageraadplaats 8", lat: 51.2028, lng: 4.4245, story: "Vis en gin. Meer hoef je niet te weten. De vis is dagvers, de gin-tonic kaart heeft 40 opties, en het terras op Dageraadplaats is het beste van Zurenborg. De eigenaar selecteert elke ochtend zelf op de vismarkt. Dat proef je.", budget: "mid", energy: "balanced" }
             ]
         }
     },
@@ -393,26 +419,38 @@ const CITIES = {
             alfama: { name: "Alfama", vibe: "Oud, fado, labyrint" },
             lxfactory: { name: "LX Factory / Alcântara", vibe: "Creatief, industrieel, trendy" },
             mouraria: { name: "Mouraria", vibe: "Multicultureel, authentiek, rauw" },
-            principe: { name: "Príncipe Real", vibe: "Chic, groen, relaxed" }
+            principe: { name: "Príncipe Real", vibe: "Chic, groen, relaxed" },
+            graca: { name: "Graça", vibe: "Hoog, uitzicht, lokaal" },
+            marvila: { name: "Marvila", vibe: "Industrieel, brouwerijen, opkomend" }
         },
         places: {
             coffee: [
                 { name: "Copenhagen Coffee Lab", neighborhood: "principe", type: "☕ Koffie", address: "Rua Nova da Piedade 10", lat: 38.7106, lng: -9.1518, story: "Scandinavische koffie in een Portugees paleis. De tegels op de muur zijn origineel azulejo, de melk is oat, en de contradictie is prachtig. Ga naar het terras achter — dat kent niemand.", budget: "mid", energy: "chill" },
-                { name: "Fabrica Coffee Roasters", neighborhood: "mouraria", type: "☕ Koffie", address: "Rua das Portas de Santo Antão 136", lat: 38.7166, lng: -9.1397, story: "Verstopt in een steegje dat je drie keer zou missen. Binnen ruikt het naar vers gebrande bonen en hoop. De eigenaar vluchtte uit een corporate leven en opende dit. Je proeft de vrijheid.", budget: "low", energy: "balanced" }
+                { name: "Fabrica Coffee Roasters", neighborhood: "mouraria", type: "☕ Koffie", address: "Rua das Portas de Santo Antão 136", lat: 38.7166, lng: -9.1397, story: "Verstopt in een steegje dat je drie keer zou missen. Binnen ruikt het naar vers gebrande bonen en hoop. De eigenaar vluchtte uit een corporate leven en opende dit. Je proeft de vrijheid.", budget: "low", energy: "balanced" },
+                { name: "Heim Café", neighborhood: "graca", type: "☕ Koffie", address: "Rua Santos-o-Velho 2", lat: 38.7130, lng: -9.1505, story: "Duits-Portugees echtpaar dat hun droom volgde en een café opende in een woonbuurt. Specialty coffee, zuurdesembrood uit eigen oven, en een terras met uitzicht op de rivier. Geen toeristen. Alleen buren die hier elke ochtend zitten.", budget: "mid", energy: "chill" },
+                { name: "Wish Slow Coffee House", neighborhood: "graca", type: "☕ Koffie", address: "Rua da Graça 49", lat: 38.7170, lng: -9.1330, story: "Slow coffee als filosofie, niet als marketingterm. Pour-over, AeroPress, cold brew — alles met dezelfde geduldige precisie. De ruimte is minimaal, de koffie is maximaal. Neem er de tijd voor. Dat is het punt.", budget: "low", energy: "chill" },
+                { name: "Café Janis", neighborhood: "mouraria", type: "☕ Koffie", address: "Rua da Mouraria 10", lat: 38.7148, lng: -9.1370, story: "Koffie, vinyl en vintage in het hart van Mouraria. De platencollectie draait non-stop — soul, funk, jazz. Bestel een galão, neem de krant, en doe alsof je Portugees bent. Na een uur geloof je het zelf.", budget: "low", energy: "balanced" }
             ],
             character: [
                 { name: "Feira da Ladra (dinsdag/zaterdag)", neighborhood: "alfama", type: "🎭 Karakter", address: "Campo de Santa Clara", lat: 38.7150, lng: -9.1240, story: "Rommelmarkt met ziel. Tussen de troep vind je azulejo-tegels, vintage fado-platen, en verhalen van verkopers die hier al 30 jaar staan. Het is chaos, maar de mooie soort.", budget: "low", energy: "explorer" },
-                { name: "Miradouro da Graça (niet Senhora do Monte)", neighborhood: "alfama", type: "🎭 Karakter", address: "Largo da Graça", lat: 38.7172, lng: -9.1297, story: "Elke blog noemt Senhora do Monte. Ga in plaats daarvan naar Graça: hetzelfde uitzicht, een tiende van de toeristen, en een kiosk die ginjinha schenkt voor €1. Proost op het uitzicht.", budget: "low", energy: "balanced" }
+                { name: "Miradouro da Graça (niet Senhora do Monte)", neighborhood: "graca", type: "🎭 Karakter", address: "Largo da Graça", lat: 38.7172, lng: -9.1297, story: "Elke blog noemt Senhora do Monte. Ga in plaats daarvan naar Graça: hetzelfde uitzicht, een tiende van de toeristen, en een kiosk die ginjinha schenkt voor €1. Proost op het uitzicht.", budget: "low", energy: "balanced" },
+                { name: "Mercado de Campo de Ourique", neighborhood: "principe", type: "🎭 Karakter", address: "Rua Coelho da Rocha 104", lat: 38.7200, lng: -9.1600, story: "Vergeet Time Out Market. Dit is waar Lissabonners echt eten. Een buurtmarkt met visboeren, kaasstalletjes, en een paar bars waar je petiscos deelt met mensen die hier al 40 jaar komen. Geen Instagrammers. Alleen eten.", budget: "low", energy: "balanced" },
+                { name: "LX Factory deep dive", neighborhood: "lxfactory", type: "🎭 Karakter", address: "Rua Rodrigues de Faria 103", lat: 38.7030, lng: -9.1780, story: "Ja, het staat in elke gids. Maar de meeste toeristen zien alleen de oppervlakte. Ga naar de bovenste verdiepingen van de gebouwen. Daar zitten ateliers, drukkerijen, en een tweedehands boekwinkel die zo groot is dat je er een middag kwijtraakt. De achterkant is beter dan de voorkant.", budget: "low", energy: "explorer" }
             ],
             cultural: [
-                { name: "MAAT", neighborhood: "lxfactory", type: "🎨 Cultuur Wildcard", address: "Av. Brasília", lat: 38.6959, lng: -9.1945, story: "Museum aan de Taag dat eruitziet als een golf die land raakt. De tentoonstellingen wisselen, maar het dak is altijd open: loop eroverheen en kijk uit over de rivier. Architectuur als kunst.", budget: "mid", energy: "balanced" }
+                { name: "MAAT", neighborhood: "lxfactory", type: "🎨 Cultuur Wildcard", address: "Av. Brasília", lat: 38.6959, lng: -9.1945, story: "Museum aan de Taag dat eruitziet als een golf die land raakt. De tentoonstellingen wisselen, maar het dak is altijd open: loop eroverheen en kijk uit over de rivier. Architectuur als kunst.", budget: "mid", energy: "balanced" },
+                { name: "Fábrica Braço de Prata", neighborhood: "marvila", type: "🎨 Cultuur Wildcard", address: "Rua da Fábrica de Material de Guerra 1", lat: 38.7450, lng: -9.1010, story: "Een voormalige wapenfabriek getransformeerd tot alternatief cultuurcentrum. Boekwinkel, tentoonstellingen, concerten, restaurant — alles onder één industrieel dak. Dit is Lissabon's antwoord op Berlijnse Kulturbrauerei. Niet in het centrum, maar juist daarom.", budget: "low", energy: "explorer" }
             ],
             walks: [
-                { name: "Alfama verdwaal-sessie bij schemering", neighborhood: "alfama", type: "🌙 Avondwandeling", address: "Start bij Castelo de São Jorge", lat: 38.7139, lng: -9.1335, story: "Geen Google Maps. Begin bij het kasteel en loop bergafwaarts. Elke steeg is een verrassing: fado uit een open raam, katten op trappen, wasgoed als vlaggen. Je verdwaalt. Dat is het punt.", budget: "low", energy: "balanced" }
+                { name: "Alfama verdwaal-sessie bij schemering", neighborhood: "alfama", type: "🌙 Avondwandeling", address: "Start bij Castelo de São Jorge", lat: 38.7139, lng: -9.1335, story: "Geen Google Maps. Begin bij het kasteel en loop bergafwaarts. Elke steeg is een verrassing: fado uit een open raam, katten op trappen, wasgoed als vlaggen. Je verdwaalt. Dat is het punt.", budget: "low", energy: "balanced" },
+                { name: "Mouraria → Graça → Alfama afdaling", neighborhood: "mouraria", type: "🌙 Avondwandeling", address: "Largo do Intendente → Miradouro da Graça → Sé", lat: 38.7180, lng: -9.1355, story: "Start bij het hippe Largo do Intendente. Loop omhoog door Mouraria — Lissabons meest multiculturele buurt — via Graça naar de miradouro. Dan afdalen door Alfama naar de kathedraal. Drie buurten, drie sferen, steeds bergafwaarts. Je knieën bedanken je.", budget: "low", energy: "explorer" }
             ],
             dinner: [
                 { name: "Taberna da Rua das Flores", neighborhood: "mouraria", type: "🍽️ Locals-only Diner", address: "Rua das Flores 103", lat: 38.7100, lng: -9.1436, story: "Geen reserveringen, geen menu, geen keuze. Chef André kiest voor je. Kleine gerechten die de Portugese keuken deconstrueren en weer opbouwen. De rij op straat is je garantie.", budget: "mid", energy: "explorer" },
-                { name: "Tasca do Chico", neighborhood: "alfama", type: "🍽️ Locals-only Diner", address: "Rua do Diário de Notícias 39", lat: 38.7118, lng: -9.1440, story: "Fado + eten + te veel wijn in een ruimte zo klein dat je elleboog in het bord van je buurman belandt. Als de zanger begint, stopt alles. Letterlijk alles. Dit is waarom je naar Lissabon kwam.", budget: "mid", energy: "balanced" }
+                { name: "Tasca do Chico", neighborhood: "alfama", type: "🍽️ Locals-only Diner", address: "Rua do Diário de Notícias 39", lat: 38.7118, lng: -9.1440, story: "Fado + eten + te veel wijn in een ruimte zo klein dat je elleboog in het bord van je buurman belandt. Als de zanger begint, stopt alles. Letterlijk alles. Dit is waarom je naar Lissabon kwam.", budget: "mid", energy: "balanced" },
+                { name: "Cantinho do Aziz", neighborhood: "mouraria", type: "🍽️ Locals-only Diner", address: "Rua de São Lourenço 5", lat: 38.7135, lng: -9.1330, story: "Mozambikaanse keuken in het hart van Mouraria. Aziz vluchtte uit Maputo en opende dit restaurant dat twee werelden verbindt. De caril de caranguejo is een openbaring. Klein, vol, en je eet met je handen als niemand kijkt.", budget: "low", energy: "balanced" },
+                { name: "Zé da Mouraria", neighborhood: "mouraria", type: "🍽️ Locals-only Diner", address: "Rua João do Outeiro 24", lat: 38.7155, lng: -9.1365, story: "Traditionele petiscos in een buurt die snel verandert maar hier is de tijd gestopt. De eigenaar kent elke klant bij naam. De bacalhau is simpel en perfect. De rekening is belachelijk laag. Dit is het Lissabon dat verdwijnt — ga nu.", budget: "low", energy: "chill" },
+                { name: "A Cevicheria", neighborhood: "principe", type: "🍽️ Locals-only Diner", address: "Rua Dom Pedro V 129", lat: 38.7150, lng: -9.1480, story: "Peruaanse ceviche in een Portugese setting. Chef Kiko combineert twee oceaanculturen. De teller aan de bar is de beste plek — kijk hoe hij snijdt met chirurgische precisie. De octopus-ceviche verandert je perspectief op vis. Reserveer of sta in de rij.", budget: "high", energy: "balanced" }
             ]
         }
     },
@@ -423,31 +461,577 @@ const CITIES = {
             ouseburn: { name: "Ouseburn", vibe: "Creatief, rauw, kunstenaars en brouwerijen" },
             jesmond: { name: "Jesmond", vibe: "Groen, brunch-cultuur, jong-professioneel" },
             grainger: { name: "Grainger Town", vibe: "Historisch, architectuur, independent winkels" },
-            quayside: { name: "Quayside", vibe: "Rivier, modern, zondagsmarkt" }
+            quayside: { name: "Quayside", vibe: "Rivier, modern, zondagsmarkt" },
+            heaton: { name: "Heaton", vibe: "Residentieel, divers, verborgen eettentjes" },
+            sandgate: { name: "Sandgate", vibe: "Historisch, Tudor, rivieroevers" }
         },
         places: {
             coffee: [
                 { name: "Ouseburn Coffee Co.", neighborhood: "ouseburn", type: "☕ Koffie", address: "276 Shields Road", lat: 54.9735, lng: -1.5895, story: "Micro-rösterij verstopt in het creatieve hart van Ouseburn. Ze branden ter plekke in kleine batches, en de ruimte fungeert als hangout voor lokale kunstenaars en makers. De geur van vers gebrande bonen mengt met verf en ambacht.", budget: "low", energy: "chill" },
                 { name: "Flat Caps Coffee", neighborhood: "grainger", type: "☕ Koffie", address: "9 Carliol Square", lat: 54.9745, lng: -1.6095, story: "Minimaal, geen-onzin specialty coffee bar gerund door obsessieve baristas. Locals beschouwen dit als de beste espresso van het noordoosten van Engeland. Geen franje, alleen vakmanschap in een kopje.", budget: "low", energy: "balanced" },
-                { name: "Pink Lane Coffee", neighborhood: "grainger", type: "☕ Koffie", address: "1 Pink Lane", lat: 54.9690, lng: -1.6200, story: "Verstopt in een steegje bij Central Station. Deze röster-café is een hoeksteen van Newcastle's third-wave koffiescene. Wisselende single-origin bonen en een cult-following onder locals die weten waar ze moeten zijn.", budget: "low", energy: "balanced" }
+                { name: "Pink Lane Coffee", neighborhood: "grainger", type: "☕ Koffie", address: "1 Pink Lane", lat: 54.9690, lng: -1.6200, story: "Verstopt in een steegje bij Central Station. Deze röster-café is een hoeksteen van Newcastle's third-wave koffiescene. Wisselende single-origin bonen en een cult-following onder locals die weten waar ze moeten zijn.", budget: "low", energy: "balanced" },
+                { name: "Kiln Coffee", neighborhood: "ouseburn", type: "☕ Koffie", address: "Hoults Yard, Walker Road", lat: 54.9710, lng: -1.5830, story: "Verscholen in Hoults Yard — een complex van creatieve bedrijven in een oud fabrieksgebouw. Kiln roast hun eigen bonen en de espresso is onberispelijk. De vibe is werkplaats-chic: beton, staal en de geur van versgebrand. Ouseburn's best bewaarde geheim voor koffie-nerds.", budget: "low", energy: "chill" }
             ],
             character: [
                 { name: "The Biscuit Factory", neighborhood: "ouseburn", type: "🎭 Karakter", address: "16 Stoddart Street", lat: 54.9753, lng: -1.5940, story: "De grootste onafhankelijke commerciële kunstgalerie van het VK, in een verbouwd Victoriaans pakhuis. Twee verdiepingen hedendaagse kunst, craft en design. Een plek waar je uren kunt dwalen en altijd iets vindt dat je raakt.", budget: "low", energy: "balanced" },
-                { name: "Tyneside Cinema", neighborhood: "grainger", type: "🎭 Karakter", address: "10-12 Pilgrim Street", lat: 54.9730, lng: -1.6115, story: "Een prachtig gerestaureerde bioscoop uit 1937 — het laatste overgebleven purpose-built newsreel theater in het VK. Nu arthouse en wereldcinema, met een art deco café-bar. Hier kijk je film zoals film bedoeld was.", budget: "mid", energy: "chill" }
+                { name: "Tyneside Cinema", neighborhood: "grainger", type: "🎭 Karakter", address: "10-12 Pilgrim Street", lat: 54.9730, lng: -1.6115, story: "Een prachtig gerestaureerde bioscoop uit 1937 — het laatste overgebleven purpose-built newsreel theater in het VK. Nu arthouse en wereldcinema, met een art deco café-bar. Hier kijk je film zoals film bedoeld was.", budget: "mid", energy: "chill" },
+                { name: "Wylam Brewery", neighborhood: "jesmond", type: "🎭 Karakter", address: "Palace of Arts, Exhibition Park", lat: 54.9810, lng: -1.6155, story: "Een craft brewery in een monumentaal Palace of Arts gebouw uit 1929. Het contrast is fenomenaal: art deco plafonds boven biertanks, glas-in-lood boven hoppige IPAs. Vrijdagavond is het hier een local block party — muziek, food trucks, en het beste bier dat in Newcastle gebrouwen wordt.", budget: "mid", energy: "explorer" },
+                { name: "The Cumberland Arms", neighborhood: "ouseburn", type: "🎭 Karakter", address: "James Place Street, Byker", lat: 54.9730, lng: -1.5870, story: "Een echte community pub verscholen op een heuvel boven de Ouseburn Valley. Folk sessions op zondag, een biertuin met uitzicht over de vallei, en locals die hier al decennia komen. Geen pretentie, geen thema — gewoon een pub zoals pubs ooit bedoeld waren. De biertuin bij zonsondergang is magisch.", budget: "low", energy: "chill" }
             ],
             cultural: [
                 { name: "Star and Shadow Cinema", neighborhood: "ouseburn", type: "🎨 Cultuur Wildcard", address: "Warwick Street", lat: 54.9758, lng: -1.5920, story: "Vrijwilligers-run, radicaal onafhankelijke bioscoop en live muziek venue. DIY-ethos, experimentele programmering, punk en underground gigs. Het spirituele hart van Newcastle's tegencultuur. Als NTS een gebouw was.", budget: "low", energy: "explorer" },
-                { name: "BALTIC Centre for Contemporary Art", neighborhood: "quayside", type: "🎨 Cultuur Wildcard", address: "South Shore Road, Gateshead", lat: 54.9690, lng: -1.6005, story: "Een verbouwde meelfabriek getransformeerd tot een van de grootste hedendaagse kunsthallen ter wereld. Gratis entree, wisselende tentoonstellingen, en een dakterras met panoramisch uitzicht over de Tyne. Architectuur als statement.", budget: "low", energy: "balanced" }
+                { name: "BALTIC Centre for Contemporary Art", neighborhood: "quayside", type: "🎨 Cultuur Wildcard", address: "South Shore Road, Gateshead", lat: 54.9690, lng: -1.6005, story: "Een verbouwde meelfabriek getransformeerd tot een van de grootste hedendaagse kunsthallen ter wereld. Gratis entree, wisselende tentoonstellingen, en een dakterras met panoramisch uitzicht over de Tyne. Architectuur als statement.", budget: "low", energy: "balanced" },
+                { name: "Bessie Surtees House", neighborhood: "sandgate", type: "🎨 Cultuur Wildcard", address: "41-44 Sandhill", lat: 54.9695, lng: -1.6090, story: "Twee samengevoegde Jacobean merchant houses uit de 16e en 17e eeuw, pal aan de Quayside. Gratis te bezoeken, en bijna niemand weet dat het bestaat. Bessie Surtees ontvluchtte hier in 1772 via het raam om te trouwen met haar geliefde. Tudor houten panelen, open haarden, en een verhaal dat beter is dan elke Netflix-serie.", budget: "low", energy: "chill" }
             ],
             walks: [
-                { name: "Quayside → Ouseburn zonsondergang", neighborhood: "quayside", type: "🌙 Avondwandeling", address: "Millennium Bridge → Free Trade Inn", lat: 54.9695, lng: -1.5995, story: "Loop oost langs de noordoever van de Tyne vanaf de Millennium Bridge. Volg het rivierpad terwijl het zich de Ouseburn Valley in slingert. Eindig bij de Free Trade Inn — een pub op een heuvel met het beste zonsondergangsterras van de stad. De bruggen lichten op terwijl jij je pint drinkt.", budget: "low", energy: "balanced" }
+                { name: "Quayside → Ouseburn zonsondergang", neighborhood: "quayside", type: "🌙 Avondwandeling", address: "Millennium Bridge → Free Trade Inn", lat: 54.9695, lng: -1.5995, story: "Loop oost langs de noordoever van de Tyne vanaf de Millennium Bridge. Volg het rivierpad terwijl het zich de Ouseburn Valley in slingert. Eindig bij de Free Trade Inn — een pub op een heuvel met het beste zonsondergangsterras van de stad. De bruggen lichten op terwijl jij je pint drinkt.", budget: "low", energy: "balanced" },
+                { name: "Jesmond Dene → Ouseburn groene corridor", neighborhood: "jesmond", type: "🚶 Wandeling", address: "Jesmond Dene Road → Stepney Bank", lat: 54.9870, lng: -1.5955, story: "Newcastle's verborgen groene long. Begin bij de waterval in Jesmond Dene — een Victoriaans ravijn vol oud bos midden in de stad. Volg het pad zuidwaarts langs de beek, onder stenen bruggetjes door, tot je in de Ouseburn Valley uitkomt. Van natuur naar street art in één ononderbroken wandeling. Voelt alsof je de stad uitloopt zonder ooit te vertrekken.", budget: "low", energy: "explorer" }
             ],
             dinner: [
                 { name: "Dabbawal", neighborhood: "grainger", type: "🍽️ Locals-only Diner", address: "69-75 High Bridge", lat: 54.9735, lng: -1.6135, story: "Street-food-geïnspireerde Indiase keuken waar locals bij zweren. Kleine gerechten, gedurfde smaken, en een bruisende sfeer. Lichtjaren verwijderd van generieke curry houses — hier draait het om regionale Indiase kookkunst, goed gedaan.", budget: "mid", energy: "balanced" },
-                { name: "Cook House", neighborhood: "ouseburn", type: "🍽️ Locals-only Diner", address: "Foundry Lane", lat: 54.9718, lng: -1.5880, story: "Klein, seizoensgebonden restaurant in een verbouwde container aan de Ouseburn. Chef Anna Hedworth kookt met hyper-lokale ingrediënten en een dagelijks wisselend menu. Het voelt als eten bij een briljante vriendin — als die vriendin een award-winning chef is.", budget: "mid", energy: "chill" }
+                { name: "Cook House", neighborhood: "ouseburn", type: "🍽️ Locals-only Diner", address: "Foundry Lane", lat: 54.9718, lng: -1.5880, story: "Klein, seizoensgebonden restaurant in een verbouwde container aan de Ouseburn. Chef Anna Hedworth kookt met hyper-lokale ingrediënten en een dagelijks wisselend menu. Het voelt als eten bij een briljante vriendin — als die vriendin een award-winning chef is.", budget: "mid", energy: "chill" },
+                { name: "Kaltur", neighborhood: "grainger", type: "🍽️ Locals-only Diner", address: "1-3 Higham Place", lat: 54.9720, lng: -1.6160, story: "Spaans-Baskische tapas in een intiem souterrain bij Grey's Monument. De eigenaar is zelf Baskisch en importeert alles — van de jamón tot de pintxos — rechtstreeks. De calamares zijn een openbaring. Wijnlijst vol verrassingen, nul toeristen. Dit is waar Newcastle's chefs eten op hun avond vrij.", budget: "mid", energy: "balanced" },
+                { name: "The Patricia", neighborhood: "jesmond", type: "🍽️ Locals-only Diner", address: "139 Jesmond Road", lat: 54.9780, lng: -1.5980, story: "Tien zitplaatsen aan een bar. Geen menu — je eet wat chef Nick kookt. Elke avond anders, altijd seizoensgebonden, altijd briljant. Het concept is simpel: vertrouw de chef. Het resultaat is een van de beste eetervaring in het noorden van Engeland. Reserveer weken vooruit of probeer je geluk als walk-in.", budget: "high", energy: "chill" },
+                { name: "Sky Apple Café", neighborhood: "heaton", type: "🍽️ Locals-only Diner", address: "182 Heaton Road", lat: 54.9790, lng: -1.5830, story: "Vegetarisch-vegan café in het hart van Heaton, gerund door muzikanten en creatievelingen. Overdag brunch met zelfgebakken sourdough en huisgemaakte hummus. 's Avonds intieme live muziek — folk, jazz, singer-songwriter. De vibe is iemands huiskamer, maar dan met eten dat je niet verwacht in een buurthuis.", budget: "low", energy: "chill" }
             ]
         }
     }
+};
+
+// ============================================
+// 🍴 LOKALE GERECHTEN — Dish-first, restaurant-second
+// ============================================
+// Wat MOET je proeven in elke stad? En waar is de beste versie?
+
+const LOCAL_FOOD = {
+    cologne: [
+        {
+            dishName: "Himmel un Ääd",
+            description: "Letterlijk 'Hemel en Aarde' — aardappelpuree met appelmoes en gebakken bloedworst (Flönz). Keulen's meest iconische gerecht. De combinatie van zoet en hartig is verslavend, en de bloedworst is knapperig van buiten, zacht van binnen.",
+            restaurant: "Gasthaus Schreckenskammer",
+            address: "Ursulagartenstraße 11",
+            lat: 50.9410, lng: 6.9562,
+            whyHere: "Familie-run sinds 1921. De bloedworst komt van een lokale slager die al drie generaties levert. Nul toeristen, volle tafels locals.",
+            priceRange: "€€",
+            neighborhood: "altstadt",
+            mustTry: true
+        },
+        {
+            dishName: "Halver Hahn",
+            description: "De grap van Keulen: je bestelt een 'halve haan' en krijgt... een roggebroodje met oude Hollandse kaas en mosterd. Geen kip. De naam is een running joke die al meer dan 100 jaar meegaat. Een must om mee te maken.",
+            restaurant: "Päffgen Brauhaus",
+            address: "Friesenstraße 64-66",
+            lat: 50.9425, lng: 6.9450,
+            whyHere: "Päffgen brouwt hun eigen Kölsch in het pand. De Köbes (ober) brengt ongevraagd nieuw bier tot je je viltje op je glas legt. Theater en eten in één.",
+            priceRange: "€",
+            neighborhood: "altstadt",
+            mustTry: true
+        },
+        {
+            dishName: "Rheinischer Sauerbraten",
+            description: "Stoofvlees dat dagenlang marineert in azijn en kruiden, geserveerd met een zoete rozijnen-saus, rode kool en aardappelknoedels. Het Rijnlandse antwoord op de Franse coq au vin — maar dan steviger, dieper, en onvergetelijk.",
+            restaurant: "Bei Oma Kleinmann",
+            address: "Zülpicher Straße 9",
+            lat: 50.9315, lng: 6.9405,
+            whyHere: "Klein familierestaurant waar de recepten letterlijk van oma komen. Het vlees marineert 7 dagen. Reserveer of sta in de rij — het is het waard.",
+            priceRange: "€€",
+            neighborhood: "kwartier-lateng",
+            mustTry: false
+        },
+        {
+            dishName: "Reibekuchen met Apfelmus",
+            description: "Knapperige aardappelpannenkoeken met appelmoes. Simpel, briljant, verslavend. Op de kerstmarkt zijn ze goddelijk, maar het hele jaar door bestelbaar in elk goed Brauhaus. De buitenkant kraakt, de binnenkant smelt.",
+            restaurant: "Früh am Dom",
+            address: "Am Hof 12-18",
+            lat: 50.9407, lng: 6.9570,
+            whyHere: "Ja, het ligt naast de Dom en ja, er zijn toeristen. Maar de Reibekuchen hier zijn perfect — knapperig, niet vettig, met huisgemaakte appelmoes. Locals komen hier nog steeds.",
+            priceRange: "€",
+            neighborhood: "altstadt",
+            mustTry: false
+        },
+        {
+            dishName: "Kölsch & Mettbrötchen",
+            description: "Rauw gehakt op een broodje met uienringen. Ja, rauw varkensvlees. Het is de ultieme Kölner snack bij je Kölsch-biertje. Als je je erbij kunt zetten: je ontdekt waarom Duitsland het land van Mett is.",
+            restaurant: "Lommerzheim",
+            address: "Siegesstraße 18",
+            lat: 50.9265, lng: 6.9705,
+            whyHere: "Legendarische Eck-Kneipe in Deutz. De Kotelett is eigenlijk beroemder, maar het Mettbrötchen hier is de perfecte entree tot Keulse eetcultuur. Cash only, geen reserveringen, volle bak.",
+            priceRange: "€",
+            neighborhood: "deutz",
+            mustTry: false
+        },
+        {
+            dishName: "Flönz",
+            description: "Keulse bloedworst — milder en kruidiger dan je verwacht. Warm geserveerd met brood en mosterd, of koud als snack bij je Kölsch. Keulen's antwoord op Britse black pudding, maar eleganter.",
+            restaurant: "Malzmühle",
+            address: "Heumarkt 6",
+            lat: 50.9370, lng: 6.9610,
+            whyHere: "Brouwerij op de Heumarkt die hun eigen Mühlen Kölsch brouwen. De Flönz is huisgemaakt en de sfeer is onvervalst Keuls. Probeer het met een Halve Hahn erbij.",
+            priceRange: "€",
+            neighborhood: "altstadt",
+            mustTry: false
+        }
+    ],
+    amsterdam: [
+        {
+            dishName: "Bitterballen",
+            description: "Knapperig gefrituurd, romig ragout van binnen. De ultieme Nederlandse borrelsnack. Elke Amsterdammer heeft een mening over waar de beste zijn. Dip in mosterd, blaas, brand je mond, herhaal.",
+            restaurant: "Café 't Smalle",
+            address: "Egelantiersgracht 12",
+            lat: 52.3755, lng: 4.8835,
+            whyHere: "Proeflokaal uit 1786 aan de Jordaan-gracht. De bitterballen zijn vers, het terras hangt boven het water, en de sfeer is tijdloos Amsterdam. Dit is waar Amsterdammers hun zondagmiddag doorbrengen.",
+            priceRange: "€",
+            neighborhood: "jordaan",
+            mustTry: true
+        },
+        {
+            dishName: "Verse Stroopwafel",
+            description: "Twee dunne wafellagen met warme kaneelstroop ertussen. Vers gemaakt, warm gegeten — een compleet andere ervaring dan die uit de supermarkt. De stroop plakt aan je vingers en de geur trekt je drie straten mee.",
+            restaurant: "Albert Cuyp Markt (kraam)",
+            address: "Albert Cuypstraat",
+            lat: 52.3558, lng: 4.8945,
+            whyHere: "De originele markt-stroopwafel. Staat er al decennia, de rij is altijd lang maar beweegt snel. Warm uit het ijzer, €3, perfectie. Ga rond 10u voor de kortste rij.",
+            priceRange: "€",
+            neighborhood: "depijp",
+            mustTry: true
+        },
+        {
+            dishName: "Hollandse Nieuwe",
+            description: "Rauwe haring met uitjes en augurk. Je pakt 'm bij de staart, hoofd achterover, en slikt. Of op een broodje als je beschaafd wilt doen. De vetste, ziltigste, meest Hollandse snack die er is. Seizoen: juni-juli is vers.",
+            restaurant: "Vis aan de Schelde (haringkar)",
+            address: "Centuurbaan / hoek Albert Cuypstraat",
+            lat: 52.3555, lng: 4.8925,
+            whyHere: "Niet de toeristenkramen bij het Centraal Station. Dit is een buurt-viskraam in De Pijp waar locals hun haring halen. Vers, proper, en de eigenaar vertelt je precies uit welk vat je haring komt.",
+            priceRange: "€",
+            neighborhood: "depijp",
+            mustTry: false
+        },
+        {
+            dishName: "Stamppot",
+            description: "Aardappelpuree gestampt met groenten — boerenkool, zuurkool of hutspot (wortel-ui). Met rookworst en jus. Nederlands comfort food op z'n best. Het gerecht dat Hollanders naar huis trekt als het koud wordt.",
+            restaurant: "Moeders",
+            address: "Rozengracht 251",
+            lat: 52.3718, lng: 4.8770,
+            whyHere: "Restaurant vol ingelijste moederfoto's aan de muur. Elke gast brengt een foto van z'n moeder mee. De stamppot is stevig, eerlijk en precies wat je oma zou maken. Kitscherig? Ja. Goed? Absoluut.",
+            priceRange: "€€",
+            neighborhood: "jordaan",
+            mustTry: false
+        },
+        {
+            dishName: "Poffertjes",
+            description: "Mini-pannenkoekjes met boter en poedersuiker. Luchtig, zoet, en verslavend. Geen dessert maar een maaltijd als je er genoeg bestelt. De luchtigheid komt van boekweitmeel en gist.",
+            restaurant: "The Pancake Bakery",
+            address: "Prinsengracht 191",
+            lat: 52.3750, lng: 4.8825,
+            whyHere: "In een verbouwd 17e-eeuws VOC-pakhuis aan de Prinsengracht. Toeristisch? Beetje. Maar de poffertjes zijn authentiek en het pand is spectaculair. Ga doordeweeks voor rust.",
+            priceRange: "€",
+            neighborhood: "jordaan",
+            mustTry: false
+        },
+        {
+            dishName: "Ossenworst",
+            description: "Amsterdams erfgoed: rauwe, gerookte rundvleesworst. Ooit bedacht door Joodse slagers in de 17e eeuw. Zacht, kruidig, licht gerookt. Je snijdt dunne plakjes en eet het op brood of puur. Een stuk eetbare geschiedenis.",
+            restaurant: "Slagerij Louman",
+            address: "Noordse Bosje 17 (Noordermarkt)",
+            lat: 52.3800, lng: 4.8850,
+            whyHere: "De beroemdste slagerij van Amsterdam, op de zaterdag Noordermarkt. Familie Louman maakt al generaties ossenworst volgens het originele recept. De rij op zaterdag is het bewijs.",
+            priceRange: "€",
+            neighborhood: "jordaan",
+            mustTry: false
+        }
+    ],
+    antwerp: [
+        {
+            dishName: "Antwerpse Handjes",
+            description: "Chocolaatjes in de vorm van een hand — het symbool van Antwerpen. De legende: een Romeinse soldaat hakte de hand af van een reus die tol hief op de Schelde. De beste versie is gevuld met praline of marzipan.",
+            restaurant: "Chocolatier Del Rey",
+            address: "Appelmansstraat 5",
+            lat: 51.2180, lng: 4.4145,
+            whyHere: "Ambachtelijke chocolatier sinds 1949. Hun handjes zijn kunststukjes — niet de massaproductie die je bij de Grote Markt vindt. Probeer de versie met nougat-vulling.",
+            priceRange: "€€",
+            neighborhood: "oudestad",
+            mustTry: true
+        },
+        {
+            dishName: "Stoofvlees met Friet",
+            description: "Vlaamse stoofschotel met bier, brood met mosterd op de bodem, en uren geduld. Geserveerd met de dikste, dubbel-gefrituurde friet die je ooit zult eten. DIT is waarom België culinair superieur is aan Nederland.",
+            restaurant: "De Zuiderkroon",
+            address: "Vlaamse Kaai 14",
+            lat: 51.2135, lng: 4.3945,
+            whyHere: "Eetcafé in het Zuid waar locals hun stoofvlees eten. Niet fancy, niet instagrammable — gewoon goed. Het vlees valt uit elkaar en de friet is knapperig van buiten, smeuïg van binnen.",
+            priceRange: "€€",
+            neighborhood: "zuid",
+            mustTry: true
+        },
+        {
+            dishName: "Frietjes met Stoofvleessaus",
+            description: "Ja, apart van stoofvlees. Want Belgische friet verdient een eigen vermelding. Dubbel gebakken in ossewit, geserveerd in een puntzak met stoofvleessaus of mayo (NOOIT ketchup). Het nationale monument van België.",
+            restaurant: "Frituur No. 1",
+            address: "Hoogstraat 1",
+            lat: 51.2205, lng: 4.4010,
+            whyHere: "Geen tafel, geen service, geen pretentie. Frituur met een luik waar je bestelt en op straat eet. De friet is twee keer gebakken en de stoofvleessaus is dik en donker. Antwerpen op z'n puurst.",
+            priceRange: "€",
+            neighborhood: "oudestad",
+            mustTry: false
+        },
+        {
+            dishName: "Vol-au-Vent",
+            description: "Bladerdeeg gevuld met kip, champignons en een romige saus met een vleugje citroen. Belgische comfort food van de oude stempel. Elke brasserie serveert het, maar de goede versies zijn zeldzaam — het verschil zit in de saus.",
+            restaurant: "Grand Café De Rooden Hoed",
+            address: "Oude Koornmarkt 25",
+            lat: 51.2200, lng: 4.3975,
+            whyHere: "Het oudste café van Antwerpen, al open sinds 1750. De vol-au-vent is een klassieker: romig, genereus, en geserveerd in een sfeer die je nergens anders vindt. Ga op een doordeweekse lunch.",
+            priceRange: "€€",
+            neighborhood: "oudestad",
+            mustTry: false
+        },
+        {
+            dishName: "Bolleke De Koninck",
+            description: "Geen gerecht maar een ritueel. Het amberkleurige bier van Antwerpen, geserveerd in een bolleke-glas. Elk Antwerps café tapt het, maar de ervaring begint bij de brouwerij. Zacht, licht bitter, onmiskenbaar Antwerps.",
+            restaurant: "Brouwerij De Koninck",
+            address: "Mechelsesteenweg 291",
+            lat: 51.2080, lng: 4.4130,
+            whyHere: "De brouwerij zelf. Tour door de stadsbrouwerij, eindig met proeverij in het proeflokaal. Je leert waarom een Bolleke in Antwerpen meer is dan bier — het is een levenshouding.",
+            priceRange: "€",
+            neighborhood: "zuid",
+            mustTry: true
+        },
+        {
+            dishName: "Garnaalkroketten",
+            description: "Knapperig gefrituurd met romige Noordzeegarnalen van binnen. De Vlaamse versie van bitterballen, maar delicater en met de zilte smaak van de zee. Het verschil met de Nederlandse versie? De Belgen gebruiken meer boter. Altijd.",
+            restaurant: "Brasserie Dock's",
+            address: "Jordaenskaai 7",
+            lat: 51.2265, lng: 4.3960,
+            whyHere: "Art deco brasserie aan de Scheldekaaien met uitzicht op het water. De garnaalkroketten zijn handgemaakt en de sfeer is oud-Antwerps glamour. Perfect voor een lange lunch.",
+            priceRange: "€€",
+            neighborhood: "eilandje",
+            mustTry: false
+        }
+    ],
+    lisbon: [
+        {
+            dishName: "Pastel de Nata",
+            description: "Bladerdeeg, custard, zwarte vlekjes van de oven. Warm gegeten, bestrooid met kaneel en poedersuiker. Het meest iconische gebakje ter wereld — en in Lissabon smaakt het anders dan overal elders. De bodem kraakt, de vulling beeft.",
+            restaurant: "Manteigaria",
+            address: "Rua do Loreto 2",
+            lat: 38.7115, lng: -9.1435,
+            whyHere: "Niet Pastéis de Belém (toeristenwachtrij). Manteigaria bakt ze voor je ogen in een open keuken. Warm uit de oven, goedkoper, en Lissabonners zweren dat deze beter zijn. Eet ze staand aan de toonbank.",
+            priceRange: "€",
+            neighborhood: "bairro",
+            mustTry: true
+        },
+        {
+            dishName: "Bacalhau à Brás",
+            description: "Gedroogde kabeljauw (bacalhau) met dunne frietjes, roerei, olijven en peterselie. Een van de 365 manieren waarop Portugal kabeljauw bereidt — voor elke dag een. Dit is de meest verslavende versie: romig, ziltig, knapperig tegelijk.",
+            restaurant: "Zé da Mouraria",
+            address: "Rua João do Outeiro 24",
+            lat: 38.7150, lng: -9.1345,
+            whyHere: "Geen-onzin tascas in de Mouraria, Lissabon's meest authentieke buurt. Hier eet je bacalhau zoals Portugezen het thuis maken. Plastic tafelkleed, TV aan de muur, perfectie op je bord.",
+            priceRange: "€",
+            neighborhood: "mouraria",
+            mustTry: true
+        },
+        {
+            dishName: "Bifana",
+            description: "Dun gesneden varkensvlees gemarineerd in knoflook, witte wijn en piri-piri, op een broodje. Portugal's antwoord op de hamburger — en eerlijk gezegd beter. Simpel, vet, een beetje pittig, en voor €2,50.",
+            restaurant: "As Bifanas do Afonso",
+            address: "Rua da Madalena 146",
+            lat: 38.7110, lng: -9.1355,
+            whyHere: "Hole-in-the-wall in de Baixa waar de bifana's sneller weggaan dan ze gemaakt worden. Locals bestellen er twee tegelijk met een Imperial (biertje). Geen zitplaatsen, geen menu, geen probleem.",
+            priceRange: "€",
+            neighborhood: "bairro",
+            mustTry: false
+        },
+        {
+            dishName: "Ginjinha",
+            description: "Kerslikeur. Je drinkt het in één shot, staand bij een ginjinha-kraam. Zoet, warm, medicinaal — het is de aperitief van Lissabon. Sommigen nemen het 'com ginja' (met een kers op de bodem) of in een chocolade bekertje.",
+            restaurant: "A Ginjinha",
+            address: "Largo de São Domingos 8",
+            lat: 38.7140, lng: -9.1395,
+            whyHere: "Het origineel sinds 1840. Een piepklein lokaal met alleen een toonbank. Je bestelt, je drinkt, je gaat. Het plein ervoor is een van Lissabon's meest levendige — perfecte people watching erbij.",
+            priceRange: "€",
+            neighborhood: "bairro",
+            mustTry: true
+        },
+        {
+            dishName: "Sardinhas Assadas",
+            description: "Gegrilde sardines op houtskool. Heel, met kop en staart, op brood zodat het vet intrekt. De geur vult hele straten in juni (Santos Populares festival). Buiten het seizoen: nog steeds goed, maar juni is magisch.",
+            restaurant: "Ponto Final",
+            address: "Rua do Ginjal 72, Almada",
+            lat: 38.6870, lng: -9.1645,
+            whyHere: "Neem de veerboot naar Cacilhas, loop langs de kade. Dit restaurant hangt letterlijk boven het water met uitzicht op heel Lissabon. De sardines zijn vers, de wijn goedkoop, en de zonsondergang is gratis.",
+            priceRange: "€",
+            neighborhood: "bairro",
+            mustTry: false
+        },
+        {
+            dishName: "Caldo Verde",
+            description: "Boerenkoolsoep met aardappel, olijfolie en een plak chouriço. Portugees comfort in een kom. Simpel, gezond, vol smaak. Het recept verandert al honderden jaren niet — en dat hoeft ook niet.",
+            restaurant: "Tasca do Chico",
+            address: "Rua dos Remédios 83",
+            lat: 38.7130, lng: -9.1270,
+            whyHere: "Fado-restaurant in Alfama. De caldo verde is een proloog voor een avond live fado — rauw, emotioneel, echt. Reserveer vooruit, het is klein en altijd vol.",
+            priceRange: "€€",
+            neighborhood: "alfama",
+            mustTry: false
+        }
+    ],
+    newcastle: [
+        {
+            dishName: "Stottie Cake",
+            description: "Plat, dicht, rond brood. Niet mooi, wel briljant. Gevuld met ham and pease pudding, of bacon. Het Geordie antwoord op het broodje — maar dan steviger, voedzamer, en met een naam die je moet leren uitspreken.",
+            restaurant: "Greggs (originele bakkerij)",
+            address: "Gosforth High Street",
+            lat: 54.9830, lng: -1.6140,
+            whyHere: "Ja, Greggs. Het begon als een lokale bakkerij in Newcastle. De stottie bij een originele Greggs in Gosforth is nog steeds handgemaakt en een wereld van verschil met de keten-versie. Nostalgie en koolhydraten in één.",
+            priceRange: "€",
+            neighborhood: "jesmond",
+            mustTry: true
+        },
+        {
+            dishName: "Pease Pudding",
+            description: "Een dikke, gele pudding van gespleten gele erwten. Klinkt vreemd, smaakt fantastisch — zacht, aards, een beetje zoet. Een van de oudste recepten van Northumbria, traditioneel geserveerd op een stottie met ham.",
+            restaurant: "The Broad Chare",
+            address: "25 Broad Chare",
+            lat: 54.9700, lng: -1.6050,
+            whyHere: "Gastropub aan de Quayside gerund door Terry Laybourne, een van Newcastle's chef-legendes. Hun pease pudding is een hommage aan de regio — geserveerd als bijgerecht bij slow-cooked vlees. Verfijnd maar trouw aan de roots.",
+            priceRange: "€€",
+            neighborhood: "quayside",
+            mustTry: true
+        },
+        {
+            dishName: "Pan Haggerty",
+            description: "Lagen aardappel, ui en kaas, langzaam gebakken in een pan tot goudbruin en smeuïg. Het Northumbriaanse equivalent van gratin dauphinois — maar dan zonder de Franse pretentie. Comfort food voor koude avonden aan de Tyne.",
+            restaurant: "The Patricia",
+            address: "139 Jesmond Road",
+            lat: 54.9780, lng: -1.5980,
+            whyHere: "Chef's table restaurant met 10 zitplaatsen. Geen menu — je eet wat chef Nick kookt. Als pan haggerty op z'n seizoensgebonden menu staat, heb je geluk. De versie hier is geëleveerd maar eerlijk.",
+            priceRange: "€€€",
+            neighborhood: "jesmond",
+            mustTry: false
+        },
+        {
+            dishName: "Craster Kippers",
+            description: "Gerookte haring uit het vissersdorp Craster, 50km ten noorden van Newcastle. Al generaties gerookt in hetzelfde rookhuis. Goudbruin, zilt, rokerig. Op toast met boter voor ontbijt is dit een openbaring.",
+            restaurant: "The Kipper House at Swallow Fish",
+            address: "Craster (dagtrip) / Newcastle Grainger Market",
+            lat: 54.9730, lng: -1.6130,
+            whyHere: "Op de Grainger Market in het centrum vind je verse Craster kippers bij de visboer. Neem ze mee en bak ze zelf, of maak de dagtrip naar Craster zelf — het rookhuis is al 130+ jaar in bedrijf.",
+            priceRange: "€",
+            neighborhood: "grainger",
+            mustTry: false
+        },
+        {
+            dishName: "Parmo",
+            description: "Gepaneerd kippenschnitzel met bechamelsaus en gesmolten kaas. Geen Italiaans gerecht maar een creatie uit Teesside die heel Noord-Engeland veroverd heeft. Trashy? Misschien. Onweerstaanbaar? Absoluut. De guilty pleasure van de Geordie.",
+            restaurant: "Scream for Pizza",
+            address: "Side, Newcastle",
+            lat: 54.9710, lng: -1.6095,
+            whyHere: "Ja, het is een pizzazaak. Maar hun chicken parmo is cult. De bechamel is zelfgemaakt, de kaas is royaal, en na een avond in de Geordie pubs is dit precies wat je nodig hebt. Open tot laat.",
+            priceRange: "€",
+            neighborhood: "grainger",
+            mustTry: true
+        }
+    ]
+};
+
+// ============================================
+// 🎲 DRIFT — City-Specific Challenges
+// ============================================
+// Stad-bewuste challenges die inspelen op lokale cultuur en buurten.
+// Worden met 60% kans gekozen als locatie aan staat.
+
+const DRIFT_CITY_CHALLENGES = {
+    cologne: [
+        {
+            title: "Het Kölsch Ritueel",
+            duration: 20,
+            icon: "🍺",
+            phase: "settle",
+            instruction: "Zoek het dichtstbijzijnde Brauhaus. Bestel een Kölsch. Observeer de Köbes.",
+            details: "De Köbes (ober) brengt ongevraagd nieuw bier. Je viltje op je glas = stop. Dit is het Keulse ritueel — je drinkt niet, je neemt deel. Kijk naar de Köbes: hoe hij loopt, hoe hij serveert, hoe hij iedereen gelijk behandelt. Dit is Keulse democratie in actie.",
+            prompt: "Hoeveel Kölsch heb je gedronken voor je je viltje op je glas legde?"
+        },
+        {
+            title: "Ehrenfeld Street Art Safari",
+            duration: 25,
+            icon: "🎨",
+            phase: "opening",
+            instruction: "Loop door Ehrenfeld en zoek 5 stuks street art die je raken.",
+            details: "Ehrenfeld is Keulen's meest creatieve buurt. Elke muur vertelt een verhaal. Loop door de Körnerstraße en omgeving. Zoek murals, stickers, paste-ups. Niet fotograferen — beschrijf ze in woorden. Wat zegt deze kunst over deze buurt?",
+            prompt: "Welk kunstwerk raakte je het meest? Wat denk je dat de kunstenaar wilde zeggen?"
+        },
+        {
+            title: "De Veedel-test",
+            duration: 20,
+            icon: "🏘️",
+            phase: "interact",
+            instruction: "Vraag een local: 'Welk Veedel is het beste?' Bereid je voor op een passioneel antwoord.",
+            details: "Keulenaars zijn fanatiek over hun Veedel (buurt). Südstadt vs Ehrenfeld vs Nippes — het is de eeuwige discussie. Zoek iemand in een café of op straat en stel de vraag. Luister. De passie waarmee ze antwoorden vertelt je meer over Keulen dan elke reisgids.",
+            prompt: "Welk Veedel werd genoemd en waarom? Ben je het eens?"
+        },
+        {
+            title: "De Rijn-Oever Meditatie",
+            duration: 15,
+            icon: "🌊",
+            phase: "settle",
+            instruction: "Ga zitten aan de Rijn. Kijk naar het water. Tel de schepen.",
+            details: "De Rijn is de hartslag van Keulen. Zoek een plek op de oever — Deutzer Brücke of Rheinauhafen — en ga zitten. Kijk naar de binnenvaartschepen. Elke boot heeft een naam, een herkomst, een bestemming. Net als jij.",
+            prompt: "Hoeveel schepen heb je geteld? Waar kwamen ze vandaan?"
+        }
+    ],
+    amsterdam: [
+        {
+            title: "Het Bruin Café Experiment",
+            duration: 20,
+            icon: "🍺",
+            phase: "settle",
+            instruction: "Vind het oudste bruin café dat je kunt vinden. Ga zitten. Bestel een biertje.",
+            details: "Bruine cafés zijn Amsterdam's ziel — donker hout, vergeeld plafond, bierviltjes als decoratie. Hoe ouder, hoe beter. Kijk naar het interieur: hoeveel lagen geschiedenis zie je? Praat met de barman. Vraag hoe lang dit café al bestaat.",
+            prompt: "Hoe oud was het café? Wat hing er aan de muur dat je niet verwachtte?"
+        },
+        {
+            title: "De Pont",
+            duration: 25,
+            icon: "⛴️",
+            phase: "opening",
+            instruction: "Neem de gratis pont naar Noord. Loop tot je verdwaalt.",
+            details: "Achter Centraal Station vaart elke paar minuten een gratis pont naar Amsterdam-Noord. Stap op, stap af, en loop. Noord is Amsterdam's frontier — NDSM-werf, street art, brouwerijen in pakhuizen. Hier is Amsterdam rauw en echt.",
+            prompt: "Wat is het eerste dat opvalt aan Noord dat je niet in het centrum ziet?"
+        },
+        {
+            title: "De Grachten-Code",
+            duration: 20,
+            icon: "🏠",
+            phase: "interact",
+            instruction: "Zoek 3 gevelstenen op grachtenpanden. Ontcijfer hun betekenis.",
+            details: "Voor huisnummers waren er gevelstenen — beelden in de gevel die vertelden wie er woonde of wat er verkocht werd. Een vis = vishandel. Een boot = scheepvaart. Loop langs de Herengracht of Keizersgracht en zoek ze. Amsterdam's oudste storytelling.",
+            prompt: "Welke gevelstenen heb je gevonden? Wat vertellen ze?"
+        },
+        {
+            title: "De Jordaan Fluister-tour",
+            duration: 20,
+            icon: "🤫",
+            phase: "opening",
+            instruction: "Loop door de Jordaan. Volg de smalste steegjes die je vindt.",
+            details: "De Jordaan zit vol hofjes — verborgen binnentuinen achter onopvallende deuren. Zoek de smalste straatjes en steegjes. Als je een open deur ziet naar een binnentuin: loop zachtjes naar binnen. Dit is Amsterdam's best bewaarde geheim.",
+            prompt: "Heb je een hofje gevonden? Beschrijf de stilte."
+        }
+    ],
+    antwerp: [
+        {
+            title: "De Cogels-Osylei Test",
+            duration: 25,
+            icon: "🏛️",
+            phase: "opening",
+            instruction: "Loop de Cogels-Osylei af in Zurenborg. Tel hoeveel architectuurstijlen je herkent.",
+            details: "De mooiste straat van België — en bijna niemand kent het. Art Nouveau, Neo-Gotiek, Neo-Renaissance, Jugendstil, alles door elkaar. Elk huis is een statement. Loop langzaam, kijk omhoog, en tel de stijlen. Hint: er zijn er meer dan 10.",
+            prompt: "Hoeveel stijlen heb je geteld? Welk huis was je favoriet?"
+        },
+        {
+            title: "Scheldt Sunset",
+            duration: 20,
+            icon: "🌅",
+            phase: "settle",
+            instruction: "Wandel langs de Scheldekaaien naar het zuiden. Stop waar de zon het mooist op het water valt.",
+            details: "De vernieuwde Scheldekaaien zijn Antwerpen's nieuwe woonkamer. Loop richting het zuiden, voorbij het MAS, langs de oude dokken. De Schelde wordt breder, de lucht wordt groter. Ga zitten waar het licht het mooist is.",
+            prompt: "Wat zie je aan de overkant? Hoe klinkt de rivier?"
+        },
+        {
+            title: "Het Bolleke Protocol",
+            duration: 20,
+            icon: "🍺",
+            phase: "interact",
+            instruction: "Bestel een Bolleke De Koninck in een buurtcafé. Vraag de barman naar z'n favoriete plek in Antwerpen.",
+            details: "Een Bolleke bestellen is een statement — je bent geen toerist, je bent een Antwerpenaar (voor even). Het amberkleurige bier in het bolronde glas is een ritueel. Proost met 'Santé' en vraag de barman waar hij zelf eet. Dat is je volgende bestemming.",
+            prompt: "Wat raadde de barman aan? Ga je erheen?"
+        },
+        {
+            title: "De Kloosterstraat Tijdmachine",
+            duration: 20,
+            icon: "🕰️",
+            phase: "interact",
+            instruction: "Loop de Kloosterstraat in en ga de meest intrigerende vintage winkel binnen.",
+            details: "De Kloosterstraat is Antwerpen's antiekwijk — maar dan cool. Vintage meubels, oude platen, tweedehands boeken, mid-century design. Ga een winkel binnen die je aantrekt. Raak iets aan. Vraag naar het verhaal. Elk object heeft er een.",
+            prompt: "Wat heb je gevonden? Wat zou je mee naar huis nemen als geld geen rol speelt?"
+        }
+    ],
+    lisbon: [
+        {
+            title: "Het Fado Moment",
+            duration: 25,
+            icon: "🎵",
+            phase: "settle",
+            instruction: "Loop door Alfama tot je fado hoort. Stop. Luister.",
+            details: "Fado klinkt door de steegjes van Alfama — soms live uit een café, soms uit een open raam. Loop zonder haast door de smalle straatjes. Als je het hoort: stop. Ga niet naar binnen. Luister van buiten. Fado is gemaakt voor saudade — het verlangen naar iets dat je niet kunt benoemen.",
+            prompt: "Waar hoorde je fado? Wat voelde je?"
+        },
+        {
+            title: "De Azulejo Route",
+            duration: 20,
+            icon: "🎨",
+            phase: "opening",
+            instruction: "Volg de mooiste azulejos (tegels) die je ziet. Laat ze je route bepalen.",
+            details: "Lissabon is bedekt met azulejos — blauwe, gele, groene tegels op elke gevel. Kies een startpunt en loop richting de mooiste patronen. Elke keer dat je een gevel ziet die je raakt: die kant op. De tegels zijn je kompas.",
+            prompt: "Welk azulejo-patroon was het mooist? Waar bracht het je?"
+        },
+        {
+            title: "De Miradouro Jacht",
+            duration: 25,
+            icon: "👀",
+            phase: "opening",
+            instruction: "Zoek een miradouro (uitzichtpunt) waar geen andere toerist staat.",
+            details: "Lissabon heeft tientallen miradouros — maar de beroemde zijn altijd vol. Jouw missie: vind er een die leeg is. Klim omhoog in Graça, Mouraria of Alfama. Kijk op elke hoek of er een verborgen uitzicht is. De stad onthult zich alleen aan wie klimt.",
+            prompt: "Heb je een leeg miradouro gevonden? Wat zie je?"
+        },
+        {
+            title: "Het Tram 28 Alternatief",
+            duration: 20,
+            icon: "🚶",
+            phase: "opening",
+            instruction: "Loop de route van Tram 28 — maar dan te voet. Niet instappen.",
+            details: "Tram 28 is een toeristenattractie geworden. Maar de route is briljant: door Alfama, Graça, Baixa, Estrela. Loop dezelfde route te voet. Je ziet alles wat de tram mist — de steegjes, de binnenplaatsen, de details. En je hoeft niet in de rij te staan.",
+            prompt: "Wat heb je gezien dat je vanuit de tram gemist zou hebben?"
+        }
+    ],
+    newcastle: [
+        {
+            title: "De Zeven Bruggen",
+            duration: 30,
+            icon: "🌉",
+            phase: "opening",
+            instruction: "Loop langs de Tyne en probeer alle 7 bruggen te zien. Tel ze.",
+            details: "Van de Tyne Bridge tot de Millennium Bridge — 7 bruggen over de Tyne, elk uit een ander tijdperk. Loop langs de noordoever van oost naar west (of andersom). Elke brug vertelt het verhaal van een ander Newcastle. De Millennium Bridge knipoogt 's avonds.",
+            prompt: "Hoeveel bruggen heb je geteld? Welke is de mooiste?"
+        },
+        {
+            title: "Ouseburn Valley Art Hunt",
+            duration: 25,
+            icon: "🎨",
+            phase: "interact",
+            instruction: "Loop de Ouseburn Valley in en zoek 3 creatieve ruimtes die open zijn.",
+            details: "De Ouseburn is Newcastle's creatieve hartslag — oude fabrieken vol galeries, studio's, brouwerijen en muziekzalen. Loop Stepney Bank af, kijk welke deuren open staan. Ga naar binnen. Praat met de makers. Dit is waar Newcastle's cultuur geboren wordt.",
+            prompt: "Welke creatieve ruimte verraste je het meest? Wat werd er gemaakt?"
+        },
+        {
+            title: "De Grainger Market Ontdekking",
+            duration: 20,
+            icon: "🏪",
+            phase: "interact",
+            instruction: "Loop de Grainger Market in. Koop iets dat je niet kent van een kraam die je normaal zou mislopen.",
+            details: "De Grainger Market is Victoriaans, covered, en vol onverwachte kraampjes. Vergeet de bekende namen — zoek de kramen in de hoeken. De Turkse bakker. De vintage platenverkoper. De man die al 40 jaar vis verkoopt. Koop iets en vraag om het verhaal.",
+            prompt: "Wat heb je gekocht? Wat was het verhaal van de verkoper?"
+        },
+        {
+            title: "Het Geordie Biertje",
+            duration: 20,
+            icon: "🍺",
+            phase: "settle",
+            instruction: "Zoek een pub die er van buiten niet uitziet. Ga naar binnen. Bestel een local ale.",
+            details: "Newcastle is een bierstad. Niet de fancy craft bars — de hoekpubs waar niemand z'n telefoon checkt. Ga op zoek naar een pub zonder chalkboard-menu of fairy lights. Bestel wat de man naast je drinkt. Dit is waar je het echte Newcastle vindt.",
+            prompt: "Welke pub vond je? Wat dronk je? Wie zat er naast je?"
+        }
+    ]
 };
 
 // ============================================
@@ -845,7 +1429,7 @@ const TASTE_PROFILE = {
         amsterdam: ['jordaan', 'noord', 'oost'],
         antwerp: ['zurenborg', 'eilandje'],
         lisbon: ['alfama', 'mouraria', 'lxfactory'],
-        newcastle: ['ouseburn', 'grainger']
+        newcastle: ['ouseburn', 'grainger', 'heaton', 'jesmond']
     },
     energyWeights: { chill: 1.2, balanced: 1.0, explorer: 0.8 },
     budgetWeights: { low: 1.3, mid: 1.0, high: 0.6 },
