@@ -604,6 +604,131 @@
                     "url": null
                 }
             ]
+        },
+        "tallinn": {
+            "places": [
+                {
+                    "name": "Põhjala Tap Room",
+                    "source": "reddit",
+                    "trendingCategory": "food",
+                    "category": "🍴 Craft Beer / BBQ",
+                    "address": "Peetri 5, Noblessner",
+                    "lat": 59.4530, "lng": 24.7350,
+                    "score": 94,
+                    "signal": "22x genoemd op r/tallinn · 'best craft beer in the Baltics, insane venue'",
+                    "url": "https://reddit.com/r/tallinn/"
+                },
+                {
+                    "name": "Sveta Baar",
+                    "source": "reddit",
+                    "trendingCategory": "music",
+                    "category": "🎵 Live Muziek / Bar",
+                    "address": "Telliskivi 60a",
+                    "lat": 59.4405, "lng": 24.7310,
+                    "score": 91,
+                    "signal": "16x genoemd op r/tallinn · 'best live music bar, always something on'",
+                    "url": "https://reddit.com/r/tallinn/"
+                },
+                {
+                    "name": "Kumu Kunstmuseum",
+                    "source": "foursquare",
+                    "trendingCategory": "culture",
+                    "category": "🎨 Modern & Hedendaags",
+                    "address": "A. Weizenbergi 34, Kadriorg",
+                    "lat": 59.4365, "lng": 24.7950,
+                    "score": 92,
+                    "signal": "Trending op Foursquare — populair deze week",
+                    "url": null
+                },
+                {
+                    "name": "F-Hoone",
+                    "source": "reddit",
+                    "trendingCategory": "food",
+                    "category": "🍴 Brunch / Restaurant",
+                    "address": "Telliskivi 60a",
+                    "lat": 59.4405, "lng": 24.7315,
+                    "score": 86,
+                    "signal": "14x genoemd op r/tallinn · 'still the best brunch in Tallinn'",
+                    "url": "https://reddit.com/r/tallinn/"
+                },
+                {
+                    "name": "Fotografiska Tallinn",
+                    "source": "foursquare",
+                    "trendingCategory": "culture",
+                    "category": "🎨 Fotografie",
+                    "address": "Telliskivi 60a/8",
+                    "lat": 59.4408, "lng": 24.7320,
+                    "score": 88,
+                    "signal": "Trending op Foursquare — populair deze week",
+                    "url": null
+                },
+                {
+                    "name": "Kultuurikatel",
+                    "source": "reddit",
+                    "trendingCategory": "music",
+                    "category": "🎵 Electronic / Concerten",
+                    "address": "Põhja pst 27a",
+                    "lat": 59.4450, "lng": 24.7480,
+                    "score": 84,
+                    "signal": "11x genoemd op r/tallinn · 'former power plant turned venue, incredible sound'",
+                    "url": "https://reddit.com/r/tallinn/"
+                },
+                {
+                    "name": "Kai Art Center",
+                    "source": "reddit",
+                    "trendingCategory": "culture",
+                    "category": "🎨 Hedendaagse Kunst",
+                    "address": "Peetri 12, Noblessner",
+                    "lat": 59.4525, "lng": 24.7365,
+                    "score": 80,
+                    "signal": "8x genoemd op r/tallinn · 'most exciting art space in Tallinn right now'",
+                    "url": "https://reddit.com/r/tallinn/"
+                },
+                {
+                    "name": "Balti Jaama Turg",
+                    "source": "reddit",
+                    "trendingCategory": "food",
+                    "category": "🍴 Markthal",
+                    "address": "Kopli 1, Kalamaja",
+                    "lat": 59.4395, "lng": 24.7335,
+                    "score": 82,
+                    "signal": "12x genoemd op r/tallinn · 'best food market, rooftop terrace is great'",
+                    "url": "https://reddit.com/r/tallinn/"
+                },
+                {
+                    "name": "Philly Joe's Jazz Club",
+                    "source": "reddit",
+                    "trendingCategory": "music",
+                    "category": "🎵 Jazz",
+                    "address": "Tatari 4, Centrum",
+                    "lat": 59.4340, "lng": 24.7450,
+                    "score": 76,
+                    "signal": "6x genoemd op r/tallinn · 'tiny jazz club, world class musicians'",
+                    "url": "https://reddit.com/r/tallinn/"
+                },
+                {
+                    "name": "Genklubi",
+                    "source": "foursquare",
+                    "trendingCategory": "music",
+                    "category": "🎵 Underground / Club",
+                    "address": "Gonsiori 18",
+                    "lat": 59.4350, "lng": 24.7600,
+                    "score": 73,
+                    "signal": "Trending op Foursquare — populair deze week",
+                    "url": null
+                },
+                {
+                    "name": "Leib Resto ja Aed",
+                    "source": "foursquare",
+                    "trendingCategory": "food",
+                    "category": "🍴 Farm-to-Table",
+                    "address": "Uus 31, Oude Stad",
+                    "lat": 59.4395, "lng": 24.7510,
+                    "score": 79,
+                    "signal": "Trending op Foursquare — populair deze week",
+                    "url": null
+                }
+            ]
         }
     }
 }

@@ -495,6 +495,49 @@ const CITIES = {
                 { name: "Sky Apple Café", neighborhood: "heaton", type: "🍽️ Locals-only Diner", address: "182 Heaton Road", lat: 54.9790, lng: -1.5830, story: "Vegetarisch-vegan café in het hart van Heaton, gerund door muzikanten en creatievelingen. Overdag brunch met zelfgebakken sourdough en huisgemaakte hummus. 's Avonds intieme live muziek — folk, jazz, singer-songwriter. De vibe is iemands huiskamer, maar dan met eten dat je niet verwacht in een buurthuis.", budget: "low", energy: "chill" }
             ]
         }
+    },
+
+    tallinn: {
+        name: "Tallinn",
+        center: { lat: 59.4370, lng: 24.7536 },
+        neighborhoods: {
+            kalamaja: { name: "Kalamaja", vibe: "Creatief, houten huizen, hipster-brouwerijen" },
+            telliskivi: { name: "Telliskivi", vibe: "Street art, onafhankelijke winkels, culturele hub" },
+            oldtown: { name: "Old Town", vibe: "Middeleeuws, toeristen boven, verborgen kelders onder" },
+            rotermann: { name: "Rotermann", vibe: "Industrieel-modern, architectuur, design" },
+            noblessner: { name: "Noblessner", vibe: "Voormalige onderzeeërwerf, restaurants aan het water" },
+            pelgulinn: { name: "Pelgulinn", vibe: "Residentieel, rauw, upcoming" }
+        },
+        places: {
+            coffee: [
+                { name: "Røst Coffee", neighborhood: "telliskivi", type: "☕ Koffie", address: "Telliskivi 60a", lat: 59.4405, lng: 24.7310, story: "Micro-rösterij in het hart van Telliskivi Creative City. Ze branden ter plekke in piepkleine batches, en de baristas zijn fanatiek over hun extractie. De ruimte is minimaal — beton en hout — maar de flat white is een van de beste in het Balticum. Geen haast, alleen vakmanschap.", budget: "low", energy: "chill" },
+                { name: "Caffeine", neighborhood: "oldtown", type: "☕ Koffie", address: "Pikk 5", lat: 59.4388, lng: 24.7475, story: "Verstopt in een kelder onder de middeleeuwse straten van de Oude Stad. Terwijl boven de toeristen langs marcheren, zit je hier in een gewelfd souterrain met de beste espresso van Tallinn. De eigenaar is een voormalige barista-kampioen. Het contrast tussen middeleeuws decor en third-wave koffie is surrealistisch.", budget: "low", energy: "balanced" },
+                { name: "Pagaripoisid", neighborhood: "kalamaja", type: "☕ Koffie & Bakkerij", address: "Lai 14", lat: 59.4400, lng: 24.7440, story: "Ambachtelijke bakkerij die om 7 uur 's ochtends al vol zit met locals. Het zuurdesembrood is legendarisch, de kaneel-kardemombroodjes zijn verslavend, en de koffie is sterk en eerlijk. De geur trekt je drie straten mee. Dit is waar Tallinn ontbijt.", budget: "low", energy: "balanced" },
+                { name: "Kalev Marzipan Café", neighborhood: "oldtown", type: "☕ Koffie & Snoep", address: "Sauna 8", lat: 59.4375, lng: 24.7465, story: "In het oudste marzipan-atelier ter wereld (sinds 1806) kun je koffie drinken omringd door handgemaakte marsepein. Kitscherig? Nee — dit is levend erfgoed. De marsepein is vers, niet dat droge spul dat je elders koopt. Bestel een koffie met een handgeschilderd marsepein-figuurtje.", budget: "low", energy: "chill" }
+            ],
+            character: [
+                { name: "Telliskivi Creative City", neighborhood: "telliskivi", type: "🎭 Karakter", address: "Telliskivi 60a", lat: 59.4405, lng: 24.7310, story: "Een voormalig industrieel complex getransformeerd tot Tallinn's culturele epicentrum. Vintage winkels, galeries, een vlooienmarkt op zaterdag, brouwerijen, en street art op elke muur. Het is rommelig, onvoorspelbaar, en precies daarom briljant. Verdwaal er bewust.", budget: "low", energy: "explorer" },
+                { name: "Patarei Zeevesting", neighborhood: "kalamaja", type: "🎭 Karakter", address: "Kalaranna 2", lat: 59.4505, lng: 24.7475, story: "Een vervallen 19e-eeuwse zeevesting en voormalige Sovjetgevangenis aan de kust. Deels open als culturele ruimte, deels nog in ruïne. De sfeer is beklemmend en fascinerend tegelijk. Loop over de zeemuur voor uitzicht op de Finse Golf. Urbex-achtig maar legaal.", budget: "low", energy: "explorer" },
+                { name: "Balti Jaama Turg", neighborhood: "kalamaja", type: "🎭 Karakter", address: "Kopli 1", lat: 59.4395, lng: 24.7335, story: "De markthal van Tallinn — drie verdiepingen eten, vintage, en lokale producten. Beneden verse vis en Estse kaas. Boven tweedehands kleding en vinyl. Op het dak een terras met uitzicht. Het is de enige markt waar je tegelijk kunt lunchen, vinyl kopen, en een bontjas scoren.", budget: "low", energy: "balanced" },
+                { name: "Lennusadam — Seaplane Harbour", neighborhood: "noblessner", type: "🎭 Karakter", address: "Vesilennuki 6", lat: 59.4515, lng: 24.7385, story: "Een gigantische watervliegtuighangar uit 1917 omgebouwd tot maritiem museum. Een echte onderzeeër, historische schepen, en een vliegsimulator. Het gebouw zelf — met z'n dunne betonnen schaalconstructie — was een technisch wonder in z'n tijd. Beter dan elk maritiem museum dat je kent.", budget: "mid", energy: "balanced" }
+            ],
+            cultural: [
+                { name: "Kumu Kunstmuseum", neighborhood: "rotermann", type: "🎨 Cultuur Wildcard", address: "A. Weizenbergi 34, Kadriorg", lat: 59.4365, lng: 24.7950, story: "Het grootste kunstmuseum van het Balticum, in een spectaculair gebouw van Fins architect Pekka Vapaavuori. Estse kunst van de 18e eeuw tot nu, met een verdieping gewijd aan Sovjettijd-kunst. De collectie is verrassend diep — van socialistisch realisme tot radicale hedendaagse installaties. Gratis op woensdag.", budget: "mid", energy: "balanced" },
+                { name: "Fotografiska Tallinn", neighborhood: "rotermann", type: "🎨 Cultuur Wildcard", address: "Telliskivi 60a/8", lat: 59.4408, lng: 24.7320, story: "De Tallinn-vestiging van het Zweedse fotomuseum. Wisselende tentoonstellingen van wereldklasse in een industriële setting. Het restaurant op de bovenste verdieping serveert een van de beste lunches van de stad met panoramisch uitzicht. Kunst en eten in één bezoek.", budget: "mid", energy: "balanced" },
+                { name: "Kadriorg Paleistuin", neighborhood: "rotermann", type: "🎨 Cultuur Wildcard", address: "A. Weizenbergi 37, Kadriorg", lat: 59.4380, lng: 24.7920, story: "Een barokpaleis gebouwd door Peter de Grote in 1718 voor zijn vrouw Catharina. De tuinen zijn formeel en sereen — een verrassend stuk Versailles in het Balticum. Het paleis huisvest nu buitenlandse kunst. De Japanse tuin erachter is het stilste plekje van Tallinn.", budget: "low", energy: "chill" }
+            ],
+            walks: [
+                { name: "Kalamaja houten huizen wandeling", neighborhood: "kalamaja", type: "🚶 Wandeling", address: "Kotzebue → Kalaranna promenade", lat: 59.4440, lng: 24.7380, story: "Loop door de kleurrijke houten huizen van Kalamaja — pastelgeel, mintgroen, roze. Deze 19e-eeuwse arbeidershuizen zijn nu het hipste vastgoed van Tallinn. Volg Kotzebue straat naar de kust, dan de Kalaranna promenade langs de zee. Eindig bij Noblessner voor een drankje aan het water. Het nieuwe Tallinn in één wandeling.", budget: "low", energy: "balanced" },
+                { name: "Toompea → Oude Stad afdaling", neighborhood: "oldtown", type: "🌙 Avondwandeling", address: "Kohtuotsa vaateplats → Raekoja Plats", lat: 59.4380, lng: 24.7415, story: "Begin op Toompea bij het uitzichtpunt Kohtuotsa — heel Tallinn onder je, de Finse Golf aan de horizon. Daal af via de Pikk Jalg (Lange Been) trap, door de middeleeuwse poorten, langs de oudste apotheek ter wereld (sinds 1422), naar het marktplein. Bij zonsondergang kleuren de torens oranje.", budget: "low", energy: "chill" }
+            ],
+            dinner: [
+                { name: "Leib", neighborhood: "oldtown", type: "🍽️ Locals-only Diner", address: "Uus 31", lat: 59.4395, lng: 24.7510, story: "Farm-to-table restaurant dat letterlijk 'brood' heet. Chef kookt met hyper-lokale Estse ingrediënten — wild, bessen, vis uit de Baltische Zee. Het brood wordt in-house gebakken en is fenomenaal. De locatie in een middeleeuws pand geeft het een intimiteit die je nergens anders vindt. Reserveer.", budget: "mid", energy: "chill" },
+                { name: "Rataskaevu 16", neighborhood: "oldtown", type: "🍽️ Locals-only Diner", address: "Rataskaevu 16", lat: 59.4372, lng: 24.7440, story: "Het restaurant waar Tallinn-locals hun gasten meenemen. In een kelder onder de Oude Stad, met gewelfde plafonds en kaarslicht. De keuken is modern Ests — rendier, zuurkool, rogge, maar dan geëleveerd. De prijzen zijn belachelijk redelijk voor de kwaliteit. De wachtlijst op vrijdag is de moeite waard.", budget: "mid", energy: "balanced" },
+                { name: "Põhjala Tap Room", neighborhood: "noblessner", type: "🍽️ Locals-only Diner", address: "Peetri 5", lat: 59.4530, lng: 24.7350, story: "De taproom van Estlands beroemdste craft brewery, in een enorme voormalige onderzeeër-fabriek in Noblessner. 24 taps, een menu dat draait om BBQ en rookvlees, en een industriële sfeer die doet denken aan Brooklyn. Vrijdagavond is het hier een block party. De Öö Imperial Porter is een must.", budget: "mid", energy: "explorer" },
+                { name: "F-Hoone", neighborhood: "telliskivi", type: "🍽️ Locals-only Diner", address: "Telliskivi 60a", lat: 59.4405, lng: 24.7315, story: "Het restaurant dat Telliskivi op de kaart zette. Industrieel interieur, seizoensgebonden menu, en een brunch die het waard is om voor in de rij te staan. De signature dish — duck confit met bietenpuree — is al jaren een klassieker. De binnentuin in de zomer is het beste terras van Tallinn.", budget: "mid", energy: "balanced" },
+                { name: "Moon", neighborhood: "oldtown", type: "🍽️ Locals-only Diner", address: "Võrgu 3", lat: 59.4415, lng: 24.7475, story: "Fine dining in een voormalig pakhuis aan de rand van de Oude Stad. Chef combineert Estse ingrediënten met Aziatische technieken — het resultaat is verrassend en onvoorspelbaar. Het tasting menu verandert wekelijks. Klein, intiem, en een van de spannendste keukens in het Balticum.", budget: "high", energy: "chill" }
+            ]
+        }
     }
 };
 
@@ -832,6 +875,63 @@ const LOCAL_FOOD = {
             neighborhood: "grainger",
             mustTry: true
         }
+    ],
+    tallinn: [
+        {
+            dishName: "Verivorst & Mulgikapsas",
+            description: "Bloedworst met zuurkoolstoofpot. Het meest Estse gerecht dat bestaat — donker, aards, diep van smaak. Traditioneel gegeten rond Kerstmis, maar het hele jaar beschikbaar in goede restaurants. De bloedworst is zachter en kruidiger dan je verwacht.",
+            restaurant: "Rataskaevu 16",
+            address: "Rataskaevu 16, Oude Stad",
+            lat: 59.4372, lng: 24.7440,
+            whyHere: "Kelderrestaurant onder de middeleeuwse straten. De chef maakt de verivorst zelf — geen fabrieksproduct. De zuurkool is licht en fris, niet zuur. Locals brengen hier hun gasten mee.",
+            priceRange: "€€",
+            neighborhood: "oldtown",
+            mustTry: true
+        },
+        {
+            dishName: "Kohuke",
+            description: "Een met chocolade omhuld kwarkstaafje. Estlands nationale snoep. Elke supermarkt heeft een hele schapwand vol. Er zijn tientallen smaken — vanille, kokos, karamel, bessen — en elke Est heeft een favoriet. Het is goedkoop, verslavend, en absoluut uniek.",
+            restaurant: "Elke supermarkt (Selver, Rimi, Coop)",
+            address: "Diverse locaties",
+            lat: 59.4370, lng: 24.7536,
+            whyHere: "Ga naar een Selver of Rimi supermarkt en sta voor de kohuke-muur. Koop er 5 verschillende. Het kost je €2 totaal en je hebt het meest authentieke Estse snoep in handen. Kohuke.com rankt ze zelfs.",
+            priceRange: "€",
+            neighborhood: "kalamaja",
+            mustTry: true
+        },
+        {
+            dishName: "Kiluvõileib",
+            description: "Open broodje met kilusprot — kleine gerookte sprot, een Baltische klassieker. Op roggebrood met boter, gekookt ei en verse ui. Simpel, ziltig, rokerig. Het Estse antwoord op de Deense smørrebrød. De vis is klein maar de smaak is enorm.",
+            restaurant: "Leib Resto ja Aed",
+            address: "Uus 31, Oude Stad",
+            lat: 59.4395, lng: 24.7510,
+            whyHere: "Farm-to-table restaurant dat 'brood' heet. Hun kiluvõileib is de verfijnde versie — huisgebakken roggebrood, vers gerookte sprot, en eetbare bloemen uit de eigen tuin. Simpel gerecht, onvergetelijke uitvoering.",
+            priceRange: "€€",
+            neighborhood: "oldtown",
+            mustTry: false
+        },
+        {
+            dishName: "Kama",
+            description: "Estlands superfood: een mix van geroosterde gerst, rogge, haver en erwten, gemalen tot poeder. Gemixed met kefir of yoghurt als ontbijt, of als dessert met bessen. Het smaakt nootachtig, licht zoet, en diep Ests. Er bestaat nergens ter wereld iets vergelijkbaars.",
+            restaurant: "Kukeke Pagarikoda",
+            address: "Telliskivi 60a",
+            lat: 59.4405, lng: 24.7315,
+            whyHere: "Bakkerij in Telliskivi die kama in alles verwerkt — smoothies, taarten, ontbijtbowls. De kama-kefir bowl met seizoensbessen is de perfecte start van de dag. Lokaler wordt het niet.",
+            priceRange: "€",
+            neighborhood: "telliskivi",
+            mustTry: true
+        },
+        {
+            dishName: "Põhjala Öö Porter",
+            description: "Geen gerecht maar een ritueel. De Öö (Nacht) Imperial Baltic Porter van brouwerij Põhjala is donker, complex, en het beste bier dat Estland maakt. Chocolade, koffie, een vleugje rook. Estland heeft een exploderende craft beer scene en dit is het vlaggenschip.",
+            restaurant: "Põhjala Tap Room",
+            address: "Peetri 5, Noblessner",
+            lat: 59.4530, lng: 24.7350,
+            whyHere: "De brouwerij zelf, in een voormalige onderzeeërfabriek. 24 taps, industriële sfeer, BBQ erbij. De Öö op tap smaakt anders dan uit de fles — voller, romiger. Vrijdagavond is het hier een feest.",
+            priceRange: "€€",
+            neighborhood: "noblessner",
+            mustTry: false
+        }
     ]
 };
 
@@ -1030,6 +1130,44 @@ const DRIFT_CITY_CHALLENGES = {
             instruction: "Zoek een pub die er van buiten niet uitziet. Ga naar binnen. Bestel een local ale.",
             details: "Newcastle is een bierstad. Niet de fancy craft bars — de hoekpubs waar niemand z'n telefoon checkt. Ga op zoek naar een pub zonder chalkboard-menu of fairy lights. Bestel wat de man naast je drinkt. Dit is waar je het echte Newcastle vindt.",
             prompt: "Welke pub vond je? Wat dronk je? Wie zat er naast je?"
+        }
+    ],
+    tallinn: [
+        {
+            title: "Kalamaja Houten Huizen Drift",
+            duration: 25,
+            icon: "🏠",
+            phase: "opening",
+            instruction: "Loop door Kalamaja en zoek de 5 mooiste houten huizen. Geen Google.",
+            details: "Kalamaja is Tallinn's hipste buurt — maar onder de craft bars en brouwerijen staan nog steeds 19e-eeuwse houten arbeidershuizen in elke kleur. Loop door de zijstraten — Kotzebue, Vana-Kalamaja, Soo — en zoek de mooiste. Pastelgeel, mintgroen, verweerd blauw. Elk huis heeft een verhaal.",
+            prompt: "Welke 5 kleuren heb je gevonden? Welk huis zou je willen bewonen?"
+        },
+        {
+            title: "De Middeleeuwse Kelder",
+            duration: 20,
+            icon: "🕯️",
+            phase: "settle",
+            instruction: "Zoek een kelder-café in de Oude Stad. Ga naar beneden. Bestel iets warms.",
+            details: "Onder de middeleeuwse straten van Tallinn liggen tientallen gewelfde kelders die nu cafés, bars of restaurants zijn. Negeer de terrassen op straatniveau — zoek de trappen naar beneden. Hoe dieper je gaat, hoe meer je de stad voelt. Bestel glögi (glühwein) in de winter of een lokaal bier in de zomer.",
+            prompt: "Hoe diep was de kelder? Wat hoorde je van bovengronds?"
+        },
+        {
+            title: "De Kust Achter de Stad",
+            duration: 25,
+            icon: "🌊",
+            phase: "opening",
+            instruction: "Loop naar de kust. Tallinn ligt aan zee maar bijna niemand gaat erheen.",
+            details: "Tallinn is een kuststad die z'n zee vergeten is. Loop naar Noblessner of Kalaranna en zoek het water. De Finse Golf is koud, grijs, en prachtig. In de verte zie je op heldere dagen Helsinki. Ga zitten op de rotsen en luister naar het water. Dit is het Tallinn dat toeristen missen.",
+            prompt: "Hoe voelt de zee hier? Wat zie je aan de horizon?"
+        },
+        {
+            title: "Het Telliskivi Experiment",
+            duration: 20,
+            icon: "🎨",
+            phase: "interact",
+            instruction: "Loop Telliskivi Creative City in. Ga de eerste deur binnen die open staat.",
+            details: "Telliskivi is een labyrint van creatieve bedrijven, galeries, tweedehands winkels en ateliers in een voormalig fabrieksterrein. Elke deur verbergt iets anders — een platenwinkel, een keramiek-atelier, een vintage kledingzaak. Ga naar binnen waar de deur open staat. Vraag wat ze maken. Dit is Tallinn's ziel.",
+            prompt: "Welke deur koos je? Wat vond je erachter?"
         }
     ]
 };
@@ -1429,7 +1567,8 @@ const TASTE_PROFILE = {
         amsterdam: ['jordaan', 'noord', 'oost'],
         antwerp: ['zurenborg', 'eilandje'],
         lisbon: ['alfama', 'mouraria', 'lxfactory'],
-        newcastle: ['ouseburn', 'grainger', 'heaton', 'jesmond']
+        newcastle: ['ouseburn', 'grainger', 'heaton', 'jesmond'],
+        tallinn: ['kalamaja', 'telliskivi', 'noblessner']
     },
     energyWeights: { chill: 1.2, balanced: 1.0, explorer: 0.8 },
     budgetWeights: { low: 1.3, mid: 1.0, high: 0.6 },

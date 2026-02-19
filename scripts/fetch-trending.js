@@ -93,6 +93,16 @@ const CITIES = {
             music: ['Sage', 'Cluny', 'Think Tank', 'Boiler Shop', 'Head of Steam'],
             culture: ['BALTIC', 'Laing', 'Biscuit Factory', 'Ouseburn', 'Side Gallery']
         }
+    },
+    tallinn: {
+        name: 'Tallinn',
+        lat: 59.4370, lng: 24.7536,
+        subreddits: ['tallinn', 'eesti'],
+        extraTerms: {
+            food: ['craft beer', 'Põhjala', 'Telliskivi', 'Kalamaja', 'kohvik', 'turg'],
+            music: ['Sveta', 'Genklubi', 'Kultuurikatel', 'Philly Joe\'s', 'Tallinn Music Week'],
+            culture: ['Kumu', 'Fotografiska', 'Kai Art Center', 'Kadriorg', 'Lennusadam', 'street art']
+        }
     }
 };
 
