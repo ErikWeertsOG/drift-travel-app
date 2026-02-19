@@ -1577,6 +1577,10 @@ body {
     border-left-color: #8B5CF6;
 }
 
+.trending-place-card.trending-clubs {
+    border-left-color: #EC4899;
+}
+
 .trending-place-card.trending-culture {
     border-left-color: var(--blue);
 }

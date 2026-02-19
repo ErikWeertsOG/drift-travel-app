@@ -124,6 +124,28 @@
                     "score": 65,
                     "signal": "Viral post op r/cologne · 'best Büdchen route'",
                     "url": null
+                },
+                {
+                    "name": "Gewölbe",
+                    "source": "reddit",
+                    "trendingCategory": "clubs",
+                    "category": "🎧 Techno",
+                    "address": "Hans-Böckler-Platz 2",
+                    "lat": 50.9410, "lng": 6.9345,
+                    "score": 91,
+                    "signal": "16x genoemd op r/cologne · 'best sound system, proper underground techno'",
+                    "url": null
+                },
+                {
+                    "name": "Ursprung Fi",
+                    "source": "reddit",
+                    "trendingCategory": "clubs",
+                    "category": "🎧 Techno / Electronic",
+                    "address": "Widdersdorfer Straße 246, Ehrenfeld",
+                    "lat": 50.9445, "lng": 6.8890,
+                    "score": 84,
+                    "signal": "9x genoemd op r/cologne · 'new club, crazy sound, two floors' · 2 threads",
+                    "url": null
                 }
             ]
         },
@@ -249,6 +271,28 @@
                     "score": 77,
                     "signal": "Trending op Foursquare — populair deze week",
                     "url": null
+                },
+                {
+                    "name": "Shelter",
+                    "source": "reddit",
+                    "trendingCategory": "clubs",
+                    "category": "🎧 Techno / House",
+                    "address": "Overhoeksplein 3, Noord",
+                    "lat": 52.3845, "lng": 4.9010,
+                    "score": 93,
+                    "signal": "18x genoemd op r/amsterdam · 'best sound system in Amsterdam, proper underground' · 3 threads",
+                    "url": null
+                },
+                {
+                    "name": "Radion",
+                    "source": "reddit",
+                    "trendingCategory": "clubs",
+                    "category": "🎧 Experimental / Electronic",
+                    "address": "Louwesweg 1, Nieuw-West",
+                    "lat": 52.3580, "lng": 4.8350,
+                    "score": 85,
+                    "signal": "12x genoemd op r/amsterdam · 'experimental bookings, real crowd' · 2 threads",
+                    "url": null
                 }
             ]
         },
@@ -363,6 +407,28 @@
                     "score": 70,
                     "signal": "8x genoemd op r/antwerp · 'best craft beer terrace'",
                     "url": null
+                },
+                {
+                    "name": "Ampere",
+                    "source": "reddit",
+                    "trendingCategory": "clubs",
+                    "category": "🎧 Techno / House",
+                    "address": "Simonsstraat 21, Centraal Station",
+                    "lat": 51.2175, "lng": 4.4210,
+                    "score": 88,
+                    "signal": "13x genoemd op r/antwerp · 'best club in Antwerp, under the train tracks' · 2 threads",
+                    "url": null
+                },
+                {
+                    "name": "Club Vaag",
+                    "source": "reddit",
+                    "trendingCategory": "clubs",
+                    "category": "🎧 Deep House / Minimal",
+                    "address": "Rijnkaai 2, Eilandje",
+                    "lat": 51.2300, "lng": 4.4015,
+                    "score": 82,
+                    "signal": "9x genoemd op r/antwerp · 'intimate, great sound, real heads only'",
+                    "url": null
                 }
             ]
         },
@@ -476,6 +542,28 @@
                     "lat": 38.7150, "lng": -9.1240,
                     "score": 68,
                     "signal": "10x genoemd op r/lisbon · 'go early for the best finds'",
+                    "url": null
+                },
+                {
+                    "name": "Lux Frágil",
+                    "source": "reddit",
+                    "trendingCategory": "clubs",
+                    "category": "🎧 Techno / House / Eclectic",
+                    "address": "Av. Infante D. Henrique, Santa Apolónia",
+                    "lat": 38.7140, "lng": -9.1200,
+                    "score": 92,
+                    "signal": "19x genoemd op r/lisbon · 'still the best club in Lisbon, 3 floors + rooftop' · 4 threads",
+                    "url": null
+                },
+                {
+                    "name": "Ministerium",
+                    "source": "reddit",
+                    "trendingCategory": "clubs",
+                    "category": "🎧 Techno",
+                    "address": "Terreiro do Paço 72, Baixa",
+                    "lat": 38.7080, "lng": -9.1360,
+                    "score": 83,
+                    "signal": "10x genoemd op r/lisbon · 'huge room, international DJs, in a historic building'",
                     "url": null
                 }
             ]
@@ -602,6 +690,28 @@
                     "score": 68,
                     "signal": "Trending op Foursquare — populair deze week",
                     "url": null
+                },
+                {
+                    "name": "World Headquarters",
+                    "source": "reddit",
+                    "trendingCategory": "clubs",
+                    "category": "🎧 House / Disco / Techno",
+                    "address": "Curtis Mayfield House, Carliol Square",
+                    "lat": 54.9725, "lng": -1.6070,
+                    "score": 89,
+                    "signal": "15x genoemd op r/NewcastleUponTyne · 'legendary club, 4 decades of quality' · 3 threads",
+                    "url": null
+                },
+                {
+                    "name": "Digital",
+                    "source": "reddit",
+                    "trendingCategory": "clubs",
+                    "category": "🎧 Techno / D&B",
+                    "address": "Times Square, Centre",
+                    "lat": 54.9710, "lng": -1.6150,
+                    "score": 82,
+                    "signal": "11x genoemd op r/NewcastleUponTyne · 'Funktion-One sound, proper lineups'",
+                    "url": null
                 }
             ]
         },
@@ -726,6 +836,28 @@
                     "lat": 59.4395, "lng": 24.7510,
                     "score": 79,
                     "signal": "Trending op Foursquare — populair deze week",
+                    "url": null
+                },
+                {
+                    "name": "HALL",
+                    "source": "reddit",
+                    "trendingCategory": "clubs",
+                    "category": "🎧 Techno / House",
+                    "address": "Peetri 6, Noblessner",
+                    "lat": 59.4528, "lng": 24.7345,
+                    "score": 90,
+                    "signal": "17x genoemd op r/tallinn · 'best club in the Baltics, insane sound' · 3 threads",
+                    "url": null
+                },
+                {
+                    "name": "Lekker",
+                    "source": "reddit",
+                    "trendingCategory": "clubs",
+                    "category": "🎧 Underground / Electronic",
+                    "address": "Mere pst 6e, Centrum",
+                    "lat": 59.4372, "lng": 24.7455,
+                    "score": 79,
+                    "signal": "7x genoemd op r/tallinn · 'proper underground basement club, NTS vibe'",
                     "url": null
                 }
             ]

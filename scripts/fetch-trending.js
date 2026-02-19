@@ -7,7 +7,7 @@
 // Sources:
 //   1. Reddit (public JSON endpoints, no auth needed)
 //   2. Foursquare (API key needed, set as FOURSQUARE_API_KEY)
-// Categories: 🍴 Food & Drinks, 🎵 Live Muziek, 🎨 Kunst & Musea
+// Categories: 🍴 Food & Drinks, 🎵 Live Muziek, 🎨 Kunst & Musea, 🎧 Clubs
 // Output: trending.json
 
 const fs = require('fs');
@@ -40,6 +40,13 @@ const CATEGORIES = {
         // Foursquare: Arts & Entertainment (10000), Museum (10027), Gallery (10025)
         foursquareCategories: '10027,10025,10000',
         foursquareLimit: 6
+    },
+    clubs: {
+        label: '🎧 Clubs',
+        redditTerms: ['club', 'techno', 'house music', 'DJ', 'rave', 'nightclub', 'dance', 'electronic music', 'underground club', 'sound system', 'Berghain', 'warehouse', 'afters', 'minimal techno', 'drum and bass'],
+        // Foursquare: Nightclub (10032), Night Club (10058)
+        foursquareCategories: '10032,10058',
+        foursquareLimit: 4
     }
 };
 
@@ -51,7 +58,8 @@ const CITIES = {
         extraTerms: {
             food: ['Brauhaus', 'Kneipe', 'Kölsch', 'biergarten'],
             music: ['Gebäude 9', 'Stadtgarten', 'Underground', 'Karneval'],
-            culture: ['Museum Ludwig', 'Kolumba', 'street art Ehrenfeld']
+            culture: ['Museum Ludwig', 'Kolumba', 'street art Ehrenfeld'],
+            clubs: ['Gewölbe', 'Ursprung Fi', 'Odonien', 'Bootshaus', 'Artheater']
         }
     },
     amsterdam: {
@@ -61,7 +69,8 @@ const CITIES = {
         extraTerms: {
             food: ['terrace', 'borrel', 'brown cafe', 'bruin café'],
             music: ['Paradiso', 'Melkweg', 'Bimhuis', 'Tolhuistuin', 'Concertgebouw'],
-            culture: ['Rijksmuseum', 'Stedelijk', 'FOAM', 'Eye', 'NDSM', 'gallery']
+            culture: ['Rijksmuseum', 'Stedelijk', 'FOAM', 'Eye', 'NDSM', 'gallery'],
+            clubs: ['Shelter', 'Radion', 'Lofi', 'De School', 'Garage Noord']
         }
     },
     antwerp: {
@@ -71,7 +80,8 @@ const CITIES = {
         extraTerms: {
             food: ['bier', 'frituur', 'Bolleke'],
             music: ['Trix', 'De Roma', 'Kavka', 'Petrol'],
-            culture: ['FOMU', 'MAS', 'M HKA', 'KMSKA', 'fashion', 'design']
+            culture: ['FOMU', 'MAS', 'M HKA', 'KMSKA', 'fashion', 'design'],
+            clubs: ['Ampere', 'Club Vaag', 'Petrol', 'Kompass']
         }
     },
     lisbon: {
@@ -81,7 +91,8 @@ const CITIES = {
         extraTerms: {
             food: ['pasteis', 'tasca', 'cervejaria', 'ginjinha', 'bifana'],
             music: ['fado', 'Musicbox', 'Lux Frágil', 'ZDB', 'Village Underground'],
-            culture: ['MAAT', 'Berardo', 'Gulbenkian', 'LX Factory', 'azulejo', 'street art']
+            culture: ['MAAT', 'Berardo', 'Gulbenkian', 'LX Factory', 'azulejo', 'street art'],
+            clubs: ['Lux Frágil', 'Ministerium', 'Kremlin', 'Village Underground', 'Rave']
         }
     },
     newcastle: {
@@ -91,7 +102,8 @@ const CITIES = {
         extraTerms: {
             food: ['pub', 'ale', 'Grainger Market', 'supper club'],
             music: ['Sage', 'Cluny', 'Think Tank', 'Boiler Shop', 'Head of Steam'],
-            culture: ['BALTIC', 'Laing', 'Biscuit Factory', 'Ouseburn', 'Side Gallery']
+            culture: ['BALTIC', 'Laing', 'Biscuit Factory', 'Ouseburn', 'Side Gallery'],
+            clubs: ['World Headquarters', 'Digital', 'Cosmic Ballroom', 'Warehouse']
         }
     },
     tallinn: {
@@ -101,7 +113,8 @@ const CITIES = {
         extraTerms: {
             food: ['craft beer', 'Põhjala', 'Telliskivi', 'Kalamaja', 'kohvik', 'turg'],
             music: ['Sveta', 'Genklubi', 'Kultuurikatel', 'Philly Joe\'s', 'Tallinn Music Week'],
-            culture: ['Kumu', 'Fotografiska', 'Kai Art Center', 'Kadriorg', 'Lennusadam', 'street art']
+            culture: ['Kumu', 'Fotografiska', 'Kai Art Center', 'Kadriorg', 'Lennusadam', 'street art'],
+            clubs: ['HALL', 'Lekker', 'Genklubi', 'Kultuurikatel']
         }
     }
 };
@@ -252,6 +265,7 @@ function categoryLabel(cat) {
         case 'food': return '🍴 Food & Drinks';
         case 'music': return '🎵 Live Muziek';
         case 'culture': return '🎨 Kunst & Musea';
+        case 'clubs': return '🎧 Clubs';
         default: return cat;
     }
 }

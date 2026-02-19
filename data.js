@@ -324,6 +324,38 @@ const CITIES = {
                     budget: "mid",
                     energy: "balanced"
                 }
+            ],
+            clubs: [
+                {
+                    name: "Gewölbe",
+                    neighborhood: "belgisches",
+                    type: "🎧 Club",
+                    address: "Hans-Böckler-Platz 2",
+                    lat: 50.9410, lng: 6.9345,
+                    story: "Onder de spoorrails van Bahnhof West, in een bakstenen gewelf uit de 19e eeuw. Martin Orgon-horns aan de muur, betonnen vloer, geen ramen. Dit is Keulen's techno-heiligdom. De deur is streng, de sound is chirurgisch. Telefoons weg, dansen tot het licht komt.",
+                    budget: "mid",
+                    energy: "explorer"
+                },
+                {
+                    name: "Ursprung Fi",
+                    neighborhood: "ehrenfeld",
+                    type: "🎧 Club",
+                    address: "Widdersdorfer Straße 246",
+                    lat: 50.9445, lng: 6.8890,
+                    story: "Keulen's eerste techno-club die from scratch is gebouwd, geopend in 2024. Twee verdiepingen plus rooftop. Beneden is een donkere techno-tempel met waanzinnig geluid, boven voelt als Panorama Bar. Verstopt op een industrieterrein in Ehrenfeld — de taxi kent de weg niet, jij wel.",
+                    budget: "mid",
+                    energy: "explorer"
+                },
+                {
+                    name: "Odonien",
+                    neighborhood: "ehrenfeld",
+                    type: "🎧 Club",
+                    address: "Hornstraße 85",
+                    lat: 50.9508, lng: 6.9165,
+                    story: "Een openlucht-sculptuurpark dat 's nachts verandert in een techno-speeltuin. Kunstinstallaties tussen de dansende mensen, vuurtonnen in de winter, bomen en metaal in de zomer. Geen gewone club — eerder een festival dat nooit stopt. De line-ups zijn onvoorspelbaar en precies daarom goed.",
+                    budget: "mid",
+                    energy: "explorer"
+                }
             ]
         }
     },
@@ -368,6 +400,11 @@ const CITIES = {
                 { name: "Bar Spek", neighborhood: "jordaan", type: "🍽️ Locals-only Diner", address: "Admiraal de Ruyterweg 1", lat: 52.3737, lng: 4.8598, story: "Geen menu. Je eet wat de chef maakt. Klinkt eng? Dat is het punt. Elke avond een verrassing, altijd spectaculair. Dit is blind vertrouwen in iemands talent.", budget: "mid", energy: "explorer" },
                 { name: "Restaurant Rijsel", neighborhood: "oost", type: "🍽️ Locals-only Diner", address: "Marcusstraat 52b", lat: 52.3545, lng: 4.9170, story: "Frans-Vlaamse keuken in een verbouwde school. Stoofvlees, rotisserie-kip, en friet die je doet vergeten dat je in Amsterdam bent. De rij begint om 17:30. Ga staan. Het is het waard. Elke avond is de zaal vol met mensen die hier wekelijks komen.", budget: "mid", energy: "balanced" },
                 { name: "Café Modern", neighborhood: "noord", type: "🍽️ Locals-only Diner", address: "Meidoornweg 2", lat: 52.3960, lng: 4.9220, story: "Buurtkroeg van Amsterdam-Noord die ook fantastisch eten serveert. Seizoensgebonden menu, lokale ingrediënten, en een sfeer die je doet afvragen waarom je ooit in het centrum at. Neem de pont. Je tafel wacht.", budget: "mid", energy: "chill" }
+            ],
+            clubs: [
+                { name: "Shelter", neighborhood: "noord", type: "🎧 Club", address: "Overhoeksplein 3", lat: 52.3845, lng: 4.9010, story: "Onder de A'DAM Toren, bereikbaar via de gratis pont achter Centraal. Funktion-One sound in een betonnen kelder onder de IJ. Telefoons verboden op de dansvloer. De deur is selectief, de sound is meedogenloos. Als je van Berghain-niveau techno houdt maar in Amsterdam bent — dit is het.", budget: "mid", energy: "explorer" },
+                { name: "Lofi", neighborhood: "noord", type: "🎧 Club", address: "NDSM-Plein 1", lat: 52.4010, lng: 4.8945, story: "Indoor-outdoor op het NDSM-terrein. De techno hier is diep, hypnotisch, slow-building. Perfect voor lange sessies die van dag naar nacht gaan. De vibe is relaxter dan Shelter maar de muziek is net zo serieus. Als de zon schijnt op het terras terwijl de bass rolt — dat is het moment.", budget: "mid", energy: "balanced" },
+                { name: "Radion", neighborhood: "oudwest", type: "🎧 Club", address: "Louwesweg 1", lat: 52.3541, lng: 4.8360, story: "Voormalig tandheelkunde-gebouw in Nieuw-West. De programmering is experimenteler en tripper dan de rest — hier draait het niet alleen om vier-op-de-vloer maar ook om geluidskunst, ambient, en alles wat raar en mooi is. Het awareness-team hier is legendarisch goed.", budget: "mid", energy: "explorer" }
             ]
         }
     },
@@ -409,6 +446,10 @@ const CITIES = {
                 { name: "Het Gerecht", neighborhood: "zuidstation", type: "🍽️ Locals-only Diner", address: "Amerikalei 20", lat: 51.2082, lng: 4.3990, story: "Voormalige rechtbank, nu restaurant. De ironie is niet verloren: je wordt hier 'veroordeeld' tot genieten. Belgische keuken met flair, in een zaal met meer karakter dan de meeste Michelin-zaken.", budget: "high", energy: "balanced" },
                 { name: "Bar Burbure", neighborhood: "oudestad", type: "🍽️ Locals-only Diner", address: "Graanmarkt 3", lat: 51.2207, lng: 4.4000, story: "Low-key briljant. Klein, onopvallend, en toch weten alle locals het te vinden. Seizoensgebonden menu, open keuken, en een chef die kookt alsof het voor vrienden is. Reserveer — er zijn maar 20 plekken. Dit is waar Antwerpse foodies stiekem heen gaan.", budget: "mid", energy: "chill" },
                 { name: "Gin-Fish", neighborhood: "zurenborg", type: "🍽️ Locals-only Diner", address: "Dageraadplaats 8", lat: 51.2028, lng: 4.4245, story: "Vis en gin. Meer hoef je niet te weten. De vis is dagvers, de gin-tonic kaart heeft 40 opties, en het terras op Dageraadplaats is het beste van Zurenborg. De eigenaar selecteert elke ochtend zelf op de vismarkt. Dat proef je.", budget: "mid", energy: "balanced" }
+            ],
+            clubs: [
+                { name: "Ampere", neighborhood: "oudestad", type: "🎧 Club", address: "Simonsstraat 21", lat: 51.2170, lng: 4.4210, story: "Onder de spoorrails richting Centraal Station. De treinvibraties mixen met de bass — dystopisch en briljant. Eerste eco-vriendelijke club van België, maar daar merk je niks van behalve dat de energie op de dansvloer eindeloos voelt. Line-ups die je op Resident Advisor checkt, niet op Instagram.", budget: "mid", energy: "explorer" },
+                { name: "Club Vaag", neighborhood: "eilandje", type: "🎧 Club", address: "Rijnkaai 2", lat: 51.2305, lng: 4.3990, story: "Intiem, donker, en alles-over-de-beat. In het Eilandje-district, weg van het centrum. De sound is fenomenaal voor zo'n kleine ruimte — deep house, melodic techno, minimal. De crowd is er voor de muziek, niet voor de selfie. Antwerpen's antwoord op een Berlijnse Keller.", budget: "mid", energy: "explorer" }
             ]
         }
     },
@@ -451,6 +492,11 @@ const CITIES = {
                 { name: "Cantinho do Aziz", neighborhood: "mouraria", type: "🍽️ Locals-only Diner", address: "Rua de São Lourenço 5", lat: 38.7135, lng: -9.1330, story: "Mozambikaanse keuken in het hart van Mouraria. Aziz vluchtte uit Maputo en opende dit restaurant dat twee werelden verbindt. De caril de caranguejo is een openbaring. Klein, vol, en je eet met je handen als niemand kijkt.", budget: "low", energy: "balanced" },
                 { name: "Zé da Mouraria", neighborhood: "mouraria", type: "🍽️ Locals-only Diner", address: "Rua João do Outeiro 24", lat: 38.7155, lng: -9.1365, story: "Traditionele petiscos in een buurt die snel verandert maar hier is de tijd gestopt. De eigenaar kent elke klant bij naam. De bacalhau is simpel en perfect. De rekening is belachelijk laag. Dit is het Lissabon dat verdwijnt — ga nu.", budget: "low", energy: "chill" },
                 { name: "A Cevicheria", neighborhood: "principe", type: "🍽️ Locals-only Diner", address: "Rua Dom Pedro V 129", lat: 38.7150, lng: -9.1480, story: "Peruaanse ceviche in een Portugese setting. Chef Kiko combineert twee oceaanculturen. De teller aan de bar is de beste plek — kijk hoe hij snijdt met chirurgische precisie. De octopus-ceviche verandert je perspectief op vis. Reserveer of sta in de rij.", budget: "high", energy: "balanced" }
+            ],
+            clubs: [
+                { name: "Lux Frágil", neighborhood: "alfama", type: "🎧 Club", address: "Av. Infante D. Henrique", lat: 38.7140, lng: -9.1200, story: "Drie verdiepingen, rooftop over de Taag, en een deur die al sinds 1998 de standaard zet. Lux is geen club — het is een instituut. John Malkovich is mede-eigenaar, de programmering is eclectisch (techno, house, experimental), en het terras bij zonsopgang is een religieuze ervaring. Ga niet voor middernacht, dat heeft geen zin.", budget: "mid", energy: "explorer" },
+                { name: "Ministerium", neighborhood: "alfama", type: "🎧 Club", address: "Terreiro do Paço, Ala Nascente 72", lat: 38.7078, lng: -9.1355, story: "In het historische gebouw aan het Praça do Comércio. De locatie is spectaculair — waar ooit ministeries zaten, draait nu Berghain-level techno. De sound is chirurgisch, de ruimte is monumentaal, en de line-ups lezen als een Resident Advisor-droomlijst. Elegante underground.", budget: "mid", energy: "explorer" },
+                { name: "Kremlin", neighborhood: "lxfactory", type: "🎧 Club", address: "Escadinhas da Praia 5", lat: 38.7060, lng: -9.1440, story: "Open sinds 1988 — een van de oudste clubs van Europa. Rauwe muren, krachtig geluid, en een sfeer die je terugvoert naar het gouden tijdperk van de rave. Klein genoeg om de bass in je botten te voelen. Geen franje, alleen muziek en zweet. Lissabon's meest authentieke danservaring.", budget: "low", energy: "explorer" }
             ]
         }
     },
@@ -493,6 +539,10 @@ const CITIES = {
                 { name: "Kaltur", neighborhood: "grainger", type: "🍽️ Locals-only Diner", address: "1-3 Higham Place", lat: 54.9720, lng: -1.6160, story: "Spaans-Baskische tapas in een intiem souterrain bij Grey's Monument. De eigenaar is zelf Baskisch en importeert alles — van de jamón tot de pintxos — rechtstreeks. De calamares zijn een openbaring. Wijnlijst vol verrassingen, nul toeristen. Dit is waar Newcastle's chefs eten op hun avond vrij.", budget: "mid", energy: "balanced" },
                 { name: "The Patricia", neighborhood: "jesmond", type: "🍽️ Locals-only Diner", address: "139 Jesmond Road", lat: 54.9780, lng: -1.5980, story: "Tien zitplaatsen aan een bar. Geen menu — je eet wat chef Nick kookt. Elke avond anders, altijd seizoensgebonden, altijd briljant. Het concept is simpel: vertrouw de chef. Het resultaat is een van de beste eetervaring in het noorden van Engeland. Reserveer weken vooruit of probeer je geluk als walk-in.", budget: "high", energy: "chill" },
                 { name: "Sky Apple Café", neighborhood: "heaton", type: "🍽️ Locals-only Diner", address: "182 Heaton Road", lat: 54.9790, lng: -1.5830, story: "Vegetarisch-vegan café in het hart van Heaton, gerund door muzikanten en creatievelingen. Overdag brunch met zelfgebakken sourdough en huisgemaakte hummus. 's Avonds intieme live muziek — folk, jazz, singer-songwriter. De vibe is iemands huiskamer, maar dan met eten dat je niet verwacht in een buurthuis.", budget: "low", energy: "chill" }
+            ],
+            clubs: [
+                { name: "World Headquarters", neighborhood: "quayside", type: "🎧 Club", address: "Curtis Mayfield House, Carliol Square", lat: 54.9720, lng: -1.6100, story: "Al vier decennia de underground club van het noorden. Funk, disco, Northern Soul, en steeds meer techno en house. De programming is eclectisch en altijd goed — van A-list DJs tot lokaal talent. De plek ademt muziekgeschiedenis. Als de mensen van Newcastle je zeggen 'ga naar WHQ' — luister.", budget: "mid", energy: "explorer" },
+                { name: "Digital", neighborhood: "grainger", type: "🎧 Club", address: "Times Square", lat: 54.9710, lng: -1.6150, story: "Funktion-One sound die je ribbenkast masseert. Dit is waar de bass het hardst slaat in Newcastle. Techno, house, drum & bass — het programma is breed maar altijd quality. De ruimte is donker, de lichten zijn choreografisch, en de crowd weet waarom ze er is. Niet voor beginners.", budget: "mid", energy: "explorer" }
             ]
         }
     },
@@ -536,6 +586,10 @@ const CITIES = {
                 { name: "Põhjala Tap Room", neighborhood: "noblessner", type: "🍽️ Locals-only Diner", address: "Peetri 5", lat: 59.4530, lng: 24.7350, story: "De taproom van Estlands beroemdste craft brewery, in een enorme voormalige onderzeeër-fabriek in Noblessner. 24 taps, een menu dat draait om BBQ en rookvlees, en een industriële sfeer die doet denken aan Brooklyn. Vrijdagavond is het hier een block party. De Öö Imperial Porter is een must.", budget: "mid", energy: "explorer" },
                 { name: "F-Hoone", neighborhood: "telliskivi", type: "🍽️ Locals-only Diner", address: "Telliskivi 60a", lat: 59.4405, lng: 24.7315, story: "Het restaurant dat Telliskivi op de kaart zette. Industrieel interieur, seizoensgebonden menu, en een brunch die het waard is om voor in de rij te staan. De signature dish — duck confit met bietenpuree — is al jaren een klassieker. De binnentuin in de zomer is het beste terras van Tallinn.", budget: "mid", energy: "balanced" },
                 { name: "Moon", neighborhood: "oldtown", type: "🍽️ Locals-only Diner", address: "Võrgu 3", lat: 59.4415, lng: 24.7475, story: "Fine dining in een voormalig pakhuis aan de rand van de Oude Stad. Chef combineert Estse ingrediënten met Aziatische technieken — het resultaat is verrassend en onvoorspelbaar. Het tasting menu verandert wekelijks. Klein, intiem, en een van de spannendste keukens in het Balticum.", budget: "high", energy: "chill" }
+            ],
+            clubs: [
+                { name: "HALL", neighborhood: "noblessner", type: "🎧 Club", address: "Peetri 6", lat: 59.4528, lng: 24.7355, story: "De beste techno-club in het Balticum en Scandinavië, punt. Industrieel, rauw, en met een geluidssysteem dat je huid doet trillen. Camera-stickers op je telefoon — geen foto's, alleen dansen. De locatie in Noblessner naast Põhjala geeft het die perfecte end-of-the-world-vibe. Berlijn-kwaliteit, Tallinn-prijzen.", budget: "mid", energy: "explorer" },
+                { name: "Lekker", neighborhood: "oldtown", type: "🎧 Club", address: "Mere pst 6e", lat: 59.4365, lng: 24.7445, story: "Letterlijk underground — een kelder in het centrum van Tallinn. Goed geluid, goede line-ups, en een crowd die er is voor de muziek. De naam zegt het: lekker. Intimate setting waar je na drie uur dansen het gevoel hebt dat je iedereen kent. De late-night sessies zijn het waard om op te blijven.", budget: "low", energy: "explorer" }
             ]
         }
     }

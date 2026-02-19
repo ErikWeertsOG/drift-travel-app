@@ -301,8 +301,8 @@ function generateLocationBasedTrip(city) {
     });
 
     const results = [];
-    const types = ['☕ Koffie', '🎭 Karakter', '🎨 Cultuur Wildcard', '🌙 Avondwandeling', '🍽️ Locals-only Diner'];
-    const counts = [3, 2, 1, 1, 1];
+    const types = ['☕ Koffie', '🎭 Karakter', '🎨 Cultuur Wildcard', '🌙 Avondwandeling', '🍽️ Locals-only Diner', '🎧 Club'];
+    const counts = [3, 2, 1, 1, 1, 1];
 
     types.forEach((type, idx) => {
         let ofType = allPlaces
@@ -350,6 +350,9 @@ function generateRandomTrip(city, neighborhood) {
     results.push(...pickRandom(places.cultural, 1));
     results.push(...pickRandom(places.walks, 1));
     results.push(...pickRandom(places.dinner, 1));
+    if (places.clubs && places.clubs.length > 0) {
+        results.push(...pickRandom(places.clubs, 1));
+    }
 
     if (results.length < 5) {
         const pickAny = (arr, count) => {
@@ -361,6 +364,7 @@ function generateRandomTrip(city, neighborhood) {
         if (results.filter(r => r.type.includes('Cultuur')).length === 0) results.push(...pickAny(places.cultural, 1));
         if (results.filter(r => r.type.includes('Avondwandeling')).length === 0) results.push(...pickAny(places.walks, 1));
         if (results.filter(r => r.type.includes('Diner')).length === 0) results.push(...pickAny(places.dinner, 1));
+        if (places.clubs && places.clubs.length > 0 && results.filter(r => r.type.includes('Club')).length === 0) results.push(...pickAny(places.clubs, 1));
     }
 
     // Track all shown places
@@ -380,7 +384,7 @@ function renderTripResults(results, cityName, neighborhood) {
 
     container.innerHTML = '';
 
-    const typeOrder = ['☕ Koffie', '🎭 Karakter', '🎨 Cultuur Wildcard', '🌙 Avondwandeling', '🍽️ Locals-only Diner'];
+    const typeOrder = ['☕ Koffie', '🎭 Karakter', '🎨 Cultuur Wildcard', '🌙 Avondwandeling', '🍽️ Locals-only Diner', '🎧 Club'];
 
     typeOrder.forEach(type => {
         const typePlaces = results.filter(r => r.type === type);
@@ -1476,6 +1480,7 @@ function renderTrendingResults(data, city) {
     const filterLabel = trendingFilter === 'all' ? '' :
         trendingFilter === 'food' ? ' — Food & Drinks' :
         trendingFilter === 'music' ? ' — Live Muziek' :
+        trendingFilter === 'clubs' ? ' — Clubs & Nachtleven' :
         trendingFilter === 'culture' ? ' — Kunst & Musea' : '';
     titleEl.textContent = `🔥 Trending in ${cityName}${filterLabel}`;
 
@@ -1516,6 +1521,7 @@ function renderTrendingResults(data, city) {
         all: allPlaces.length,
         food: allPlaces.filter(p => p.trendingCategory === 'food').length,
         music: allPlaces.filter(p => p.trendingCategory === 'music').length,
+        clubs: allPlaces.filter(p => p.trendingCategory === 'clubs').length,
         culture: allPlaces.filter(p => p.trendingCategory === 'culture').length
     };
 
@@ -1527,6 +1533,7 @@ function renderTrendingResults(data, city) {
             all: `Alles (${count})`,
             food: `🍴 Food (${count})`,
             music: `🎵 Muziek (${count})`,
+            clubs: `🎧 Clubs (${count})`,
             culture: `🎨 Kunst (${count})`
         };
         btn.textContent = labels[filter] || btn.textContent;
@@ -1546,6 +1553,7 @@ function renderTrendingResults(data, city) {
 
         // Category-specific border color
         if (place.trendingCategory === 'music') card.classList.add('trending-music');
+        if (place.trendingCategory === 'clubs') card.classList.add('trending-clubs');
         if (place.trendingCategory === 'culture') card.classList.add('trending-culture');
 
         // Score badge color
