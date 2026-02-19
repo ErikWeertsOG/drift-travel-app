@@ -2082,4 +2082,218 @@ body {
         margin-bottom: 40px;
         max-height: 80vh;
     }
+
+    .trending-alert {
+        max-width: 420px;
+    }
+}
+
+/* ============================================
+   🔥 TRENDING BADGE ON TRIP CARDS
+   ============================================ */
+
+.place-name-wrap {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    flex-wrap: wrap;
+}
+
+.trending-badge-inline {
+    display: inline-flex;
+    align-items: center;
+    gap: 3px;
+    font-size: 11px;
+    font-weight: 700;
+    background: var(--accent);
+    color: white;
+    padding: 2px 8px;
+    border-radius: 10px;
+    white-space: nowrap;
+    animation: badgePulse 2s ease-in-out 1;
+}
+
+@keyframes badgePulse {
+    0%, 100% { transform: scale(1); }
+    50% { transform: scale(1.1); }
+}
+
+/* ============================================
+   💡 NIEUW ONTDEKT — Discovery Section
+   ============================================ */
+
+.discovery-section {
+    margin-bottom: 24px;
+    padding: 20px;
+    background: linear-gradient(135deg, var(--accent-light), var(--warm));
+    border: 1.5px dashed var(--accent);
+    border-radius: var(--radius);
+}
+
+.discovery-header {
+    margin-bottom: 16px;
+}
+
+.discovery-header h4 {
+    font-family: var(--font-display);
+    font-size: 20px;
+    margin-bottom: 4px;
+    color: var(--text);
+}
+
+.discovery-subtitle {
+    font-size: 13px;
+    color: var(--text-secondary);
+    line-height: 1.5;
+}
+
+.discovery-cards {
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+}
+
+.discovery-card {
+    border-left: 3px dashed var(--accent);
+    background: var(--bg-card);
+}
+
+.discovery-source-tag {
+    background: var(--accent-light);
+    color: var(--accent-dark);
+}
+
+/* ============================================
+   📍 TRENDING BIJ JOU — Floating Alert
+   ============================================ */
+
+.trending-alert {
+    position: fixed;
+    bottom: 16px;
+    left: 50%;
+    transform: translateX(-50%) translateY(20px);
+    width: calc(100% - 32px);
+    max-width: 440px;
+    background: var(--bg-card);
+    border: 1.5px solid var(--accent);
+    border-radius: var(--radius);
+    box-shadow: 0 8px 40px rgba(0, 0, 0, 0.15);
+    z-index: 500;
+    overflow: hidden;
+    opacity: 0;
+    transition: all 0.4s cubic-bezier(0.32, 0.72, 0, 1);
+}
+
+.trending-alert.visible {
+    opacity: 1;
+    transform: translateX(-50%) translateY(0);
+}
+
+.trending-alert.collapsed .alert-body {
+    display: none;
+}
+
+.trending-alert.collapsed .alert-header {
+    border-bottom: none;
+    cursor: pointer;
+}
+
+.alert-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 12px 16px;
+    background: var(--accent-light);
+    border-bottom: 1px solid var(--border);
+}
+
+.alert-header-text {
+    font-size: 14px;
+    font-weight: 700;
+    color: var(--accent-dark);
+}
+
+.alert-collapse-btn {
+    background: none;
+    border: none;
+    font-size: 18px;
+    color: var(--text-secondary);
+    cursor: pointer;
+    padding: 4px 8px;
+    border-radius: 4px;
+    transition: all 0.2s;
+}
+
+.alert-collapse-btn:hover {
+    background: var(--warm);
+    color: var(--text);
+}
+
+.alert-body {
+    padding: 12px 16px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.alert-place {
+    padding: 10px 12px;
+    border: 1px solid var(--border);
+    border-radius: var(--radius-sm);
+    background: var(--bg);
+}
+
+.alert-place-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 4px;
+}
+
+.alert-place-name {
+    font-family: var(--font-display);
+    font-size: 16px;
+    color: var(--text);
+}
+
+.alert-place-meta {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    margin-bottom: 4px;
+}
+
+.alert-place-distance {
+    font-size: 12px;
+    color: var(--green);
+    font-weight: 600;
+}
+
+.alert-maps-link {
+    font-size: 11px;
+    color: var(--accent);
+    text-decoration: none;
+    font-weight: 600;
+}
+
+.alert-maps-link:hover {
+    text-decoration: underline;
+}
+
+.alert-place-signal {
+    font-size: 11px;
+    color: var(--text-secondary);
+    line-height: 1.4;
+}
+
+/* Collapsed state */
+.trending-alert.collapsed {
+    cursor: pointer;
+}
+
+@media (max-width: 480px) {
+    .trending-alert {
+        bottom: 8px;
+        width: calc(100% - 16px);
+    }
 }

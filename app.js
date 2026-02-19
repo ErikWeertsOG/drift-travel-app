@@ -25,6 +25,10 @@ let driftWatchId = null;
 let shownPlaceNames = new Set();
 let shuffleCount = 0;
 
+// Trending integration — preloaded for cross-feature use
+let trendingDataReady = null;
+let trendingDataReadyResolve = null;
+
 // ============================================
 // GEO UTILITIES
 // ============================================
@@ -82,6 +86,58 @@ function findNearbyPlaces(lat, lng, radiusKm) {
         });
     });
     return nearby.sort((a, b) => a.distance - b.distance);
+}
+
+// ============================================
+// TRENDING INTEGRATION — Shared utilities
+// ============================================
+
+function normalizeName(name) {
+    return name
+        .toLowerCase()
+        .replace(/\s*\(.*?\)\s*/g, '')  // Remove parenthetical text
+        .replace(/[^a-z0-9àáâãäåèéêëìíîïòóôõöùúûüñçšžõ\s]/g, '')
+        .trim();
+}
+
+function findTrendingMatch(placeName, trendingPlaces) {
+    const normalizedInput = normalizeName(placeName);
+    if (!normalizedInput || normalizedInput.length < 3) return null;
+
+    for (const tp of trendingPlaces) {
+        const normalizedTrending = normalizeName(tp.name);
+        if (!normalizedTrending || normalizedTrending.length < 3) continue;
+        // Exact normalized match
+        if (normalizedInput === normalizedTrending) return tp;
+        // One name contains the other (minimum 4 chars to avoid false positives)
+        if (normalizedInput.length >= 4 && normalizedTrending.length >= 4) {
+            if (normalizedInput.includes(normalizedTrending) || normalizedTrending.includes(normalizedInput)) return tp;
+        }
+    }
+    return null;
+}
+
+function getTrendingPlacesForCity(cityKey) {
+    if (!trendingData || !trendingData.cities || !trendingData.cities[cityKey]) return [];
+    return trendingData.cities[cityKey].places || [];
+}
+
+function preloadTrending() {
+    trendingDataReady = new Promise((resolve) => {
+        trendingDataReadyResolve = resolve;
+    });
+
+    fetchTrendingFresh()
+        .then(data => {
+            trendingData = data;
+            trendingLastFetch = Date.now();
+            trendingDataReadyResolve(data);
+            // If location is already available, try showing alert
+            if (userLat && userLng) tryShowTrendingAlert();
+        })
+        .catch(() => {
+            trendingDataReadyResolve(null);
+        });
 }
 
 // ============================================
@@ -171,6 +227,9 @@ function useMyLocation() {
             document.getElementById('location-btn-text').textContent = `📍 ${CITIES[currentCity].name} — ${formatDistance(closestDist)} van je`;
             document.getElementById('location-btn-text').style.display = 'inline';
             document.getElementById('location-btn-loader').style.display = 'none';
+
+            // Show trending alert if nearby trending places exist
+            tryShowTrendingAlert();
         },
         (error) => {
             document.getElementById('location-btn-text').textContent = '📍 Locatie niet beschikbaar';
@@ -412,9 +471,20 @@ function renderTripResults(results, cityName, neighborhood) {
             const searchQuery = encodeURIComponent(`${place.name} ${place.address} ${cityName_}`);
             mapsLink = `<a href="https://www.google.com/maps/search/?api=1&query=${searchQuery}" target="_blank" rel="noopener" class="maps-link">Bekijk op kaart ↗</a>`;
 
+            // Trending badge — show if place is also in trending with score >= 70
+            let trendingBadgeHtml = '';
+            const trendingPlaces = getTrendingPlacesForCity(currentCity);
+            const trendingMatch = findTrendingMatch(place.name, trendingPlaces);
+            if (trendingMatch && trendingMatch.score >= 70) {
+                trendingBadgeHtml = `<span class="trending-badge-inline" title="Score ${trendingMatch.score}/100 — trending op ${trendingMatch.source === 'reddit' ? 'Reddit' : 'Foursquare'}">🔥 ${trendingMatch.score}</span>`;
+            }
+
             card.innerHTML = `
                 <div class="place-header">
-                    <h4 class="place-name">${place.name}</h4>
+                    <div class="place-name-wrap">
+                        <h4 class="place-name">${place.name}</h4>
+                        ${trendingBadgeHtml}
+                    </div>
                     <span class="place-budget">${getBudgetLabel(place.budget)}</span>
                 </div>
                 <div class="place-meta">
@@ -671,6 +741,7 @@ function startDriftLocationWatch() {
         (position) => {
             userLat = position.coords.latitude;
             userLng = position.coords.longitude;
+            tryShowTrendingAlert();
         },
         () => { }, // silent fail
         { enableHighAccuracy: false, maximumAge: 30000, timeout: 10000 }
@@ -916,6 +987,7 @@ function initCravingLocation() {
                 userLat = cravingLat;
                 userLng = cravingLng;
                 cravingLocationReady = true;
+                tryShowTrendingAlert();
                 resolve();
             },
             () => {
@@ -1618,6 +1690,9 @@ function renderTrendingResults(data, city) {
     });
 
     resultsEl.style.display = 'block';
+
+    // Render discovery section (trending places not in data.js)
+    renderDiscoverySection(city);
 }
 
 function trendingUseLocation() {
@@ -1655,6 +1730,9 @@ function trendingUseLocation() {
 
             // Reload trending for this city
             loadTrending();
+
+            // Show trending alert
+            tryShowTrendingAlert();
         },
         () => {
             document.getElementById('trending-location-text').textContent = '📍 Locatie niet beschikbaar';
@@ -1664,6 +1742,233 @@ function trendingUseLocation() {
         },
         { enableHighAccuracy: true, timeout: 10000 }
     );
+}
+
+// ============================================
+// 💡 NIEUW ONTDEKT — Discovery Section
+// ============================================
+
+function getDiscoveryPlaces(cityKey) {
+    const trendingPlaces = getTrendingPlacesForCity(cityKey);
+    if (trendingPlaces.length === 0) return [];
+
+    const city = CITIES[cityKey];
+    if (!city) return [];
+
+    const allDataPlaces = getAllPlaces(city);
+    const dataNames = allDataPlaces.map(p => normalizeName(p.name));
+
+    return trendingPlaces.filter(tp => {
+        if (tp.score < 80) return false;
+        if (!tp.address || !tp.lat || !tp.lng) return false;
+        const normalizedTp = normalizeName(tp.name);
+        const existsInData = dataNames.some(dn =>
+            dn === normalizedTp ||
+            (dn.length >= 4 && normalizedTp.length >= 4 && (dn.includes(normalizedTp) || normalizedTp.includes(dn)))
+        );
+        return !existsInData;
+    }).sort((a, b) => b.score - a.score);
+}
+
+function renderDiscoverySection(cityKey) {
+    const container = document.getElementById('discovery-section');
+    if (!container) return;
+
+    const discoveries = getDiscoveryPlaces(cityKey);
+
+    if (discoveries.length === 0) {
+        container.style.display = 'none';
+        return;
+    }
+
+    container.style.display = 'block';
+    const cardsHtml = discoveries.map((place, i) => {
+        let distHtml = '';
+        if (userLat && userLng && place.lat && place.lng) {
+            const dist = getDistanceKm(userLat, userLng, place.lat, place.lng);
+            const bearing = getBearing(userLat, userLng, place.lat, place.lng);
+            const direction = bearingToDirection(bearing);
+            distHtml = `<span class="place-distance">${formatDistance(dist)} naar het ${direction}</span>`;
+        }
+
+        const searchQuery = encodeURIComponent(`${place.name} ${place.address || ''}`);
+        const mapsLink = `https://www.google.com/maps/search/?api=1&query=${searchQuery}`;
+
+        const sourceIcon = place.source === 'reddit' ? '💬' : '📍';
+        const sourceLabel = place.source === 'reddit' ? 'Reddit' : 'Foursquare';
+
+        return `
+            <div class="place-card discovery-card" style="animation-delay: ${i * 0.1}s">
+                <div class="place-header">
+                    <h4 class="place-name">${place.name}</h4>
+                    <span class="trending-score trending-score-hot">${place.score}</span>
+                </div>
+                <div class="trending-signal">
+                    <span class="trending-signal-icon">🔥</span>
+                    <span>${place.signal}</span>
+                </div>
+                <div class="place-meta">
+                    <span class="trending-category">${place.category}</span>
+                    ${place.address ? `<span class="place-address">📍 ${place.address}</span>` : ''}
+                    ${distHtml}
+                </div>
+                <div class="place-tags">
+                    <span class="tag discovery-source-tag">${sourceIcon} ${sourceLabel}</span>
+                    <a href="${mapsLink}" target="_blank" rel="noopener" class="maps-link">Bekijk op kaart ↗</a>
+                </div>
+            </div>
+        `;
+    }).join('');
+
+    container.innerHTML = `
+        <div class="discovery-header">
+            <h4>💡 Nieuw ontdekt</h4>
+            <p class="discovery-subtitle">Plekken die trending zijn maar nog niet in onze database staan. Score ≥ 80.</p>
+        </div>
+        <div class="discovery-cards">${cardsHtml}</div>
+    `;
+
+    // Animate cards in
+    setTimeout(() => {
+        container.querySelectorAll('.discovery-card').forEach((card, i) => {
+            setTimeout(() => card.classList.add('visible'), i * 80);
+        });
+    }, 100);
+}
+
+// ============================================
+// 📍 TRENDING BIJ JOU — Floating Alert
+// ============================================
+
+function getNearbyTrendingPlaces(maxRadius, maxResults) {
+    maxRadius = maxRadius || 2;
+    maxResults = maxResults || 3;
+    if (!userLat || !userLng || !trendingData) return [];
+
+    const results = [];
+    const seenNames = new Set();
+
+    Object.entries(trendingData.cities || {}).forEach(function(entry) {
+        var cityKey = entry[0];
+        var cityData = entry[1];
+        (cityData.places || []).forEach(function(place) {
+            if (!place.lat || !place.lng) return;
+            // Deduplicate by name
+            const normalized = normalizeName(place.name);
+            if (seenNames.has(normalized)) return;
+
+            const dist = getDistanceKm(userLat, userLng, place.lat, place.lng);
+            if (dist <= maxRadius) {
+                seenNames.add(normalized);
+                results.push({
+                    name: place.name,
+                    score: place.score,
+                    signal: place.signal,
+                    category: place.category,
+                    address: place.address,
+                    lat: place.lat,
+                    lng: place.lng,
+                    source: place.source,
+                    trendingCategory: place.trendingCategory,
+                    _distance: dist,
+                    _cityKey: cityKey,
+                    _direction: bearingToDirection(getBearing(userLat, userLng, place.lat, place.lng)),
+                    _walkingMinutes: Math.round(dist * 12)
+                });
+            }
+        });
+    });
+
+    return results
+        .sort(function(a, b) { return b.score - a.score || a._distance - b._distance; })
+        .slice(0, maxResults);
+}
+
+function renderTrendingAlert() {
+    const alertEl = document.getElementById('trending-bij-jou');
+    if (!alertEl) return;
+
+    const nearby = getNearbyTrendingPlaces();
+
+    if (nearby.length === 0) {
+        alertEl.style.display = 'none';
+        return;
+    }
+
+    // Detect neighborhood for header
+    const detectedCity = detectCity();
+    const detectedHood = detectNeighborhood();
+    let locationLabel = '';
+    if (detectedCity && detectedHood && CITIES[detectedCity]?.neighborhoods?.[detectedHood]) {
+        locationLabel = CITIES[detectedCity].neighborhoods[detectedHood].name;
+    } else if (detectedCity) {
+        locationLabel = CITIES[detectedCity]?.name || '';
+    }
+
+    const headerText = locationLabel
+        ? `Dit is nu trending in ${locationLabel}`
+        : 'Trending bij jou in de buurt';
+
+    const cardsHtml = nearby.map(function(place) {
+        const searchQuery = encodeURIComponent(`${place.name} ${place.address || ''}`);
+        const mapsLink = `https://www.google.com/maps/search/?api=1&query=${searchQuery}`;
+
+        return `
+            <div class="alert-place">
+                <div class="alert-place-header">
+                    <span class="alert-place-name">${place.name}</span>
+                    <span class="trending-score trending-score-hot">${place.score}</span>
+                </div>
+                <div class="alert-place-meta">
+                    <span class="alert-place-distance">🚶 ${place._walkingMinutes} min naar het ${place._direction}</span>
+                    <a href="${mapsLink}" target="_blank" rel="noopener" class="alert-maps-link">Kaart ↗</a>
+                </div>
+                <div class="alert-place-signal">${place.signal}</div>
+            </div>
+        `;
+    }).join('');
+
+    alertEl.innerHTML = `
+        <div class="alert-header" onclick="expandTrendingAlert()">
+            <span class="alert-header-text">📍 ${headerText}</span>
+            <button class="alert-collapse-btn" onclick="event.stopPropagation(); collapseTrendingAlert()" title="Inklappen">×</button>
+        </div>
+        <div class="alert-body">
+            ${cardsHtml}
+        </div>
+    `;
+
+    alertEl.style.display = 'block';
+    alertEl.classList.remove('collapsed');
+
+    // Animate in
+    setTimeout(function() { alertEl.classList.add('visible'); }, 50);
+}
+
+function collapseTrendingAlert() {
+    const alertEl = document.getElementById('trending-bij-jou');
+    if (!alertEl) return;
+    alertEl.classList.add('collapsed');
+}
+
+function expandTrendingAlert() {
+    const alertEl = document.getElementById('trending-bij-jou');
+    if (!alertEl) return;
+    alertEl.classList.remove('collapsed');
+}
+
+async function tryShowTrendingAlert() {
+    if (!userLat || !userLng) return;
+
+    // Wait for trending data (max 3 seconds)
+    if (!trendingData && trendingDataReady) {
+        const timeout = new Promise(function(resolve) { setTimeout(function() { resolve(null); }, 3000); });
+        await Promise.race([trendingDataReady, timeout]);
+    }
+
+    if (!trendingData) return;
+
+    renderTrendingAlert();
 }
 
 // ============================================
@@ -1717,6 +2022,9 @@ function renderLocalFood() {
 
 document.addEventListener('DOMContentLoaded', () => {
     updateNeighborhoods();
+
+    // Preload trending data for cross-feature use (badges, discovery, alerts)
+    preloadTrending();
 
     // Craving input: search on Enter key
     const cravingInput = document.getElementById('craving-input');

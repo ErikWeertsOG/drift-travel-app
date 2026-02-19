@@ -373,6 +373,10 @@
                     <span>Trending data laden...</span>
                 </div>
 
+                <div id="discovery-section" class="discovery-section" style="display:none;">
+                    <!-- Dynamically populated by renderDiscoverySection() -->
+                </div>
+
                 <div id="trending-results" class="trending-results" style="display:none;">
                     <div class="trending-results-header">
                         <h4 id="trending-results-title"></h4>
@@ -433,6 +437,11 @@
                 <button class="tip-close-btn" onclick="dismissRandomTip()">Sluiten</button>
             </div>
         </div>
+    </div>
+
+    <!-- Trending Bij Jou — Floating Alert -->
+    <div id="trending-bij-jou" class="trending-alert" style="display:none;">
+        <!-- Dynamically populated by renderTrendingAlert() -->
     </div>
 
     <script src="data.js"></script>
