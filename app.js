@@ -21,6 +21,10 @@ let observations = ['', '', ''];
 let driftLocationMode = false;
 let driftWatchId = null;
 
+// Shuffle history — tracks shown place names to avoid repeats
+let shownPlaceNames = new Set();
+let shuffleCount = 0;
+
 // ============================================
 // GEO UTILITIES
 // ============================================
@@ -191,6 +195,9 @@ document.querySelectorAll('.city-btn').forEach(btn => {
         this.classList.add('active');
         currentCity = this.dataset.city;
         locationMode = false;
+        // Reset shuffle history when switching cities
+        shownPlaceNames.clear();
+        shuffleCount = 0;
         const locBtn = document.getElementById('use-location-btn');
         locBtn.classList.remove('active');
         document.getElementById('location-btn-text').textContent = '📍 Gebruik mijn locatie';
@@ -246,6 +253,17 @@ function generateTrip() {
 
     const neighborhood = document.getElementById('neighborhood').value;
 
+    // Check if we've exhausted all places for this city — if so, reset history
+    const totalPlaces = getAllPlaces(city).length;
+    const shownInCity = getAllPlaces(city).filter(p => shownPlaceNames.has(p.name)).length;
+    if (shownInCity >= totalPlaces - 3) {
+        // Almost all shown — reset to start fresh
+        shownPlaceNames.clear();
+        shuffleCount = 0;
+    }
+
+    shuffleCount++;
+
     // Show loading
     const btn = document.querySelector('.generate-btn');
     btn.querySelector('.btn-text').style.display = 'none';
@@ -287,14 +305,21 @@ function generateLocationBasedTrip(city) {
     const counts = [3, 2, 1, 1, 1];
 
     types.forEach((type, idx) => {
-        const ofType = allPlaces
-            .filter(p => p.type === type)
+        let ofType = allPlaces
+            .filter(p => p.type === type && !shownPlaceNames.has(p.name))
             .sort((a, b) => a._distance - b._distance);
+        // Fallback: if all have been shown, allow repeats
+        if (ofType.length < counts[idx]) {
+            ofType = allPlaces.filter(p => p.type === type).sort((a, b) => a._distance - b._distance);
+        }
         // Mix closest with some randomness
         const pool = ofType.slice(0, Math.max(counts[idx] + 2, ofType.length));
         const shuffled = [...pool].sort(() => Math.random() - 0.3);
         results.push(...shuffled.slice(0, counts[idx]));
     });
+
+    // Track all shown places
+    results.forEach(p => shownPlaceNames.add(p.name));
 
     return results;
 }
@@ -305,11 +330,17 @@ function generateRandomTrip(city, neighborhood) {
 
     const filterPlace = (place) => {
         if (neighborhood && place.neighborhood !== neighborhood) return false;
+        // Skip places we've already shown (unless we've seen everything)
+        if (shownPlaceNames.has(place.name)) return false;
         return true;
     };
 
     const pickRandom = (arr, count) => {
-        const filtered = arr.filter(filterPlace);
+        let filtered = arr.filter(filterPlace);
+        // If we excluded too many, relax the filter (allow shown places as fallback)
+        if (filtered.length < count) {
+            filtered = arr.filter(p => !neighborhood || p.neighborhood === neighborhood);
+        }
         const shuffled = [...filtered].sort(() => Math.random() - 0.5);
         return shuffled.slice(0, count);
     };
@@ -331,6 +362,9 @@ function generateRandomTrip(city, neighborhood) {
         if (results.filter(r => r.type.includes('Avondwandeling')).length === 0) results.push(...pickAny(places.walks, 1));
         if (results.filter(r => r.type.includes('Diner')).length === 0) results.push(...pickAny(places.dinner, 1));
     }
+
+    // Track all shown places
+    results.forEach(p => shownPlaceNames.add(p.name));
 
     return results;
 }
@@ -398,6 +432,20 @@ function renderTripResults(results, cityName, neighborhood) {
 
     document.querySelector('.input-section').style.display = 'none';
     document.getElementById('trip-results').style.display = 'block';
+
+    // Update shuffle button with remaining places count
+    const shuffleBtn = document.querySelector('.shuffle-btn');
+    if (shuffleBtn) {
+        const city = CITIES[currentCity];
+        const totalPlaces = city ? getAllPlaces(city).length : 0;
+        const shownCount = city ? getAllPlaces(city).filter(p => shownPlaceNames.has(p.name)).length : 0;
+        const remaining = totalPlaces - shownCount;
+        if (remaining > 3) {
+            shuffleBtn.textContent = `🔄 Shuffle — nog ${remaining} onbekende plekken`;
+        } else {
+            shuffleBtn.textContent = `🔄 Shuffle — reset & begin opnieuw`;
+        }
+    }
 
     setTimeout(() => {
         container.querySelectorAll('.place-card').forEach((card, i) => {
@@ -1502,8 +1550,14 @@ function renderTrendingResults(data, city) {
 
         // Score badge color
         let scoreClass = 'trending-score-hot';
-        if (place.score < 70) scoreClass = 'trending-score-warm';
-        if (place.score < 50) scoreClass = 'trending-score-mild';
+        let scoreLabel = 'hot';
+        if (place.score < 70) { scoreClass = 'trending-score-warm'; scoreLabel = 'warm'; }
+        if (place.score < 50) { scoreClass = 'trending-score-mild'; scoreLabel = 'nieuw signaal'; }
+
+        // Score tooltip — explain what the number means
+        const scoreTooltip = place.source === 'reddit'
+            ? `Score ${place.score}/100 (${scoreLabel}) — berekend op basis van vermeldingen, upvotes en reacties op Reddit`
+            : `Score ${place.score}/100 (${scoreLabel}) — gebaseerd op Foursquare populariteit en check-ins`;
 
         // Source icon
         const sourceIcon = place.source === 'reddit' ? '💬' : '📍';
@@ -1522,16 +1576,16 @@ function renderTrendingResults(data, city) {
         const searchQuery = encodeURIComponent(`${place.name} ${place.address || ''}`);
         const mapsLink = `https://www.google.com/maps/search/?api=1&query=${searchQuery}`;
 
-        // Source link
+        // Source link — only show if it's a real Reddit post URL (not just the subreddit)
         let sourceLink = '';
-        if (place.url) {
+        if (place.url && place.url.includes('/comments/')) {
             sourceLink = `<a href="${place.url}" target="_blank" rel="noopener" class="trending-source-link">Bekijk op Reddit ↗</a>`;
         }
 
         card.innerHTML = `
             <div class="place-header">
                 <h4 class="place-name">${place.name}</h4>
-                <span class="trending-score ${scoreClass}">${place.score}</span>
+                <span class="trending-score ${scoreClass}" title="${scoreTooltip}">${place.score}</span>
             </div>
             <div class="trending-signal">
                 <span class="trending-signal-icon">🔥</span>

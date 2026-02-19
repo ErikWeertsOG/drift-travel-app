@@ -330,6 +330,21 @@
                 <h3>Wat is er hot?</h3>
                 <p class="trending-intro">Plekken waar de afgelopen week veel over gepraat wordt op Reddit en Foursquare.</p>
 
+                <details class="score-explainer">
+                    <summary>📊 Hoe werkt de score?</summary>
+                    <div class="score-explainer-content">
+                        <p>Elke plek krijgt een score van 0–100, gebaseerd op echte data:</p>
+                        <ul>
+                            <li><strong>Vermeldingen</strong> — hoe vaak de plek wordt genoemd in Reddit-posts (×12 punten per keer)</li>
+                            <li><strong>Upvotes</strong> — hoeveel upvotes die posts kregen (÷8)</li>
+                            <li><strong>Reacties</strong> — hoeveel discussie er was (÷15)</li>
+                            <li><strong>Multi-thread bonus</strong> — +15 als de plek in meerdere threads opduikt</li>
+                            <li><strong>Foursquare populariteit</strong> — gebaseerd op check-ins en trending status</li>
+                        </ul>
+                        <p>Hoe hoger de score, hoe meer buzz. <span class="score-legend"><span class="legend-dot hot"></span> 70+ = hot <span class="legend-dot warm"></span> 50-70 = warm <span class="legend-dot mild"></span> &lt;50 = nieuw signaal</span></p>
+                    </div>
+                </details>
+
                 <div class="trending-city-selector">
                     <button class="trending-city-btn active" data-trending-city="cologne">Keulen</button>
                     <button class="trending-city-btn" data-trending-city="amsterdam">Amsterdam</button>
