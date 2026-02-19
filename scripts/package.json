@@ -1,0 +1,8 @@
+{
+    "name": "drift-trending-scraper",
+    "private": true,
+    "dependencies": {
+        "rss-parser": "^3.13.0",
+        "@anthropic-ai/sdk": "^0.39.0"
+    }
+}

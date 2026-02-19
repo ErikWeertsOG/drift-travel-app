@@ -7,13 +7,24 @@
 // Sources:
 //   1. Reddit (public JSON endpoints, no auth needed)
 //   2. Foursquare (API key needed, set as FOURSQUARE_API_KEY)
+//   3. Google News RSS (no auth needed) + Claude AI summaries
 // Categories: 🍴 Food & Drinks, 🎵 Live Muziek, 🎨 Kunst & Musea, 🎧 Clubs
 // Output: trending.json
 
 const fs = require('fs');
 const path = require('path');
 
+let RssParser;
+let Anthropic;
+try {
+    RssParser = require('rss-parser');
+    Anthropic = require('@anthropic-ai/sdk').default || require('@anthropic-ai/sdk');
+} catch (e) {
+    console.warn('⚠️  Optional dependencies not installed (rss-parser, @anthropic-ai/sdk). News feature disabled.');
+}
+
 const FOURSQUARE_API_KEY = process.env.FOURSQUARE_API_KEY || '';
+const ANTHROPIC_API_KEY = process.env.ANTHROPIC_API_KEY || '';
 
 // ============================================
 // CITY & CATEGORY CONFIGURATIONS
@@ -116,6 +127,43 @@ const CITIES = {
             culture: ['Kumu', 'Fotografiska', 'Kai Art Center', 'Kadriorg', 'Lennusadam', 'street art'],
             clubs: ['HALL', 'Lekker', 'Genklubi', 'Kultuurikatel']
         }
+    }
+};
+
+// ============================================
+// NEWS QUERIES — Google News RSS per city
+// ============================================
+
+const NEWS_QUERIES = {
+    cologne: {
+        query: 'Restaurant OR Gastronomie OR "neues Restaurant" OR Bar OR Kneipe',
+        cityName: 'Köln',
+        hl: 'de', gl: 'DE', ceid: 'DE:de'
+    },
+    amsterdam: {
+        query: 'restaurant OR horeca OR "nieuw restaurant" OR bar OR food',
+        cityName: 'Amsterdam',
+        hl: 'nl', gl: 'NL', ceid: 'NL:nl'
+    },
+    antwerp: {
+        query: 'restaurant OR horeca OR "nieuw restaurant" OR bar',
+        cityName: 'Antwerpen',
+        hl: 'nl', gl: 'BE', ceid: 'BE:nl'
+    },
+    lisbon: {
+        query: 'restaurante OR gastronomia OR "novo restaurante" OR bar',
+        cityName: 'Lisboa',
+        hl: 'pt-PT', gl: 'PT', ceid: 'PT:pt'
+    },
+    newcastle: {
+        query: 'restaurant OR food OR "new restaurant" OR bar OR pub',
+        cityName: 'Newcastle',
+        hl: 'en-GB', gl: 'GB', ceid: 'GB:en'
+    },
+    tallinn: {
+        query: 'restaurant OR food OR "new restaurant" OR bar',
+        cityName: 'Tallinn',
+        hl: 'en', gl: 'EE', ceid: 'EE:en'
     }
 };
 
@@ -328,6 +376,131 @@ async function fetchFoursquarePlaces(lat, lng, categories, limit, trendingCatego
 }
 
 // ============================================
+// GOOGLE NEWS RSS + CLAUDE SUMMARIES
+// ============================================
+
+async function fetchGoogleNewsRSS(cityKey) {
+    if (!RssParser) return [];
+
+    const config = NEWS_QUERIES[cityKey];
+    if (!config) return [];
+
+    const parser = new RssParser({
+        customFields: {
+            item: [['source', 'source']]
+        }
+    });
+
+    const query = encodeURIComponent(`${config.query} ${config.cityName}`);
+    const url = `https://news.google.com/rss/search?q=${query}&hl=${config.hl}&gl=${config.gl}&ceid=${config.ceid}`;
+
+    try {
+        const feed = await parser.parseURL(url);
+        const now = Date.now();
+        const sevenDaysAgo = now - (7 * 24 * 60 * 60 * 1000);
+
+        // Filter: only articles from last 7 days
+        const recent = (feed.items || []).filter(item => {
+            const pubDate = item.isoDate ? new Date(item.isoDate).getTime() : 0;
+            return pubDate > sevenDaysAgo;
+        });
+
+        return recent.slice(0, 8).map(item => ({
+            title: item.title || '',
+            url: item.link || '',
+            publishedAt: item.isoDate || '',
+            source: (typeof item.source === 'object' ? item.source._ || item.source['$']?.url : item.source) || extractSourceFromTitle(item.title),
+            snippet: (item.contentSnippet || item.content || '').substring(0, 500),
+            language: config.hl.split('-')[0]
+        }));
+    } catch (err) {
+        console.warn(`  Google News RSS error for ${config.cityName}:`, err.message);
+        return [];
+    }
+}
+
+function extractSourceFromTitle(title) {
+    // Google News titles often end with " - Source Name"
+    const match = (title || '').match(/\s-\s([^-]+)$/);
+    return match ? match[1].trim() : 'Unknown';
+}
+
+async function summarizeWithClaude(articles) {
+    if (!Anthropic || !ANTHROPIC_API_KEY || articles.length === 0) return articles;
+
+    const client = new Anthropic({ apiKey: ANTHROPIC_API_KEY });
+
+    const summarized = [];
+    for (const article of articles) {
+        try {
+            const response = await client.messages.create({
+                model: 'claude-haiku-4-5-20250414',
+                max_tokens: 200,
+                messages: [{
+                    role: 'user',
+                    content: `Summarize this restaurant/food news article in 2-3 sentences in English. Focus on: what the news is about, which specific restaurant or food spot is mentioned, and why someone visiting the city would care. Be concise and practical.\n\nTitle: ${article.title}\nSnippet: ${article.snippet}\nSource: ${article.source}\nLanguage: ${article.language}`
+                }]
+            });
+
+            article.summary = response.content[0]?.text || '';
+        } catch (err) {
+            console.warn(`  Claude summary error:`, err.message);
+            article.summary = '';
+        }
+
+        // Rate limit — small delay between API calls
+        await new Promise(r => setTimeout(r, 500));
+    }
+
+    return articles;
+}
+
+async function fetchNewsForAllCities() {
+    const newsEnabled = RssParser && Anthropic && ANTHROPIC_API_KEY;
+    if (!newsEnabled) {
+        console.log('\n📰 News feature: DISABLED (missing dependencies or ANTHROPIC_API_KEY)');
+        return {};
+    }
+
+    console.log('\n📰 Fetching food & restaurant news...');
+    console.log(`   Anthropic API key: SET`);
+
+    const newsPerCity = {};
+
+    for (const [cityKey, config] of Object.entries(NEWS_QUERIES)) {
+        console.log(`   📰 ${config.cityName}...`);
+
+        const articles = await fetchGoogleNewsRSS(cityKey);
+        console.log(`     → ${articles.length} articles from Google News`);
+
+        if (articles.length > 0) {
+            // Summarize top 5 with Claude
+            const top5 = articles.slice(0, 5);
+            const summarized = await summarizeWithClaude(top5);
+            // Only keep articles that got a summary
+            newsPerCity[cityKey] = summarized
+                .filter(a => a.summary && a.summary.length > 10)
+                .map(a => ({
+                    title: a.title,
+                    source: a.source,
+                    url: a.url,
+                    publishedAt: a.publishedAt,
+                    language: a.language,
+                    summary: a.summary
+                }));
+            console.log(`     → ${newsPerCity[cityKey].length} articles with summaries`);
+        } else {
+            newsPerCity[cityKey] = [];
+        }
+
+        // Rate limit between cities
+        await new Promise(r => setTimeout(r, 2000));
+    }
+
+    return newsPerCity;
+}
+
+// ============================================
 // MAIN
 // ============================================
 
@@ -411,11 +584,33 @@ async function main() {
         console.log(`   ✅ ${uniquePlaces.length} unique places → top ${Math.min(15, uniquePlaces.length)} saved`);
     }
 
+    // Fetch news for all cities (Google News RSS + Claude summaries)
+    const newsPerCity = await fetchNewsForAllCities();
+
+    // Merge news into output
+    for (const [cityKey, newsArticles] of Object.entries(newsPerCity)) {
+        if (output.cities[cityKey]) {
+            output.cities[cityKey].news = newsArticles;
+        }
+    }
+    // Ensure all cities have a news array (even if empty)
+    for (const cityKey of Object.keys(output.cities)) {
+        if (!output.cities[cityKey].news) {
+            output.cities[cityKey].news = [];
+        }
+    }
+
     // Write output
     const outputPath = path.join(__dirname, '..', 'trending.json');
     fs.writeFileSync(outputPath, JSON.stringify(output, null, 4));
     console.log(`\n✅ Written to ${outputPath}`);
     console.log(`   Last updated: ${output.lastUpdated}`);
+
+    // Log news summary
+    const totalNews = Object.values(newsPerCity).reduce((sum, arr) => sum + arr.length, 0);
+    if (totalNews > 0) {
+        console.log(`   📰 News articles: ${totalNews} across ${Object.keys(newsPerCity).length} cities`);
+    }
 }
 
 main().catch(err => {

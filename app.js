@@ -1430,7 +1430,7 @@ function dismissRandomTip() {
 
 let trendingData = null;
 let trendingCity = 'cologne';
-let trendingFilter = 'all'; // 'all', 'food', 'music', 'culture'
+let trendingFilter = 'all'; // 'all', 'food', 'music', 'culture', 'clubs', 'news'
 let trendingLastFetch = 0; // timestamp of last successful fetch
 
 async function loadTrending() {
@@ -1532,7 +1532,7 @@ function renderTrendingResults(data, city) {
     const errorEl = document.getElementById('trending-error');
 
     const cityData = data.cities[city];
-    if (!cityData || !cityData.places || cityData.places.length === 0) {
+    if (!cityData || (!cityData.places?.length && !cityData.news?.length)) {
         errorEl.style.display = 'block';
         document.getElementById('trending-error-text').textContent =
             `Geen trending data voor ${CITIES[city]?.name || city}.`;
@@ -1542,8 +1542,14 @@ function renderTrendingResults(data, city) {
 
     errorEl.style.display = 'none';
 
+    // If news filter is active, render news section instead of places
+    if (trendingFilter === 'news') {
+        renderNewsSection(data, city);
+        return;
+    }
+
     // Apply category filter
-    let places = cityData.places;
+    let places = cityData.places || [];
     if (trendingFilter !== 'all') {
         places = places.filter(p => p.trendingCategory === trendingFilter);
     }
@@ -1553,7 +1559,8 @@ function renderTrendingResults(data, city) {
         trendingFilter === 'food' ? ' — Food & Drinks' :
         trendingFilter === 'music' ? ' — Live Muziek' :
         trendingFilter === 'clubs' ? ' — Clubs & Nachtleven' :
-        trendingFilter === 'culture' ? ' — Kunst & Musea' : '';
+        trendingFilter === 'culture' ? ' — Kunst & Musea' :
+        trendingFilter === 'news' ? ' — Nieuws' : '';
     titleEl.textContent = `🔥 Trending in ${cityName}${filterLabel}`;
 
     // Format last updated with freshness indicator
@@ -1588,13 +1595,15 @@ function renderTrendingResults(data, city) {
     }
 
     // Count per category for badge numbers
-    const allPlaces = cityData.places;
+    const allPlaces = cityData.places || [];
+    const newsCount = (cityData.news || []).length;
     const counts = {
         all: allPlaces.length,
         food: allPlaces.filter(p => p.trendingCategory === 'food').length,
         music: allPlaces.filter(p => p.trendingCategory === 'music').length,
         clubs: allPlaces.filter(p => p.trendingCategory === 'clubs').length,
-        culture: allPlaces.filter(p => p.trendingCategory === 'culture').length
+        culture: allPlaces.filter(p => p.trendingCategory === 'culture').length,
+        news: newsCount
     };
 
     // Update filter button counts
@@ -1606,7 +1615,8 @@ function renderTrendingResults(data, city) {
             food: `🍴 Food (${count})`,
             music: `🎵 Muziek (${count})`,
             clubs: `🎧 Clubs (${count})`,
-            culture: `🎨 Kunst (${count})`
+            culture: `🎨 Kunst (${count})`,
+            news: `📰 Nieuws (${count})`
         };
         btn.textContent = labels[filter] || btn.textContent;
     });
@@ -1693,6 +1703,120 @@ function renderTrendingResults(data, city) {
 
     // Render discovery section (trending places not in data.js)
     renderDiscoverySection(city);
+}
+
+// ============================================
+// 📰 NEWS SECTION — Render news articles
+// ============================================
+
+function renderNewsSection(data, city) {
+    const resultsEl = document.getElementById('trending-results');
+    const titleEl = document.getElementById('trending-results-title');
+    const updatedEl = document.getElementById('trending-last-updated');
+    const cardsEl = document.getElementById('trending-cards');
+    const errorEl = document.getElementById('trending-error');
+
+    const cityData = data.cities[city];
+    const news = (cityData && cityData.news) || [];
+    const cityName = CITIES[city]?.name || city;
+
+    titleEl.textContent = `📰 Food & Restaurant Nieuws — ${cityName}`;
+
+    // Format last updated
+    if (data.lastUpdated) {
+        const updated = new Date(data.lastUpdated);
+        const now = new Date();
+        const diffHours = Math.round((now - updated) / (1000 * 60 * 60));
+        let timeAgo;
+        let freshIcon;
+        if (diffHours < 1) { timeAgo = 'zojuist'; freshIcon = '🟢'; }
+        else if (diffHours < 12) { timeAgo = `${diffHours} uur geleden`; freshIcon = '🟢'; }
+        else if (diffHours < 24) { timeAgo = `${diffHours} uur geleden`; freshIcon = '🟡'; }
+        else if (diffHours < 48) { timeAgo = 'gisteren'; freshIcon = '🟡'; }
+        else { timeAgo = `${Math.round(diffHours / 24)} dagen geleden`; freshIcon = '🔴'; }
+        updatedEl.innerHTML = `${freshIcon} Bijgewerkt: ${timeAgo}`;
+    }
+
+    // Update all filter button counts (reuse from main render)
+    const allPlaces = (cityData && cityData.places) || [];
+    const newsCount = news.length;
+    const counts = {
+        all: allPlaces.length,
+        food: allPlaces.filter(p => p.trendingCategory === 'food').length,
+        music: allPlaces.filter(p => p.trendingCategory === 'music').length,
+        clubs: allPlaces.filter(p => p.trendingCategory === 'clubs').length,
+        culture: allPlaces.filter(p => p.trendingCategory === 'culture').length,
+        news: newsCount
+    };
+    document.querySelectorAll('.trending-filter-btn').forEach(btn => {
+        const filter = btn.dataset.filter;
+        const count = counts[filter] || 0;
+        const labels = {
+            all: `Alles (${count})`,
+            food: `🍴 Food (${count})`,
+            music: `🎵 Muziek (${count})`,
+            clubs: `🎧 Clubs (${count})`,
+            culture: `🎨 Kunst (${count})`,
+            news: `📰 Nieuws (${count})`
+        };
+        btn.textContent = labels[filter] || btn.textContent;
+    });
+
+    cardsEl.innerHTML = '';
+
+    if (news.length === 0) {
+        cardsEl.innerHTML = '<p class="no-results">Geen nieuwsartikelen beschikbaar voor deze stad. Artikelen worden dagelijks opgehaald via Google News.</p>';
+        resultsEl.style.display = 'block';
+        // Hide discovery section when showing news
+        const discoverySec = document.getElementById('discovery-section');
+        if (discoverySec) discoverySec.style.display = 'none';
+        return;
+    }
+
+    news.forEach(function(article, i) {
+        const card = document.createElement('div');
+        card.className = 'place-card news-card';
+
+        // Relative date
+        let dateLabel = '';
+        if (article.publishedAt) {
+            const pub = new Date(article.publishedAt);
+            const now = new Date();
+            const diffH = Math.round((now - pub) / (1000 * 60 * 60));
+            if (diffH < 1) dateLabel = 'zojuist';
+            else if (diffH < 24) dateLabel = `${diffH} uur geleden`;
+            else if (diffH < 48) dateLabel = 'gisteren';
+            else dateLabel = `${Math.round(diffH / 24)} dagen geleden`;
+        }
+
+        // Language badge
+        const langLabels = { de: 'DE', nl: 'NL', pt: 'PT', en: 'EN', et: 'ET' };
+        const langBadge = article.language ? (langLabels[article.language] || article.language.toUpperCase()) : '';
+
+        card.innerHTML = `
+            <div class="place-header">
+                <h4 class="place-name news-title">${article.title}</h4>
+                ${langBadge ? `<span class="news-lang-badge">${langBadge}</span>` : ''}
+            </div>
+            <p class="news-summary">${article.summary}</p>
+            <div class="news-meta">
+                <span class="news-source">📰 ${article.source || 'Unknown'}</span>
+                ${dateLabel ? `<span class="news-date">${dateLabel}</span>` : ''}
+            </div>
+            <a href="${article.url}" target="_blank" rel="noopener" class="maps-link news-read-link">Lees artikel ↗</a>
+        `;
+
+        cardsEl.appendChild(card);
+
+        // Animate in
+        setTimeout(function() { card.classList.add('visible'); }, i * 80 + 80);
+    });
+
+    resultsEl.style.display = 'block';
+
+    // Hide discovery section when showing news
+    const discoverySec = document.getElementById('discovery-section');
+    if (discoverySec) discoverySec.style.display = 'none';
 }
 
 function trendingUseLocation() {
