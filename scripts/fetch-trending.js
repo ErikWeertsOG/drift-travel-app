@@ -426,6 +426,22 @@ function extractSourceFromTitle(title) {
     return match ? match[1].trim() : 'Unknown';
 }
 
+function sanitizeText(text) {
+    // Remove Unicode characters that cause ByteString encoding issues
+    // \u2028 = line separator, \u2029 = paragraph separator, and other non-ASCII control chars
+    return (text || '')
+        .replace(/[\u2028\u2029]/g, ' ')
+        .replace(/[\u0000-\u0008\u000B\u000C\u000E-\u001F\u007F-\u009F]/g, '')
+        .replace(/[^\x00-\x7F]/g, char => {
+            // Keep common accented chars (Latin Extended), replace exotic Unicode
+            const code = char.charCodeAt(0);
+            if (code >= 0x00C0 && code <= 0x024F) return char; // Latin Extended
+            if (code >= 0x0400 && code <= 0x04FF) return char; // Cyrillic
+            return ' ';
+        })
+        .trim();
+}
+
 async function summarizeWithClaude(articles) {
     if (!Anthropic || !ANTHROPIC_API_KEY || articles.length === 0) return articles;
 
@@ -434,12 +450,18 @@ async function summarizeWithClaude(articles) {
     const summarized = [];
     for (const article of articles) {
         try {
+            // Sanitize all text inputs to avoid ByteString encoding errors
+            const title = sanitizeText(article.title);
+            const snippet = sanitizeText(article.snippet);
+            const source = sanitizeText(article.source);
+            const language = sanitizeText(article.language);
+
             const response = await client.messages.create({
                 model: 'claude-haiku-4-5-20250414',
                 max_tokens: 200,
                 messages: [{
                     role: 'user',
-                    content: `Summarize this restaurant/food news article in 2-3 sentences in English. Focus on: what the news is about, which specific restaurant or food spot is mentioned, and why someone visiting the city would care. Be concise and practical.\n\nTitle: ${article.title}\nSnippet: ${article.snippet}\nSource: ${article.source}\nLanguage: ${article.language}`
+                    content: `Summarize this restaurant/food news article in 2-3 sentences in English. Focus on: what the news is about, which specific restaurant or food spot is mentioned, and why someone visiting the city would care. Be concise and practical.\n\nTitle: ${title}\nSnippet: ${snippet}\nSource: ${source}\nLanguage: ${language}`
                 }]
             });
 
