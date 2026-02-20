@@ -1542,6 +1542,13 @@ function renderTrendingResults(data, city) {
 
     errorEl.style.display = 'none';
 
+    // Auto-switch to news tab if no places but news is available
+    const hasPlaces = (cityData.places || []).length > 0;
+    const hasNews = (cityData.news || []).length > 0;
+    if (!hasPlaces && hasNews && trendingFilter !== 'news') {
+        trendingFilter = 'news';
+    }
+
     // If news filter is active, render news section instead of places
     if (trendingFilter === 'news') {
         renderNewsSection(data, city);
@@ -1606,7 +1613,7 @@ function renderTrendingResults(data, city) {
         news: newsCount
     };
 
-    // Update filter button counts
+    // Update filter button counts and visibility
     document.querySelectorAll('.trending-filter-btn').forEach(btn => {
         const filter = btn.dataset.filter;
         const count = counts[filter] || 0;
@@ -1619,6 +1626,15 @@ function renderTrendingResults(data, city) {
             news: `📰 Nieuws (${count})`
         };
         btn.textContent = labels[filter] || btn.textContent;
+        // Hide empty category buttons (except 'all' and 'news')
+        if (filter !== 'all' && filter !== 'news') {
+            btn.style.display = count > 0 ? '' : 'none';
+        }
+        if (filter === 'all') {
+            btn.style.display = counts.all > 0 ? '' : 'none';
+        }
+        // Update active state
+        btn.classList.toggle('active', filter === trendingFilter);
     });
 
     cardsEl.innerHTML = '';
