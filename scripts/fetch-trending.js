@@ -16,16 +16,19 @@ const path = require('path');
 
 let RssParser;
 let Anthropic;
+let nodeFetch;
 try {
     RssParser = require('rss-parser');
     const anthropicModule = require('@anthropic-ai/sdk');
     Anthropic = anthropicModule.default || anthropicModule.Anthropic || anthropicModule;
+    nodeFetch = require('node-fetch');
 } catch (e) {
-    console.warn('⚠️  Optional dependencies not installed (rss-parser, @anthropic-ai/sdk). News feature disabled.');
+    console.warn('⚠️  Optional dependencies not installed (rss-parser, @anthropic-ai/sdk, node-fetch). News feature disabled.');
 }
 
 const FOURSQUARE_API_KEY = process.env.FOURSQUARE_API_KEY || '';
-const ANTHROPIC_API_KEY = process.env.ANTHROPIC_API_KEY || '';
+// Sanitize API key: remove any Unicode whitespace/control chars that may sneak in during copy-paste
+const ANTHROPIC_API_KEY = (process.env.ANTHROPIC_API_KEY || '').replace(/[^\x20-\x7E]/g, '').trim();
 
 // ============================================
 // CITY & CATEGORY CONFIGURATIONS
@@ -445,7 +448,9 @@ function sanitizeText(text) {
 async function summarizeWithClaude(articles) {
     if (!Anthropic || !ANTHROPIC_API_KEY || articles.length === 0) return articles;
 
-    const client = new Anthropic({ apiKey: ANTHROPIC_API_KEY });
+    const clientOptions = { apiKey: ANTHROPIC_API_KEY };
+    if (nodeFetch) clientOptions.fetch = nodeFetch;
+    const client = new Anthropic(clientOptions);
 
     const summarized = [];
     for (const article of articles) {
@@ -486,7 +491,8 @@ async function fetchNewsForAllCities() {
     }
 
     console.log('\n📰 Fetching food & restaurant news...');
-    console.log(`   Anthropic API key: SET`);
+    console.log(`   Anthropic API key: SET (length: ${ANTHROPIC_API_KEY.length}, ascii-only: ${!/[^\x20-\x7E]/.test(ANTHROPIC_API_KEY)})`);
+    console.log(`   node-fetch: ${nodeFetch ? 'LOADED' : 'NOT AVAILABLE'}`);
 
     const newsPerCity = {};
 
