@@ -1,30 +1,220 @@
 {
-    "lastUpdated": "2026-02-20T07:16:45.061Z",
+    "lastUpdated": "2026-02-20T07:47:59.428Z",
     "source": "github-actions",
     "cities": {
         "cologne": {
             "places": [],
-            "news": []
+            "news": [
+                {
+                    "title": "11 angesagte Bars in Köln, die ihr kennen solltet - Mit Vergnügen Köln",
+                    "source": "Mit Vergnügen Köln",
+                    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE51cEZRblZkdk1FUk5pWEdZMnBLb2RZX3A2N1VFd3NVdjRLVmZUa0JGUEdEN05IQWlFa1RxdGVsdnRKaWI4NUFocHR1QzNlUkxVcUM2YmQzLW8zVG1jSThuMnBR?oc=5",
+                    "publishedAt": "2026-02-20T01:37:14.000Z",
+                    "language": "de",
+                    "summary": "# Summary\n\nThis article highlights 11 trendy bars in Cologne that are worth knowing about, according to Mit Vergnügen Köln. Visitors to Cologne would find this useful as a curated guide to the city's current nightlife hotspots, helping them discover popular drinking venues beyond the typical tourist destinations. The piece serves as a practical recommendations list for anyone looking to experience Cologne's contemporary bar scene."
+                },
+                {
+                    "title": "Kuss-Schiri : Hat er einen homophonen Angriff vorgetäuscht? - BILD",
+                    "source": "BILD",
+                    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPeTBpTTAzYXIzc1NEN1hpb3lIWkx1ZDJ6S2llNW0xa3JWTDc0a2hCMTlERUxkdVhhek9tWVF3ay1PVVVDMnNWVXd6dUlwTnkwN3M3cGRJNVRVMl9NeHZCSDdtTnh4VDdLXzlTOHhMSFBqY00xa2xQa2RVS3RyWXNrbkRZMU51ZHduUlcxV0tBVmR6WXlQSjl6NTJZcDAwaVdiRnNJUDNEcUZzYnVqNDBBLUYydlRpcnpI?oc=5",
+                    "publishedAt": "2026-02-18T18:36:44.000Z",
+                    "language": "de",
+                    "summary": "I appreciate you sharing this, but this article isn't about a restaurant or food news—it's about a referee (Schiri) and allegations of a homophobic attack, which is a sports/legal story. \n\nIf you have a restaurant or food-related article you'd like me to summarize, I'd be happy to help with that instead!"
+                }
+            ]
         },
         "amsterdam": {
             "places": [],
-            "news": []
+            "news": [
+                {
+                    "title": "Janine Bakery & Restaurant opent in Amsterdam - Entree Magazine",
+                    "source": "Entree Magazine",
+                    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNaTZJWVRIOWpnZ3ZsOVNpRV9fNEtVMlNfRXppSlRvQm05Y2h4N1NKQWw5bm1vQktUb0M0S0h3YW1zMGhaaGNzcnkzZVFSRkJnamlwSFpCN2JfT1F2c1VwekVfWnVzaE9fdThUN3V3bGx5S1RJYkdJMGFBY0FYSjFhLUVPWQ?oc=5",
+                    "publishedAt": "2026-02-17T09:11:36.000Z",
+                    "language": "nl",
+                    "summary": "I don't have access to the full article content to provide an accurate summary. To help you effectively, I would need either:\n\n1. The full article text, or\n2. More details from the snippet about what Janine Bakery & Restaurant offers and why it's newsworthy\n\nCould you share the complete article or more details? That way I can give you a proper 2-3 sentence summary focusing on what's new, the specific restaurant, and why visitors should care."
+                },
+                {
+                    "title": "Wouter Denessen keert terug in de horeca als f&b-manager van Volkshotel - Misset Horeca",
+                    "source": "Misset Horeca",
+                    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOaU5ERUU3cmFhWDdNMEF3Z1kyYXc2V2J3emMxbmVyaTZSei16ZzA3Mnp6SmxETXpUbGZYRldNOXV3Ul9GZE1BMl9Rdy10TUFKU014V2ZweTJnSkY1X0JsX25LTmdzLS12NFQ2SHBhR2s0bWtlLWtvelpKM2pQTzkxTW9RX2d1TXliUmp6Qy1mb0RJOHJl?oc=5",
+                    "publishedAt": "2026-02-19T10:42:11.000Z",
+                    "language": "nl",
+                    "summary": "# Summary\n\nWouter Denessen has returned to the hospitality industry as the food and beverage manager of Volkshotel in Amsterdam. This is noteworthy because Denessen is an experienced industry professional, and his appointment suggests Volkshotel is enhancing its food and drink offerings. Visitors to Amsterdam should care because this leadership change likely means improved dining experiences and quality at the hotel's restaurant and bar facilities."
+                },
+                {
+                    "title": "Janine Bakery & Restaurant, Amsterdam - Barts Boekje",
+                    "source": "Barts Boekje",
+                    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB2RDVOcFV2Z0MxNUFueVBsUjdKcjZyVTliS0E1SWRCLUhEaHpvZkJDaS1HSzI2ZXktY1pwVHlMM0tKVkF6c2FpYlZIRlRZUVNOX0tSeGVCYmQzMEpIUHFQUnp6RFV5b0pubXV4TVdVS1c?oc=5",
+                    "publishedAt": "2026-02-13T19:43:06.000Z",
+                    "language": "nl",
+                    "summary": "I don't have access to the actual article content from this snippet—only the title and source information are visible. To provide you with an accurate 2-3 sentence summary focused on what's newsworthy about Janine Bakery & Restaurant in Amsterdam and why visitors should care, I would need you to share the full article text.\n\nIf you can paste the article content, I'll be happy to summarize it for you concisely."
+                },
+                {
+                    "title": "De beste restaurants in Amsterdam: bekijk onze recensies op de kaart - Het Parool",
+                    "source": "Het Parool",
+                    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxObmYtQUE0NFp0OWI4ODlreXVTbFFRb2Jid2JZMFNjcy1OcEU4TUszTFhpZVRmaUc4Si1nS3BDcVRuWFJTaEM3TjBwdU5TblBmeDBUSmo2RlRVYWxxTDNXRlA5cnlBRHFfWG8zY2lwajhmdDlHQm9VamVuWVdZc3ptdk9VVkVuZkM1UXpTME10WQ?oc=5",
+                    "publishedAt": "2026-02-14T02:00:00.000Z",
+                    "language": "nl",
+                    "summary": "I appreciate you sharing this, but I'm unable to provide a meaningful summary because the article snippet provided only contains the headline and publication information—no actual article content is included. To give you the 2-3 sentence summary you've requested with details about specific restaurants and practical visitor information, I would need the full article text. If you can share the complete article content, I'd be happy to summarize it for you."
+                },
+                {
+                    "title": "Cultuurhuis Felix Meritis in Amsterdam opent Felix Café - Misset Horeca",
+                    "source": "Misset Horeca",
+                    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQUFZ5cjROSS1zMkExMXRVMFVIUlFxU2pZOEQtek8wR1dsNER0dmhHcTVMbGM0elVZVzVGQTJSUHctWE96c2hRMEVTWkZmUnlMSXpqQnh2TUZyQjc5cHFhQ294RVF2cUlxQVgwcF8yX3lmUjBFeFpwYzNlMk1RanJjRXdVZThrRHlrNXlYMUtkZXo4QXNa?oc=5",
+                    "publishedAt": "2026-02-19T10:41:41.000Z",
+                    "language": "nl",
+                    "summary": "# Summary\n\nI appreciate your request, but I'm unable to provide a detailed summary because only the title and snippet were provided—the full article content wasn't included. \n\nFrom what's available, Felix Meritis cultural center in Amsterdam is opening a new café called Felix Café. For visitors to Amsterdam, this would be worth knowing about as a new dining or beverage spot in a cultural venue, likely offering a blend of food service within an arts/cultural space.\n\nTo give you a more practical summary with specific details (menu, hours, pricing, why it stands out), I'd need access to the full article text."
+                }
+            ]
         },
         "antwerp": {
             "places": [],
-            "news": []
+            "news": [
+                {
+                    "title": "Dit zijn onze 10 favoriete restaurants in Antwerpen - De Tijd",
+                    "source": "De Tijd",
+                    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQdGxMdzJ2OFdYc2lZQURINVF2ckwySW9IVmRlYlJ2YnQwS1lQVGlDcjhwaWlxYVJEYXdFaFdVbE0yM0pkVnpiclM0T3cyMG9oenQtTXEzLVo3dXgyYXJSakJHd0UtVUFDdS16U01ieU9FbjlSYUtzWHRNTnRHV1g3UlE5RWJJbUNfZGN1bUEtTWYxS0lId0Z4MkIwZGRvQQ?oc=5",
+                    "publishedAt": "2026-02-17T17:27:00.000Z",
+                    "language": "nl",
+                    "summary": "I don't have access to the full article content, only the title and snippet provided. However, based on what's available:\n\n**De Tijd has published a list of their 10 favorite restaurants in Antwerp.** While the specific restaurant names aren't shown in the snippet, this curated guide would be valuable for visitors looking for reliable dining recommendations from a trusted Belgian publication. Someone visiting Antwerp would care because it offers vetted, editorial picks rather than having to search through countless options.\n\nTo get the full details about which specific restaurants made the list, you'd need to read the complete article on De Tijd's website."
+                },
+                {
+                    "title": "In Kiev kan je gaan smullen in ...restaurant Antwerpen - GVA",
+                    "source": "GVA",
+                    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxORl9QSWEyVVhsZmk4Q2NoYTVQckNSdFh4ajZPOFI3eklkTFRfQXJOa0k2WFBvTU56TXBxV0FvVXZ4dHJNMUo0NDhXaHN1cy11N1k1c0psdk5Eam1TcklJYUNWaXRpLVNUVU5wQnhNVFhKcWtzTmlJZDhzYUpIVmFHZXR1aG9GSVhPb2xHQUNIVkRCanBlUmFN?oc=5",
+                    "publishedAt": "2026-02-14T17:39:34.000Z",
+                    "language": "nl",
+                    "summary": "I appreciate you sharing this, but I'm unable to provide a helpful summary because the article snippet provided is incomplete—it only contains the headline and source information without the actual article content.\n\nTo summarize this news properly, I would need the full article text to tell you: what's happening at the restaurant, why it's newsworthy, and why visitors to Antwerp should care about it.\n\nCould you share the complete article or its main text?"
+                },
+                {
+                    "title": "Bij dit Antwerps restaurant kan je nu al je kerstmenu bestellen door onzekerheid btw-tarief - Nieuwsblad",
+                    "source": "Nieuwsblad",
+                    "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxOV2dDTzJDRTlUWXBXLTBSQzNVcVkxZnlsWndGQ2JTMU1tT0Jsb2lSX01Lb1hIeVk4b1VWYjdVT3laanByUlBDalpIZVZjbk1RR0hPMmlZSFlCNUFVQ2M3cE1LQURxUFY3NDNFYVprdVB5QTU0SDQteE1YUWRfemt2LTJDRGxxQVFDYlVOLTlNT0FfanktZHZ4RnlIanN0VXdOWngtR0FKSHVfUzJlNk9RblBhcWZnSTdSUEg1N2tua1hGUWxVS1dqdEhLcWJPX0ZFR2lIblJzZWtlVGV5bmFPVEFjelNjeDhEQU14RDB0MU9xbGRPNFJoZWV2TUNzdXFjUk1rZmU3SEw1S1ZnNkxj?oc=5",
+                    "publishedAt": "2026-02-16T19:05:49.000Z",
+                    "language": "nl",
+                    "summary": "# Summary\n\nAn Antwerp restaurant is now accepting advance Christmas menu orders due to uncertainty about VAT tax rates. The restaurant is asking customers to book early to help manage pricing and planning amid unclear tax policy changes. Visitors to Antwerp should note this option if planning holiday dining, as early booking may secure better rates or menu availability before potential price adjustments."
+                },
+                {
+                    "title": "Van mini-festival tot gouden ballenbad: eerste Antwerp Shopping Day viert winkels en horeca in binnenstad - GVA",
+                    "source": "GVA",
+                    "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPNjB3UG9qSXdXVGY2VjZNZjlIdTBleC1QYzRiVFBLLXdncnNHSFZWY2I5ZU1DNTRZM3oxeF91dUhzblNaSjRaQlBFajFXOEJoM1ZxY2ZMWFNEbTlIVlFRTDc3LTZvSHhwZU9OLW5peHdGRVkyekFxQVpMYWZmRGpnMWx5YUdqNG5Cdmt5YTZFSktKN0sxTll6Q3pSNThZU1B3YWRvNHFfcVd2TlFkMlZIcFU0eVNfbTdkeWdaOW1UWG9veEtQcFJGSEIyeEVZSFc0U3NSNURfQ2tNeFVicEhfeWE2aG8wUHpuVlhkVUNYWTYwbDJWYnNTbEltQmlmU0I3eU14X0I3NGt5UTRY?oc=5",
+                    "publishedAt": "2026-02-18T16:46:00.000Z",
+                    "language": "nl",
+                    "summary": "# Summary\n\nAntwerp is launching its first \"Antwerp Shopping Day,\" a celebration event featuring local shops and restaurants in the city center, with attractions including mini-festivals and a golden ball pit. While the article doesn't mention a specific restaurant, it highlights that the event will showcase the hospitality sector alongside retail businesses. Visitors to Antwerp would care because this inaugural event offers a fun way to discover and support local dining and shopping venues throughout the downtown area."
+                },
+                {
+                    "title": "Familieverhaal met vlees en ziel: Antwerps restaurant Meat & Eat viert vijftienjarig bestaan - made-in.be",
+                    "source": "made-in.be",
+                    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOUFNzTS04NWVuWGlSdHlOa3E5OUphOXAya2ZQTzRZVXowTFVydTRmcWhGeVd0TkZaMVZKT1FPeFJNdGJ5eVBaT0huMkZXeDVTLTdQd2NxQ2Y4YXhoV21QS2tHM0NPa2FqSFJHMmJxR1lueXk5SGVJRFA4UDlCbEhwYXU4VWlWVWZQY3o2ekhZVFZoR2VReWd2QW9mZnJ5NkEtRWdyV2VZX1dqX1R1dGFTc1Aybl9Ydzh1VHlxeXpNcG0?oc=5",
+                    "publishedAt": "2026-02-13T16:41:35.000Z",
+                    "language": "nl",
+                    "summary": "# Summary\n\nAntwerp's restaurant **Meat & Eat** is celebrating its 15th anniversary, marking a significant milestone for this family-run establishment known for its meat-focused cuisine. The restaurant has built its reputation as a passionate, soul-driven business that has become a notable dining destination in Antwerp. Visitors to the city should care because it represents a well-established, beloved local restaurant with over a decade-and-a-half of proven quality and experience."
+                }
+            ]
         },
         "lisbon": {
             "places": [],
-            "news": []
+            "news": [
+                {
+                    "title": "Henrique Sá Pessoa abriu o seu restaurante no Páteo Bagatela - Público",
+                    "source": "Público",
+                    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPN0JDaGlQaUtiV1FYNWIxMFFzWmNKZXBVOGdDa3NZemo5NW42NXFGNkE5WGlnTkVYVnRxSnFHQU82RXd2TVVsUklBaDRrbVNza2ZxUmgwN2R3c3ZjWVFiZWYzWW1sZUFKYUZjZ2hxVUxybXJ2dEVndWZSZmtnS3ZsZV9aMDE2UGpleTgyNWdlYUY3bm5FTDJhQUduaUV6Q21aQ0VNbHV6UEV0bDQ?oc=5",
+                    "publishedAt": "2026-02-19T15:20:13.000Z",
+                    "language": "pt",
+                    "summary": "I'd be happy to help summarize this article, but the snippet provided is quite limited. Based on what's available, here's what I can tell you:\n\n**Summary:** Chef Henrique Sá Pessoa has opened a new restaurant at Páteo Bagatela. Visitors to Lisbon would care about this because Henrique Sá Pessoa is a renowned Portuguese chef, making this a notable dining addition to the city's food scene at this location.\n\nTo provide a more detailed and practical summary (such as the restaurant's cuisine style, price range, or specific highlights), I would need access to the full article text."
+                },
+                {
+                    "title": "Dia 1: uma viagem aos bastidores do novo restaurante Henrique Sá Pessoa em Lisboa - Expresso",
+                    "source": "Expresso",
+                    "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxOcUc1WThHaXBKQU5oY2VMVE9kTU9uZFllNDNLSU93bjFPYVpfd2t5REtKd3hfTzJ3bThmMTdfU0FMSVBtT01TaHQ3emM2VDM3RTVaV3BLV3NzQlZieXJ4RVpjNE1pX1VqZ0NPLXBTS2VTWkJtOVdDam1Yc0V5eXYyemV0enFicTFjMWgyTF9tcEtadzI3SjlLNkZENDhiSG1VRHBodkhpR0swM2RDTDdfNVRCZjBMTlM2d2lCTVh2dDU2MUdLVms0V2NMVzlRcVJ0a0Vpa2E1MDVNSVBCRG1NRi1nQXdlQVNfVDQ2T2FKRHB6czFUSHgtVlpETXR5V0FOY2FNMi14SmVqRXJEOHl4Nw?oc=5",
+                    "publishedAt": "2026-02-18T17:02:46.000Z",
+                    "language": "pt",
+                    "summary": "I don't have access to the full article content, only the title and snippet provided. However, based on the title, this appears to be a behind-the-scenes feature about a new restaurant opening by renowned chef Henrique Sá Pessoa in Lisbon. Visitors to Lisbon would care about this because Henrique Sá Pessoa is a celebrated Portuguese chef, suggesting this new establishment would likely offer high-quality cuisine worth exploring. To give you a more accurate summary, I would need access to the article's full text."
+                },
+                {
+                    "title": "Incêndio deflagra no Clube Naval de Lisboa em Belém - cmjornal.pt",
+                    "source": "cmjornal.pt",
+                    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNWkczVl9JTEhQeXZNOW03d3NHcjF6Y3JtcWtSZl96VmJGcVU2Zk0wOEtnTTRHRGJONWN3WUw3MlR3cHJqTGg2VlhsSGxoQVJaZkFld3oxVDNSXzFPWW14dlJYUXk0dk9yMjk0ZEoyQnRKZzVXSTRiMGs0MmJsZ2lvMVdUODFOdEUxYm1UUEZ6dDBWdDU5ZGhN?oc=5",
+                    "publishedAt": "2026-02-19T18:50:00.000Z",
+                    "language": "pt",
+                    "summary": "I appreciate you sharing this article, but I should clarify that this isn't actually a restaurant or food news article. The headline is about a fire that broke out at the Naval Club of Lisbon (Clube Naval de Lisboa) in Belém, which is a social/sports club rather than a food establishment.\n\nIf you have a restaurant or food-related article you'd like me to summarize, I'd be happy to help with that instead!"
+                },
+                {
+                    "title": "Galeria Visit Brasil chega a Lisboa com exposição, cinema, música e gastronomia - Revista EntreRios",
+                    "source": "Revista EntreRios",
+                    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQN1BCQlQ0cTJVQ2lxZEd4ZEpZU1JrbWFJbFRNT04wZTB0ODJBZXJGdjlqdzBUdnFDeXRlTGNoaVBUM09EQ2lxMXUzY1MxQm5ETDd5amkyRXVOekV1Vk90MFRQX0RUdGFJWjItTm1uLWFMbjBzUVpncGo5UkZDbTRpMDM0blJMYWNNUEViTVVXMHpybk1LdVYwenk5Sk1yWXpYRkVUYVVhZ2RyVVI0SXRZYkRPdWU5RGc?oc=5",
+                    "publishedAt": "2026-02-19T17:01:49.000Z",
+                    "language": "pt",
+                    "summary": "# Summary\n\nGaleria Visit Brasil has opened in Lisbon, featuring a multidisciplinary space that combines exhibitions, cinema, music, and gastronomy. Visitors to Lisbon can explore Brazilian culture and cuisine in one venue, making it an appealing destination for those interested in experiencing Brazilian food, art, and entertainment."
+                },
+                {
+                    "title": "De Macau para Lisboa: o Kouji é o novo ramen bar da capital - NiTtv",
+                    "source": "NiTtv",
+                    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQbjhhQXJvc3pwTzFScjNsTDM0ck9Md1lVbkYxT0hBWmlwdE5ZVm9qYTVuTE85c1FUNlJETW1vZFpGeE9LdFhua1dTdUFRUkwyZ3JQa3dpMDI2NGN4LTF0ZmNlSkt4YVdrUklSWTFwVEcxaDg3aU42ZnlZeDRhMnQxMzBmOE41TC1rTldGNEhESko?oc=5",
+                    "publishedAt": "2026-02-16T09:09:00.000Z",
+                    "language": "pt",
+                    "summary": "# Summary\n\nKouji, a new ramen bar that originated in Macau, has opened in Lisbon. This is noteworthy for visitors to Lisbon because it brings authentic Asian noodle cuisine from a renowned culinary destination to the Portuguese capital. Those looking for high-quality ramen in Lisbon now have a destination restaurant with established credentials from Macau's food scene."
+                }
+            ]
         },
         "newcastle": {
             "places": [],
-            "news": []
+            "news": [
+                {
+                    "title": "New bar to replace The Mushroom in Newcastle weeks after famous party spot shut down - Chronicle Live",
+                    "source": "Chronicle Live",
+                    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZWNzRlM1MWZSOWtVb3hSV1pXU09GM0xQYjU5VURpblNoSXFqR3NTSWV6cm5HQWVUelM5dXFWZkxFdTd4NGxxUTZQUUwtNHBDUFFYNXRwWG92clJrOURxS05nLWhBQWgxLWw5NElFYjhzQjNCQkJIRlVMZzB3RXZFcjlLS19WT2F1d0hXbXBEaTNPNjc2Rmh4bmJXYnJpZVZzRkdtRGRiN0ZxWGvSAbABQVVfeXFMTjdnZTZ2SzlnZlZwd285WWxLMThUeWNSNm9FUkI1amhJaFJLckxjajcxR3NUOHFYdmE1Wkd2V1JrRGxDQmxXMFhyOG5yVEhUbGc0bHZlV0dobHpKc0U2QWtQTlQ2SEhNZ1BwdlNneVNHQzlFUmZnSFo3MERrLTR2Z0FfSlNYUlNQQ1NWV1B4NGNFSGItQXlIM0hiVEV3WlMwb3U2bTN3bk11TUthelFTMGk?oc=5",
+                    "publishedAt": "2026-02-19T18:25:00.000Z",
+                    "language": "en",
+                    "summary": "# Summary\n\nA new bar will be opening in Newcastle to replace The Mushroom, a well-known nightlife venue that recently closed. Visitors to Newcastle looking for a night out should pay attention since this represents a change in the city's entertainment options on what was previously a popular party destination."
+                },
+                {
+                    "title": "Where to Eat and Drink Near St James’ Park 2026: Best Pubs and Restaurants For Fans - Football Ground Guide",
+                    "source": "Football Ground Guide",
+                    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPV25mbXYyU25xazlvcVpidHY5UC1GR3lZZDdYS3RhdzVCOXlFQ1ZiZTBzWVhieEZWOVp1QzNxWVN5dldXM0pkNUs0TmlHTzJtd3gyOVJ0cjRWa0l4UDc3MnVNMmZpU3FzNWozcUlFZWlla1l3WE91NC1OQ2llMENLS2tWTjdMbnhkNUY4Ml9VUmVvQTFTbTVhMTRKaF9UZEJrbGd6Nmt3NlNyeWdEQVJwUWpuVm93YllnTlE?oc=5",
+                    "publishedAt": "2026-02-19T14:54:18.000Z",
+                    "language": "en",
+                    "summary": "# Summary\n\nThis article is a guide to dining and drinking options near St James Park (Newcastle United's stadium) for fans attending matches in 2026. The piece highlights the best pubs and restaurants in the vicinity of the football ground. Visitors to Newcastle for matches will find this useful for planning where to eat before or after games, with recommendations tailored specifically to the St James Park area."
+                },
+                {
+                    "title": "Newcastle Quayside gastropub ranked among the UK’s best - Hexham Courant",
+                    "source": "Hexham Courant",
+                    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOeUZfZlZjX2lVMHBjTTVUamNWTzFNUVRTd1p4N0NPZ2MtdFBWZmFrSUEwd2l2dFFSdHFjZXEyMkNSUHFNSHN3cnJla1JMOExSRVhiNUFBb3otVlRHeS1aZjU4bnpXVHdyWGhZQ051bWFiQmVhY2hEUG5tLWVNUXJJeVllLXk1b0xnazZUVTQ2akpoSkN5MEtVNA?oc=5",
+                    "publishedAt": "2026-02-14T05:00:00.000Z",
+                    "language": "en",
+                    "summary": "# Summary\n\nA gastropub located on Newcastle's Quayside has been ranked among the best in the UK, though the specific restaurant name isn't provided in this snippet. Visitors to Newcastle should care about this recognition because it highlights a quality dining destination in one of the city's most popular waterfront areas, making it a worthwhile spot to check out for good food and drinks."
+                },
+                {
+                    "title": "Inside Newcastle fans' 2,529-mile journey to Qarabag where the beer is 'cheap as owt': An army of 2,000 Magpies supporters are making the trip to 'ridiculously cheap' Azerbaijan - and partying on two hours of sleep! - Daily Mail",
+                    "source": "Daily Mail",
+                    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQY0hOTVljVVozT0xrTnVoZTYwSml2SzhYX0RxQTBnRE5XNmZWVVpJblV0YkFEWmFFVkM5cWEwaklWRDZMYnVyWXNrRlZOSGRtWk5sdW93VWpiMnBDWEljTU5rR2c1ZzJYRmFNTklyQlJaUUhUd3FpamhwdENOTnFBRTJCRFRoWjhMUGkyd1czRzdDZlM3YWJIN1NrSG1QMEZZQU9DTVNTemJvMlczcGdBLdIBtgFBVV95cUxNSHYxbzN0dldIZlNWTXd2NXJCU2FwdndRLVlobS1vQkRvcE1rOWZEQWI1ODNfcDVsdDliSmlvQzg2a01wckZLQ0NKX2NNeW8tYVRJQ3NfajBuT3IzckN3UTlFRFhsQW1NSEgwZ3czZGpNSk1rQ1BLMFhBaGZFRVl1TVR6VFhVSWVfZk10UkJ4YnRyNGZIZ25obC05MzlVb0s5am1zemxvTVNNdzM5b2tGb0NBbl9WZw?oc=5",
+                    "publishedAt": "2026-02-17T17:57:30.000Z",
+                    "language": "en",
+                    "summary": "# Summary\n\nThis article covers Newcastle United fans traveling 2,529 miles to Azerbaijan for a match against Qarabag, with approximately 2,000 supporters making the trip. The main appeal for visitors is that Azerbaijan offers extremely affordable beer and dining compared to UK prices. For travelers or football fans considering the journey, this highlights Azerbaijan as a budget-friendly destination for food and drinks despite the long distance."
+                },
+                {
+                    "title": "The FA Cup - 2025/26: Fourth Round: Aston Villa v Newcastle United - BBC",
+                    "source": "BBC",
+                    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQOWdsSXU1bG1NOFF0M2pOMm1ZYzBpTzEtR29jUFJJUDVQMklXT2ppbkdmcWU5SGk5VkRhRDlLWFk4SFhhVUpNN0x2OW5DcWlILUlNVzF0ODFPSFFKYjhhWkVHOHFRRXdJcTlUOTRkaDlITnJQQUI5U2NFcmRsR0VscHNqSV9KQlBkclViOUk4dEVzX1Y4ZTlpdHhyREdlY012Q0NFZUszSHFnXzFw?oc=5",
+                    "publishedAt": "2026-02-14T17:30:00.000Z",
+                    "language": "en",
+                    "summary": "I appreciate you sharing this, but this appears to be about a sports event (an FA Cup football match between Aston Villa and Newcastle United), not a restaurant or food news article. There's no food establishment or dining information mentioned in the title or snippet provided.\n\nIf you have a restaurant or food news article you'd like summarized, please feel free to share that instead!"
+                }
+            ]
         },
         "tallinn": {
             "places": [],
-            "news": []
+            "news": [
+                {
+                    "title": "Your Tallinn hit list: the top 5 events this week - Estonian World",
+                    "source": "Estonian World",
+                    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOMDUzQ0xBdU1wOThsUWROdGlid2tCQWNWWGtwLWNfMjFpbDNfZzlxX3hKczB3WjIxZzRjcDI2aXVlbnNlTldMN2VRUjJ3RThuMDVYQ0lfeENNcmNLT3hPcG1wRHRSOGU0U3J4ZGk4SWRTMlFaY0NVdFlKRllCWEd6RnFFM2VvNXJCeHNoSlIxSQ?oc=5",
+                    "publishedAt": "2026-02-16T18:08:16.000Z",
+                    "language": "en",
+                    "summary": "I appreciate you sharing this, but I'm unable to provide a summary because the article content itself wasn't included—only the title and source information were provided. To give you a useful 2-3 sentence summary focusing on specific restaurants, food spots, and why visitors should care, I would need the full article text. \n\nCould you please share the article content or body text?"
+                }
+            ]
         }
     }
 }
