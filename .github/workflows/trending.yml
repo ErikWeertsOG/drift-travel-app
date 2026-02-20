@@ -5,6 +5,9 @@ on:
     - cron: '0 6 * * *'  # Elke dag om 6:00 UTC
   workflow_dispatch:        # Handmatig triggeren via GitHub UI
 
+permissions:
+  contents: write
+
 jobs:
   update-trending:
     runs-on: ubuntu-latest

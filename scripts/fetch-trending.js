@@ -18,7 +18,8 @@ let RssParser;
 let Anthropic;
 try {
     RssParser = require('rss-parser');
-    Anthropic = require('@anthropic-ai/sdk').default || require('@anthropic-ai/sdk');
+    const anthropicModule = require('@anthropic-ai/sdk');
+    Anthropic = anthropicModule.default || anthropicModule.Anthropic || anthropicModule;
 } catch (e) {
     console.warn('⚠️  Optional dependencies not installed (rss-parser, @anthropic-ai/sdk). News feature disabled.');
 }
