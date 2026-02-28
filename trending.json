@@ -1,17 +1,33 @@
 {
-    "lastUpdated": "2026-02-27T06:38:51.221Z",
+    "lastUpdated": "2026-02-28T06:23:53.567Z",
     "source": "github-actions",
     "cities": {
         "cologne": {
             "places": [],
             "news": [
                 {
+                    "title": "Tagsüber deutsche Imbissbude, abends portugiesisches Restaurant - WDR",
+                    "source": "WDR",
+                    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNMFRtWmt6UGtVclVWUmRRSXk0Y2M5ekxzVWtrc001WmhCSGpLZUdQRzY4MlhlWHZQM0RTWUtwTWZaRklyUlg4Y0tySWdkNHRCcE9GTU5YZ3RzdU1Ja3FKS0hETjdiMkIxUVJDdl9zRUowM2RwTF9JY3B5OXJybHMwdnBNRXptRVJzVWRBOGw2YTlLUk8wVjBmMm5DQWQ0Y3BWZGtOaVBMR1FHbHhwbmxPQkZPRlhDUG53ZUJJZ3ozLUlzdEN1b3J2Und2V2IzNTDSAc4BQVVfeXFMT1lYblA2RlpqNHhLaTZDanVCeWhkSVVoQ192Zm0wcE9HLXVmNmNtSDhWMWRUMVVsdXE3T2lhQ2lkLWhLRnNUTUYtTklHOGtCZXFGc2dmbk9HREF6U1JmRVowdEFHNVY0dzd2cnRBUVNDNzUtOWtSUk5NOURtaGVGZWRZN0k3LWZsRGhsRmQ4UDUyckYzcXJaVHRPQkM2dFhVdDMtYndwdzFpTUsxbTVQSm0xZXA2NC1YRko1XzI3a0JneG1vUmdOWXhpV1RpekE?oc=5",
+                    "publishedAt": "2026-02-27T19:17:00.000Z",
+                    "language": "de",
+                    "summary": "I'd be happy to help, but the article snippet provided is quite limited. Based on the title alone, here's what I can tell you:\n\n**Summary:** A food establishment in Germany operates as a traditional German snack bar during the day and transforms into a Portuguese restaurant in the evening, offering two different dining experiences in one location. This dual-concept spot would appeal to visitors looking for both casual German fare and authentic Portuguese cuisine without having to travel to different venues.\n\nTo provide more specific details (like the restaurant's name, location, menu highlights, or hours), I would need the full article text."
+                },
+                {
+                    "title": "Details: La Société, Köln - Restaurant Ranglisten",
+                    "source": "Restaurant Ranglisten",
+                    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQOFVPSnlud2xOU2g3NU9DVnFsQmxqU3VmVnFLZ0tmckVYOGVMU1B6WlRqbjE5bkQtQW5VdnVnWGx0bzBJOFNsYUh5UHBkVl80Y2lvME1pTmJTekNGeVBEZGFKQjZtOUtfeDFTaTdKTlBkNmZ3SXhoUno4RDRlRUZoOFpWbkQ2VU93QWtV?oc=5",
+                    "publishedAt": "2026-02-27T20:42:59.000Z",
+                    "language": "de",
+                    "summary": "I appreciate you sharing this, but I'm unable to provide a meaningful summary because the article snippet provided is incomplete—it only contains the title and source without the actual article content or details about La Société in Cologne.\n\nTo give you a useful 2-3 sentence summary focusing on what's newsworthy, which restaurant is involved, and why visitors should care, I would need the full article text or a more complete excerpt. If you can share the article body, I'd be happy to summarize it for you."
+                },
+                {
                     "title": "Mehr Platz für Fußgänger: Stadt ordnet Außengastronomie neu - t-online – Köln",
                     "source": "t-online – Köln",
                     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPS3hhT3I5ejVVNFVza1VSZzluLUcwNzVuTG5XckJQdE8yR1E4QldENzh1Q2RRYlN1ZnBoaGZ2eFgwemRidElCMHQ1YU9XSVgtVkdUNHBPWWZWWFBtV3VOWjZDWlBzZEo3azRMT2FoZjdQRTN5OGx4eUdmci0tX2pHQVNSaXJqV08zNXc0TjllS1B0a2VVTUc0N0RMRGQ0bVV6T3k2dnZKZU9ua2hPOWhv?oc=5",
                     "publishedAt": "2026-02-25T10:47:38.000Z",
                     "language": "de",
-                    "summary": "I appreciate your request, but I'm unable to provide a meaningful summary based on the information provided. The snippet you've shared only contains the headline and source information, not the actual article content. \n\nTo summarize this article about Cologne's outdoor dining reorganization, I would need access to the full article text. Could you please share the complete article body or more detailed content?"
+                    "summary": "# Summary\n\nThe city of Cologne is reorganizing its outdoor dining areas to prioritize pedestrian space and foot traffic. While no specific restaurant is named in this snippet, the news is relevant to visitors because it will affect how outdoor seating is arranged throughout the city—potentially making sidewalks less crowded and more accessible while possibly reducing or relocating some outdoor dining options. This urban planning change could impact where you can find outdoor seating and how easily you can navigate the city's streets."
                 },
                 {
                     "title": "Schon ab Oktober: Neue Regeln für Außengastronomie in der Kölner Altstadt - Verliebt in Köln",
@@ -19,15 +35,7 @@
                     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQRnViYkREZlJ5SUEzbnpCWmFZM3ZJV3pNVEpnTThjbHlCemF3VFNjMEx5NW5zRmlRWFZ5NmE2S2RuTHJ6UlctaDVLQ2FPVXZ3ZFFHc1g1ZjM4VFJxSjVRZ2pwdHVFbFo4RklaTnV3ZmNTVVRqMnNUVWVZUFpJSmR1N2c0ckd5TF9FR3I4RU03UGU3OG9GTnR4Tlg1WF93a3U0QlF0RDlQTQ?oc=5",
                     "publishedAt": "2026-02-25T07:18:12.000Z",
                     "language": "de",
-                    "summary": "# Summary\n\nStarting in October, new regulations for outdoor dining will take effect in Cologne's Old Town (Altstadt). While the article doesn't mention a specific restaurant, these rules will affect all outdoor seating areas throughout the historic district. Visitors should be aware of these changes as they may impact where and how they can dine al fresco in this popular tourist area."
-                },
-                {
-                    "title": "Kurioser Standort: Indisches Restaurant am Melaten-Friedhof – Nachmittags gibt es Trauerfeiern - Kölner Stadt-Anzeiger",
-                    "source": "Kölner Stadt-Anzeiger",
-                    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOaUJTdE5QT2ZNWGI0b1RZdzhmRWNjY0h1dmNINGNlaE0wRzdkUS1kaTVucVo2M29ZV2ZOREk2TjdYaHZ3ckVmTUZBYmxUaEdnNE45RWtLal9YelZaem9ldldTcmxLQ0pmSGtQWThRTm9IN0VKSWFLVF83dGdCcm5WTVhydjExeWF5dDlaUUNYU0FhMUsxSU1Bc2JkTTRQVWQzMW1ncGdYYnduNTNRb3c?oc=5",
-                    "publishedAt": "2026-02-25T10:05:42.000Z",
-                    "language": "de",
-                    "summary": "# Summary\n\nAn Indian restaurant has opened at an unusual location next to Melaten Cemetery in Cologne, operating alongside funeral services held in the afternoons. Visitors to Cologne interested in trying authentic Indian cuisine would find this spot noteworthy for its distinctive and somewhat unconventional setting within a cemetery complex. The juxtaposition of dining and memorial services makes it a curious destination that reflects Cologne's unique approach to mixed-use spaces."
+                    "summary": "# Summary\n\nStarting in October, new regulations will govern outdoor dining in Cologne's Old Town (Altstadt). While the article doesn't mention a specific restaurant, these rules will affect all outdoor seating establishments in this popular tourist area. Visitors to Cologne should be aware of these changes as they may impact seating availability, operating hours, or the overall outdoor dining experience in the historic district."
                 }
             ]
         },
@@ -35,12 +43,12 @@
             "places": [],
             "news": [
                 {
-                    "title": "Waarom Restaurant Daalder tot de spannendste keukens van Amsterdam behoort - fhm.nl",
-                    "source": "fhm.nl",
-                    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQY0pCVUpMTktpU0hseHB3bHRCaHptdlpIQUctM0k3WE1mejRKdWdfajBsMURMUzVPVVZ6bTFSYi1tR3VLa2JOX3ZTeUh1aHRBenV4c1U0N0ZEMkZ4TE5rQXlCWTh2eW5ETVZvZWNHTzgtbW1pU08xN1Vrc0ZLSFdqRzVST25Qa0hwX2FEeFEzMHNSZ25nb2c5VHktZWRpLW9W?oc=5",
-                    "publishedAt": "2026-02-26T17:13:31.000Z",
+                    "title": "Rituals opent nieuw café met all-day menu in Amsterdam - De RestaurantKrant",
+                    "source": "De RestaurantKrant",
+                    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNTDlEb3NJU2MzTVJ1cXlNajlMZktGM0F3UTB3UXNJbHBEd0gxR0N3NGVLQ0V4ekt3dkRJR0RENWVBa0RQSlR2QUxVMWVYZ29KdE5rLWlxS2tLZkxtNnFOZFlYd3dVbjg0ZGpMUkF1eDB2RW1lb3F5YWpVS3k3QVRIOVB6Vm9CQnpFSGFJSTRaSjU?oc=5",
+                    "publishedAt": "2026-02-27T12:42:43.000Z",
                     "language": "nl",
-                    "summary": "I appreciate you sharing this, but I'm unable to provide an accurate summary since only the title and snippet are available—not the full article content. Based on what's provided, the article appears to highlight **Restaurant Daalder in Amsterdam** as one of the city's most exciting kitchens, but I can't give you the specific reasons why or practical details a visitor should know without accessing the complete text. If you can share the full article, I'd be happy to provide a concise 2-3 sentence summary."
+                    "summary": "# Summary\n\nI appreciate your request, but I'm unable to provide a detailed summary because only the title and snippet were provided—the full article text isn't included. Based on what's available: **Rituals has opened a new café in Amsterdam with an all-day menu**, making it a convenient option for visitors looking for flexible dining throughout the day. To give you a more complete summary about why this matters for Amsterdam visitors (pricing, location specifics, menu highlights), I would need access to the full article text."
                 },
                 {
                     "title": "Duitse bistro Weinlokal Stern opent in Amsterdam: ‘Dit ontbrak in de stad’ - Entree Magazine",
@@ -48,31 +56,31 @@
                     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPVVJQemlaZjRmUWxFYi0tWUtZOEk4ak1GSkJndWY0ZmpXalpNdHNvV01ITTdpQUp2VHA0TDVUQ2E5cURyTU5OV3hhS0lWdlhqZ0xmTGtMVzlUZGtYSDdHd29OTHQ1Szc0a2prVFRYZE5xdVZFQ1NRaERhUEpGaGpTMGtrdWFQSk1TOVhLTWxPamEwbDRkaTh5ZmU1U1FTM2VqNzlzZ0lScDduLWdFUXNtaWRTb05oWWFtVlE?oc=5",
                     "publishedAt": "2026-02-26T08:20:45.000Z",
                     "language": "nl",
-                    "summary": "I don't have access to the full article content beyond the title and snippet you've provided. However, based on the available information:\n\nA new German bistro called **Weinlokal Stern** has opened in Amsterdam, filling a gap in the city's dining scene. Visitors to Amsterdam would care about this because it offers authentic German cuisine and wine options that were previously lacking in the city's restaurant landscape.\n\nTo provide a more detailed summary, I would need access to the complete article text."
+                    "summary": "I don't have access to the full article text, only the title and snippet you've provided. However, based on what's available:\n\n**Weinlokal Stern**, a German bistro, has opened in Amsterdam, filling a gap in the city's dining scene. Visitors to Amsterdam interested in authentic German cuisine and wine would care about this new spot, as it appears to offer something previously missing from the local restaurant landscape.\n\nTo provide a more detailed summary with specific menu items, location details, or other practical information, I would need access to the full article content."
+                },
+                {
+                    "title": "Yolanda (66) verhuisde voor Rien (69) naar een dorp in Gelderland, samen kwamen ze terug naar Amsterdam: ‘Er was daar één restaurant – een snackbar’ - Het Parool",
+                    "source": "Het Parool",
+                    "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPTG5UaXM5aXJPYVU1b2tNZGRpOG1XMEJGYzk1WFpTTmZpcGEzWXRtcHRJTXI4ZHV5UGRyQkxNMmw2Sm00dDh5bUQ1VEhyTUhlanpTQXRudEJpdWZqVl9ucExTbUtONl8wbU1SNVc5MUdFeHRNd0JpdjZKY29mWGlvcHhZTjJzWUVreUhqV2dnWUs5MVA1RkZLY3pBU1RZMlhXblV3dEo2dDRKODRLYzVUbjFKSUFmRzEtcEx4LVdVcjIwcXdwYnJTeXNwRVV6ei1GN2s2c2g5QmRaZEs5NExTMHYyOFh5QkhXaXgyQ1R5d084dGdaakljNVI3VTZfcF92YmR3TE5qTjR1R0w1?oc=5",
+                    "publishedAt": "2026-02-28T02:01:09.000Z",
+                    "language": "nl",
+                    "summary": "# Summary\n\nThis article profiles a couple, Yolanda (66) and Rien (69), who moved from Amsterdam to a small village in Gelderland but eventually returned to the city. The story highlights their experience with limited dining options in the rural village—just one restaurant and a snackbar—which underscores why Amsterdam's diverse food scene would appeal to them upon their return. Visitors to Amsterdam would find this relevant as it illustrates the city's culinary advantages compared to smaller Dutch communities."
+                },
+                {
+                    "title": "Bar Guzzo als vaste huiskamer op het Kattenburgerplein - Oost-Online",
+                    "source": "Oost-Online",
+                    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOcEhpal92QkV4akZyeVVmUTFvVy1pa0dkeVE3NFFDNS1HcDhpQWMzdF9fQUV6MHJkR2FLeGtSQ1VSd0JMN1dzQ2JZeDJnX0NFM3I0QUhDQUlDTGlPcUVfY0JnSGtNU2ZOVk5fVktKbUFjTXY3OE5VYjRlT3NjVUJ4VWRQeG8?oc=5",
+                    "publishedAt": "2026-02-27T07:54:33.000Z",
+                    "language": "nl",
+                    "summary": "I appreciate you sharing this article, but I'm unable to provide a complete summary because only the title and source information are provided—the actual article content/snippet is missing. \n\nFrom the title alone, I can tell you that **Bar Guzzo has become a permanent fixture on Kattenburgerplein in Amsterdam's East district**, but I'd need the full article text to explain why it matters to visitors and what specifically makes it noteworthy.\n\nCould you share the article body so I can give you an accurate 2-3 sentence summary?"
                 },
                 {
                     "title": "De verborgen geschiedenis van de darkrooms - de Volkskrant",
                     "source": "de Volkskrant",
-                    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPbnN1OE83X1hNanhUOWswY1JHS2RUQWJ5ck9kQV8wQV9rckk4Z0NzcVVHQmpCNE1NdHAxRm9wek82U0ZPdWN4QkVrS2YzanpWa0szLWJiT1VMbEtEWlNqejB4T012eGJBSnhFOThxTldVS3VyRGVlS09CWkdKTVd4cEMtdGc4RjBjaVVHVjRHak5RNUxjMWN4eEV5OHNvdmFz?oc=5",
-                    "publishedAt": "2026-02-26T04:57:09.000Z",
+                    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNTjB5VHNEWUlVMDNJLVFWVDlqRzVJWGZnenc5Y0l6Ml9rTW1ZNzRwYW1uVjA0NWlob0RFS1lIUjQtX3R2czdjSkVJYWhRR0dvQVZURElVSldSNVFfSXRYRUlNZk9vR3gtbjlpMDl5OWxEaHNFTzJWUWxHSGxSN3hGajFrX0gyeW0wUEdyTWhWVnFhV2Fqd2ZkWmdvUmpOQzBUQ1E?oc=5",
+                    "publishedAt": "2026-02-26T22:17:04.000Z",
                     "language": "nl",
-                    "summary": "I appreciate you sharing this, but I'm unable to provide a helpful summary. The article title and snippet you've provided (\"The hidden history of darkrooms\") appear to be about darkrooms as photographic/artistic spaces rather than a restaurant or food establishment. This doesn't seem to be a food or restaurant news article.\n\nCould you double-check the article link or provide the actual article content? That way I can give you an accurate summary focused on the dining/food angle you're looking for."
-                },
-                {
-                    "title": "Horeca rond Rembrandtplein zet doordeweeks mobiele portiers in tegen overlast straatdealers - Het Parool",
-                    "source": "Het Parool",
-                    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPVzF3ZU50ZUgzTXQyVHl4SThlUDhOVVZQVmdSbm1rcU9RNkdnNWZqejRaamxnWV84TzRlZ29EMC1kUUNqY0N0eUpieVF1aUNPaEtWSl8wVFhiRDkteW1ELUo2U2dLalREWmQxVm9pd2p0cFN1VjlJczZqRUlmLU5NTHN6Wk90d0d3X0R3T25rNk9BSV92LXNjQmRSSlpQR2FHYkxSU25Na0QwS0tYRmFKNmJtT2JEZ2MtYTVDZEtNbk5Fa1V2OE5pTlZ6V0JzUQ?oc=5",
-                    "publishedAt": "2026-02-24T16:48:00.000Z",
-                    "language": "nl",
-                    "summary": "# Summary\n\nI appreciate your request, but I'm unable to provide a detailed summary because only the headline and source information are available—the full article text wasn't included. \n\nFrom the headline alone, I can tell you that **restaurants around Rembrandtplein in Amsterdam are hiring mobile security staff on weekdays to combat street drug dealers**, but without the article body, I cannot identify specific restaurants or provide the practical details visitors would need.\n\nIf you share the full article text, I'd be happy to give you the 2-3 sentence summary you're looking for."
-                },
-                {
-                    "title": "De beste restaurants in Amsterdam: bekijk onze recensies op de kaart - Het Parool",
-                    "source": "Het Parool",
-                    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxObmYtQUE0NFp0OWI4ODlreXVTbFFRb2Jid2JZMFNjcy1OcEU4TUszTFhpZVRmaUc4Si1nS3BDcVRuWFJTaEM3TjBwdU5TblBmeDBUSmo2RlRVYWxxTDNXRlA5cnlBRHFfWG8zY2lwajhmdDlHQm9VamVuWVdZc3ptdk9VVkVuZkM1UXpTME10WQ?oc=5",
-                    "publishedAt": "2026-02-21T02:00:00.000Z",
-                    "language": "nl",
-                    "summary": "I'd be happy to help summarize this article, but the snippet provided is quite limited—it only contains the title and headline without the actual article content. \n\nFrom what's visible, this appears to be a guide by Het Parool (an Amsterdam newspaper) featuring top-rated restaurants in Amsterdam with reviews marked on a map. To give you an accurate summary of specific restaurants mentioned and practical details for visitors, I would need access to the full article content. Could you provide more of the article text?"
+                    "summary": "I appreciate you sharing this, but I'm unable to provide a helpful summary. The article title and snippet you've provided don't contain any information about a restaurant, food spot, or food news—instead, it appears to be about the hidden history of darkrooms, which is a cultural/historical topic unrelated to dining or food.\n\nCould you please share an actual food or restaurant news article? If you provide the full text or a different article, I'd be happy to summarize it according to your specifications."
                 }
             ]
         },
@@ -80,20 +88,28 @@
             "places": [],
             "news": [
                 {
+                    "title": "“Dit is 24 op 7 een open drugsmarkt”: horeca en buurt slaan alarm over dealers op De Coninckplein in Antwerpen - HLN",
+                    "source": "HLN",
+                    "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPRURXS1g1RGlIY2hrSWdXV2stVUx4c2lVOE5FMS10TFBiTHhUZTdEWnQ3eFF2VDdRY2g5RjBfZUxJcnUxV3VfNWdwYkdVa3FwaTgwLW5SMWdVT2Y3Vm9reVNnYlNjdl9FTXlMNUtyTXYtc3I0WlZUai1wWGxPTWNpc01qdi1hTVNpR0NkRDg1bFZ0THZaOVZwUEcxcUhaMG1qaWo5NUVQckJXSWZMVTRVbTEzRmJHaC1hWGpfM3RmeWk5bWtlbl8tMVZpQ0w2Uzd4YzliZEdsOWhLTGNOM05J?oc=5",
+                    "publishedAt": "2026-02-27T10:14:11.000Z",
+                    "language": "nl",
+                    "summary": "# Summary\n\nThis article is about drug dealing problems at De Coninckplein in Antwerp, where local restaurants and residents are raising concerns about dealers operating openly 24/7 in the area. While not specific to one restaurant, this news matters to visitors because it highlights safety and quality-of-life issues in this neighborhood that could affect their dining and walking experience. The local hospitality businesses are calling for intervention to make the square safer and more welcoming."
+                },
+                {
+                    "title": "Met Barbara Dex naar haar favoriete Antwerpse restaurant: “Ik eet graag, wij zijn echte bourgondiërs” - GVA",
+                    "source": "GVA",
+                    "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQRDJkbndJQllkN1d3V1RtNEcwbjFnVTJycXVHWFJqQlY4dVpJZXNRc1BpdjRXNmNwMjdpbGlETzNwUFFlc2t2VFNITUJmb3lUWDJnVEZmXzZHQjBxQ044LWE4Q1Q4STF4VnhNbnljZlBGSzNsbTRxS0JXT3A1TXJKVjBjd2xiazB4WWtIbmx3VmRhaWktcl8yQU9lUV9KaW56dXVQWEZKWVVmLXlnc1d6UUVpLWJxMHAyZGdlbzIxY3lsbjBtZUVsTXM4QlVQemhHTWlUaGF0bGxoOG1WVVZIVktTTGhIdFFaTG1zZGY4VUJ1b0V5VjlTS3g0UkJQOWliM2RZ?oc=5",
+                    "publishedAt": "2026-02-27T19:30:00.000Z",
+                    "language": "nl",
+                    "summary": "I appreciate you sharing this, but I'm unable to provide a helpful summary because the snippet provided is incomplete—it only contains the headline and publication information, not the actual article content.\n\nTo give you an accurate 2-3 sentence summary covering what restaurant is featured, why it's notable, and why visitors should care, I would need the full article text. If you can share the complete article, I'd be happy to summarize it for you."
+                },
+                {
                     "title": "RESTOTIP. Madonna: dineren tussen de meesterwerken van het KMSKA - HLN",
                     "source": "HLN",
                     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOcUVRd1pVQi1samF1dzR4TlhuS3RZdjdkRGFYM2NoLU4yQUFsakItUnVrQ2dSN09FRWV2V0pVMFFkNVEyUkJFZDdjNGhTeXU3RUFMdldqQzFxMXBVLTJFRzM1bU1SQ2YyaVNGUkRVYzZYZDFmRTZNLTJMTTc2OHZnd1NXQWg2Zll2SVk4enBlV2l1YXIxbnlqUE9NVkxpdW1mNWV3?oc=5",
-                    "publishedAt": "2026-02-27T05:15:16.000Z",
+                    "publishedAt": "2026-02-25T09:02:29.000Z",
                     "language": "nl",
-                    "summary": "I don't have access to the full article content to provide an accurate summary. However, based on the title and snippet, here's what I can tell you:\n\nThis appears to be about **Madonna restaurant**, which offers dining experiences surrounded by masterpieces from the KMSKA (a museum in Antwerp, Belgium). Visitors to Antwerp would care about this because it combines fine dining with art appreciation—you can enjoy a meal while viewing museum collections, making it a unique cultural and culinary experience.\n\nTo provide a more detailed and accurate summary, I would need access to the complete article text."
-                },
-                {
-                    "title": "NET OPEN. Kenzo Deswert (32) opent La Folie in Stadsschouwburg Antwerpen: “Totaalervaring met gastronomie, muziek en sfeer” - HLN",
-                    "source": "HLN",
-                    "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPSGcwR3VGNmtKRkNTYWVZZnJsNzFnb2RGSnBSTGxQTnAtcjk2N08tMkRJMTlIbXA3Um1HX1c5MHJ3Mk1vMW9neGM0UHdxMGczbzMwVmxlWk5rNWlDVUNfNmN5ZXBVVmVMT2p0Z2RNeXJmbHltaEczLU56bHE4YXprY295ajg5MF9NYllVQ3NYRGFmQ1pYTzRmV0UxX3dUT1RqWWxaUFB0RGFva0VWTWxCN0pWSFFESUMxcWc4YnBBWmZ1ZWktZ05TcFJILWh6eEN5X0ZyRTVtUjI0TkZ0elBhT2VlLXlYNndZQm40?oc=5",
-                    "publishedAt": "2026-02-23T14:29:26.000Z",
-                    "language": "nl",
-                    "summary": "# Summary\n\nChef Kenzo Deswert (32) has opened a new restaurant called **La Folie** inside Antwerp's Stadsschouwburg (City Theater), offering a complete dining experience that combines gastronomy, live music, and atmosphere. Visitors to Antwerp looking for fine dining with entertainment should consider this venue, as it merges food with cultural elements in a unique theater setting."
+                    "summary": "# Summary\n\nI appreciate you sharing this, but I'm unable to provide a meaningful summary since only the title and snippet were provided without the full article content. \n\nFrom what's visible, the news appears to be about **Madonna restaurant**, which offers dining surrounded by masterpieces at the KMSKA (Royal Museum of Fine Arts) in Antwerp, Belgium. For visitors, this would be noteworthy because it combines fine dining with access to an art museum's collection in one location.\n\nTo give you a more accurate and detailed summary, I'd need the complete article text."
                 }
             ]
         },
@@ -101,12 +117,28 @@
             "places": [],
             "news": [
                 {
+                    "title": "Arroz de pato bom e bem servido? Ainda existe nesta tasca com preços de antigamente - Notícias de hoje - IOL",
+                    "source": "Notícias de hoje - IOL",
+                    "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxONDRySElmM2ptQmZGbHJYTXFLb1JYNFJjcGZxTURfVm00M1VUazFnRTQ5eEFsbmxfTmJXdnhfeWxiRGhUQ1RIWUhMU0VfVjR6Zl9LMGNMQkh0U29ZTG5OTmVfaXNnZDdONW9oSGtZQ2hUNENJNlE1X1EyX2pOTDIxRzc2Q2lKRnFlUmdVUDVDWURSb29vMVlzNERwUXpIM3Y3Rk5GOWJXRXV4SFJjX1V6N1JNZWRjSzRCbjd2VFlWVUVsV002Mkg1OFRKTzNhTGdubDU3YVVLeGpSM3oxY1lCeHZzTThEaHZlQnRZWQ?oc=5",
+                    "publishedAt": "2026-02-28T05:59:33.000Z",
+                    "language": "pt",
+                    "summary": "# Summary\n\nThis article highlights a traditional Portuguese tasca (casual eatery) that still serves authentic, well-portioned arroz de pato (duck rice) at old-fashioned prices. The restaurant appears to be noteworthy for maintaining traditional Portuguese cuisine and affordable pricing in what may be an increasingly expensive dining scene. Visitors to the city would care because it offers authentic local food and good value for money in a traditional setting."
+                },
+                {
+                    "title": "JNcQUOI Table é a nova experiência de alta gastronomia em Lisboa - SAPO",
+                    "source": "SAPO",
+                    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNRnU1ZE50bDJTbG0wMmQ3ZjR6c3FZaGN4aEF0NHpHeDRITFhSRUhadldpRGRvUUJvZG0yM3ZwXzRSUG5IMk9Kd0Z5Qk80TWpLbm5qajVOMFVzUzZEN1hibVo1Wng0YktsVGlaR21JVlFMaFNEUjJHd1VFTENYQ3RFZDRkTjlLaUhzYUxuUklIekRpbjJfSGtuY1FBNkh4Q2ZpVFFSQTVkcHB6SGd2OGpRYXRR?oc=5",
+                    "publishedAt": "2026-02-27T18:27:00.000Z",
+                    "language": "pt",
+                    "summary": "# Summary\n\nJNcQUOI Table is a new fine dining restaurant opening in Lisbon that offers a high-end gastronomic experience. Visitors to Lisbon interested in upscale dining will want to know about this addition, as it represents a notable new option in the city's fine dining scene. The restaurant appears to be noteworthy enough to merit coverage from SAPO, a major Portuguese news outlet."
+                },
+                {
                     "title": "Este restaurante dentro de um convento é um dos segredos mais bem guardados de Lisboa - nit.pt",
                     "source": "nit.pt",
                     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOWU9iWkVFM01xOTlYWUtabHZSNkNDRkh3WmhQb0VVWkg5Y09wUGxWbHhOR3hpcTNaYWVmdWF2LXpxQXE5UVNmdkcweDd0RDdOV0loX01qUU13RDNmR2o2R1A0YVBKNk1oZkM3dl9iZFc0ckowYTRBNEkzZ0pSRjF4eEo4NUFlbVZxRGVyU2JGNm1KaDQ1a3JWQ3BTcjdUNENKSm13ZjFPeUp4VjE2S051cWVxOGlXaDYyU0E3XzI5QXQ4UQ?oc=5",
                     "publishedAt": "2026-02-26T18:50:29.000Z",
                     "language": "pt",
-                    "summary": "# Summary\n\nA hidden restaurant located inside a convent in Lisbon has been revealed as one of the city's best-kept secrets. While the article doesn't specify the restaurant's name in the provided snippet, it highlights a unique dining experience combining historical architecture with Portuguese cuisine. Visitors to Lisbon would care about this discovery because it offers an authentic, off-the-beaten-path dining experience in a distinctive setting that most tourists miss."
+                    "summary": "# Summary\n\nA hidden gem restaurant located inside a convent in Lisbon has been revealed as one of the city's best-kept secrets. While the specific restaurant name isn't provided in the snippet, visitors to Lisbon should care about this discovery because it offers a unique dining experience in an unusual historic setting that combines authentic Portuguese cuisine with an atmospheric, off-the-beaten-path location away from typical tourist restaurants."
                 },
                 {
                     "title": "Uma icónica marisqueira de Lisboa é o restaurante mais reservado de Portugal em 2025 — e a capital domina o Top 50 do The Fork - Lisboa Secreta",
@@ -114,31 +146,15 @@
                     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE02YWVEUVhmdC1hNWlIMXduSlNMdTJ5UzJHYmdiUHhHd3h4RTFzX2NNNkFzc3ZrMzNUUkU4TW8zSWJWenJVUFJRU0FMbzc4ellsbXpFUWpxcXZ3RGdiRkc4RUtvNnhDYXVZZ1RFMHpzVTg2MHgweFR2TURaTkw?oc=5",
                     "publishedAt": "2026-02-26T13:09:43.000Z",
                     "language": "pt",
-                    "summary": "# Summary\n\nAn iconic seafood restaurant in Lisbon has become Portugal's most-booked restaurant in 2025 according to The Fork reservation platform, with Lisbon establishments dominating the top 50 list. While the specific restaurant name isn't provided in the snippet, this highlights that Lisbon's seafood dining scene is particularly popular and highly sought-after. Visitors to Lisbon should note that traditional seafood restaurants (\"marisqueiras\") are in high demand, so advance reservations are essential for dining at the city's most popular spots."
+                    "summary": "# Summary\n\nAn iconic seafood restaurant in Lisbon has become the most-booked restaurant in Portugal for 2025 according to The Fork reservation platform, with Lisbon dominating the top 50 list. While the specific restaurant name isn't detailed in the snippet, this highlights Lisbon's seafood dining scene as particularly popular and in-demand. Visitors to Lisbon should expect competitive reservation times at the city's top-rated restaurants, especially seafood specialists."
                 },
                 {
-                    "title": "Chef libanesa mudou-se para Lisboa com receitas únicas de outras gerações - Notícias de hoje - IOL",
-                    "source": "Notícias de hoje - IOL",
-                    "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQUkFia2Z6Yll6aDRIV256bVFqQnZobHNoem9CUlZ3TmFlNTBjbXUzOHptS19LNldNb3dtd2ZvWkh6RW1TT2ozVHN5ektqc1RTSUIwU3FTYUcyWmUxaHEwUGQ5OHF0aHpYTDJ3UnlHZkktQVdQU2xpWHJQQnlFbUxBNWxzTXBDeVNwZkRZQ0lmSU1yam5rbDNTWkp1dHVXVTF1cHJPQmE5V3FGN1dWNmJIUjFyY0Eya19jVmlaeS10bDRJbjNfRmdxWEdKYVUzN181SzUyMmJhX1VZUWtiMVlB?oc=5",
-                    "publishedAt": "2026-02-26T16:44:04.000Z",
+                    "title": "Lisbon Bar Show 2026: o evento que põe Lisboa no mapa da mixologia - anoticia.pt",
+                    "source": "anoticia.pt",
+                    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZElsMTlVbXhwMjRlWjBGUzNfTUFWNzA5YXZ0dUtFdFJNNTVqMkdXRVhMSzVCcGNQNWVlUkJOSWc0bkRFSGpUWXNxZUdtT3c2aFNoVDhUd1hlVHBpQ1RWR0RPOW1RS2d2emRsTjBJTEY2dnlWeVJsTE5qWUV1clZ1TEp2aEdEZTNnSFdhY0tCWTBxZGZURU9qWklvWkV6QQ?oc=5",
+                    "publishedAt": "2026-02-27T11:21:39.000Z",
                     "language": "pt",
-                    "summary": "# Summary\n\nA Lebanese chef has relocated to Lisbon and brought with her unique, multi-generational family recipes. While the article title doesn't specify the restaurant name, this is noteworthy for Lisbon visitors interested in authentic Lebanese cuisine prepared by a chef who carries traditional cooking knowledge passed down through her family. This represents an addition to Lisbon's dining scene for those seeking genuine Middle Eastern flavors beyond typical options."
-                },
-                {
-                    "title": "Henrique Sá Pessoa (re)abre restaurante em Lisboa: 450 reservas e ambição renovada - Mesa Marcada",
-                    "source": "Mesa Marcada",
-                    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNVzF2M0NkOWl1Vk1USWdVLUtwUEx0d0h5WWhKRVBsN1VLN1hVY1NVY0tlRUxVNzNjZk5xTGhjR2U1TXV2d2lEMW1JZXFoSTZQeEZPWlZrZENIMWNMekctQlg3SFNpaW9EYUR1Rk9IUTdiRTdHazhubjQ4b3U1cktkMlRWbnM3MVE?oc=5",
-                    "publishedAt": "2026-02-21T11:51:03.000Z",
-                    "language": "pt",
-                    "summary": "# Summary\n\nRenowned chef Henrique Sá Pessoa has reopened his restaurant in Lisbon with 450 advance reservations, signaling renewed ambition for the establishment. Visitors to Lisbon should care because this is a significant culinary event from a celebrated chef, indicating the restaurant likely offers high-quality dining that's in strong demand. The high number of reservations suggests it's worth planning ahead if you want to dine there during your visit to the city."
-                },
-                {
-                    "title": "Castro Verde promove território e gastronomia na Bolsa de Turismo de Lisboa 2026 - Rádio Castrense",
-                    "source": "Rádio Castrense",
-                    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQdGpTTUR0RC1ET1pLZXpNcWt0Q3Z6TThJbWFvZm5QaVNVakxfZE10U1VxRVJ2ck5kQ1hLT0Y5Sks4amZlNlgwWTBoSE9SQzROSDIzdTJHdnRHWUhqeEJKbDBlRkhQU3JVZDM0NV9FOGNQWHpwMzVILUZVNUc0VWxrMVVpTzNUTEFsNEpiMkZoc1Y2OGExSE1ZSFo1UHdlZjNFSDR3b2thNXowRDQ?oc=5",
-                    "publishedAt": "2026-02-25T15:46:43.000Z",
-                    "language": "pt",
-                    "summary": "# Summary\n\nCastro Verde, a Portuguese region, is promoting its territory and gastronomy at the 2026 Lisbon Tourism Fair. Visitors to the area can expect to discover local culinary offerings and regional attractions that will be showcased at this major tourism event. This is relevant for travelers interested in authentic Portuguese food experiences and exploring lesser-known destinations beyond Lisbon."
+                    "summary": "# Summary\n\nLisbon Bar Show 2026 is an upcoming mixology event that will establish Lisbon as a major destination on the international cocktail scene. While the article doesn't highlight a specific restaurant, it focuses on this citywide event that will attract bartenders and cocktail enthusiasts. Visitors to Lisbon should care because it signals the city's growing reputation for craft cocktails and indicates when premium bar experiences and cocktail culture will be particularly vibrant."
                 }
             ]
         },
@@ -146,20 +162,36 @@
             "places": [],
             "news": [
                 {
-                    "title": "Alan Shearer and Gabby Logan spotted at Newcastle restaurant - Hexham Courant",
+                    "title": "Newcastle’s best pint of Guinness revealed as pub tops city rankings - Hexham Courant",
                     "source": "Hexham Courant",
-                    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPRnRsTG5ULW1LNGJCclJseDdtSl80b0YzR1BPTnlpTElkRjJQN0s2RGRwbnY0MTZjRFI0U19fMlp2Zkk4UHIwRmRsUU1lVDBuamExSzhUVDFObjNtejFxWkE2a2lqRUZlZmtkb29EZVN0cDNYalplSkRYa1FuNENMYWRISDk3VWR0WmM5a1d0cUV2djJWNE1RTWVHem9wWnRBQzk0?oc=5",
-                    "publishedAt": "2026-02-26T12:40:00.000Z",
+                    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxORVliMTJNZXVSZjdVQlZBd0gzTk1oamxXb0taN2lrTEE4REI4dU1RTEVKbFNTV2RveWNvWnU4aUVkOUFqclhIUFVJVXQtTlMxbzIzVzlpUzhncl9JZDl0cWtmQllGeXpoVGw5TTBHRGZXV3NPcDhzdzlzRWhvNFNZZFNBSk1FNHA3WjczdFlRb1NOems?oc=5",
+                    "publishedAt": "2026-02-28T05:00:00.000Z",
                     "language": "en",
-                    "summary": "# Summary\n\nI don't have access to the full article content, only the headline and source information provided. Based on the title alone, this appears to be a celebrity sighting story about TV personalities Alan Shearer and Gabby Logan dining at an unnamed Newcastle restaurant, but the specific restaurant name isn't mentioned in the snippet.\n\nTo provide a practical summary for visitors, I would need the complete article to identify which Newcastle restaurant they visited and why it might be noteworthy."
+                    "summary": "# Summary\n\nA Newcastle pub has been ranked as serving the best pint of Guinness in the city, topping local rankings. While the article snippet doesn't specify which pub won this distinction, the ranking is based on quality standards for serving the iconic Irish stout. Visitors to Newcastle looking for an authentic Guinness experience would want to seek out this highly-rated establishment to enjoy a properly poured pint."
                 },
                 {
-                    "title": "Sky High Cinema Club opens in Newcastle in stunning location with 'best view' in town - Chronicle Live",
-                    "source": "Chronicle Live",
-                    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOMHgzOWFhNk12al9URmE2a0JBVVNyLVdfa2N5LUs0QUg0cE5vWXl5MzFONGJIWTMxdXJ3bDhIS2d5ZTJzcTJZNmxGWktFRDVtNTVVOEdSUVFUQ3M4a1NWM1dPaS1xZ056NjlEWWxtWU1zcFpZMjdORG1ZRGkwT1g3TnpXdkYwbzM1d2I1dFdRRWpuZHNhU1c3T2VRMDM2UGpTcGZaODc0ONIBrAFBVV95cUxQem5sNlgycTZSWWo0c1hqMTI0VHRWRmpwTmF2NjBVR1dFM1BkVVhvN0RKaV9QMTlmTjJhSkVnMXBXZEU1czh4U21pX003UFJqMENodGpoc09iUjFnN28yQUFGck55NjFFXzZuQTNzM2drNlU2Q0xmT3Z1aVJqd3AxYWM3YloyZ1pJYkJ1NXR4eXRsVFQ1cmxsQzlwYjNNYnRocXZGWGoxQWVyMmNV?oc=5",
-                    "publishedAt": "2026-02-26T12:57:49.000Z",
+                    "title": "New in Newcastle: Cara, Newcastle - Not Quite Nigella",
+                    "source": "Not Quite Nigella",
+                    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5Gb3RPcng3Zi14Q1N6aS04M05OR1c1Q21wNTgxQmxaRDlvTzhOcml5VW1jNlpIdk9MeU4yaXVjamI3RURGRmpTTi04RmZ2bkVLMjF5M055Tk44RGdwOVZDWm9ESUl0RmZfZFE?oc=5",
+                    "publishedAt": "2026-02-27T14:56:23.000Z",
                     "language": "en",
-                    "summary": "# Summary\n\nSky High Cinema Club, a new venue in Newcastle, has opened in a prime location that offers what's being called the best view in the city. The article highlights the restaurant/cinema hybrid's impressive setting as a key draw. Visitors to Newcastle would be interested in this spot for its combination of dining and entertainment with an exceptional cityscape backdrop."
+                    "summary": "I'd be happy to help summarize this article, but the snippet provided doesn't contain the actual content—it only shows the title and source. To give you a useful 2-3 sentence summary focusing on what's newsworthy about Cara restaurant in Newcastle, why it matters to visitors, and any specific details, I would need the full article text. Could you share the complete article or its main content?"
+                },
+                {
+                    "title": "Say When wine bar to open in Northumberland's 'poshest' suburb after huge success in Newcastle - Chronicle Live",
+                    "source": "Chronicle Live",
+                    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQcTlXWXZkVi1VbGFMdVJLRUtxaFJDOFZKc2FUUkxwaE1WdEJUNDdCRkFkTUg0QzF2ekhsMTBackkxZnFoRlpRMjlZb0FmaHVTZkk1ZzRrSEJTRGFVeVhtcW5laDliRVlYNHdjTGZwZ2wwRUZTQUNsaV9HV3FDUkpLcFdBNFZBUldMTVloTzN6MmdiQmZhUkduZA?oc=5",
+                    "publishedAt": "2026-02-27T14:56:34.000Z",
+                    "language": "en",
+                    "summary": "# Summary\n\nSay When, a popular wine bar that's found success in Newcastle, is expanding to Gosforth, widely regarded as one of Northumberland's most upscale neighborhoods. Visitors to the area can expect the same quality wine offerings and atmosphere they've come to know from the original Newcastle location. This expansion makes Gosforth an increasingly attractive destination for wine enthusiasts and diners looking for established, well-regarded venues."
+                },
+                {
+                    "title": "North East wine bar backed by Newcastle assistant manager to open second venue - The Northern Echo",
+                    "source": "The Northern Echo",
+                    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZTk1MWYtZ1I0Z2tpY2pLVUJFYzhhSzFxMW5WOS13QlppMXdjRnRBMkZBR21iUU5NaktOZXRtcUt2Rk1yTVBpQ3M5NWJPN2Q2WU1OY2pGemJadVVIbURta2FyQ0VNYVlyNEVyQmVNT0NneUpSUEFicDFxbmc3NHBacTZwclNESUlLYVU4TTNFa2RTdWM3MDJWMG4wQjVOT2dKdlpGSVFlQUJ0REU?oc=5",
+                    "publishedAt": "2026-02-27T15:10:00.000Z",
+                    "language": "en",
+                    "summary": "I don't have access to the full article content to provide an accurate summary. The title and snippet you've provided indicate that a wine bar in the North East (backed by a Newcastle football club assistant manager) is opening a second location, but the snippet doesn't include the key details needed—such as the wine bar's name, the specific locations, or why visitors should care about this expansion.\n\nTo give you the concise 2-3 sentence summary you're looking for, could you share the full article text or more details about the wine bar's name and locations?"
                 },
                 {
                     "title": "Pie named after Newcastle legend on the menu at pub - Northumberland Gazette",
@@ -167,23 +199,7 @@
                     "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQUjdKdGtocENtaGhJRUxjQ3ZJakk2cHhzM3pkVUJodzlsYVM2U2ZxeXBSMTBkRFRmUDlYcVJiNklyWEVSdFpnNXhJSkRESzF0NEhrT2YzUHdGSHRYcEg0V21CTUxrSGZvVF9JcU5qaGd3YThaNVkxLWZCS3hseWpNOHBUT3dIUk1mWlpwWHJjRDhqQVVENUtBeTJPR1A3QUlvVWU0SUF4LVpuX1VzUnB0eVZFejRRR09yVnBXdC1Sb2Njc1otY0hHNEpHc21VdldSazBnRjktZ1MyS0hhMFhuNzFn?oc=5",
                     "publishedAt": "2026-02-24T15:01:00.000Z",
                     "language": "en",
-                    "summary": "I don't have access to the full article content to provide an accurate summary. While the title mentions a pie named after a Newcastle legend being served at a pub in Northumberland, I would need the complete article text to tell you:\n\n- Which specific pub is serving this pie\n- Which Newcastle legend the pie is named after\n- Why visitors should care about this offering\n\nCould you share the full article text so I can give you a proper 2-3 sentence summary with those specific details?"
-                },
-                {
-                    "title": "Newcastle Beer Hospo Legends Open Their Latest Pub - The Crafty Pint",
-                    "source": "The Crafty Pint",
-                    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOQVlyUl9rclJ5bFFRRU5vdGFKb3FObXg4RFkyTzAxWEo2U3hYdFFUbDRwRXVXQ1NTc2FpM0NHRG5vc0hLSDc4Mnh5bncwUW9pRWgyMld5ZEZhcG5BZ280SFRaUTVmOGZ5NlhpSmx1RW9ZSHlFZDdlQlgzb1ZfYWpSOEVMOFFoSmd6V0xr?oc=5",
-                    "publishedAt": "2026-02-26T13:00:00.000Z",
-                    "language": "en",
-                    "summary": "I don't have access to the full article content—only the title and source information you've provided. To give you an accurate 2-3 sentence summary focusing on what's new, which specific pub it is, and why visitors should care, I'd need you to share the article text or a longer excerpt. Could you paste the full article or key details?"
-                },
-                {
-                    "title": "Gabby Logan and Alan Shearer spotted dining at popular Newcastle restaurant - The Northern Echo",
-                    "source": "The Northern Echo",
-                    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPT2JpTm5Oa0RvVE13SjNtNG5FUzNhcWgxTkNrZnIzbXV1Wk5FeEwtUW5Sb21HQk5memhYeDJXaVJvRUh2aXhNTHlJQXhsZTM2YXFSY3FLdnhnUzlQWmJLOVZQRkI5aElPZEpKeGx1OTY1Q0VZczBzMEU4VGtGLUZQV3FkcEFXa1BseDZIU0trM0FSYjNuQjRuTXlMLWNoN3VkN3c?oc=5",
-                    "publishedAt": "2026-02-24T14:49:13.000Z",
-                    "language": "en",
-                    "summary": "# Summary\n\nThis article reports that TV personalities Gabby Logan and Alan Shearer were spotted dining at a popular Newcastle restaurant, though the specific restaurant name isn't provided in the snippet. While this is celebrity gossip rather than substantive food news, visitors to Newcastle might be curious which establishment attracted these well-known figures, potentially making it worth checking out if they're interested in celebrity hotspots or the restaurant's reputation."
+                    "summary": "I don't have access to the full article content beyond the title and snippet you've provided. To give you an accurate 2-3 sentence summary focusing on the specific details you requested (what the news is about, which restaurant, and why visitors should care), I would need to read the complete article.\n\nCould you share the full article text, or would you like me to explain what I can infer from just the headline?"
                 }
             ]
         },
