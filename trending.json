@@ -1,17 +1,25 @@
 {
-    "lastUpdated": "2026-03-15T06:43:13.208Z",
+    "lastUpdated": "2026-03-16T07:04:16.471Z",
     "source": "github-actions",
     "cities": {
         "cologne": {
             "places": [],
             "news": [
                 {
+                    "title": "3 tolle Sternerestaurants in Köln: Exzellent speisen in der Domstadt - American Express",
+                    "source": "American Express",
+                    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPX0haVGNCbmVZMjFiSlozQXFEVWM4Y2l5VXZKQVhpSHYxM0lwRVl2WHY1UU42dnhLVHg2aGVJbkw3VU52bEhpdlJURFFHbGxOekU5T3NndU5uMjdpY2tOSFZwVFRuc1AxSUdsQVY5bUlVeGJYTEVWNlE0aU54S1JSck5pNmQwSTdQbmpJ?oc=5",
+                    "publishedAt": "2026-03-10T13:20:31.000Z",
+                    "language": "de",
+                    "summary": "# Summary\n\nThe article highlights three Michelin-starred restaurants in Cologne, Germany's cathedral city, offering excellent fine dining options. Visitors to Cologne can now easily identify top-tier dining experiences at these prestigious establishments, which are recognized for their culinary excellence by Michelin standards. This is particularly useful for travelers seeking upscale restaurant recommendations during their visit to the city."
+                },
+                {
                     "title": "Details: Nelson Müller verstärkt Team der Schote - Restaurant Ranglisten",
                     "source": "Restaurant Ranglisten",
                     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPYWR4dEFXUy1ic2pydWh2c2k0QTVqSW8zb2MtNnplZ1FSMHhNdkxWYjYwTFRtZkc5S291RDZNdkZUdGFFT0Judm5mS1dlVDVjNlBmamJ6LUVyMnJBdjB2Q29WMGpIcVdYMk14OE5LU2E4NXY1M0xRUU5Rc2lEbHVCeHNJNDhPbFhja29uZGpNaGJWbXB5b2Jjb042X1V3ald4eWV2ZWZFdUI4UQ?oc=5",
                     "publishedAt": "2026-03-14T12:09:43.000Z",
                     "language": "de",
-                    "summary": "I don't have enough information to summarize this article. The title and snippet you've provided only mention that chef Nelson Müller is joining the team at a restaurant called \"Die Schote,\" but there's no actual article content, context, or explanation of why this matters.\n\nTo write a helpful 2-3 sentence summary, I would need:\n- The full article text\n- Details about what Die Schote is (cuisine type, location, etc.)\n- Why Nelson Müller's involvement is significant\n- How this affects visitors to the city\n\nCould you provide the complete article text?"
+                    "summary": "# Summary\n\nI'd be happy to help summarize this article, but the provided text appears to be incomplete. The title and snippet only mention that chef Nelson Müller is joining the team at \"Die Schote\" restaurant, but there are no additional details about why this matters, what the restaurant specializes in, or other context.\n\n**To provide a useful 2-3 sentence summary, I would need:**\n- The full article text or more detailed snippet\n- Information about the restaurant's cuisine or reputation\n- Details about why Nelson Müller's addition is significant\n\nCould you share the complete article text?"
                 },
                 {
                     "title": "Während Bauarbeiten: Bekannte Gastronomin eröffnet neue Bar in Köln - Kölner Stadt-Anzeiger",
@@ -19,15 +27,7 @@
                     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOelpxeHJKWDFQTnlhd1U0X0FFNWRRcFlacFpQMEY1eE0xZWUwRE9fRDQ3VzJqbDRzS2F1YzJmR0Z1Y0V5V0U5Q19GLWxwZmNUMkY1SFJIQ2YxVm1SUzFTeERiRmsxYW1fYjk5aFRyMkdud2g5S3BqV0lHMTRlVW1KelpTaUZqMWtIeXh3QzBBbXExVkRhQzN6ejV3R2JrSXJLU00zSnFnMUhjTklHSVRmWWpTRnU?oc=5",
                     "publishedAt": "2026-03-10T20:36:40.000Z",
                     "language": "de",
-                    "summary": "# Summary\n\nA well-known restaurateur in Cologne is opening a new bar while construction work is underway at another location. The article doesn't specify the bar's name or exact details from the snippet provided. Visitors to Cologne would care because this represents a new dining/drinking option from an established local hospitality figure, potentially offering quality food and beverage experiences during a transitional period for the restaurateur's business."
-                },
-                {
-                    "title": "Fleischlos glücklich: Das Kölner Sternerestaurant Pottkind kocht einen Monat lang nur vegetarisch - Rundschau Online",
-                    "source": "Rundschau Online",
-                    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPaGt0emR2YWt5Q2FwVm5FSk1GSDdIbG0tUmRFS3ViVkZOX3ZrUDB4eEIzT0h5VmhLZmwzcmFhM0xQdDRkSHNINDQ2S1BPOV9tbFFhTDZaU2NVdGRiR3NwaFNQazdOTWlHbXA5V0lxM1B5ZnY2cDlCZEFlc1ZHVjFETG5GdVVySjBxSEV3VWVaOWFLemhfS0tLazUwLXdSMzM1N3JFRjk2QzhtaGRtMGRsbkZIMWJGc3FuT18zWWdLZHYyQ0k2NEROLTV4T2VNTk0?oc=5",
-                    "publishedAt": "2026-03-13T10:00:00.000Z",
-                    "language": "de",
-                    "summary": "# Summary\n\nCologne's Michelin-starred restaurant Pottkind is going completely vegetarian for an entire month, offering diners a unique opportunity to experience fine dining without meat. This special month-long menu provides visitors to Cologne with a chance to try creative plant-based cuisine at a high-end restaurant, making it ideal for vegetarians or anyone curious about innovative meatless fine dining."
+                    "summary": "# Summary\n\nA well-known restaurateur in Cologne has opened a new bar while construction work is ongoing at another location. This is noteworthy for visitors because it shows the local gastronomy scene remains dynamic and offers new dining/drinking options even during renovation periods. The new bar provides an alternative spot to experience this established restaurateur's concept while their main venue is being updated."
                 },
                 {
                     "title": "Köln/Hamburg - Große Auszeichnung für die Köln-Düsseldorfer Deutsche Rheinschiffahrt GmbH (KD): - AD HOC NEWS",
@@ -35,7 +35,7 @@
                     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQWXVfTnVNNlBtNEpnQzhsLWFzSXVvOEVuZmdMN2ZfRkxLTnFORUxudGtwVG5MQTduUFJCVzNVS3ZIZ2xWTUJQdkRxZ3QzeURoMjB0Z21naXpjOHVmLUdvSUVob1pRNnkyTjc3cVN6MHF5RXVXaC1jYkY1R2JsU0J1LVlleXdOcHBNRWN6OTFVa0VGWjJFdC1DVW9uclppeUNMR0tHd0Q4WEx3Qjd3NWxqZWl3clRmc3c4TFE?oc=5",
                     "publishedAt": "2026-03-13T12:57:40.000Z",
                     "language": "de",
-                    "summary": "I appreciate you sharing this, but this article isn't actually about a restaurant or food spot. The headline and snippet discuss the Köln-Düsseldorfer Deutsche Rheinschiffahrt GmbH (KD), which is a Rhine River shipping/cruise company receiving an award, not a food establishment. \n\nIf you have a restaurant or food-related article you'd like summarized, I'd be happy to help with that instead!"
+                    "summary": "I appreciate you sharing this, but I should clarify that this article isn't actually about a restaurant or food spot. The headline is about the Köln-Düsseldorfer Deutsche Rheinschiffahrt GmbH (KD), which is a river cruise company operating on the Rhine River between Cologne and Düsseldorf, not a food establishment. \n\nIf you're looking for restaurant/food news summaries, I'd be happy to help with articles that actually cover dining venues or food-related stories!"
                 }
             ]
         },
@@ -48,7 +48,7 @@
                     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOcGFyMS1iQUNjckhJNktCazFjRGZhVU5kVmhuY2ZRdVdSWHFHRHdkZ2V3ZVc4SGNaYnhHRzM1UWJEWUpHai0tYlVoNFNIcDZWTElSRExpRlJub1dqWV9adEVoRW5OVWVjcUgzbmYza1ZucDZMY2h6dUlXMnFMeVBXRGlmTWRoVUtrb0hLUlVRMVZKb194X3FsVDA5dGJIQQ?oc=5",
                     "publishedAt": "2026-03-11T14:33:18.000Z",
                     "language": "nl",
-                    "summary": "# Summary\n\nRestaurant Spectrum** in Amsterdam will close at the end of May 2026. This is significant for visitors to Amsterdam because Spectrum** is a notable dining destination, and anyone planning a visit should be aware of this closure date if they wanted to experience it. Those interested in dining there should make reservations soon if they wish to visit before it permanently shuts down."
+                    "summary": "# Summary\n\n**Spectrum**, a notable two-Michelin-star restaurant in Amsterdam, will close at the end of May 2026. This is significant for visitors planning fine dining experiences in Amsterdam, as it removes one of the city's prestigious high-end dining destinations from the culinary landscape."
                 },
                 {
                     "title": "Spectrum** van Sydney Schutte gaat sluiten; nieuw concept in Waldorf Astoria Amsterdam - De RestaurantKrant",
@@ -56,23 +56,15 @@
                     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQSnBXSXlTZ1QzRkppTklUQTEwblJHNjJNZFFaVTRiYkt6NllNTTItZjA5TnBISW1SbU1rdHpwbUJETkpmZ3hyUGxZV1NWTHQyekxOTjl3LV9HUHVYb0d2c0ZUQm5sM3VWZXkwcTFKSklCRHJGbzVkRk5ZblFwQUVPeUNaR2V1TlRFWDI5WWM3cTVyRzZ4cGFaX3VCcEZWY1FINjJvczF1ZzVKNDZRYkZJUGVONkdHYzQ?oc=5",
                     "publishedAt": "2026-03-11T14:40:00.000Z",
                     "language": "nl",
-                    "summary": "# Summary\n\nSydney Schutte's Michelin-starred restaurant **Spectrum** in Amsterdam is closing, with plans for a new dining concept to open at the Waldorf Astoria Amsterdam. Visitors to Amsterdam should care because this represents a significant shift in the city's fine dining scene, as Schutte is a notable chef and the move to a prestigious hotel location may bring changes to accessibility and the dining experience."
+                    "summary": "# Summary\n\nSydney Schutte's two-Michelin-star restaurant Spectrum in Amsterdam is closing, with plans for a new culinary concept to open at the Waldorf Astoria Amsterdam instead. This is significant for visitors because it represents a major change in Amsterdam's fine dining scene—one of the city's most acclaimed restaurants will relocate to a prestigious hotel setting. Food enthusiasts visiting Amsterdam should note this transition if they were planning to dine at Spectrum's original location, though the chef's new venture at the Waldorf Astoria will likely remain a destination dining experience."
                 },
                 {
-                    "title": "Met het sluiten van Spectrum verliest Amsterdam twee Michelinsterren: ‘Ze hadden een belangrijke functie in de stad’ - Het Parool",
+                    "title": "Goed en betaalbaar eten voor iedereen: de bouillon is een succesvolle Parijse restaurantformule die rond 1900 ook in Amsterdam aansloeg – en die is nu weer terug - Het Parool",
                     "source": "Het Parool",
-                    "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOWE53YTlabVU3QUpLdXlKZk9CeE9zSGI2V2wxX1Y0Ujk1bWR6Z1Zoa0E3THVpSXhleHNod0NZWlFLb3BDbjQ3YVA0MW12YlAxa1JJSFUzdEY1azM3bHZjVEE1aG5VN0hTWlBqUlJMTGk4Yy1WYUxGQ1FTR2lqQU0zZjhCd0RkSFFLeldJbFItWldBSU9mTDJ3SW83QjVLUjFnZ0d0V2owQkVOWlJrLWp2LXBxZUFKUkFNNDRkNk9CYlNndEF2dWYxcDZ2QWZiSng5Qm0yaXRHUXNOY0tuQnYxRldrbGljNnFGa29v?oc=5",
-                    "publishedAt": "2026-03-12T14:32:00.000Z",
+                    "url": "https://news.google.com/rss/articles/CBMivwJBVV95cUxPWDZGRjFMblpKSjVJUHJoVHpENnJ5UTd5Vm5uMnNRazRfYU5NdFRrYnBPVFc1bDN2bFRQc0kwR3FGbmFfQTlRY18zaGhnWWhqQVVlVlVfU1lFXzJ0cHpjbU16Q19aWnI5eXBYTUdjZTViX2p5Q2dOVDF3MlIyc0dFZEVoUThjVkZ1MkoyYzlETGdCalpZZFYyb1F0YUZocFRMd1JsMlNSZmM3RU16clJtWTJrZ2pqVlkyNVpId3B6MjlTNzFCVTFnNE1oclNJLUZTRlQycExNc1Rka3Q3MmIzV0c4cllhWEoyaEdwM2p0eHBuTDEwbnBXUDlQXy16THYyRFJEYWlGaVhjRzJPUUV6cndBU3hqR0lzQmtTSmpPcUFCZ0V1X0s1bS1HWWxPTkRBX092djl2ekJzVnZzYnZj?oc=5",
+                    "publishedAt": "2026-03-14T02:01:12.000Z",
                     "language": "nl",
-                    "summary": "# Summary\n\nAmsterdam has lost two Michelin stars with the closure of the restaurant **Spectrum**, which served an important function in the city's fine dining scene. The article suggests that Spectrum held significant value beyond just its culinary reputation—though specific details about its role aren't provided in the snippet. Visitors to Amsterdam interested in high-end dining should note this loss, as it represents a notable change in the city's Michelin-starred restaurant landscape."
-                },
-                {
-                    "title": "Café Restaurant Meyer, Amsterdam: van ontbijt tot diner - Barts Boekje",
-                    "source": "Barts Boekje",
-                    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE45NnZQbTlRMGVXOU9QSFpJNDlKNlUzMTNrRDBQTWt4MVlPNmdmdF9YVGpOU0xGTVFjdXpVR2xFRXBDTzBadjZhYjlnS0Q1MkIxU1NLM3BGUnhHY2xfQUpUNEs0MUFQaG12dV9ncg?oc=5",
-                    "publishedAt": "2026-03-08T08:00:00.000Z",
-                    "language": "nl",
-                    "summary": "I appreciate you sharing this, but I'm unable to provide a detailed summary because the snippet provided is quite minimal—it only contains the title and doesn't include the actual article content with specific details about what's new or noteworthy about Café Restaurant Meyer.\n\nTo summarize effectively, I'd need the full article text. However, based on the title alone, it appears the news is about **Café Restaurant Meyer in Amsterdam**, which offers dining options throughout the day from breakfast to dinner. Visitors to Amsterdam would care about this as it highlights a versatile dining option suitable for any meal time during their stay.\n\nIf you can share the full article text, I'd be happy to provide a more detailed and accurate summary."
+                    "summary": "# Summary\n\nThe article discusses the return of \"bouillon\" restaurants to Amsterdam—a historic Parisian dining concept from around 1900 that emphasizes affordable, quality food for everyone. These casual eateries are making a comeback in the city after disappearing for decades. Visitors to Amsterdam would appreciate this trend as it offers good food at reasonable prices, combining historical charm with accessible dining."
                 },
                 {
                     "title": "Ottolenghi Amsterdam is het restaurant uit je droom, boeken kan nu - Manners",
@@ -80,7 +72,15 @@
                     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPTTdwVDNvY3VKem42ek5YdExaNEZiMlF1WGdweVhULURNOVI0WFRzclA0SkdaaTZZTVktZjI3STYxZ3VLcEI4U1RsUmJBakFZTGdrdG9KR2FLZGY2enRhX3AtVVM5VkZpVFVweHp5VTl5NmtGM3J1RTZkMGVjcFFUT2ROWQ?oc=5",
                     "publishedAt": "2026-03-10T10:59:17.000Z",
                     "language": "nl",
-                    "summary": "# Summary\n\nOttolenghi, the acclaimed Mediterranean restaurant, has opened in Amsterdam and reservations are now available for booking. This is significant for visitors to Amsterdam because Ottolenghi is known for its vibrant, flavorful cuisine and has become a globally recognized dining destination. If you're planning a trip to Amsterdam and enjoy high-quality Mediterranean food, this is a noteworthy new restaurant option worth trying to book in advance."
+                    "summary": "# Summary\n\nOttolenghi, the renowned restaurant concept, has opened in Amsterdam and reservations are now available for booking. This is significant for food lovers visiting Amsterdam because Ottolenghi is celebrated for its innovative Mediterranean-inspired cuisine and vibrant dining experience. For travelers planning a trip to Amsterdam, this represents a major culinary destination that was previously unavailable in the city."
+                },
+                {
+                    "title": "Ottolenghi Amsterdam opent in maart de deuren: lokaal team gaat restaurant runnen - Misset Horeca",
+                    "source": "Misset Horeca",
+                    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOS0Rwclpsd1NrNk14eEc3V0tWaTBkdmF2RzZDd0ZQWXNTRk42UnEyQmZHakVNZ203WHVFTVRITlhFcElBM2lKRUxEMm0zeWJMN1Z0MTFybUhmUjktM3hWZGt0SGtPVFpzbktyUnVfYU1NVnBVOUxfRjdCbmpnMUU1a0h1alFvOHZLdER5elI2LUNlQzFNQkhNa21oQUFfNXItRUNDal9vSVB2NEd4U1QzYWZzVllUZw?oc=5",
+                    "publishedAt": "2026-03-10T10:54:41.000Z",
+                    "language": "nl",
+                    "summary": "# Summary\n\nOttolenghi, the renowned Mediterranean restaurant group, is opening a new location in Amsterdam in March with a local Dutch team running the operation. This is significant for Amsterdam visitors because Ottolenghi is known for its vibrant, fresh Mediterranean cuisine and will bring the restaurant's popular style to the Netherlands for the first time. Food lovers and those seeking high-quality casual dining with bold flavors will have a new must-visit destination when the restaurant launches."
                 }
             ]
         },
@@ -88,20 +88,20 @@
             "places": [],
             "news": [
                 {
-                    "title": "Barchel in Antwerpen viert tienjarig bestaan met verrassend feestprogramma - Culinaire Ambiance",
-                    "source": "Culinaire Ambiance",
-                    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOdUxxZHQwc1JPZVAzMGktanh0aTJ5Wld4V0Y0WXk3T1RoT29Gc1ExaFM1Q204MGRKeGczTl9KdE1yQ1hJYktzYUgtb0lmUGZPMFNacjB4RU5yNUp0V2tZUmo2dl9lcUF6Y2c0dmRzY1YtMDRGekxiWTlQU2pCMWY0bVE3cmVKODI5Q1pUR2dxS2xUOEc4TVM0YnF0ZHNJVUhsRnNreXc1WDhNX09fcEg2a2RrT3RGTUk?oc=5",
-                    "publishedAt": "2026-03-14T16:29:14.000Z",
-                    "language": "nl",
-                    "summary": "I'd be happy to help, but the snippet provided is quite limited. Based on what's available:\n\n**Barchel, a restaurant in Antwerp, is celebrating its 10th anniversary with a special festival program.** While specific details about the celebration aren't included in this snippet, visitors to Antwerp would care because Barchel appears to be an established dining destination worth experiencing, and the anniversary festivities likely offer special menu items, events, or promotions during this celebratory period.\n\n(For a more detailed summary, the full article text would be helpful!)"
-                },
-                {
                     "title": "IN BEELD. In het voormalige huis van Helmut Lotti en Jelle Van Riet kan je nu hemels dineren - GVA",
                     "source": "GVA",
                     "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOMTdpQXlDaFFha0NESTFOSkU5Q0diMDV1Q0RlNnJKbzRoTExPXzNjWXdaRGVlUklfd1lZN01tSTFOMFM3QmVhRnZJNEl2Z1hBa01oUktSRHdaN1g2Q3huckMwNHVaVEE3SzVxdUYwdVJwbzhncXhVY0NkdXNBZ3lHZHkzWktqbHJ1SENYYjZrUlJob2c3VUpFQjNEdEo1T0xmNjhrcEs3M1RYSFFOdlMwLXJ6ZnRQNThIa3MzdGljVTNfeHY1RFpEUnM0MVM2U1dzcU8zaHprWHhRXzh5NjB0dFJZWUFXeDRRUjdQVUJBYXhoUTJmdHZTRUVWLWc?oc=5",
                     "publishedAt": "2026-03-14T03:01:00.000Z",
                     "language": "nl",
-                    "summary": "# Summary\n\nA new upscale restaurant has opened in a historic mansion in what was formerly the home of Belgian celebrities Helmut Lotti and Jelle Van Riet. Visitors to the city can now enjoy fine dining in this beautifully restored, notable property that combines culinary excellence with architectural charm and celebrity history."
+                    "summary": "# Summary\n\nA new fine dining restaurant has opened in a historic mansion in Antwerp that was formerly owned by Belgian celebrities Helmut Lotti and Jelle Van Riet. The restaurant, located in this beautifully restored property, offers upscale dining experiences in an elegant setting. Visitors to Antwerp should care because it combines a unique celebrity-owned venue with high-quality cuisine in an architecturally significant building."
+                },
+                {
+                    "title": "Restaurant failliet en bakkerij verzegeld tijdens controle van handelspanden in Merksem - pzc.nl",
+                    "source": "pzc.nl",
+                    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQQkNPRDRQd0R0Q1VBWldaellWVERtM3VBcVJSYUVNRGV4dXhCb1VDZS0zd3pMaVNSYlFLV01jTlkwN3paZVg0d2N6dlBXcUJfVDRrMnRuZmJyWFpESWp6cC1leGR5QmxvRWc4ekg5Z05pdy1uQ1JSaHNDN2hFUDJvS05OSXZsWGJxcnpxLUszdC10U2FINFVQVWNIeVliM291RkpDeEp3Z2Y5RTlMM2RPYUQ5a0lKZks3NklxWDVEaVAtR1Fw?oc=5",
+                    "publishedAt": "2026-03-15T16:54:00.000Z",
+                    "language": "nl",
+                    "summary": "# Summary\n\nDuring a routine inspection of commercial premises in Merksem, authorities discovered that a restaurant had gone bankrupt and sealed a bakery for violations. This news would be relevant to visitors planning to eat in the Merksem area, as it indicates they should verify whether these establishments are still operating before visiting. The inspection highlights local health and safety enforcement in the food service sector."
                 },
                 {
                     "title": "Brussels sterrenrestaurant strijkt drie weekends neer in Antwerpen: “Een totaalervaring” - HLN",
@@ -109,23 +109,15 @@
                     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPeUVJeGpUSmNleVdsRnBSckFPMDlYNjdRNlQxUGs1VTRZLWdlaVBKMHNlQVJMSW9ZcWdmaHJwLThVb29JcmZ0VllocnUwTHE3OXpfbXNidEdjcktsVTNPNW1UcHlGXzE1YmpFbV9ZSXl2UEN5VnU4R2ZnRlJCQ2tvYXZxblNKa3FPYS1PZU1DdDNlOERwMjN5bC1uN0VXWWJ1NmdDcTd5X1VUT3B0TGJtRFctbldUOWhIRjJTMkdYN0R1UQ?oc=5",
                     "publishedAt": "2026-03-13T14:37:34.000Z",
                     "language": "nl",
-                    "summary": "I don't have access to the full article content—only the title and snippet you've provided. However, based on what's visible:\n\nA Michelin-starred restaurant from Brussels is temporarily relocating to Antwerp for three weekends to offer a special dining experience. Visitors to Antwerp during these weekends would have a rare opportunity to dine at a high-end Brussels restaurant without traveling to the capital, making it worth planning a visit around if fine dining is a priority.\n\n(Note: For a more detailed summary, I'd need access to the article's full text.)"
+                    "summary": "I don't have access to the full article content beyond the title and snippet provided. However, based on what's available: A Michelin-starred restaurant from Brussels is setting up a temporary pop-up experience in Antwerp for three weekends, offering diners what's described as a \"total experience.\" Visitors to Antwerp looking for fine dining would care about this because it brings high-end Brussels cuisine to their city for a limited time, making it an accessible opportunity to experience starred-restaurant quality food without traveling to the capital."
                 },
                 {
-                    "title": "Jacob Jan Boerma opent twee nieuwe zaken in Antwerpen - Misset Horeca",
-                    "source": "Misset Horeca",
-                    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxORTlYQTdlclZiQWxObzJySGh0Mm1mMmNTSGJXMTF4X24zWTJLdk5TeDRWM2JjaERneE9ocHlDc1oyNGNXaUZrX2tyRWU2ZjZLSUtLcDZxbUpPdnp2dHhEN3Q0ZVRxX09vRlFtSVc0djFCdGU4cHlnUkJFMTVUS1VycHJpYVhlTHV1M0ZlTUF4dEg0UQ?oc=5",
-                    "publishedAt": "2026-03-13T08:09:20.000Z",
+                    "title": "Barchel in Antwerpen viert tienjarig bestaan met verrassend feestprogramma - Culinaire Ambiance",
+                    "source": "Culinaire Ambiance",
+                    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOdUxxZHQwc1JPZVAzMGktanh0aTJ5Wld4V0Y0WXk3T1RoT29Gc1ExaFM1Q204MGRKeGczTl9KdE1yQ1hJYktzYUgtb0lmUGZPMFNacjB4RU5yNUp0V2tZUmo2dl9lcUF6Y2c0dmRzY1YtMDRGekxiWTlQU2pCMWY0bVE3cmVKODI5Q1pUR2dxS2xUOEc4TVM0YnF0ZHNJVUhsRnNreXc1WDhNX09fcEg2a2RrT3RGTUk?oc=5",
+                    "publishedAt": "2026-03-14T16:29:14.000Z",
                     "language": "nl",
-                    "summary": "I appreciate you sharing this, but the snippet provided is too minimal to create a meaningful summary. The title indicates that Jacob Jan Boerma is opening two new restaurants/food establishments in Antwerp, but the actual article content isn't included—only the headline and source are shown. To give you a practical 2-3 sentence summary with details about what these venues are, their concepts, and why visitors should care, I'd need access to the full article text.\n\nIf you can share the complete article, I'd be happy to summarize it for you!"
-                },
-                {
-                    "title": "Sam (32) en Laurens (32) openen ‘neo-bistro’ Orbit in Antwerpen: “Maar onze takeaway-klassieker fried chicken met kaviaar blijft” - HLN",
-                    "source": "HLN",
-                    "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNUGliTGhwTV84R0hOSUNNaVpnOTcyWVk5T0RsQVFQb1lrWVY3ZDNMSDVPM0prSmlyYW9veFBsaU1FYzJyaHF0aDJYa1ozbTBaSnNCTmEwVHJUY2dJem1RaGR5MEhTbjF4OG93SGVFRENqZ2VESEJjdUNmZGl6eXRsbFdzb2VHTjg2am4wY3piZnFKRXJiR3BGMFg0UmdMOGYyVDlTblNnMm9oMEIzWGllQW1KcDg0WG1ZbWMyZFJ5SFZRWl96ZkxaaHk1NThqWHgxZThxZW1xRXNsRGhTajNiNEpHMnZJLWN2VS1QVnN1Wmo?oc=5",
-                    "publishedAt": "2026-03-11T13:14:35.000Z",
-                    "language": "nl",
-                    "summary": "# Summary\n\nSam and Laurens, aged 32, have opened a new neo-bistro called Orbit in Antwerp, while maintaining their popular takeaway signature dish of fried chicken with caviar. Visitors to Antwerp can experience their elevated take on casual dining at this new restaurant concept. This is noteworthy for food enthusiasts looking for innovative, upscale comfort food in the city."
+                    "summary": "# Summary\n\nBarchel, a restaurant in Antwerp, is celebrating its 10th anniversary with a special festive program. Visitors to Antwerp should care because the restaurant is marking this milestone with surprising events and offerings that would make it an appealing time to visit. The exact details of the celebration program aren't specified in the snippet, but anniversary celebrations typically feature special menus, promotions, or unique experiences."
                 }
             ]
         },
@@ -133,20 +125,28 @@
             "places": [],
             "news": [
                 {
+                    "title": "18 restaurantes e cafés pet friendly em Lisboa - Time Out Lisboa",
+                    "source": "Time Out Lisboa",
+                    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQYy0xU3ZLZGthbmotdkhRMmh6U2JleTRYT2dycEJObXQ3akdhYUEyRU82NzVLQ3dTUXlIZXo0b3FBV2RpbUZkQXlKMHBJM2lQV0tFdXpDVW5OenhlZWJ1VGRRQzdXWFJWTjNFRXd4TnZZbzRONmtLQXREa3VtM0V2bU1rN3FVNXByb2JxeEx0Vm1tQkxLLUloekVkR1NuVmQxMExSaG45SQ?oc=5",
+                    "publishedAt": "2026-03-13T00:00:00.000Z",
+                    "language": "pt",
+                    "summary": "# Summary\n\nTime Out Lisboa has compiled a guide to 18 pet-friendly restaurants and cafés throughout Lisbon. This list is particularly useful for visitors traveling with dogs or cats who want to enjoy dining out without leaving their pets at home. It provides practical options across the city where both diners and their animal companions can be welcomed."
+                },
+                {
                     "title": "Guia Michelin Portugal 2026: Lisboa ganha um novo duas Estrelas e há 11 novidades de Norte a Sul - Lisboa Secreta",
                     "source": "Lisboa Secreta",
                     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8yNEpVSWFZc0w2SmhkUGIxWFRIazdfb25HckpBbUI5OHZiTlgxU3B3UXpOT29COVJjdFlyR1F2dG1DM1hlWlhzSkpaSzhfRlozQlo0SW10T2s1cVRjTEd3R2s5QVZrZUV5MS1v?oc=5",
                     "publishedAt": "2026-03-11T18:22:16.000Z",
                     "language": "pt",
-                    "summary": "# Summary\n\nThe 2026 Michelin Guide for Portugal has been released, with Lisbon gaining a new two-star restaurant among 11 new additions across the country. While the article doesn't specify which restaurant earned the two-star distinction, this is significant news for food tourists visiting Lisbon, as it indicates the city's fine dining scene continues to expand with highly-rated culinary destinations. Anyone planning a gastronomic visit to Portugal should be aware of these new Michelin-recognized establishments."
+                    "summary": "# Summary\n\nThe 2026 Michelin Guide for Portugal was released, with Lisbon gaining a new two-star restaurant and 11 new establishments receiving recognition across the country. While the article doesn't specify which restaurant earned the two-star distinction, this is significant news for food lovers visiting Lisbon, as it indicates the city's fine dining scene continues to elevate and offers new high-quality dining options to explore. Visitors interested in acclaimed cuisine should keep an eye on the updated guide for recommended restaurants at all levels."
                 },
                 {
-                    "title": "Todos os restaurantes com Estrelas MICHELIN em Portugal 2026 - MICHELIN Guide",
-                    "source": "MICHELIN Guide",
-                    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPMVdQUVItdFhOX3ByOWo2OGxpRXAyRG5CVEM5cG5zRXZXYkJ5aG1DaWp0R1k4TmRlODBIbHh6QUJTNXRVMVhueU1lWV9xV0V4dVJoYlVXRUFHRldVbnV4RmxXYy1nSGpKc1pLdktXM01mVkRqT0JQOUI0UTRnVVJoSjhrMXdZQWdvWTFfeVpJSVkwOWVYNl85akVnVjNHc2VvcnBteW1yZE44akdXaVAxQjBNTTNKYVdTZlZMM1lRdC13bkxDMFMw?oc=5",
-                    "publishedAt": "2026-03-10T21:22:44.000Z",
+                    "title": "Honest Greens ocupa espaço da falida Kinda que já foi Garagem Glória em Lisboa - Jornal de Negócios",
+                    "source": "Jornal de Negócios",
+                    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQV1V2R2U4V0hZUkpHWFdxY2RxSm91bnhVRXFHTkFxNGFKWkNBVlBRR3BHV0NNLTFnb05JUlFvdDhkMHdUdFZQMFpNbmdoU1FxX0U2bjZtRVMtOVNxSjNIUUhrSE9ycHZMUVVTNS1leUoxSmdfRWdzWWVrWU1vUWdQTWRvZnFJVkVBUkF3am4xN1U4eVlReDc0Tmx3bzhVVlFIN2g3RERpdlhMQ2QxRTN0eHdoUlplWkNUb2FYa0U4ZDJjRG5KRExsVjVfMFN1UjJKSFHSAcwBQVVfeXFMT3hzZkptbmRNR2VZMmcxQWZUSUZNZUdreTBFWFdERmlDRkRGdDdOUnQ1eW9VVno5dUxlSnRBM05PbGlYRmFBT0NINXJadTA0UzVSaFY0NEJDNmpKLWktanRkWklEUjVoTXh0bjI4YTZkYU96T2tUVzE0bmZxTDYydzcyei1wdGdLUC15Y2E3a3djbkJ0OUFaMm5LLXlZTUhod2VjMlBrZURNY0NTUzRyQWdHWXlJYzItUU9aTnlLdmFvUTFpeW9WT1BoMHdk?oc=5",
+                    "publishedAt": "2026-03-13T12:14:00.000Z",
                     "language": "pt",
-                    "summary": "I can see this is about Portugal's Michelin-starred restaurants for 2026, but the snippet provided doesn't include enough detail about specific restaurants or changes to give you a meaningful summary.\n\nTo properly summarize this for you, I would need:\n- The actual article content (not just the title)\n- Information about which restaurants are included\n- Any new additions or changes to the Michelin Guide for 2026\n\nCould you share the full article text? That way I can tell you which restaurants are highlighted and why visitors to Portugal should care about the updates."
+                    "summary": "# Summary\n\nHonest Greens, a health-focused restaurant chain, has opened in Lisbon at a location previously occupied by the defunct restaurant Kinda (which was formerly known as Garagem Glória). Visitors to Lisbon now have access to a new healthy dining option in an established restaurant space in the city. This is relevant for tourists and locals seeking nutritious meal options in a convenient, centrally-located venue."
                 },
                 {
                     "title": "Koerper “esperava” perda da estrela Michelin no Eleven mas vai “continuar a lutar” - Público",
@@ -154,23 +154,15 @@
                     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNVWVueWxqTGY2VnhMOE9YWnV6QTlkenBtbm5uU3o5TjFsZVpab0FVTWMycklaWWhJbU1qZXg4SWxUWjBpenhfaTdKV29YSHJmRU0xaHJGTUpjNVQ0amtHVnBqRWpiSkVsTExUUjNlWXZZa1AzUFV0b2dha1BUMVY2a0l4YkdaZEJrOGwteVEtcWZQODM3WEZCLU9fNThoei1sa1A0YmlzemtTS2VwV3haS01GTHdoXzZjaWhOU2xCcw?oc=5",
                     "publishedAt": "2026-03-11T16:12:57.000Z",
                     "language": "pt",
-                    "summary": "# Summary\n\nChef Koerper expected to lose the Michelin star at his restaurant Eleven in Lisbon but remains committed to continuing his efforts. This is significant for visitors because Eleven is a high-end dining destination in the city, and the chef's determination suggests the restaurant will continue pursuing excellence despite the setback. If you're planning fine dining in Lisbon, this shows the restaurant is focused on maintaining quality standards."
+                    "summary": "# Summary\n\nChef Koerper expected to lose Eleven's Michelin star but plans to continue fighting to maintain the restaurant's prestige. This matters to food tourists in Lisbon because Eleven is one of the city's most acclaimed fine dining destinations, and any changes to its Michelin status directly affect where serious food lovers should prioritize reservations."
                 },
                 {
-                    "title": "Fifty Seconds é o novo restaurante com duas Estrelas Michelin em Portugal - nit.pt",
-                    "source": "nit.pt",
-                    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNNmk2aVpBTTVqNF9kT2RYb0VjaGpNMXRZT3NnRUlHOFNDM1o1SkZ5Z0psUl9BWjc2NzZKMzQzVXhoWnNSbllwMUF5LU1TTHoxVHlHRVI4dXo0dk81VGtSbVNEU0NzS0VwQnozd3YwM185bGpvUERyLWlKREV5Z0FtS2ZUR1BCb21nbjFDYUFKVy1ORWRfaFJDYWpZdTYtYko3ekw3ZHYzUUh1bjVTaVNvT1VB?oc=5",
-                    "publishedAt": "2026-03-10T20:30:00.000Z",
+                    "title": "Todos os restaurantes com estrela Michelin em Lisboa - Time Out Lisboa",
+                    "source": "Time Out Lisboa",
+                    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQdmFUV2NxZkhENnk2YmlYekpQTV9NUWs3TkhJUlZuVmJjZEZhMVc3OWUyTzF0RWtmRHdld0VvcURVd2xwZG1rNmdJOHRzNDFmaWRoOWRRR28xTEN5VHQtWWRFVlF4dVl3c0tSanFqREZqQ2NxMVVxV0lMaXg1X0ZHeDc5dFlacVpjRllCeUhWdm1ObU0?oc=5",
+                    "publishedAt": "2026-03-11T00:00:00.000Z",
                     "language": "pt",
-                    "summary": "# Summary\n\nFifty Seconds has become Portugal's newest two-Michelin-star restaurant, marking a significant achievement in the country's fine dining scene. This recognition is important for visitors to Portugal as it identifies a top-tier dining destination offering world-class cuisine and exceptional culinary standards. Anyone traveling to Portugal and seeking an outstanding gastronomic experience should consider adding Fifty Seconds to their itinerary."
-                },
-                {
-                    "title": "Restaurante Faminto: um novo templo da parrilla em Lisboa - anoticia.pt",
-                    "source": "anoticia.pt",
-                    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPR2xMYzBldnowSVluTk5EcXY1WFZ6bHRDdzMxVXBrRm1qTDF6T3ZKak9UTDA1VXlhR0RlZUk3U3NIWmpHZUFzSFAtRXVEZjFzODltNHpJcVJaVE9lb0F5NURJRTJLRTROYjZ6cHdQNE9GSUJUMElZUzlTTFNDdmVZblY2SHFEeDFIOWNhbUhnVHlaZw?oc=5",
-                    "publishedAt": "2026-03-12T19:53:33.000Z",
-                    "language": "pt",
-                    "summary": "# Summary\n\nRestaurante Faminto, a new grilled meat restaurant, has opened in Lisbon and is being positioned as a premier destination for parrilla (Argentine-style grilled meat) dining. Visitors to Lisbon interested in high-quality grilled meats and Argentine cuisine should consider this new establishment as it's generating notable attention as a fresh addition to the city's restaurant scene."
+                    "summary": "I don't have access to the full article content from this Time Out Lisboa link, so I can't provide a specific summary. However, based on the title, this appears to be a guide listing all Michelin-starred restaurants in Lisbon. \n\nTo give you the 2-3 sentence summary you're looking for, I would need either:\n- The article text itself, or\n- A snippet/excerpt from the article\n\nIf you can share the article content, I'd be happy to summarize it focusing on the specific restaurants mentioned and why it matters for visitors to Lisbon."
                 }
             ]
         },
@@ -183,15 +175,15 @@
                     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOZDBUY2ZjNURud2p2RGwxX0VwSEotZ3M1OWkzOEhhWENaMVZ3VDBZaXZ3MThGOFlCVXdCdjF5bUhQNGFpNGZQcmtKWm9jMFVDQ2tBQUgwTndTeTRNeWx2RnFuaFJka21LNnlsY3J5NGUxYmlfYllzWGZwbnczOTZlVjJYMGd3VXAyWXJTWThGM1RWVjFGbkZ5NURZaUpnUDBSa3I5ZHBqS21ldWRQSUlWbHJnbE8zMGlfNWdfT3VNR2xtZThXUEZUdXBn?oc=5",
                     "publishedAt": "2026-03-14T09:45:00.000Z",
                     "language": "en",
-                    "summary": "# Summary\n\nFire crews responded to an early morning fire at a popular pub in Northern Ireland, though the article snippet doesn't provide specific details about the pub's name, the extent of damage, or the cause of the blaze. Visitors to the area would want to know if their favorite establishment was affected and whether it will reopen soon. For travelers planning to visit Northern Ireland, this serves as a reminder to check on the status of popular dining spots before visiting."
+                    "summary": "# Summary\n\nFire crews responded to an early morning fire at a popular pub in Northern Ireland, though specific details about the restaurant's name, location, and extent of damage aren't provided in the snippet. Visitors to the area should be aware of potential service disruptions if this establishment is a frequented dining or drinking destination. Without more detailed information about which pub was affected or when it might reopen, locals and tourists should check local news sources for updates before planning visits to affected venues."
                 },
                 {
-                    "title": "The back street bar in Newcastle that's 'a trip back in time' where the party never stops - Chronicle Live",
+                    "title": "Passion, patience and possibilities - Newcastle's 'oldest' restaurant is bucking the closure trend - Chronicle Live",
                     "source": "Chronicle Live",
-                    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQakVtMndzN3ZmbjFROWxhekRSaDdFcFJXMFJPVmd3V2R5Wi1yMnJQaDdkelpGVHJMQ1c1VXR1bmdfTnFnWEZmRy1PZUlIOGVOUGdVbFBFUE9jY0pzWGtkRGNGUDdzYTdmM1NzZ190QXUtakJGR09YSVBGTmZyLVlONV80SHZUZU5Ra2VZNGZmZDFIdktNQmlUeGowcDdocEZGbVFMbNIBqgFBVV95cUxPNHplSkZfMWVHaktVZG9mbm1Vcm9lV2xxWnI4NE5RRkkwUnBWUFYzNXBHeVJZNEZITU1ZQ3dwcS1vckh0Wm9mdFFGNWxkOG91UkdSWTFJcHR5dm1DSXJubk94dURFeFZySF9INkV6VWVxMUluUW1INjF5Z1dnU1ZaYmxHNkc2eHJ2UVdKbjRYY3Q1NHlHUmlGaEVBQWFhdzJUclpMckRPcWxzQQ?oc=5",
-                    "publishedAt": "2026-03-14T20:03:00.000Z",
+                    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQRzBncHRLVmxEMGFrQUU5dndCWW5PNDdYVTdVX1ZwcTJpLXBFMnVjVlhNa01pRWxYZ3AzTU1IaEVWNWJyVXZJRmpzMThTUGVmeVZVZmRRSlg0MXdqVjlqc3lkSXprS1hVV252R09vczVzcTZWSURSb3BCbjA5elloOVZ0UUk5VGxXYUkzaWVENGpVR2NqUndzX2k4ekZ3bDdPQUZVSmh4LThpTlFtUUlwTFZIdETSAboBQVVfeXFMTlVfODZtRFZ3MWZuNjl1Smp2cE5iZWpoWmF1TDU2NWZmSzNzYzhZeHY5WmhleHFucTMtdVNQeFk0ZHFaLXRRNldLaHNGUkozZFJMa1diMTJMZHRyYXNfTGROZmxINlpONXpHYzBxTWJ1NV9malJzUHJIMTVNY1V2ZW9odWpVOEY3SVJvU1JPd3Nyeks3ZEVXaVo1S0kyeDhzY0JBZkc0Wko5dWtEMmtHT2NOZms4VHk5RW5B?oc=5",
+                    "publishedAt": "2026-03-14T09:00:00.000Z",
                     "language": "en",
-                    "summary": "# Newcastle Back Street Bar Summary\n\nA hidden back street bar in Newcastle has gained attention for its nostalgic, retro atmosphere that locals describe as \"a trip back in time\" with a lively party scene. While the specific bar name isn't mentioned in the snippet provided, it appears to be a popular nightlife destination known for its vintage charm and energetic vibe. Visitors to Newcastle looking for authentic, off-the-beaten-path nightlife with character and a fun atmosphere would find this spot worth seeking out."
+                    "summary": "# Summary\n\nNewcastle's oldest restaurant is defying the trend of closures in the hospitality industry, demonstrating resilience through passion and patient management. While the article snippet doesn't specify the restaurant's name, visitors to Newcastle should care because it highlights a dining establishment that has survived economic challenges and represents the city's culinary heritage. This makes it a notable destination for those seeking authentic, long-established dining experiences in the area."
                 },
                 {
                     "title": "'Cosy' pub with 'hearty' food is the perfect Hadrian’s Wall pitstop - Hexham Courant",
@@ -199,23 +191,23 @@
                     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQT3cxczBPZ3RRbktzRjNubGxlT21xR0hEdXJtTXgyMEs4NU1weG5XNkt0bXNmQThFNF9YM3I3dzNJWm1qSS1tMGExSklGMzZoTENXS2dHelUyQlhjWWhCS1R5bDRCbU9MNFdYRXBfZnRlUFBudXF6TVp3a2Y1bzZDTlFEcy1QcGVwNDZFZGZ5Nmg3U2FxZmtrZFl3anI3WEk0eVNR?oc=5",
                     "publishedAt": "2026-03-15T05:00:00.000Z",
                     "language": "en",
-                    "summary": "# Summary\n\nA cosy pub near Hadrian's Wall has been highlighted as an ideal stopping point for visitors exploring the historic site. The establishment is praised for its hearty food and welcoming atmosphere. Travelers touring the area would find it a convenient and satisfying place to eat and rest during their Hadrian's Wall visit."
+                    "summary": "# Summary\n\nA cosy pub in the Hexham area has been highlighted as an ideal stopping point for visitors exploring Hadrian's Wall, offering hearty food in a welcoming atmosphere. The article doesn't specify the pub's name in the provided snippet, but it's positioned as a practical dining option for tourists hiking or touring the historic Roman wall site. Anyone visiting the Hadrian's Wall region would find this pub useful for a comfortable meal break during their sightseeing."
                 },
                 {
-                    "title": "North Staffordshire takeaway wants 3.30am weekend licence - Stoke-on-Trent Live",
-                    "source": "Stoke-on-Trent Live",
-                    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPNEU4LVktVTJzTklPWjZIQnlMV3llQ0g3SDNXTlExdjRCTFBmR18yRnhtLVhBYVo4VmZ5a0hnbmExbFFnMUxNY0tCc2E4VVFvS3VtbFl4Y2pqaEhVZEhfOTFvQi1oa3F5aGRPRzFZeWhxX09tNHY2T3pwMDhsM2hXb0RhanJqYmRNVURPNDZZdktYdTg0UXBqVnlUMXhTSlpfZ1lF0gGoAUFVX3lxTE5wQVY2eWYwQ19zNElXLUI4WEJiR1hQaEJmZzMyVFZwbG92NUpyaTVrSmt1aVdnZEJzRERYSzBia0ExRHJ1Z2wyRFlsNy15WkV3VTVqSmIzcTRFN0ZLZnhITU1IUjhieThsV3dsVlRDNzFkYVlMWlQ4aEJndkh0Mjc4UVN3a1piSl81VEhoX2F1dlZHbW5Vb0ZPdmF5Vlc2bDhIZW02d1lKTg?oc=5",
-                    "publishedAt": "2026-03-14T16:35:00.000Z",
+                    "title": "Popular Newcastle restaurant re-opens with a new name as 'worldwide' experience promised - Chronicle Live",
+                    "source": "Chronicle Live",
+                    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQT1RZc3ZvMGp3TEMzbkI5emx0WERiY2VJYjkyQ09oYjJlQnBBZXFyMkNZYnRwekpKM2stNFF6THVLNVRBTVNFUjlqQU85UkpaV3Faam5mUDRzZldXSlFkX2pHclVEVVR0LTdIWTZiVE1GbG1zM0dTaDlBdDl0d3pzZ0E0VGpaWGllSThUNmpsdElQbnkya2N2Y2UwdXhFdVdUU1VhNHZR0gGrAUFVX3lxTE56eUJnYWpOa3A1bDgzRFg5WU5tQncxd3g1eXgyNXJRNE0wSjFRRGVVM3FsLW9VQUQweG5zYmtkclhSa2Viek9mbjVwZExnMWVVajdvSVNIdWJ1VGpHdktudWY0TWgwVWVGY1pMY3BDQ1M0VU93Z3hSVzdFTHhJZGFqekdsNnVJRVJCelFqUGQ1UGUyUTh3RE9TdmtCNHBKd3FnVmdMbEdkaVltNA?oc=5",
+                    "publishedAt": "2026-03-15T12:01:00.000Z",
                     "language": "en",
-                    "summary": "# Summary\n\nA North Staffordshire takeaway is seeking permission to extend its weekend operating hours until 3:30am, according to a licensing application. While the specific restaurant name isn't detailed in the snippet provided, this news would be relevant to late-night visitors and nightlife enthusiasts in Stoke-on-Trent who want food options after bars and clubs close. The approval could make this spot a convenient destination for post-night-out meals on weekends."
+                    "summary": "I don't have access to the full article content to provide an accurate summary. While I can see the headline indicates a Newcastle restaurant has reopened under a new name with promises of a \"worldwide experience,\" I would need to read the complete article to give you a reliable 2-3 sentence summary with specific details about the restaurant's new name, what changed, and why it matters to visitors.\n\nCould you share the full article text so I can provide an accurate summary?"
                 },
                 {
-                    "title": "Blue Lagoon to open first English site in Newcastle - FRY Magazine",
-                    "source": "FRY Magazine",
-                    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQdGdOWHhvQ0lwOGlwbjVBQmlpMEh0OXkyUnVfS0RrY2J6MjJYTHBZVHdLQUtsOEh1Zkp4WGlUMGtxQTRjWXd2MjRHVlF4bkVGRWx6UXdxcmpnWkJJamFESWE1SnJTV0MzVk5WRlY0dy1USDFnRkpnTzVlX2VzdVBLbWZHNFhhOEkw?oc=5",
-                    "publishedAt": "2026-03-13T09:43:32.000Z",
+                    "title": "Chelsea 0-1 Newcastle Stats: Anthony Gordon Secures Rare Stamford Bridge Win For Newcastle - Opta Analyst",
+                    "source": "Opta Analyst",
+                    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPc2R6cTVneEVoTlVMcWdOd0Vabk5aRzJ3bFRVZmJvVVpGY1RtY2EyeTFMbEtlakRkTGlqcnRZZDZ2ZkNLVkh3dkVodW8yNW5NUGFvQVpMU0stVDA3dmRSUkZwVVVEUW1aVng5TXZNbzRKN3dnWFY2SUtwTG5WQ2F4dmtMeWtTbGlB?oc=5",
+                    "publishedAt": "2026-03-14T20:33:02.000Z",
                     "language": "en",
-                    "summary": "# Summary\n\nBlue Lagoon, a popular restaurant chain, is opening its first location in England in Newcastle. Visitors to Newcastle should care because it brings a new dining destination to the city, expanding options for food and entertainment in the area."
+                    "summary": "I notice this article is about a football/soccer match between Chelsea and Newcastle, not a restaurant or food news story. There's no food establishment, dining venue, or culinary news mentioned in the title or snippet provided. If you meant to share a different article about food or restaurants, please feel free to provide that instead!"
                 }
             ]
         },
@@ -228,7 +220,15 @@
                     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOM3JYM19TbzhqMWVkcTdJQldwdzlGazVlTmx6T3JpZWpRQVFHOVBBQjRCVXQxcTh3N2ppZG4tS050MjVrTWJqaFBMS0VSRWhpazJzN21RUXFLV2ZHMC1haVVRcTNmT2IzeUg1TVRpVVBBNlVKMFFOc3MzcXRXTE95ajNhV09KU2w3S2ZCMlhn?oc=5",
                     "publishedAt": "2026-03-11T16:02:30.000Z",
                     "language": "en",
-                    "summary": "I don't have access to the full article content, only the title and source information you've provided. Based on the headline alone, I can tell you that **Tallinn Restaurant Week is celebrating its 25th anniversary**, and this event is being covered by Falstaff (a food and wine publication).\n\nTo give you the practical summary you're looking for—including specific restaurants featured and why visitors should care—I would need the article's body text. Could you share the full article snippet or content? That way I can tell you which restaurants are participating and what deals or special experiences are available during this event."
+                    "summary": "# Tallinn Restaurant Week Returns for Its 25th Edition\n\nI don't have access to the full article content, only the title and source information provided. However, based on the headline, **Tallinn Restaurant Week is celebrating its 25th anniversary**, which is a major dining event in Estonia's capital city. Visitors to Tallinn would care about this because Restaurant Week typically offers special prix-fixe menus at participating restaurants at reduced prices, making it an excellent opportunity to try multiple dining establishments affordably during a concentrated period.\n\nFor complete details about participating restaurants, dates, and menus, I'd recommend visiting the Falstaff article directly or checking the official Tallinn Restaurant Week website."
+                },
+                {
+                    "title": "Your Tallinn hit list: the top 5 events this week - Estonian World",
+                    "source": "Estonian World",
+                    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNTWZXdFhBajhWbHNqbjNPZG44cnRwdTFTcHVqNXlEVDY1bjRvMnFYMGpTNENpLVJfb3BDNS12MmxkWXIwM3NabDBvX1A4RkJPcW1YTmlCSG5WMGlzNGRfdHJKcjdhU1lKYTVCRTNBTFJiRFJabURINEM0VGlZSFpQTXIxMkt4ZFQ0UUNxU19HTQ?oc=5",
+                    "publishedAt": "2026-03-10T13:02:21.000Z",
+                    "language": "en",
+                    "summary": "I'd be happy to help summarize this article, but I need the actual article content to provide an accurate summary. The title and snippet you've provided only indicate this is a general events roundup for Tallinn for the week, but don't contain specific details about restaurants, food spots, or individual events.\n\nCould you please share the full article text or more details about which restaurants/food venues are featured? That way I can give you the focused 2-3 sentence summary you're looking for."
                 },
                 {
                     "title": "\"SANGA\": Tallinn’s Answer to the Modern American Sando - Falstaff",
@@ -236,7 +236,7 @@
                     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNYmtGa2dCSzFESUlaanlDSllqZThPYURON2RaX0RLZzNfS1JvWFJBWEM0ZHdRSzZCTGlpcjF1SlFRSHpXNW1LNzBPaUowbWNhRFBuM2ZDQzZPODRyUm44cFhfdVlNZlJEUVR6Qkk2UXFBX0pUd0pmUzIzSGp1blNZeE5uUGxXVGI5eXhz?oc=5",
                     "publishedAt": "2026-03-09T15:43:41.000Z",
                     "language": "en",
-                    "summary": "I don't have access to the full article content beyond the title and snippet you've provided. However, based on what's available: **SANGA** is a new sandwich restaurant in Tallinn that specializes in modern American-style sandwiches. Visitors to Tallinn would care about this spot if they're looking for quality sandwich options in a contemporary style, offering an alternative to traditional Estonian fare or casual dining options.\n\nTo provide a more complete and accurate summary, I would need the full article text."
+                    "summary": "# Summary\n\nI don't have access to the full article content to provide an accurate summary. However, based on the title, **SANGA** is a new sandwich restaurant in Tallinn that serves modern American-style sandwiches (sando/sanga). Visitors to Tallinn would care about this because it offers a contemporary take on American sandwich culture in the Estonian capital. To give you a more detailed and accurate summary, I'd need the complete article text."
                 }
             ]
         }
