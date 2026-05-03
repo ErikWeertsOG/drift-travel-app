@@ -1,19 +1,10 @@
 {
-    "lastUpdated": "2026-05-02T07:17:54.074Z",
+    "lastUpdated": "2026-05-03T07:45:14.026Z",
     "source": "github-actions",
     "cities": {
         "cologne": {
             "places": [],
-            "news": [
-                {
-                    "title": "Protein statt Fett! Restaurant in Köln macht Fast Food ohne schlechtes Gewissen - RTL.de",
-                    "source": "RTL.de",
-                    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNeG5NVm1EWnI5Q0REWDc4YzdWa2tXbnlTMUVYNXgwc2RTaEVvSGthcU85WUgzU0dFT3AwS3R1ay1CVzdjSklLZkpsQ19KbXdDV0Z2RFVfeUxtN3lBTVVhSHRQX0M0bTN4N3htLVRzbDJhU092blRYRE5fOWV6eUctYTl0S3EzNEJpblkwNjFTc1dPTnZ6Q3FkcG1vVkZ3UHBlOEJjNFV5WVY3QUNIMUVfQTNjRWVQMkpmckhwVHFvY1c?oc=5",
-                    "publishedAt": "2026-04-27T17:25:22.000Z",
-                    "language": "de",
-                    "summary": "# Summary\n\nA Cologne restaurant is offering a healthier fast food alternative by focusing on protein instead of fat, allowing visitors to enjoy quick meals without guilt. This concept appeals to health-conscious diners in the city who want convenient food options that don't compromise on nutrition. The spot is worth checking out if you're looking for fast food that aligns with fitness or wellness goals."
-                }
-            ]
+            "news": []
         },
         "amsterdam": {
             "places": [],
@@ -24,15 +15,31 @@
                     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOd0ctNWdVTHJ1ZWxtbFJOZnJaYnlIaWQzMllkeWpRLXNQa1d6dTVKWFMzNGp3WUlrS2dlWllBMFdpNjFPMFg0NXZ4NnV5aHhTLVBmRWdzX3VMazNTcWJoZ2swemp4MFU5SFZtU0t0MGhJdklDX2Zia0xTdVg0RjdRd3o0ZUY1U0lQUW1neVhwVUxXX0xfSGJpUWhaS1BvWUJJTnFuZ1hUQ1YtRVBW?oc=5",
                     "publishedAt": "2026-05-02T01:00:46.000Z",
                     "language": "nl",
-                    "summary": "# Summary\n\nA second location of Bouillon d'Amsterdam, a popular French bistro concept, is opening in Amsterdam's South district, taking over the space previously occupied by Bar Baut. This expansion is significant for Amsterdam visitors because it brings more accessibility to the acclaimed restaurant's casual French cuisine and atmosphere in a different neighborhood. The new venue will offer locals and tourists another opportunity to experience the restaurant's offering without traveling to the original location."
+                    "summary": "I don't have access to the full article content, only the title and snippet you provided. However, based on what's available: **Bouillon d'Amsterdam**, a restaurant concept, is opening a second location in Amsterdam's South district, taking over the space formerly occupied by **Bar Baut**. This would be of interest to Amsterdam visitors looking for dining options in the popular Zuid neighborhood, particularly if they're fans of Bouillon d'Amsterdam's cuisine or seeking a new restaurant in that area.\n\nTo give you a more detailed summary, I'd need access to the full article text."
                 },
                 {
-                    "title": "Dít zijn de favoriete restaurants van Yotam Ottolenghi in Amsterdam: 'Geweldige, innovatieve plek' - LINDA.nl",
-                    "source": "LINDA.nl",
-                    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxONE1FY29SRUthLVBSS1JudHpJVzlCT19pTlNfb3pTN3FFY3dPc3Q0S0NRQkRFS21ZckJNZERlYUN0QmlYeDBHUkpibUhUY1ZYX0RrYnVaTUptX0ZtbkZLazFvR3ljaHhCeEphSU5ScWctdHoxZmwtZVliampwbkkxZ0R1Qk5JN1NMT3FzMk84N1A0dmJZdWl4Tg?oc=5",
-                    "publishedAt": "2026-05-01T11:45:09.000Z",
+                    "title": "Onze recensent ging eten bij De Beren: veilige klassiekers, zoete caloriebommen en schokkende prijzen - De Telegraaf",
+                    "source": "De Telegraaf",
+                    "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNdWdaTkt0RzFzWVRrTjdwUC1tM3A1TmhSLWdsUVpTam5ZWThDdGR6XzVRQjlPQzFFSmFGaW42N0E2dkZYSjRnb0ZaRjdJLWZWb0Fsb0RpZ1E2d0tKR2dWZ3pTcTBfaHNWLXowZW4tTFh0NmcxQkFKc25CdXVfYnhPSE95VlhkLUpxRUZDbFBtWW4xRUhjRHdiWkZmdU9SaDRTSmhkRDc5VU5Jbnl1NnZEUEJYaTI2NDNSRTBMS2J6dDhEeXF5amhIUm9TdlNUNXhQUWRUT05fSkw0bXdoUk92QXFMZU5EQlY4TzRlcW1VOGtQY0plVElKeQ?oc=5",
+                    "publishedAt": "2026-05-02T18:00:00.000Z",
                     "language": "nl",
-                    "summary": "# Summary\n\nYotam Ottolenghi, the renowned chef and food writer, has shared his favorite restaurants in Amsterdam, highlighting them as great and innovative dining spots. While the specific restaurant names aren't visible in the snippet provided, visitors to Amsterdam would care about these recommendations because Ottolenghi is a respected culinary authority whose endorsements typically point to high-quality, creative dining experiences worth seeking out."
+                    "summary": "# Summary\n\nA Telegraaf food critic reviewed **De Beren** restaurant and found it offers safe, classic dishes alongside sweet desserts, but with surprisingly high prices. Visitors to the city should be aware that while the food is reliable and well-executed, you'll pay a premium for dining here compared to similar establishments."
+                },
+                {
+                    "title": "Tacite opent in Amsterdam-Zuid van ondernemers met sterervaring - Entree Magazine",
+                    "source": "Entree Magazine",
+                    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOS0N4NG12bm1iU3JxZGlEUHRrdUpCem5UcFdfTVlWUk9GTnZLdWJ3VUtQaWVXSzNVdjRQQW5SNWRvT3VYanpqVU9zTW5OMm00ZW1xcFpLRC00WFliMkhTT01FZ1dUejBxa09QT3RCbWdUY2FKVGIyc2JUQUw1VW5faXd0c2dOY1B5OXZ3ZVB4Y2YzdklPUGtUZEdvY2FSR1pWQ2NoN1lSX2VORWI5bHJn?oc=5",
+                    "publishedAt": "2026-04-30T06:53:18.000Z",
+                    "language": "nl",
+                    "summary": "I don't have access to the full article content, only the title and source information you've provided. However, based on the title, I can tell you that:\n\n**Tacite**, a new restaurant opening in Amsterdam-Zuid, is being launched by entrepreneurs with Michelin star experience. Visitors to Amsterdam would care about this because it signals a high-quality dining option from experienced restaurateurs, likely offering refined cuisine in the upscale Zuid district.\n\nTo provide a more detailed and accurate summary, I would need access to the full article text."
+                },
+                {
+                    "title": "Gordon verkoopt horecazaak Blushing Blaricum, locaties in Amsterdam blijven - NU",
+                    "source": "NU",
+                    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOYVhVMDRMVFVzeE9xRGpFY240d1RYYWJEd1F4aGdobjVEX3FXWEVoOW1pWXhWdUwtcHAxSWJHT1dPSUtSU29iMVdjTFFqUXc0MW9wRk1Qb3UtdGhKU3NHOFVZVHN0dEZGQTZveXg0OUpPNWdQd0R3T2h3bTRnR0U5djZLamF0Z21WdHd1MDZoc1pPRFRSVGRLTnRpVVI5bXk5ZVpDVVJnZUQ3cE44NDNkM2UxYUd1Si1NenZr?oc=5",
+                    "publishedAt": "2026-05-02T15:35:34.000Z",
+                    "language": "nl",
+                    "summary": "# Summary\n\nGordon Ramsay is selling his hospitality business in Blaricum, though his Amsterdam locations will remain open. This news is relevant to visitors interested in dining at Gordon Ramsay's restaurants, as it clarifies that his Amsterdam establishments continue operating despite the sale of the Blaricum property."
                 },
                 {
                     "title": "Restaurant Veneur in Amsterdam: van instant hit naar een zaak die het succes vasthoudt - Misset Horeca",
@@ -40,23 +47,7 @@
                     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNa2dUOC1QTVRDWlgzaF8yOXFXeVp6bjFndV8tOEMyYU95WkgzUUg3OFp4a3E0bWhwbHgxeUhCR25LN0RfQW1nZW1yLTRMN3ZvUEtmNjVEZjNTaWFTOWJ0dHhDYjhzSFBZZzRidlFvLVBueFRlbFJnaDlrVnNkOG5RaEFIc2ZsOGhhOURoR2hyc0pBY1c0QXlSeHBuRnFjbkFxcnVZYWN1VzQwQjNhVzJCRHdOSklNbHc?oc=5",
                     "publishedAt": "2026-05-01T05:02:08.000Z",
                     "language": "nl",
-                    "summary": "# Summary\n\nRestaurant Veneur in Amsterdam has successfully maintained its popularity after becoming an instant hit, demonstrating strong staying power in the competitive Amsterdam dining scene. Visitors to Amsterdam would want to know about this restaurant because it has proven itself as a reliable, quality dining destination that goes beyond initial hype—a rarity in the restaurant world. The article likely explores how Veneur has managed to sustain its success and reputation over time."
-                },
-                {
-                    "title": "Rein op ’t Root bouwt aan Euroworld in Amsterdam en opent 2e Eurosoft - Entree Magazine",
-                    "source": "Entree Magazine",
-                    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOTHZwS3hIazh3WTR4TmlsODJoSEJ3X3RfLTNXUlA2alcxRnB5Wm4yVTJ6eG9pOEY4MWJmb05Ocm9sendwN0FkRFBNWUZzZ1c2NUtWNTMzdXFwd3NQUmc2RWE3YnJrbVF0MmpCRmhZWGt3Q2tRcFhLMXowTk9qNm9Uc0JyUVFZRHNsWERoTklYMUw0UWRnc2NxSjh5RnNEWWVmdzk0YklOWGRzT2V6b0dmR0RrbHI3Zw?oc=5",
-                    "publishedAt": "2026-05-01T07:04:12.000Z",
-                    "language": "nl",
-                    "summary": "I appreciate you sharing this, but I'm unable to provide an accurate summary because the article snippet provided is incomplete—it only contains the title and source information without the actual article content.\n\nTo help you effectively, I would need the full article text. If you can share the complete article, I'd be happy to summarize it in 2-3 sentences focusing on what's happening, which restaurant/food spot is involved, and why visitors should care."
-                },
-                {
-                    "title": "Voor een prikkie uit eten in Amsterdam – hoe kan dat in deze dure tijd? ‘Ik verkoop elke tafel 3, 4 keer per avond’ - Het Parool",
-                    "source": "Het Parool",
-                    "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQRjVTZnBjUnJLS0FpbHpaNy1Gemc0ZUNuZW93MUpyQ0JwTk1OdVFFVFZMX2xaSmg0eVNmMVJVRnBOWVBqOTJza3dwanBoNjgwZDhPekhDTER0M2pKbXNYNzJlV3g2TTZVQWpteDlrZmFOWExKQnJJSndxT3YzMENDUUZldFc4MFN1TkV1Z2p6ZVFuX3NjOHVCZTZFa1p1X0pSQmoyNnJhLVBkVWJBaTFkOG1Qcm1oYzdqQTkxVGZ4aWhmVzhvVS03cWc4WXhVeGUzbzRPc3pCV2FWamxqdGZid0oxQnA0UQ?oc=5",
-                    "publishedAt": "2026-05-02T01:00:38.000Z",
-                    "language": "nl",
-                    "summary": "# Summary\n\nThis article explores how restaurants in Amsterdam are managing to offer affordable dining despite the city's high costs, featuring insights from restaurant owners who maximize table turnover (selling each table 3-4 times per evening). Visitors to Amsterdam looking for budget-friendly meal options will find this useful, as it reveals the business strategies behind affordable eating in an otherwise expensive city. The piece highlights practical solutions for enjoying restaurant meals without breaking the bank in Amsterdam."
+                    "summary": "# Summary\n\nRestaurant Veneur in Amsterdam has successfully transitioned from being an instant hit to maintaining its popularity over time. Visitors to Amsterdam should care because this establishment represents a dining destination that has proven it can sustain quality and appeal beyond its initial launch hype, making it a reliable choice for a meal in the city."
                 }
             ]
         },
@@ -64,44 +55,44 @@
             "places": [],
             "news": [
                 {
-                    "title": "Sergio Herman sluit zijn twee Antwerpse restaurants, waaronder sterrenzaak Le Pristine - Nieuwsblad",
-                    "source": "Nieuwsblad",
-                    "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQRVBscEs4U2pyYlJNMUJYZG1HUEp1MEpZcFRWYVM1RGRZd2lodE5QNGlLYWxlcjBVcmVuU1A5Nk5ybFFaMkNGYVkyM3VKN1NoZEJzRTliZ2prb0l3Y2FkWkxXQ3NkWXQtcGdrcHktdERVcUpWeTB3aUxaTEdmby1GNms0ZlNIdDJTZ3FnQk54TUh4dkVsM3Fvb0J3Zk80enJOZUR5UEVDSWVucUdwNWZuR2w3OXZZdXY0TUE2Zk9MZ19ieks1V3dqbkkxVHhLOGM2cjc5cUNjeUhJUGQ5eUJHbF9OeUFxU3pvWGpvUjAyUjNlQlVpSV9mUUllcl8?oc=5",
-                    "publishedAt": "2026-05-02T06:00:00.000Z",
+                    "title": "Sergio Herman stopt met zijn 2 restaurants in Antwerpen: \"Terugkeren naar natuur en mezelf\" - VRT",
+                    "source": "VRT",
+                    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQWDNwdlBySlZnbnlrSk9xQ0dfOVFGS3p5b2xDZm5jOC1mRGdra19TWEVGLVJNcFhjdzRtSXNFUTRyd055eVV1VTdNaVBRMlVBU19rN3Ffa3BvVGdNQllUeGVBLXUxd2RUZHNqYzVOQ1M1Q0tZd1QwQml0Wkh6NEg2ZzlaQTB2bEdNc1h5TGg0YlV1TXVZdHUtRkxCa0tsSl8xR3dFOU9OWEQ?oc=5",
+                    "publishedAt": "2026-05-02T10:26:19.000Z",
                     "language": "nl",
-                    "summary": "# Summary\n\nRenowned chef Sergio Herman is closing both of his Antwerp restaurants, including the Michelin-starred restaurant Le Pristine. This is significant for food lovers visiting Antwerp, as it means losing access to high-end fine dining experiences from one of Belgium's most celebrated chefs. Visitors interested in gourmet cuisine will need to seek alternative upscale dining options in the city."
+                    "summary": "# Summary\n\nRenowned chef Sergio Herman is closing both of his restaurants in Antwerp, Belgium, stating he wants to \"return to nature and myself.\" This is significant for food lovers visiting Antwerp, as Herman's restaurants were among the city's most prestigious dining destinations. His departure marks a major shift in the local fine dining scene and removes two notable culinary options from the city's restaurant landscape."
                 },
                 {
-                    "title": "NET OPEN. Lange wachtrij voor nieuwe koffiebar van Daan Alferink in Borgerhout: “Wij zijn helemaal uit Nederland gekomen” - HLN",
-                    "source": "HLN",
-                    "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPQklUVG82c1k2OFhrVFIxN2xPOWdvczV2VE1lbFBQcEZqeldGSFhWYjcyWVdSV2VZbFBSMEhLN2tuZldTOUxqX3pWb0UtTnQ4X2ZGX0JWbmZRN1c4dU50N2hsanFFOXVPQTlMTEdRWG0tVnl4endWTHZINkZEYnl6MDRGS3N2VHE0YW1wSjYyemJURlpkaWNWNEV2Z2s3RjBZV3NYdzkxV1NSaXNqdUxSREdxeFZZNjRVMVZ2ZGkweWp2eDIxQ19hRnV6TkJvTm96QjVYT1ZXZm0tNnpBbm0yOTF6ZC1GWG9xYUxSY1lR?oc=5",
-                    "publishedAt": "2026-05-01T14:34:38.000Z",
+                    "title": "Topchef Sergio Herman sluit twee restaurants in Antwerpen: ‘Terugkeren naar mijn roots’ - De Morgen",
+                    "source": "De Morgen",
+                    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQM0pkbkZZSTBTMi1iamw4WmdYWjB6ZkdBeEpQbGpkZWxZUElZV19HWDNhcFUwdk5oVURFU1MzWE10Zi16UTFRZU92TUxQajZuZFNYMXZsS0g4N25pMkFaS0dkQTJUTWN3aHprbHZnbDVMQmRIbmNqWUppUElDUVVqQzhVcDRPV2xwN2NGVGsyU2VDLW90dC1mMjl0Ri1MMXhWeHEyUFJNcXRzM2IxR1pKX0JVR0RiQ3RtTHBnLWF1TndsVEdkYndNUg?oc=5",
+                    "publishedAt": "2026-05-02T06:06:00.000Z",
                     "language": "nl",
-                    "summary": "# Summary\n\nA new coffee bar by Daan Alferink has just opened in Borgerhout and is already drawing crowds, with customers even traveling from the Netherlands to visit. The popular coffee concept generated such demand that long lines formed on opening day. If you're visiting the area and enjoy specialty coffee, this newly opened spot is worth checking out, though you should expect waits given its immediate popularity."
+                    "summary": "# Summary\n\nRenowned chef Sergio Herman is closing two of his restaurants in Antwerp as he refocuses on his core culinary roots. This is significant for Antwerp food enthusiasts because it marks a major shift in the city's fine dining scene and suggests Herman is consolidating his efforts, likely to concentrate on quality over quantity. Visitors interested in upscale dining in Antwerp should note these closures and watch for potential announcements about where Herman will redirect his culinary focus next."
                 },
                 {
-                    "title": "Eerste restaurant van Yves Mattagne opent in Antwerps hotel: “Sfeer en ambiance worden even belangrijk als wat er op het bord ligt” - made-in.be",
-                    "source": "made-in.be",
-                    "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPMUtQd1V6eWNzY0pQN05NMVV3YnlkMllLa3JJc3dnTHkzWVlndGl1OVgtRllUeXhhSzJWVmt2c21KZGNoSnY0aTRoUXU4bW45a2dLT1dsdWx6bnl4NUdMSHMtR3dUa1RZM0hEdFRFRjNkZGw1Z2t1djV5UV8yXzhGcjh3enFmU2VMQnJzTUFWejE3MWxyVF9kR18wR1lQQ2hJMUFaZS1wcjRCUjIwWWhkR3VnRmg2YlMzV3VzQ1ByUERGbVp0UENOUTkwSVQ1amJVSzRrTjZUS0hxUVlhck55S1NHQ0hCRGJ1Y052OFlzak9xWC1q?oc=5",
-                    "publishedAt": "2026-04-28T03:18:56.000Z",
-                    "language": "nl",
-                    "summary": "# Summary\n\nYves Mattagne, a renowned chef, has opened his first restaurant in an Antwerp hotel, where atmosphere and ambiance are prioritized equally with the food itself. Visitors to Antwerp should care because this represents a significant dining destination combining fine cuisine with carefully curated experience and setting. The restaurant promises a complete sensory experience rather than focusing solely on what's served on the plate."
-                },
-                {
-                    "title": "Jani Kazaltzis steunt Daan Alferink bij opening van zijn Bar Boel in Antwerpen - HLN",
-                    "source": "HLN",
-                    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOaUpKVmZkbTRHV2YwNjRiTXJLZkgzelFCUVNVcmU0RzNEREp0aURTaDQ0RVFQQ2cyR2dYcHFDNzdRUEtzVVB5cWItYmdKXzF2ZHBteWYwQWhnTks3VXZQTVFXZ0FJckdET0lMN3QxOXlaTGE1V3NCSzA2Q1UxME1aSE9qQzZBYThzWFlHTDFoa3VONFFzbGMya1Z4X0dfanZGbG1UVEZ2Yw?oc=5",
-                    "publishedAt": "2026-04-27T08:47:24.000Z",
-                    "language": "nl",
-                    "summary": "# Summary\n\nDaan Alferink is opening a new establishment called Bar Boel in Antwerp, with support from chef Jani Kazaltzis. Visitors to Antwerp should care because this represents a notable new dining/drinking venue backed by an established culinary figure, suggesting quality and credibility for the new spot."
-                },
-                {
-                    "title": "Chesney Verschueren (34), de nieuwe chef van Fiera: “Sinds mijn ziekte haal ik alles uit elke dag” - GVA",
+                    "title": "Burgers mogen zegje doen over toekomst leegstaand restaurant: “Als het maar geen pisstraatje wordt” - GVA",
                     "source": "GVA",
-                    "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQZDFGQXlVcGpVaGtXcTh1TG1xMnRFM0tXWGpxZWJMSkgyVlpuUGhXY19QQUFwSVlpdTRjeHZibDg2M2dQdXFnMEZBbnl4Rm16S0hUd2UwQW8wcTh2YkdtVTBDTFRPVVlYZ0poU2M2MkhiZjlJQ182c3dnblRGdWxuZ1FZMEtnTWdrRkYtZzNqaXRHOTZxOFNOSXdmbDdWRy1HaHRKU0xzR1NJMzV3b1Jqc1hlMF9LdFpQUTl5WnJCUmtmRnV0WmFSNGFIN19KR0F3UDRyWDRQaG1PcVZmQUpna2NHUGJqeGs?oc=5",
-                    "publishedAt": "2026-04-29T18:30:00.000Z",
+                    "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQUzA0OXJfbzlCU1Npc0Z3aHJHVVBibG1xTEVqdndFcmdKUEVTZGZfMFYxY0JEc1BGMWpQTVlYeEM0WjF3S3h4Q2lFVTFzUWxxMFlXTHBTV0ViRTlVTk9PZzVnd2VXcDNIMURkeXVtT09LQS1jdFBGU1V4WVhTbTVaUWd2Nm04amsySnZOV0U4VHdHTkJxQWRJdW9zeUNnX3U5R2U1bUZLNldtSkxoRjBZUGpCWW5MMVl6QUtkU0Nwblc5c19uQ2JaTlMzN3hGeEJldzYtOUtNTHRMYXlJX2M4ZG1lS1l2YzM2NmFtQzRPYw?oc=5",
+                    "publishedAt": "2026-05-02T19:59:00.000Z",
                     "language": "nl",
-                    "summary": "# Summary\n\nChesney Verschueren, a 34-year-old chef, has taken over as the new head chef at restaurant Fiera, and he brings a renewed philosophy to the role after overcoming a serious illness that changed his perspective on life. Visitors to Fiera should care because Verschueren's personal journey of recovery has inspired him to approach his cooking with fresh energy and intentionality, likely translating into a more passionate dining experience. This leadership change signals a potential shift in the restaurant's direction and culinary offerings under his guidance."
+                    "summary": "I don't have access to the full article content—only the title and snippet you've provided, which are in Dutch. The title suggests a story about a vacant restaurant where residents can have input on its future use, with a concern that it shouldn't become an unsavory spot.\n\nTo give you an accurate 2-3 sentence summary focusing on the specific restaurant, location, and practical visitor information, I would need the complete article text. Could you share the full content or a longer excerpt?"
+                },
+                {
+                    "title": "Sergio Herman sluit Antwerpse sterrenzaak Le Pristine: “Ik voel de nood om meer tijd te maken” - De Standaard",
+                    "source": "De Standaard",
+                    "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNdDJBWnNURm8wV3pLZGFrLVVVVExKX2pjSS1IbV9ULU50Qm94dV9kZDRlMzQ0S2Rfc3JDeHBleU9Jc3VkZ0EzSVBWc3ZoS1E2VmM0OThPRnZTbTAxTlF5UkIyWVBnOVlmOU5ISGRvaVRZWE9BUVhreHJjNFZQMFhBejRvU2g3Z3lrWkcyNzFYR1dFbFYxa2RVTkdSWml5UVIzaWtvajVBUWp4aF9INzFqUGZLaHhnT0ROcUp3elgwNWl3WkRmUl9CakdLS3ltbG55NGo2MlprMlBIQQ?oc=5",
+                    "publishedAt": "2026-05-02T08:30:00.000Z",
+                    "language": "nl",
+                    "summary": "# Summary\n\nRenowned chef Sergio Herman is closing his Michelin-starred restaurant **Le Pristine in Antwerp**, citing a need to focus on other priorities and personal time. This is significant for food travelers and fine dining enthusiasts visiting Antwerp, as the closure removes one of the city's top-tier gastronomic destinations from the dining scene."
+                },
+                {
+                    "title": "Sergio Herman sluit zijn restaurants in Antwerpen: 'Tijd om tot rust te komen' - NU",
+                    "source": "NU",
+                    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNNkpBNGJhNEE1NnYyMnZxbVlUVHNoaWxyRGJ2ZmtWcXRTVlVrQ0JSaFNOWFJ6WnJHUEdJUXZNSW9hUkhWcnI1c25OTHBocHhQNDRkbXhieGViV1pMM2hXczdITFVmR3Y0WTR2cU15azM4ZGtuczZOSERFanhjNGdxc0x2RkdiSlNXVU44cktKelFOd2lKSWJFem05aV9DdkhDdHliQ1pFVE9VR0Q4RUdiTEVqYmNNS2JT?oc=5",
+                    "publishedAt": "2026-05-02T08:16:51.000Z",
+                    "language": "nl",
+                    "summary": "# Summary\n\nRenowned chef Sergio Herman is closing his restaurants in Antwerp, stating he needs time to rest and recharge. This is significant news for Antwerp's fine dining scene, as Herman's establishments have been notable culinary destinations in the city. Visitors planning to dine at his Antwerp restaurants should note that they will no longer be operating."
                 }
             ]
         },
@@ -109,20 +100,20 @@
             "places": [],
             "news": [
                 {
+                    "title": "Na Trafaria, este restaurante serve “cozinha com lembranças” e vista para o Tejo e Lisboa - Expresso",
+                    "source": "Expresso",
+                    "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxOa0pxZm9XOXRyU0VlT2w5Y2JSWFlCcDUzV2dVblFPM2MyVjJxQnFwSTltZzRQNmNyT1ZBZDY1R3NIaWFoeGx5QmRaVTE4R1JiUnFlb18xbjI4cFc2WHdsRGlOTDFwTGlzV01veHpOSWxoQ25ZcUdIZnlPNXFTbXNNcnR6QzdUZ3RwVjNTSm1CVkloNThlaHlrejQtMko0eGdrSk9uYW9wbTBFY2lDbHlDbThGTExHd1pRaEY4MlRUaVZpMEZhRnNIZ2cxd3V0NU1zZk5ma043U1g5bklPS2VFSVFPenAxNVM1bE1WRVJJbV93UWZ3SnNsRm5jMzZzcUVJLU1jUTg5SGEzMFdMU0k2cW9RSkQ?oc=5",
+                    "publishedAt": "2026-05-02T14:09:20.000Z",
+                    "language": "pt",
+                    "summary": "# Summary\n\n**Na Trafaria** is a new restaurant offering nostalgic Portuguese cuisine with stunning views of the Tagus River and Lisbon skyline. Visitors to the Lisbon area would want to know about this spot for its combination of traditional comfort food, scenic riverside setting, and prime vantage point to see the city across the water."
+                },
+                {
                     "title": "Prado, 8 anos depois: um percurso sólido em Lisboa - Mesa Marcada",
                     "source": "Mesa Marcada",
                     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9PVVBpQTFWUE54ek5ESVRQeDNEZ25lcnktdVFHb0ZmaEtmQjNYVWNpU2hoZ3JyZHlmQmVNRVZZdFVBa0ZoNF9qYWNubmJfVEp2ODYzUThyeHhlR0JmcHkzeUZaYktLa09oOS1UNTBZNXBWRE1xM3c?oc=5",
                     "publishedAt": "2026-04-28T09:53:02.000Z",
                     "language": "pt",
-                    "summary": "I don't have access to the full article content to provide an accurate summary. However, based on the title, this appears to be about **Prado restaurant in Lisbon**, which is celebrating 8 years of operation and has established itself as a solid dining destination in the city.\n\nTo give you a proper 2-3 sentence summary with details about what makes it noteworthy for visitors, I would need to see the full article text. If you can share the article content, I'd be happy to summarize it as requested."
-                },
-                {
-                    "title": "Aberto há dois meses, este restaurante em Lisboa é Novidade do Ano no Guia Boa Cama Boa Mesa 2026 - Expresso",
-                    "source": "Expresso",
-                    "url": "https://news.google.com/rss/articles/CBMipgJBVV95cUxQU1ZmVHJycFVFRW1MbkMxY1EyTnR1RzQtOGpDdVlNLXM1NktCNENJdzRObGN3TmJUWHYtS211VUVvOW5XV0tRWFYwOWhWbkp0STZ3LXFZd2RrNHdHUUcwZW9mem9NeEdPMGFHTXZjaW9XeGRrekluOUEtR1dNRXdvaldEcUxqczFUN2dJbFhqUTdaX21BYXBFR2plVWowaGhSMHJxa1BUVVNiZjhJc3Q0VmU1YWF6OVkwNDBrOWU3eVpacDJWbGM4d0pDSm5vdTlxdFRiMm9TU2FoMzBINmZNeTlsUkZINnA4aTI2QmlzSnktdVVSSXNnSVlvYkZJaWp2Ry13NFVVZUZaV3Fhb1lVVlBfaVUyblhBbnZZOTN1WnkxdTZLY3c?oc=5",
-                    "publishedAt": "2026-04-27T14:45:26.000Z",
-                    "language": "pt",
-                    "summary": "# Summary\n\nA newly opened restaurant in Lisbon has been named \"Restaurant of the Year - New Establishment\" in the 2026 Boa Cama Boa Mesa Guide, just two months after opening. While the article snippet doesn't specify the restaurant's name, this recognition from a prestigious Portuguese dining guide indicates it's already making a significant impact on Lisbon's food scene. Visitors to Lisbon should take note, as this award suggests the restaurant offers exceptional cuisine and experience worth seeking out."
+                    "summary": "I don't have access to the full article content, only the title and snippet you've provided. Based on what's available, here's what I can tell you:\n\n**Prado**, a restaurant in Lisbon, is being reviewed/profiled **8 years after its opening**, highlighting its established reputation and solid track record in the city. While the full details aren't visible, visitors to Lisbon would likely care about this because it suggests Prado is a well-established dining destination worth checking out if they're looking for reliable, proven restaurant options with a demonstrated history in the city.\n\nTo give you a more complete and practical summary, I'd need access to the full article content."
                 },
                 {
                     "title": "Amantes de tascas por Lisboa, não precisas de mais de 5 euros para boa comida nestas sugestões - versa - lifestyle",
@@ -130,23 +121,23 @@
                     "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQZEs5NnJhYVBISklqZ1VtLVE2aWdDbXRUMzlWMlRFYm9kczNmb05XUUt0d3kzMTJrTEtsSHRsTHlVVHBhUVZYU3ljUmlOdm1SemJveXgteGIxejN6XzZ2Tloxa1JwRlpfcHgtQm1xMlBRb2syMlRla1RvYTB2dGwtSWN2bDFxV0hxN2xvNWJLQXFvd1JZLXczb1ZTejV0a3E5ai16Mmo0YUV6aEZmRVpVejBZNWR4RXVjeUhJbnJhY1BEOEgtNzRyMUJmODRKZmtCb21paFcyQ1RUSWNiRFlYaTJqR2YwQ2RLSGdLTFNtak1hUzk1MEhLWDlB?oc=5",
                     "publishedAt": "2026-04-29T18:51:00.000Z",
                     "language": "pt",
-                    "summary": "# Summary\n\nThis article highlights budget-friendly traditional Portuguese taverns (tascas) in Lisbon where you can enjoy good food for under 5 euros. It provides specific recommendations for authentic, inexpensive dining spots that are characteristic of Lisbon's local food culture. Visitors to Lisbon would find this useful for experiencing genuine Portuguese cuisine without breaking the bank."
+                    "summary": "# Summary\n\nThis article highlights budget-friendly tasca restaurants in Lisbon where visitors can enjoy quality meals for under €5. The piece recommends several specific traditional Portuguese eateries that offer authentic, affordable dining options. Travelers visiting Lisbon should care because it provides practical tips for eating well on a tight budget while experiencing genuine local cuisine."
                 },
                 {
-                    "title": "A Panasonic Heating & Cooling Solutions promove a climatização eficiente num restaurante icónico de Lisboa - Revista Edifícios e Energia",
-                    "source": "Revista Edifícios e Energia",
-                    "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNTFFUekhDeDJnS2pOdkJKblFoTHdzT2tOZHVXSG92ZFlBUWZ5MEpBNjRHLWpxX3hHSWpDcjQwc21zZUpzNEkwVGVxbEtWb0dYNno5UnNVYVJVSTdXeERobVppWDBxVExnc2hZWE1HSjh0S3NnN0lFSlB1dHc0ZEM1d1dhQk9RcHd0RmRzZmlScnpKVTFSVGUzcFV5aXlhX2JqTHRaSWhNS0RadkZVanB5SzlMTDY0ZWhPMmpuMUY4VVlSMEhweldfTG8wTW9PR2VSbWZsM0h3aEpGOGs?oc=5",
-                    "publishedAt": "2026-04-30T03:07:40.000Z",
+                    "title": "Aberto há dois meses, este restaurante em Lisboa é Novidade do Ano no Guia Boa Cama Boa Mesa 2026 - Expresso",
+                    "source": "Expresso",
+                    "url": "https://news.google.com/rss/articles/CBMipgJBVV95cUxQU1ZmVHJycFVFRW1MbkMxY1EyTnR1RzQtOGpDdVlNLXM1NktCNENJdzRObGN3TmJUWHYtS211VUVvOW5XV0tRWFYwOWhWbkp0STZ3LXFZd2RrNHdHUUcwZW9mem9NeEdPMGFHTXZjaW9XeGRrekluOUEtR1dNRXdvaldEcUxqczFUN2dJbFhqUTdaX21BYXBFR2plVWowaGhSMHJxa1BUVVNiZjhJc3Q0VmU1YWF6OVkwNDBrOWU3eVpacDJWbGM4d0pDSm5vdTlxdFRiMm9TU2FoMzBINmZNeTlsUkZINnA4aTI2QmlzSnktdVVSSXNnSVlvYkZJaWp2Ry13NFVVZUZaV3Fhb1lVVlBfaVUyblhBbnZZOTN1WnkxdTZLY3c?oc=5",
+                    "publishedAt": "2026-04-27T14:45:26.000Z",
                     "language": "pt",
-                    "summary": "# Summary\n\nThis article discusses Panasonic's installation of efficient heating and cooling systems at an iconic Lisbon restaurant, though the specific restaurant name isn't provided in the snippet. Visitors to Lisbon would care about this because improved climate control systems enhance comfort while dining, ensuring better temperature regulation throughout the dining experience."
+                    "summary": "# Summary\n\nA newly opened restaurant in Lisbon has earned the \"Restaurant of the Year\" award from the Boa Cama Boa Mesa 2026 guide, despite being open for only two months. This recognition from Portugal's prestigious dining guide makes it a must-visit destination for food enthusiasts exploring Lisbon's restaurant scene. Visitors to the city should prioritize this spot if they want to experience the latest acclaimed dining establishment."
                 },
                 {
-                    "title": "Sandor Katz, o guru da fermentação, vem dar uma aula a Lisboa - Público",
-                    "source": "Público",
-                    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQYWlVdlcyM09STWtRSkJHZTNTTGx4U1pua2tZT0RsWEs3ajdxRlVzS3JKcUdjc3hIUzNHNDZlUXEtRWk4eUtuX2xSM2V5TjNyMlRvU3FWeHJHbjBPaGdXZ1QwRkQzTDl0UXpueUZjVk5vZE0xUFZZOExqM0dpY0thOGd4TENmTjN6djdfZFVwVWd4RTFUb0JLWTlkcmZsSENFcUlic3NLYw?oc=5",
-                    "publishedAt": "2026-04-27T08:46:00.000Z",
+                    "title": "Lisboa vai receber uma sunset party com open bar, tatuagens e comida - nit.pt",
+                    "source": "nit.pt",
+                    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxObkRKcEdma0ZfTFpMcFRKRXd6RjZwTHJzdFg4akhONDF6NjJnbkFkMFBIWmE5bnVFOVJIQmo2ZmVOU2V5YTBrc3lLN1F6LXFMM0hRU21KYW1nbjRKNGd0Zy1BWUVmdWJQVWJHZ0QxSWlwSGtoSHdVR3phRGJJOW9VTjJxc0VHU2kybEdENEtQcEpFZWZQSU44MkZScWFLS3UxLTlDVWU0MF9ydFlNRlE?oc=5",
+                    "publishedAt": "2026-04-30T00:27:00.000Z",
                     "language": "pt",
-                    "summary": "I don't have access to the full article content beyond the title and snippet you've provided. However, based on what's available:\n\n**Sandor Katz, a renowned fermentation expert, is coming to Lisbon to teach a class.** While no specific restaurant is mentioned in the snippet, this would interest food enthusiasts visiting Lisbon who want to learn about fermented foods and traditional fermentation techniques from a recognized authority in the field. Visitors interested in culinary workshops or understanding Lisbon's food culture through fermentation practices would find this event relevant.\n\n(To provide a more detailed and practical summary, I'd need access to the full article text.)"
+                    "summary": "I don't have access to the full article content beyond the title and snippet provided. However, based on the title, Lisbon is hosting a sunset party event featuring an open bar, tattoos, and food, though the specific restaurant or venue isn't named in the snippet. To give you accurate information about which restaurant is involved and practical details for visitors, I would need the complete article text.\n\nIf you can share the full article, I'd be happy to provide a concise 2-3 sentence summary!"
                 }
             ]
         },
@@ -154,44 +145,44 @@
             "places": [],
             "news": [
                 {
-                    "title": "New North East restaurant-hotel on former Michelin site to host Bank Holiday BBQ as first event - Chronicle Live",
+                    "title": "Match Report. Newcastle United Women 0 Durham Women 1 - Newcastle United",
+                    "source": "Newcastle United",
+                    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1iUnVUNlMwZEFXY2VRbkE4eTlWdGI5SG5ma3FCb0F3TmpVNFRTUFh6aHNYaHMxQVhkVEo1dkJiUW0tRlpGUTFDcEdraHM2NHBMS3M3aXNfa0NWRkN3VUlnVzJ0d21IU0tlNDEyVWlPMFpNVjhkYWc?oc=5",
+                    "publishedAt": "2026-05-02T17:21:17.000Z",
+                    "language": "en",
+                    "summary": "# Unable to Summarize\n\nThis article is not about a restaurant or food news. It's a sports match report about Newcastle United Women's football (soccer) team losing 0-1 to Durham Women. \n\nIf you have a restaurant or food-related article you'd like summarized, please share that instead, and I'll be happy to provide a 2-3 sentence summary with the details you're looking for."
+                },
+                {
+                    "title": "Sundrenched rooftop bar with top tier food opens as Newcastle 'hotter than' Santorini - Chronicle Live",
                     "source": "Chronicle Live",
-                    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOUzM1MFQ0bF9wdGM4LUh2bkFfMGkwNmQ2N25xUE1LY3pYOVI1cXNDTEFKTTc0Z1NsM2IxNDhFN1otQzVROFNtLUgxaWVfVFpURUUyeTZnZjR5eGxLQTZaRzNVRnRHN0R1bGdDOHNPLVlPaUxyV3JJOHVxSFdTdTdONnJrbEpHLUlRaUxHdDQ2eDBZLUFON1JGTzFRVlJWZ9IBowFBVV95cUxNb0QzLTJfQVZnZ09OMnVnUWhqRXNNbkJXX21NTU91ZmdwVFZ0dTJiNjI0alY0Yy1xc3U5Mm5Xd1lWN0doS2g2S0dVRXktWXFQeEV3TGRLMnRjRVNNSlRqczdxcGtkNkt6ZXhaYkUzQ3R2cTE1UTZteXBBZkx2SktkRzRIWEJtSkhBRTZTN0s3SkRWa2ZSYkdYOUdLSlZtVGpFaWtN?oc=5",
-                    "publishedAt": "2026-05-01T23:42:00.000Z",
+                    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQY2dKX0lsNGM5Mzd2Y3c2bnNzU2Q2OFZ1QUkzdlR0NG01dzJMbDJMQjNtcWxvTzJDbGJJZlpndGJjQ2txWk0wQUZNbGJPSDdWNmpPZGhrdW9tcm9aWkRRcUJINFo3OF9VLWM2ekpOM3VkbU4yUzNNMlJvcXV4a25aS1hvSWxvY0tLcXBuNzU1d1JlbFNVNHpjbC0zLWpsQm_SAaQBQVVfeXFMUERQblNybHJIM2VUUjZIV0EwZTloZmozRWpwODhtdE5RZ0h5Q1pZSHlsNHFkN2Z6U1NkZl9Eb3hSV1VJeUdrQ2hSYmprU010V1lzcU01MWphTlNkdUhVSV9PVGwwUTVnSjNFcjBQYlF5TzJXZWxQbkhfMWw1MU9lalJ2ZU44YVhEZGwyLVZVcVBIZGQ5cld2RVJkS0FmZEpZamRLVm4?oc=5",
+                    "publishedAt": "2026-05-02T14:23:00.000Z",
                     "language": "en",
-                    "summary": "# Summary\n\nA new restaurant-hotel is opening on the site of the former Michelin factory in the North East, with its first event being a Bank Holiday BBQ. While the snippet doesn't provide the restaurant's name or location specifics, visitors to the region should care because this represents a significant redevelopment of an iconic industrial site into a dining and hospitality destination. This opening marks an exciting new dining option in the area with an established venue for events and accommodation."
+                    "summary": "# Summary\n\nA new upscale rooftop bar has opened in Newcastle offering high-quality food and a sun-soaked atmosphere that locals are comparing to Greek destinations like Santorini. Visitors to Newcastle would want to check this spot out for its combination of premium dining, scenic rooftop views, and trendy ambiance as a standout new venue in the city."
                 },
                 {
-                    "title": "Newcastle Food Festival returns with packed weekend - Hexham Courant",
-                    "source": "Hexham Courant",
-                    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQWEVvRUdUaDRSLV9GWGRBbmF0M1lRSzdGQ0xfZ21aQXFJcmVJUGUzUktkbVFoVU9TdGJUSzhwTk1XTUNZRndMdmlsVXJHVjJhUnRYcW5DalBTNE13a3pjR1J1aHN2RGFwdWJsMTJIRzhuczAycEtIWVhoZGUwLWN4Q2IxeGZhSmNfUURZR2FWQzhFWHp6X3pXMU1MUjBfb2MzZEE?oc=5",
-                    "publishedAt": "2026-04-29T04:00:00.000Z",
+                    "title": "From Matfen Hall musings to SJP madness - PIF given plenty Newcastle food for thought - Shields Gazette",
+                    "source": "Shields Gazette",
+                    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQR3AteXhEU0E0T3A1TjV5R1loV3M5R1hTNi1PTFBOYWpTZ09UZ283dS1iRFRqRTFEUnZqcklsM2Rpa3hGaVBQOUozQ3haWFE5LWZ6Q0pVX2NGOGZtWVhLR1Vpd1BHTGZKbHNNSHFBSnlIS0phaFpnRUFmSjZGbnRheC0wSEdZM1JEMlRyVFBTazJ4em1rcjNac2p1S1VIZFoxdDczZFlnYnZWNkFSbV9hdGYzdW9Welk?oc=5",
+                    "publishedAt": "2026-05-02T16:07:00.000Z",
                     "language": "en",
-                    "summary": "I don't have access to the full article content, only the title and source information you've provided. To give you an accurate 2-3 sentence summary focusing on the specific details you requested (what the news is about, which restaurant/food spot is mentioned, and why visitors should care), I would need the complete article text.\n\nCould you please share the full article or provide more details from it? That way I can give you a proper, concise summary."
+                    "summary": "I appreciate you sharing this, but the article snippet provided doesn't contain enough detail for me to write an accurate summary. The title references \"Matfen Hall musings\" and \"SJP madness\" (likely St James' Park) along with PIF (Public Investment Fund), but the actual content isn't included—only the headline and source information.\n\nTo give you a helpful 2-3 sentence summary focusing on the restaurant/food spot, the news, and why visitors should care, I'd need the full article text. Could you share more of the content?"
                 },
                 {
-                    "title": "North East Chef Leads Fight Against Processed Foods in Restaurants - Newcastle Magazine",
-                    "source": "Newcastle Magazine",
-                    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZTlkYTg5SWVPRXNQX0xhUWJ1RDhkRjVLWGNNWWJYR2FmY0x0QlFjWnhuQ0RBRDdOQ1pDSjNEUVpRemlnNWhSSEliZ28yTWtwV2xzM21ONVJYU0lRZmVHdkpSZTZQVmh5eXF0NVlrSXVQVE5QSzY5bmhzNEFMZWk0UGpRN3FhSjVTdTluUDg2aEN1MHd0LWNqeG9ySzdlZw?oc=5",
-                    "publishedAt": "2026-04-30T12:12:37.000Z",
-                    "language": "en",
-                    "summary": "# Summary\n\nA North East chef is spearheading an effort to reduce processed foods in local restaurants. While the specific restaurant name isn't provided in the snippet, this initiative matters to Newcastle visitors because it signals a shift toward fresher, higher-quality dining options in the area. This movement could help diners easily identify establishments committed to serving less processed meals."
-                },
-                {
-                    "title": "'I spent £3 on Greggs surprise food bag and couldn't believe what was inside' - Chronicle Live",
+                    "title": "Queues expected as opening of new 'outrageously good' sandwich shop in Newcastle just days away - Chronicle Live",
                     "source": "Chronicle Live",
-                    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPN3VCT0c3ZHRaTmt4TklVblFHenhaaG1FdENyRVZ4TW9PbkdTcFpBZjByQ3d4LTVfaEFTbXc2bzBqSDFkMEFEeXZiTWtOc0JPZTdlZ1VnaGNHbmNjM3prNXNnX2o0YWdkZk9pRHFHMWx0U2I3c1MtQXZKTEctN1JHU3JZN0FxX0ZSTW9Fa2ZkR2RPRlRDZlHSAZsBQVVfeXFMT2ZxUmZ0RDNTVnkzMExGMjlTQ29UeHB2QnpUWXRkYk5ncVl0UTlhcEZCVGlMZzNqUHFISVNUYnpNamg3TGxGbzBkVWdhX1NCSkxYQlVHN1MtcFBFNnVtOVItQXU3blRDX0JSM0hyWE1fTnJwdVdGSzhfQkxGQVFndG51aDd6RERDVEFLclpERXlQZEZaa0RMY3lDX1E?oc=5",
-                    "publishedAt": "2026-05-02T03:03:00.000Z",
+                    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNckRTQURyd08zQ0RPNFJFYXFOSmF0Q2RGajVETG9QbGFqVGFlUE5HUDgtZ3MzXzZVQTVPLVE2aTc4eFkyaDd0RXMwcFVMcXVDR0F5TFBqa2dEZ1BERE5OMXh1NjdjdGdfaWNWZTQ0OUNMUFB0SmRvTWgyUFlwakVLUk85U0k2WTNYX1lfOUJhQnIwQm94M0Y1Y01ZVk1UT2VfTEJNNENTYTBrZ9IBrwFBVV95cUxPVlZGYUMyaGtUbjJaUGZaalRMTkZKaDVGZUxsQk45ZGpDVmFPR1pnZmhYbUV5ZlJFbGQ2cDBjMndqNXIxd01UUHhUc0JWdGlTU3NUeEwxa3pseEcwX21TTHpPdDNXMGR6bzkzaWYzMi1rRnMwZi1yTkgwV0tnMDVLcERub1dwQ2dpSVRSTGJmeEk4V21ZZ0phYkwzSG5UQzlfRVAzdk1OeWJaLU9LUzU0?oc=5",
+                    "publishedAt": "2026-05-02T15:17:00.000Z",
                     "language": "en",
-                    "summary": "# Summary\n\nA Chronicle Live journalist purchased a £3 surprise food bag from Greggs (a popular UK bakery chain) and was pleasantly surprised by the contents. The article documents what items were included in the discounted mystery bag, which is an attractive deal for budget-conscious customers. Visitors to the UK looking for affordable quick meals would care about this because it highlights Greggs' value offerings and demonstrates whether their surprise bags are genuinely worth the money."
+                    "summary": "# Summary\n\nA highly anticipated new sandwich shop is opening soon in Newcastle and is expected to draw large crowds based on its reputation for quality. The shop has generated significant buzz in the local food scene, with expectations of queues at its opening. Visitors to Newcastle should be aware of the opening to either take advantage of the new dining option or plan around potential foot traffic in the area."
                 },
                 {
-                    "title": "The garden centre minutes from Newcastle Airport with 5 star restaurant and '10/10' cakes - Chronicle Live",
+                    "title": "Inside the stunning new Italian in Newcastle where you feel like you're on holiday - Chronicle Live",
                     "source": "Chronicle Live",
-                    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQRWN4NXVzazhHYlJkTDd6LUlOTDJ5WXN2MmNzZ2k1X3VtV21rY2ZqQXpuMF9kVjVVRTBrVlhZYk1OYURGRG1sTGRXSC10U0RKcmxxRkJacWMzTVVnbmlhZVRDUkV1YWlZVjlHeERhd05FWlJiblFYTGwtcV9fMDN6dVZkR2I1ZUNJM2NDYmlHODRxZGY5TW92U3YwaEN5MXVkUlc1NGZ0cUzSAa4BQVVfeXFMTkJOTVI3VUd0c0k2SlI0QWZUUFBPWjlfbjlFU3RqeGdmYlFhUUJzVlBOeVNSM1hyUTlmZG84XzJiOHNRNWg4R3J6LVluYnI5NlB5OWRtQVUyb182VjZGSzh2Q25EakwyaTV6dmp2R3FpMlJQUm9fck1EYzZKZFhNVTQ0eXItcDJSVlhZeXMzVy05VjZnYjRUOHdkckZvbFdDS245Rm5OVS10eEJ1RU53?oc=5",
-                    "publishedAt": "2026-04-30T09:11:00.000Z",
+                    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQUWt2Ylp2WTl1dXJTZWwtWU10X2JtSHJmN3Jabm9GVFowNko0MTBCUVlzeVBDWmQ5Mk1jZ2p2WTVmemVUUWhzS3o0Q2JfLXloWjJ4SXNtQUhKd2dQU29VeUdYOWV1S3BnLWJ3NFh5d2Q4cFVhY1E4NGpSWS1yUmEybUx1SkhvOFpBeWtoWlZEZHZENnNSOTJnMV9mNHo1MHZyWjdNQkY5YTZoajIxZC1hcNIBtgFBVV95cUxNbjdKNFpfNXVWcmZKTTVsa040UkFQY1lXbXFlRWdYQnJVc2VSQnRTLVREblYxalU0MW80bmdRd1Jlb2s4dGh6ZEhvQ0hRSUExZ2NYZ3FwbExLSkJULTBEN1k1UktMTmVsaXhFSlY4ak1ydDFhX0dNTjE1UlNPcUw0VXJRN1FPZWxHcS1QSUprVkt3SlhvdWtkTUpCVUxfaWN0VEd0aDg2Nm5DdHViSDJsaTEtTUVpZw?oc=5",
+                    "publishedAt": "2026-05-02T13:55:00.000Z",
                     "language": "en",
-                    "summary": "I don't have access to the full article content to provide an accurate summary. However, based on the title, this appears to be about a garden centre near Newcastle Airport that features a highly-rated restaurant and acclaimed baked goods. To give you a proper 2-3 sentence summary with specific details about why visitors should care, I would need the complete article text. \n\nCould you share the full article or more details so I can provide a useful summary?"
+                    "summary": "I don't have access to the full article content from Chronicle Live, so I can only work with the title and snippet provided. \n\nBased on what's available: A new Italian restaurant has opened in Newcastle that's designed to evoke a holiday atmosphere with its stunning décor and ambiance. Visitors to Newcastle would appreciate this spot as a destination restaurant that offers an immersive Italian dining experience without leaving the city.\n\nTo provide a more detailed and accurate summary, I would need access to the full article text."
                 }
             ]
         },
@@ -204,7 +195,7 @@
                     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOVjBPQmMzZVRNcUN6S3RVLWRtT0tERTJNZldnVF81WHlKekd4TXJGVzlxYnFCVDlrY0VQaTZLa3FKdWVBbHpsNzBRWm40d3BETG4zVE5PRUsyaktrMjBrX2NkVGQ5SXBvbGJ4cnFIclUxMTBBRDVLcGpaeUdWNmlTUDRwSjRzb21nUjh4Y255VDZvMVB4NUZYZ1FBcw?oc=5",
                     "publishedAt": "2026-04-30T11:25:00.000Z",
                     "language": "en",
-                    "summary": "# Summary\n\nSlava Ukraina, a Ukrainian restaurant in Tallinn, has permanently closed despite surviving an arson attack. The closure is notable for visitors interested in Ukrainian cuisine in Estonia's capital, as the restaurant had apparently overcome the security threat from the arson incident but ultimately could not continue operations. This represents the loss of a specific ethnic dining option in Tallinn's restaurant scene."
+                    "summary": "# Summary\n\nSlava Ukraina, a Ukrainian restaurant in Tallinn, has permanently closed despite surviving an arson attack. Visitors looking for Ukrainian cuisine in Estonia's capital will need to find alternative dining options, as this establishment is no longer operating."
                 }
             ]
         }
