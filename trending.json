@@ -1,25 +1,49 @@
 {
-    "lastUpdated": "2026-05-07T08:11:49.795Z",
+    "lastUpdated": "2026-05-08T07:13:35.821Z",
     "source": "github-actions",
     "cities": {
         "cologne": {
             "places": [],
             "news": [
                 {
+                    "title": "Köln: Mann vor Restaurant niedergestochen - Radio Erft",
+                    "source": "Radio Erft",
+                    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQckhLMzN5Qm5YUUJod1NLQzMxNTVaanhPdkVSWlpmT3Zza0dxV3NSbXFscmRGSzVidDlGQ3Z4NE1ocE1xcVdTbUNaN0c5RWc3ZmdaUGtpTUUwckIwTlcxSlVGUGVDMy1XZDBqR0p5ODdHMFZWay1BSkJuYjk5em5KakRoT0ZzNnBF?oc=5",
+                    "publishedAt": "2026-05-08T02:27:50.000Z",
+                    "language": "de",
+                    "summary": "I can see this is a German news headline about an incident in Cologne (Köln), but the snippet provided is too brief to write a meaningful summary. The title translates to \"Cologne: Man stabbed in front of restaurant\" from Radio Erft, but there are no details about which restaurant, what happened, or relevant context.\n\nTo provide the 2-3 sentence summary you requested, I would need the full article text, which isn't included here. If you can share the complete article content, I'd be happy to summarize it focusing on the restaurant details and visitor relevance."
+                },
+                {
+                    "title": "11 Orte in Köln, wo ihr veganen Döner und veganes Gyros bekommt - Mit Vergnügen Köln",
+                    "source": "Mit Vergnügen Köln",
+                    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAtQlotUE5zUVZnTFM3Vk9PU3dOUUt6M01TdkY1QTM3YjFGQWs0U2ljWW15ME10eEROQU13RzZVNFp0d3N5cU1fVFdLYWRzWEhWREVIN0xnajBBTUR5QklOaVpGOS05VFR5UlE?oc=5",
+                    "publishedAt": "2026-05-08T07:13:17.000Z",
+                    "language": "de",
+                    "summary": "# Summary\n\nThis article highlights 11 restaurants and food spots in Cologne where you can find vegan döner and vegan gyros. Visitors to Cologne who follow a plant-based diet will find this useful as a guide to enjoying these popular street foods in their vegan versions across the city. The piece helps travelers and locals alike discover convenient options for satisfying cravings for Mediterranean fast food without animal products."
+                },
+                {
+                    "title": "Gastronomie fordert klare Perspektiven für Wiedereröffnung - Radio Köln",
+                    "source": "Radio Köln",
+                    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNX3lrT1AxeHA4RFh1SENJMDV5am9INUdKTWtVckdpblpyU1NDdWRTUlZIUEVfa2QtRHZ2cTNDNjhWZ3lGVC1VZnNDblgzLXdoZk1Pc2JpUWdCRE9ISHYxa2dhR3BqTXgtTUdJSS14ZlJhM2FBZExvMG42MnpHX2RvUkZwTUpVaHRJc2xvenZMWGZQcmRNc0puWkdKdkp4QkNqTmRJ?oc=5",
+                    "publishedAt": "2026-05-07T11:47:48.000Z",
+                    "language": "de",
+                    "summary": "# Summary\n\nI appreciate the request, but I'm unable to provide a complete summary because only the headline and source information were provided—the actual article content is missing. \n\nFrom the title alone, I can tell this German article discusses the gastronomy sector in Cologne demanding clear reopening plans (likely during a lockdown period), but without the full text, I cannot identify specific restaurants, the timeline, or other practical details visitors would need.\n\n**To help you, please share the full article text**, and I'll provide a concise 2-3 sentence summary focusing on the key details you mentioned."
+                },
+                {
+                    "title": "Besucherzentrum mit Gastronomie auf Sophienhöhe geplant - Verliebt in Köln",
+                    "source": "Verliebt in Köln",
+                    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNRENiVDdDNURYX3FmWFp0eTBKTzBhdDFQV2hiNzUzUlkxdE40cFpDVk16WDhuS3luVk40NmkxQ3JkRnB2Zk1raWtfNkNtdzBhZVpBbzRNcm0yaEZQNDFsT3U5a2ZublVqNXUzQTdXakJ3b2dIR1lIY1NrOU1CajVMM2lsbEN5LVMxMTRONEpR?oc=5",
+                    "publishedAt": "2026-05-07T20:32:20.000Z",
+                    "language": "de",
+                    "summary": "# Summary\n\nCologne is planning a new visitor center with integrated dining facilities on Sophienhöhe (Sophia Hill). This development would combine tourism infrastructure with food and beverage services in one location. Visitors to Cologne would benefit from this addition as it would offer convenient dining options at a tourist destination while enhancing the area's amenities."
+                },
+                {
                     "title": "\"Wahnsinnig störende Aura\": Böhmermann frustriert nach Besuch in Kölner Restaurant - t-online – Köln",
                     "source": "t-online – Köln",
                     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxORGkwSXFYNkdWVmljZ1JPTS05c2l3dThvcmNqTGt5cTQ1dnU0TnRiRUlHVkhUMThLMGVpSjN6dEZkVlhRVkZnLWx1NURpNl9SS0E1b3ZFdFdCbmJFcXRhTHVkbFV6Yk1xSDJGRVg3N2VGQ3VYcXlraVhITjBRNjNZcFpQRkNVY05Sa2l5Z3hLUlBNYi1uek8wRVl3akdFSnFiYk43RkE1a2xNUHRVaXFvQTNpYTg?oc=5",
                     "publishedAt": "2026-05-05T08:37:38.000Z",
                     "language": "de",
-                    "summary": "I can see this is a German article about comedian Jan Böhmermann having a frustrating experience at a Cologne restaurant due to what he describes as a \"massively disturbing aura,\" but the snippet provided doesn't include enough detail to summarize the specific restaurant name, what happened, or why visitors should care.\n\nTo give you an accurate 2-3 sentence summary focused on the restaurant name and practical details for visitors, I would need the full article text. Could you provide more of the article content?"
-                },
-                {
-                    "title": "Stadt Köln nennt Regeln für WM-Übertragungen: Kneipen, Kicken, klare Kanten: Köln regelt Public Viewing 2026 - Rheinische Anzeigenblätter",
-                    "source": "Rheinische Anzeigenblätter",
-                    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPNGtJV0ZsRnI5NnZNeXlDUGt0VkV0clo1ZTExczJndWQ0MHU1eHBQeXRrYTFSSTJ5UXZMNXNkM0RPaEJzX0pkNGNHUHdYdm1Ud2lxSUotX1pNZWhvTllIWGFiSHdZQ0ZsLUdvdXgzaHFaYXVwdDRRZVZDa3hzNW5ESThSUDNGLUJLM0x3TVViekFBMkpUVDdIZmdvVmhhZnV3WXNRcDIzdjFURC0xRzFqeWdTNjdPV2JCRTZiZW1obWFUbHJ4WjFrZnJONA?oc=5",
-                    "publishedAt": "2026-05-05T11:15:17.000Z",
-                    "language": "de",
-                    "summary": "# Summary\n\nCologne city has announced new regulations for public viewing of World Cup matches in 2026, which will affect bars and restaurants showing the games. The rules establish clear guidelines for how establishments can host fans watching football matches during the tournament. Visitors to Cologne should be aware of these regulations as they'll determine where and how they can watch WM matches in bars and public venues throughout the city."
+                    "summary": "# Summary\n\nI appreciate you sharing this, but I'm unable to provide an accurate summary because the article content itself wasn't included—only the headline and source information were provided. \n\nThe headline suggests that German TV personality Jan Böhmermann had a frustrating experience at a Cologne restaurant due to what he described as a \"disturbing aura,\" but without the full article text, I cannot tell you which specific restaurant this refers to or the detailed reasons for his complaint.\n\nTo help you, please share the article body or main text, and I'll provide a concise 2-3 sentence summary focusing on the restaurant name and why visitors should care."
                 }
             ]
         },
@@ -27,12 +51,12 @@
             "places": [],
             "news": [
                 {
-                    "title": "Rotate opent in Amsterdam: mix van eten, wijn en muziek - Entree Magazine",
+                    "title": "Madre in Amsterdam is plantaardig: ‘99% van de gasten eet gewoon vlees’ - Entree Magazine",
                     "source": "Entree Magazine",
-                    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQb19hd3JRSHZpckdCVTRVYS1sZ3EwdlpacHJZX0ZwemxZNzU1Q1JvQkpKdW0weVhFT3RPOTQyVlNuV3VXdTZyaDBBM0FlakhvOURaZVpOSUw2N0dPOHdHNndfMmhpQzkweEZoaVhwdWRFWGpWbWhvYXZZenBpcU5CRUZ2YlVBNVptYUNxNzBnU05lZnB1c0t6WHdZTXNrYjN6WXc?oc=5",
-                    "publishedAt": "2026-05-06T10:04:27.000Z",
+                    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQVk1oR2FPMnhQWUtJRVZnVmtXZmxvQ1MxcElzbU9Qdk0wUTI5VXFBUlN0MGJnQ1htbkJGRFZIbHdwaWE5NkpySjQ4V0x0UWNIUURueC00alU0bGNCd0IzRmRiZXlaTU5GUWhpZnFKNzdyRzdZdVdYemJudUVmZDgyazhYQkR0eFFwbkk3cFVsbzRRUkxsZHhETDhLa3NQcXNVanBxLU01VDBJa2x4ekRXLTZB?oc=5",
+                    "publishedAt": "2026-05-08T07:01:49.000Z",
                     "language": "nl",
-                    "summary": "I don't have access to the full article content to provide an accurate summary. However, based on the title, I can tell you that **Rotate**, a new restaurant combining food, wine, and music, has opened in Amsterdam. To give you a practical summary focused on why visitors should care, I would need to see the article's details about the restaurant's concept, location, cuisine type, and what makes it stand out.\n\nIf you could share the article text or more details, I'd be happy to provide a concise 2-3 sentence summary!"
+                    "summary": "# Summary\n\nMadre, a restaurant in Amsterdam, has gone plant-based, but faces an ironic challenge: 99% of its guests still eat meat. This news would matter to visitors because it highlights the tension between the restaurant's sustainable dining philosophy and actual customer behavior, making it relevant for those interested in Amsterdam's vegetarian/vegan dining scene or the broader shift toward plant-based restaurants."
                 },
                 {
                     "title": "Café-restaurant TÊTE opent in Amsterdam-Oost - De RestaurantKrant",
@@ -40,23 +64,15 @@
                     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOT3ZZaGY5U21iUU0xcmFldFJBYWk4Y3kzVDBnU1VHT2NIMUpmdHl6VzFXUGJwZ2gyN1dnLU5yRHJsUFRIdktrVmZlelM3N25rTE4wOE5CRDBRVXF2NUJxYUVUUmNPS2tmMGRHWFY2MEx6M0dNQjlVcXlTMmFtM0o3Zy1Jbw?oc=5",
                     "publishedAt": "2026-05-05T08:56:16.000Z",
                     "language": "nl",
-                    "summary": "# Summary\n\nI don't have access to the full article content beyond the title and snippet you've provided. However, based on what's available: **TÊTE, a new café-restaurant, is opening in Amsterdam-Oost**, a trendy eastern neighborhood of Amsterdam. Visitors to Amsterdam would care about this because it adds a new dining option to the area, though without the full article details, I can't specify the cuisine type, price point, or what makes it particularly noteworthy.\n\nTo give you a more complete summary, I'd need access to the full article text."
+                    "summary": "I appreciate your request, but I don't have access to the full article content—only the title and snippet you've provided. To give you a proper 2-3 sentence summary with details about what makes TÊTE noteworthy for visitors, I'd need to see the complete article text.\n\nFrom what's available: A new café-restaurant called TÊTE is opening in Amsterdam's Oost district. If you can share the full article or more details, I'd be happy to provide a concise summary highlighting why it matters for visitors to Amsterdam."
                 },
                 {
-                    "title": "Restaurants in Amsterdam: de beste hotspots & tips - Foodies Magazine",
-                    "source": "Foodies Magazine",
-                    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5FZ1U0ZFFDYmVfVHF6b1JNU01Ya09fUlo2R2RvOEx3R0dQZ2pueGw2Zzc5NkpzU2NuVXBkQkFwNEJlRzY5bGlFeGZJdWZDVkwwb3k5Q1NBRUgyb0RmbFR4VWpRMl9ZbjhRckt6SXpkZ1BYU3N1MjkwYw?oc=5",
-                    "publishedAt": "2026-05-01T07:00:00.000Z",
-                    "language": "nl",
-                    "summary": "I appreciate you sharing this, but I'm unable to provide a meaningful summary because the article snippet provided only contains the title and publication information—not the actual article content. To give you a concise 2-3 sentence summary with specific restaurant names and practical details for visitors, I would need the full article text. Could you share the body of the article or provide a different source with more content?"
-                },
-                {
-                    "title": "Tweede Bouillon d’Amsterdam komt in de plaats van Bar Baut in Zuid - Het Parool",
+                    "title": "Wilde calamares en enorme pannen paella – eigenaar Nazka opent Spaans restaurant in Amsterdam - Het Parool",
                     "source": "Het Parool",
-                    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOd0ctNWdVTHJ1ZWxtbFJOZnJaYnlIaWQzMllkeWpRLXNQa1d6dTVKWFMzNGp3WUlrS2dlWllBMFdpNjFPMFg0NXZ4NnV5aHhTLVBmRWdzX3VMazNTcWJoZ2swemp4MFU5SFZtU0t0MGhJdklDX2Zia0xTdVg0RjdRd3o0ZUY1U0lQUW1neVhwVUxXX0xfSGJpUWhaS1BvWUJJTnFuZ1hUQ1YtRVBW?oc=5",
-                    "publishedAt": "2026-05-02T01:00:46.000Z",
+                    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOcngydlFIWHVIV3J0ZkdKV3FLODJsQUNyakU2S3UwWHRrd2hDZkgzV3hlZ3E5T3MzWWZLaWx3OTRLWElTXzNBVDJyaFczdDkxS2FnNGw1bmZ3cFR6RXR6MkFfMEpBaGtyVlpuelZwOVZMNUZkMmFJN1F5SjNEcGY2QUg2M2tVTkU0QUJYYUtHRjdPT1I1TElDYVVyeWhtT2F0T0lYSGFZY0gxTXRXcDlEWm9nZFBWRE5TRjRkd29UenlhRGlKeDYxTXNuX0cwUUZ0cmtGQ1JNYw?oc=5",
+                    "publishedAt": "2026-05-06T01:00:00.000Z",
                     "language": "nl",
-                    "summary": "# Summary\n\nA second location of Bouillon d'Amsterdam, a popular casual dining restaurant, is opening in Amsterdam's South district to replace the closed Bar Baut. Visitors to Amsterdam will appreciate having another accessible spot to enjoy the restaurant's casual French-inspired cuisine in a different neighborhood. This expansion makes the restaurant more convenient for people in the South area without having to travel to the original location."
+                    "summary": "# Summary\n\nThe owner of Nazka restaurant has opened a new Spanish restaurant in Amsterdam featuring wild squid and large paella pans. Visitors to Amsterdam now have access to authentic Spanish cuisine, particularly paella dishes prepared in traditional large pans. This is noteworthy for food enthusiasts seeking Spanish dining options in the city."
                 },
                 {
                     "title": "Café-restaurant Tête opent in Amsterdam-Oost - Misset Horeca",
@@ -64,7 +80,15 @@
                     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPcktMd25nNW5PUTlBVGNIZmVaTi1GZWIyVnYxZi1jSnRxRlEtODkzd2VhMFZITHR3YTJhd3FRbjZtRDZtczJTNXgxSDItUlVuQk5Ja185dkM2UnBwR0gyd3hNWWpKWXFkSXVMNzFnMG1FUXI2TDBkLXJZNF9PalZyS0VYNFQ2Zw?oc=5",
                     "publishedAt": "2026-05-05T05:25:00.000Z",
                     "language": "nl",
-                    "summary": "# Summary\n\nI appreciate you asking, but I'm unable to summarize this article because only the title and source information were provided—the actual article content/snippet is missing. To give you a useful 2-3 sentence summary focusing on what's new, the specific venue, and why it matters for visitors, I would need the full article text.\n\nIf you can share the article content, I'd be happy to summarize it for you!"
+                    "summary": "# Summary\n\nI'd be happy to help summarize this article, but the snippet provided only contains the title and source information without the actual article content. To give you an accurate 2-3 sentence summary focusing on what the news is about, the specific restaurant details, and why visitors should care, I would need access to the full article text from Misset Horeca.\n\nCould you share the article body or provide more details about Café-restaurant Tête's opening?"
+                },
+                {
+                    "title": "Rotate opent in Amsterdam: mix van eten, wijn en muziek - Entree Magazine",
+                    "source": "Entree Magazine",
+                    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQb19hd3JRSHZpckdCVTRVYS1sZ3EwdlpacHJZX0ZwemxZNzU1Q1JvQkpKdW0weVhFT3RPOTQyVlNuV3VXdTZyaDBBM0FlakhvOURaZVpOSUw2N0dPOHdHNndfMmhpQzkweEZoaVhwdWRFWGpWbWhvYXZZenBpcU5CRUZ2YlVBNVptYUNxNzBnU05lZnB1c0t6WHdZTXNrYjN6WXc?oc=5",
+                    "publishedAt": "2026-05-06T10:04:27.000Z",
+                    "language": "nl",
+                    "summary": "I don't have access to the full article content, only the title and snippet you've provided. Based on what's available, here's what I can tell you:\n\n**A new restaurant called Rotate is opening in Amsterdam, offering a combination of food, wine, and music.** Visitors to Amsterdam would care about this because it represents a new dining destination that combines multiple entertainment elements in one venue. However, without the full article details, I cannot provide specific information about location, cuisine type, opening date, or other practical details that would be most useful for someone planning a visit.\n\nIf you can share the full article text, I'd be happy to provide a more detailed and practical summary."
                 }
             ]
         },
@@ -72,12 +96,20 @@
             "places": [],
             "news": [
                 {
-                    "title": "Het nieuwe restaurant Eldo: van bordeel naar de ‘warmste huiskamer van Antwerpen’ - De Tijd",
+                    "title": "Nieuw restaurant Eldo: van bordeel naar de ‘warmste huiskamer van Antwerpen’ - De Tijd",
                     "source": "De Tijd",
-                    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPbS1ORGNsWWhhdUhrWi1seksyRURObkUzSXVZZFJvU3FTVkJIMTdndGJHdDYwX2RLVjJBTW1neVQ5Q3JGczNzdkowUjlKVEpnVlJHeWFCX0dtODZ4TGFsVl8wT2lkY0JsSGlxeE1JenlXU1ViZkJYdDdScVpya1l3eTVsLVRxMXFVMVhrM1E1ZEZWemp0cTB5RVJLN3dBUENpNEZGbnlMNk1EaXpDNFczbFo4dDFZbnZabjV3QzExSkVHUQ?oc=5",
-                    "publishedAt": "2026-05-07T04:46:00.000Z",
+                    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPaHNyUU1VcjRMUEFsd0o0d3djNC1sS09rYVNVdjVONktjRF9scS1aM3VaZWFWelRlYmhxdnVCR0hPOW1CcUZDN29VdG53WTdSQ2c4Ti1Od0x0M3FvS19Jcm9iQkdxbmVNbFRJYkdBd2RXOEZvakpBX2pmMEFWbWJRX0RFZVIxTTlWMGhpNjcyRXVxNmh2eHBUanBNQnZYS1dZMmJZOHhzYTFoZXhXV3d3Z21OQW9RNGNmNTZn?oc=5",
+                    "publishedAt": "2026-05-07T04:45:00.000Z",
                     "language": "nl",
-                    "summary": "# Summary\n\nA new restaurant called Eldo has opened in Antwerp in a building that was formerly a brothel, and it's being described as \"the warmest living room in Antwerp.\" Visitors to the city would care because it represents an interesting cultural transformation and offers a unique dining experience in a historically significant location with a distinctive atmosphere."
+                    "summary": "I can see this is a Dutch article about a new restaurant called Eldo in Antwerp, but the snippet provided is too brief to give you a complete summary. Based on the title alone, I can tell you that Eldo is a new restaurant in Antwerp that has been converted from a former brothel into what's described as the city's \"warmest living room\" – suggesting it's designed as a cozy, welcoming community space. To give you a more detailed summary about the restaurant's concept, cuisine, or why visitors should care, I would need the full article text."
+                },
+                {
+                    "title": "Antwerps restaurant PrivéPrivée van Sergio Herman onverwacht nu al dicht - VRT",
+                    "source": "VRT",
+                    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQVnkyVl91UlczRmd4d2I1N2JEUUxSYVlJdmtZblczbHRubXhuVlFPeGlTRWJYV2FhTFM3SzgzU3VreUVXQktwLUFkZnlNU1B3TUtQUDgtSm5OdWNJSkNFdGNWZ3dlbWxsS0daaUNkZkdRbVhObHN3Y1M4R0l4OXNGUThBbEtmSDE4YVkzNTE5b3g5aEdVQ2dwc3FB?oc=5",
+                    "publishedAt": "2026-05-06T18:58:29.000Z",
+                    "language": "nl",
+                    "summary": "I don't have access to the full article content to provide an accurate summary. However, based on the title, the news appears to be about **PrivéPrivée**, a restaurant in Antwerp run by renowned chef Sergio Herman, which has unexpectedly closed. \n\nVisitors to Antwerp would care because this was likely a notable dining destination (given Herman's reputation), and the sudden closure would affect dining plans and reservations. To give you a complete summary with the specific reasons for closure, I would need access to the full article text."
                 },
                 {
                     "title": "Restaurant PrivéPrivée van Sergio Herman sluit nu al de deuren in Antwerpen - made-in.be",
@@ -85,23 +117,7 @@
                     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNdGQ5VEg0MlVNQU9MOWZaUU5hU1d1MTVmQkRVUmM5MGc0OHVFTkRCd2tadmE3VXJQeTBsMngwM0lyQXR5Z3R6THRKb2VDUXZtVEEwaldlMDhubWJWYTZuZVFJTlZGWnJ5OG5feGZuZ2pBS19CZ1NqRDFoNzBIdVluUU0yanpNdUhWUmE4ZTRmVXBQT0Y5dnUzZ0hnWFh4X3c3Wjd1UDItQkd2YlFXbHc?oc=5",
                     "publishedAt": "2026-05-06T19:23:13.000Z",
                     "language": "nl",
-                    "summary": "# Summary\n\nI don't have access to the full article content to provide an accurate summary, but based on the title, it appears that **PrivéPrivée, a restaurant by renowned chef Sergio Herman in Antwerp, is closing its doors prematurely**. Visitors to Antwerp who were interested in dining at this high-profile establishment would care because it signals the closure of a notable fine-dining venue and may affect dining plans in the city.\n\nTo give you a more complete and accurate summary, I would need access to the full article text."
-                },
-                {
-                    "title": "\"Hans Otten zou het zelf zo gewild hebben\": 4-sterrenhotel met restaurant op Antwerpse Eilandje blijft open - VRT",
-                    "source": "VRT",
-                    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNRmF6MnhCMUxWSnZJb0NxdmxtUTNmd25nRXppWVhzdk81bVk5anZSdkU3RTRWMndSMVl2YVFTUl9KRUtLNVFaRFhRNzZvOGFwOFp1T2owWVVfVzZvSUF2RWpSb3hGYTNvWmRWNlJWTkFxa1JyY0JWNUp2cU5hWGk2VmlSV3UyQzJrSUZnX3huRlRYZw?oc=5",
-                    "publishedAt": "2026-05-06T14:02:23.000Z",
-                    "language": "nl",
-                    "summary": "I appreciate you sharing this article, but I'm unable to provide an accurate summary because only the headline and a partial snippet were provided, without the full article text.\n\nFrom what's visible, it appears the news is about a 4-star hotel with a restaurant in Antwerp's Eilandje district remaining open, with a reference to someone named Hans Otten. To give you the practical summary you're looking for (what the news is about, the specific venue, and why visitors should care), I would need access to the complete article.\n\nIf you can share the full text, I'd be happy to summarize it in 2-3 sentences."
-                },
-                {
-                    "title": "Restaurant PrivéPrivée van Sergio Herman sluit nu al de deuren in Antwerpen - GVA",
-                    "source": "GVA",
-                    "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNNGQ3clJWS1R1ZmFVRmd2VTlXbHhicGlLRElxUWJlblpDMjlFTHJ5bVlhQ1gwa2h3Z2d5ZE5IdC1JbVotX01xYmdDZ2JLcFNjYlV4d0FNZ18yc240VjBhVVFFNGV4emYxU0dRZXdodVRNZVVkMnEtdzdibFdjMGl6cmR2WDlpUlFaMThWaktrQWtDcVNiaVlaQUo3NkVCSF9KcUxxWUJycHg2WkxwMzJtOTNkRDNmNTRlbFJJZXpBNUlKamZsSG85U2haWENzcm9BZmJuRnJvVU0tendGaDM1OQ?oc=5",
-                    "publishedAt": "2026-05-06T17:58:37.000Z",
-                    "language": "nl",
-                    "summary": "# Summary\n\nSergio Herman's upscale restaurant PrivéPrivée has closed its doors in Antwerp after a short run. The closure is significant for food enthusiasts visiting the city, as Herman is a renowned chef and the restaurant was expected to be a major dining destination. Visitors interested in fine dining in Antwerp will need to look elsewhere for high-end culinary experiences from this chef."
+                    "summary": "# Summary\n\nSergio Herman's restaurant PrivéPrivée has closed its doors in Antwerp after a short time in operation. The closure is notable because Herman is a renowned chef, making this a significant loss for the city's fine dining scene. Visitors to Antwerp looking for high-end culinary experiences will need to seek alternatives, as this establishment is no longer available."
                 },
                 {
                     "title": "Verslagenheid in boetiekhotel van Hans Otten (55) op het Eilandje in Antwerpen: “We zien wel hoe het verder moet” - HLN",
@@ -109,7 +125,15 @@
                     "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOMm1iQUdVWmxxZHhXSG4xa1VIZFphNTIxLWRCR3JnZF96OXRrai1TQWtIYi1iUU01b1dZZW96V24zTXNSRnFFdDZaakhPdkNZRkdLUFBDeDJIclppWGJZT3g0SWdtRjlKTGZRR1VpcUllUmJqMHlBWmpIT0YtZlhJOUpZSm5sNjduMTFmeTVPdnlnT0ppUmlPV25pRWhmZzZSS2szb1BGNGNFWkdZalozZzdjdGxjRmg4dVVwVlBTNkZSNWJ5azBEdDNmQU1DSlNoa3JiaENqTEdnb2ptcFJNOQ?oc=5",
                     "publishedAt": "2026-05-05T20:44:39.000Z",
                     "language": "nl",
-                    "summary": "I appreciate you sharing this, but I'm unable to provide a helpful summary because the article snippet provided is extremely limited—it only contains the headline and no actual article content. \n\nTo give you the concise 2-3 sentence summary you're looking for (focusing on what the news is about, the specific restaurant/food spot, and why visitors would care), I would need access to the full article text.\n\nIf you can share the article body or a longer excerpt, I'd be happy to summarize it for you!"
+                    "summary": "# Summary\n\nI apologize, but I cannot provide a meaningful summary of this article. The headline and snippet appear to be in Dutch and discuss a boutique hotel owner named Hans Otten on the Eilandje in Antwerp experiencing what seems to be discouragement or difficulties (\"verslagenheid\"), but the actual article content is not provided—only the title and a repeated snippet.\n\nTo give you a useful summary focusing on what visitors should know, I would need access to the full article text."
+                },
+                {
+                    "title": "Mediafiguur en horeca-ondernemer Hans Otten (55) is overleden - Culinaire Ambiance",
+                    "source": "Culinaire Ambiance",
+                    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOZzBUcndwem1wcWEzYlVKVU5TdW9RS0pRZmVKMnZnRE12a0FXR2NIRVZ1Z3BBTVpubFFJSEpmRVFOdXFGdW5abUR0UUdnamZnYXBhbU9lYTR0ZG1CVGRoRG5GbnFIWkhBcFh2TkUyLXhDd21jd2NvRXo5c3JvLTgxVDVJSmxiVnZ4T05vOFU0U3JjQWZpYUdkdzR2Ui1hTzA?oc=5",
+                    "publishedAt": "2026-05-05T15:46:50.000Z",
+                    "language": "nl",
+                    "summary": "# Summary\n\nHans Otten, a 55-year-old media personality and restaurant entrepreneur, has passed away. While the article doesn't specify which restaurant(s) he owned or operated, his death is notable in the hospitality community. Visitors to the city would care because Otten was an established figure in the local food and restaurant scene, likely meaning any establishments he ran or was involved with may be affected operationally or in terms of their future direction."
                 }
             ]
         },
@@ -117,12 +141,20 @@
             "places": [],
             "news": [
                 {
+                    "title": "Há um novo restaurante em Lisboa onde o arroz de forno com enchidos é \"surreal de bom\" - versa - lifestyle",
+                    "source": "versa - lifestyle",
+                    "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQRi1pZ3hTaFFNNXh1bno1a1F2MnJzOU1jbWt4ck4zdFBJSmVkR040LWd3OEJMck43ZEVtbjVsXzQzZVB3V0pPMXJNSkN2WVFLal9wV2ticW85a3JKTW5jQUFRSl9RM2p4S2sxcElQaGZzN3hpQS1LR296aXlTWVowck1GSW4zbmFPZkhsb3JRSm9EU21PaG5MMnpMcVhGaXkzdDRGcHktc2Z2dTZIOVR1YlRDZEs2cVNCRDlXNjVIY2stNHFHSFR2ZmstVklhdW9TcU52Um9QWlpUX2I2OVBWVkE0dkJVZHVNZ0E2alExTQ?oc=5",
+                    "publishedAt": "2026-05-07T12:52:00.000Z",
+                    "language": "pt",
+                    "summary": "# Summary\n\nA new restaurant has opened in Lisbon where the baked rice with sausage (arroz de forno com enchidos) is described as exceptionally delicious. Visitors to Lisbon should care because this appears to be a notable dining destination specializing in traditional Portuguese comfort food, particularly this popular regional dish that's generating buzz for its quality."
+                },
+                {
                     "title": "Arquitectura e alimentação em destaque no Open House Lisboa - Público",
                     "source": "Público",
                     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNRE1lV1RPTG1WRTlUZmt0cnZRNnJkTjllWTkzM1dEX2pOdjZ2ZlNpLUw4TDFnZlR2VGFHdjU2T0xUU2xSM21OdnJ4aUNmZ0JiaEhNRmxiQ0hrNGVFU3JxM2prZGVNS2tnRWptcUhxdm1sWUhXWjBzOUpSZnJIYXYxcWlCbm42aFhJdUhLdFJNc0o0bExSeWg2T055OWZQNEpuTk12eldBaTRHajQ?oc=5",
                     "publishedAt": "2026-05-05T10:08:00.000Z",
                     "language": "pt",
-                    "summary": "I appreciate you sharing this, but I'm unable to provide a helpful summary because the article snippet you've provided is incomplete—it only contains the title and source information without the actual article content.\n\nTo give you a concise 2-3 sentence summary focusing on the restaurant/food spot, the news angle, and why visitors should care, I would need the full article text. Could you share the complete article or more details about what's being covered?"
+                    "summary": "I appreciate you sharing this, but I'm unable to provide a meaningful summary based on the information provided. The snippet only contains the headline \"Architecture and food highlighted at Open House Lisboa\" without any actual article content.\n\nTo give you a useful 2-3 sentence summary focusing on the specific restaurant/food venue, details about the event, and why visitors should care, I would need the full article text. Could you share the complete article or additional details about what food establishments or dining experiences are featured in this Open House Lisboa event?"
                 },
                 {
                     "title": "Na Baixa de Lisboa, neste novo restaurante cada garfada é um bilhete de identidade multicultural - Expresso",
@@ -130,31 +162,23 @@
                     "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxPV0RBZF9mR1pNQVN1aWlYXzFyU3FyYWlRQWRUbGZjRkl2WkQza2VZdjBPbXFMdVBZalN4cVNqLXJTMjV1QkxGSWVHc1VRMnZBOGFtWnJyenlnTzB3cnhaZEVyRFZKZU5ONW5pTVNxUncwRTJTS2ZpSUZoTnRPOG5mTEFIWlo1TDUwaGVUaGxsUnB6dDZ3VmE4ZWV1QW1iYm9fUDNkd2UzRG5uNUZEWEw1dkV0c3FpZTc4RUFTTS1vNTAzdVpoWXAta2JKazhVYWVfYXBacUlySEF5cnVGMEpkeFlOb2tLZ183VkZ6Z3g4OVNya25fWXRwNWhubVFTX1ZoMHNhVlRkeEV1MEdGSHFHenUtTC0xU2NhWjctRnZ4Vjgyb0ls?oc=5",
                     "publishedAt": "2026-05-04T10:08:54.000Z",
                     "language": "pt",
-                    "summary": "# Summary\n\nA new restaurant has opened in Lisbon's Baixa (downtown) district that celebrates multicultural cuisine, with each dish reflecting diverse cultural identities. The article highlights how this establishment offers visitors an opportunity to experience global flavors and international culinary traditions in a single location. This would appeal to travelers looking for innovative, culturally-diverse dining experiences in central Lisbon."
+                    "summary": "# Summary\n\nA new multicultural restaurant has opened in Lisbon's Baixa district that celebrates diverse cultural identities through its cuisine, with each dish reflecting different culinary traditions. While the specific restaurant name isn't detailed in the snippet provided, the venue offers visitors an opportunity to experience globally-inspired food that blends multiple cultural influences in one location. Visitors to Lisbon's downtown area would appreciate this spot for its unique approach to dining that goes beyond traditional Portuguese cuisine."
                 },
                 {
-                    "title": "Henrique Sá Pessoa: “17 anos com restaurante em Lisboa e dez de Michelin dão alguma segurança para arriscar” - Diário de Notícias",
-                    "source": "Diário de Notícias",
-                    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQdzV0blZpSm5tUWdOUzlGMGYtOGlueVpLLVhkSzRCejZ2QUlQMjF1XzFycmFwb1pzRmNSVENzN2ZGeDUyLWJibG04TXNrYTBVVjdNZWZyYTRsVlhWUUdzaUZ0RWtRUFdCNUtjbkVURnJJT0tsV0NzQjlESGVEc1NuSzg0RF9Mc3ZJblZhVnd3Ul9nTnlsYVBvVzRQUnRrOEZKWUV5S1BfOGxBR21tZEFPVUpXd3h5bFRlUVgxOXlQVm8tY191?oc=5",
+                    "title": "Há um restaurante em Campo de Ourique a reinventar a cozinha libanesa (e cada prato parece contar uma história) - VOU SAIR",
+                    "source": "VOU SAIR",
+                    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQX2VxM091VUpQbUxBdVFWSTF5OVVHQ094WTkxekNVR3dKVDJhakwyXzVBYTE1WkxXeGxaUzg5a0Jickx2X1U3S3FmbWJpVjRTMDRNUXN0bEpua0hwNlJDQmdXczV2MGlyNDFyZ19HRkptOFVWT2VHZG5tS2lZa2R6YVNDUllCOHY3TF9ndWk0dlVLazJSY1pQYk1CVmY2aGtpZ0Zfb3NSRTBmd2o5dWdCSWVDN3VYWEh0Y01rUXlwZ0JRWEROY2JRRQ?oc=5",
+                    "publishedAt": "2026-05-07T10:13:28.000Z",
+                    "language": "pt",
+                    "summary": "# Summary\n\nA new Lebanese restaurant in Lisbon's Campo de Ourique neighborhood is reimagining traditional Lebanese cuisine with creative dishes that each tell a unique story. Visitors to the area would want to check it out for an innovative take on Lebanese food that goes beyond typical offerings. The restaurant appears to be generating buzz for its thoughtful approach to combining tradition with modern culinary creativity."
+                },
+                {
+                    "title": "Henrique Sá Pessoa: “17 anos com restaurante em Lisboa e dez de Michelin dão alguma segurança para arriscar” - SAPO",
+                    "source": "SAPO",
+                    "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOOFRieDVxeWhOdVRzTmZKWXp0OC1QQzR4NTBzaFhCUGNQM3F1NmZGaHUzdy1iY0VBUy1LS3RiRGFRUU9CaEZYcl92WGhvcnZ6RklOUDdIb0d6NEtvZWhIRmE0bFN6NW5ROVNDVFpoeWN0bC1pSDV5NGFXM1JIZzlnODlZbnUweUs2ZGZPbnlqRW03Q1I4RndadkhWMjZyNTE4U3MwaGNrdnIwOURERTJPeXVNcjJBN1dxSUtkSXdnb1hsRFYwUG96RFhkdkRXNi14N3k2NzllN3BraTdGeEMwdGRYdlBKNWJE?oc=5",
                     "publishedAt": "2026-05-03T22:00:29.000Z",
                     "language": "pt",
-                    "summary": "# Summary\n\nChef Henrique Sá Pessoa, who has run a restaurant in Lisbon for 17 years and maintained a Michelin star for a decade, is taking creative risks in his cuisine. This news matters to food visitors because it highlights one of Lisbon's most established fine dining destinations where an experienced, award-winning chef continues to innovate. If you're looking for high-quality Portuguese gastronomy with proven credentials, this is a notable restaurant to consider."
-                },
-                {
-                    "title": "A menos de 1 hora de Lisboa podes comer bacalhau lascado com broa no meio de vinhas - versa - lifestyle",
-                    "source": "versa - lifestyle",
-                    "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxORUllVldxT0pvSjN0ck9qeXdrejVES1IwRVp5WjJNTEpUX2lTOXBWQUFKWmpwNzhYdDFQWDhfY0NsNTdTMzVTRTQ3ZWZjbTlURkdjY0pXMnQwdFdCbVFQZmJWemROd0lEOVUycy14ZktsMkEzUDZnVVFwYnNTaGhFSFdDVllEQVJHOVJuQkJCUTB1MVMtbzZNMGRScHRGTjlJd1JEdnZNOHJPZ0lyeW8tanBJbU1TUmVGb0U5T0pKR2swYUxoZWtRUUtFWkVvRFZjdW5COXdYbHQ0Mnpfc2UyZFpfbTc1TW9MTXY3VGZwSQ?oc=5",
-                    "publishedAt": "2026-05-04T18:15:00.000Z",
-                    "language": "pt",
-                    "summary": "# Summary\n\nThis article highlights a restaurant located within an hour of Lisbon where you can enjoy traditional Portuguese flaked cod (bacalhau lascado) with cornbread (broa) while dining among vineyards. Visitors to Lisbon looking for authentic Portuguese cuisine and a scenic countryside experience should consider this spot, as it offers both excellent local food and a picturesque vineyard setting just a short trip from the city."
-                },
-                {
-                    "title": "Manu Buffara assume restaurante em Portugal com foco em sazonalidade - Giro News",
-                    "source": "Giro News",
-                    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOT0w3UTBnZ0k4dlFJbFg0bWVBQkxGYUliX2VfZWQ2cGtNY21oMXQ3cWd0NXVIeUZTd1NCelVWWG1Cbm9xQmlhanJWa1VadkRjSDAzLXk4RHBERHlabkRtUlVhRVdNQkM4Z0k0MWllS05NX0tJdWJZSG4wUW0tdE15NDRmUUtydnF6Wmp1OW5IQkJMclRiakJLT2RRVHNORHg5dGZUa25B?oc=5",
-                    "publishedAt": "2026-05-06T13:27:57.000Z",
-                    "language": "pt",
-                    "summary": "# Summary\n\nChef Manu Buffara, a renowned Brazilian chef, has taken over a restaurant in Portugal with a focus on seasonal cuisine. This is significant for food travelers visiting Portugal, as Buffara brings her acclaimed culinary expertise and commitment to using fresh, seasonal ingredients, promising a high-quality dining experience that reflects both her innovative approach and local Portuguese products."
+                    "summary": "# Summary\n\nChef Henrique Sá Pessoa, who has operated his restaurant in Lisbon for 17 years and maintained a Michelin star for 10 years, is taking on new culinary challenges based on the confidence built from his long-standing success. Visitors to Lisbon should care because this established fine-dining chef's track record suggests his upcoming ventures will likely maintain high standards of quality and innovation in the city's restaurant scene."
                 }
             ]
         },
@@ -162,12 +186,12 @@
             "places": [],
             "news": [
                 {
-                    "title": "Club. Changes made at St. James' Park - thanks to your feedback - Newcastle United",
-                    "source": "Newcastle United",
-                    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQbktVd1RhTjhEaTNRdWJmVTdOS0I4NmkydTZCa21TVW8tOTZGRTJCakt4dnVuXzBKVUlwNVBBZ2czMDd0UmwtWjRDbHp0NjMtZ00tOWh1Q0tvbGY2cUxDMmcxZmR4U3RId21ZaVlSeUdHaEpfQjZTOHlNck1yeXotNEV2b1dlSWZzbDR0VVdBelhkVzNFRWxIUQ?oc=5",
-                    "publishedAt": "2026-05-05T10:44:55.000Z",
+                    "title": "The new restaurant in Newcastle that's already got people travelling from across the UK - Chronicle Live",
+                    "source": "Chronicle Live",
+                    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPeVNveWhSV25oMmdVUVF2UjlvZGd3dTRGaC1ja0Z5YV9UaFNyc1hHcmVlRVFZRnYxYjNvbXU3NXdodnFFY1I0ZzlNb09NaUVFUUtEeEJxV3JydW9WZ0JaY2d4UjZvaFFfQ2d3VldGbVRGQlhPMFdQV185RVpwVjZsczR5ODRId1Myamhobk5jSUwweldFQVZNZGZGUVUwd2dWRXNmRHJZWdIBrAFBVV95cUxORG1paVlQS0p2YXo0YmJsSy01WFROR2IteUFRZ3g4ajViMDhPY0prMjgwZzNTai03RXF6NUhvRm9nXzA2NThlWDFhNVpBMUNENTFlakxkcWtpQ2VSMGdLQjdwVWU0bEQ3SGpibnVzNDdzNXE3Mm5oRHc2M043eks0SjNEb0U0RnVLc2FyMmE0NlNUNkc4ZU90bmJxRE9zRnhydk9Zc0htcy1DV096?oc=5",
+                    "publishedAt": "2026-05-07T09:30:00.000Z",
                     "language": "en",
-                    "summary": "I appreciate you sharing this, but this doesn't appear to be a restaurant or food news article. The content is about changes made at St. James' Park (Newcastle United's football stadium) based on fan feedback. \n\nIf you have an actual food or restaurant news article you'd like summarized, I'd be happy to help! Just share the title, snippet, and any relevant details."
+                    "summary": "I don't have access to the full article content, only the title and source information you've provided. To give you an accurate 2-3 sentence summary focusing on the specific restaurant name, what makes it notable, and why visitors should care, I'd need you to share the article text or a longer excerpt.\n\nCould you provide the article content so I can summarize it properly?"
                 },
                 {
                     "title": "How I got here: Rich Cullen - restaurantonline.co.uk",
@@ -175,7 +199,15 @@
                     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQa2F6V1BLOHc4MkxuUjBvX0Y5eWxjM3ppd0R4RzF4VkNmT29kT0E3ZGlocXVpVFVvX3JiRWowLUtSWkJfQU1hVmZNN1UxWTY4VHUxalBhbnpUb2RWMUU0bDdJd1QzcFlTWktaQkozS0tTRjFRc0o3UFA3WGZhWEYzazUxUHUwOU1zYjFrcmcxT2JFSldwQTBlb1ZLVTU0aUE?oc=5",
                     "publishedAt": "2026-05-05T10:12:35.000Z",
                     "language": "en",
-                    "summary": "I don't have access to the full article content from restaurantonline.co.uk, only the title and snippet you've provided. The title suggests this is a profile piece about Rich Cullen's journey in the restaurant industry, but without the article body, I cannot identify which specific restaurant he's associated with or provide details about why visitors should care.\n\nTo give you an accurate summary, I'd need you to share the article text or a more detailed excerpt. Could you provide more content from the article?"
+                    "summary": "I don't have access to the full article content—only the title and snippet you've provided. To give you an accurate 2-3 sentence summary focusing on the restaurant, the news, and why visitors should care, I would need the complete article text.\n\nCould you share the full article or a longer excerpt? That way I can provide the practical summary you're looking for."
+                },
+                {
+                    "title": "Freight Island set for Newcastle launch - Bdaily",
+                    "source": "Bdaily",
+                    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPY3pyQkg1VDgwMTZDenEySFpaZnJpcGtmdEhjZ3lNd1djeW9UYzIwQ3JhRmdic2wteU43WHBRTlR5b1IwV3lwZTJPSHFfaG9XOHM2dzZ3bG9HS1VkNXVGV0Q2UmctQlhWMGF4WU9SV081QWt2d0xmclV2Y1pfMFMtNTdlRTEtWjQ?oc=5",
+                    "publishedAt": "2026-05-07T15:44:14.000Z",
+                    "language": "en",
+                    "summary": "I appreciate your request, but I'm unable to provide a summary since you've only shared the article's title and source information, not the actual article content. To give you a meaningful 2-3 sentence summary focusing on what the news is about, the specific restaurant details, and why visitors should care, I would need the full article text. \n\nCould you please share the complete article or its main content?"
                 },
                 {
                     "title": "Newcastle opening date confirmed for steak restaurant that's taken London by storm - Chronicle Live",
@@ -183,38 +215,21 @@
                     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOUmcwM09VNkZ1RG0zOElRYzg0RFJDMU1GNkVWQjQ0Y2E3TzBhRVJzSkxneGxvVEtnMjFLVktVTGhXdnZpQk9YN2R1dUg1cS1KYTNYbzRRR0JwM1BBUDllNzd0UFh5aDJ4MktnWE94NGZJeFdQajJBelZOVlhGQXBCcXdHOEZvN1VkVVhUbjdPSFA5TExwTU9WQ01BR0dnOUhpclFteWxXZ9IBrAFBVV95cUxPY0ZwWG85eDNOYU4tTWtQTVd5aWUySlV1YjEycWRjTEdVMnJwOWk2UnRXaExZZWpoVWI0WTlHc3pJbmZYZWZrRnlJd3FyQlZMUm1hZ1NXVGdzaGlzbVI0b1BKc0hPVGEtSGcxbzFPQWxWUE83dFB3YTRTUnpEZ1FqTk5nNzR5ZkNJNm1IbE1vbENVT215Z1BlZDYwVjFCYm5jcFJLX1lOZHd5R3VG?oc=5",
                     "publishedAt": "2026-05-06T15:58:00.000Z",
                     "language": "en",
-                    "summary": "# Summary\n\nI don't have access to the full article content to provide an accurate summary. To give you the specific details you're looking for—the restaurant name, opening date, and why Newcastle visitors should care—I would need to see the complete article text.\n\nIf you can share the article content or a longer excerpt, I'd be happy to summarize it in 2-3 sentences focusing on those key points."
+                    "summary": "# Summary\n\nA popular London steak restaurant has confirmed its opening date in Newcastle, bringing its successful concept to the northeast. This is significant for Newcastle visitors and food enthusiasts who want access to a restaurant that has already proven popular in the capital without needing to travel to London. The news highlights Newcastle's growing food scene and offers diners a new high-quality dining option in the city."
                 },
                 {
-                    "title": "'Geordie superstar' welcomed to 'best restaurant in Newcastle' - Hexham Courant",
-                    "source": "Hexham Courant",
-                    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUWxpV0czYjVfa3hyVDNUWFltV3FWRDliQUx3TUdoVWJ0NzRUOVMwcmRqWHJtT21ia0kyQ0ZmSFhmZElES2lBVTBMb2YwSVB1ckxsdmZFNC1vZ2g4VkY2QkcwOXoxWnhCU2Zwam1kdlVxWElBeGMyMnJlWGlxRXBwUm5nNWUzYTF6bkhqX1ZNOWRRQ1Q0Zm51QzhKdzViZWRrbWU2ZFVfb00?oc=5",
-                    "publishedAt": "2026-05-05T13:45:00.000Z",
+                    "title": "Newcastle restaurant loved for steaks and delicious Sunday dinners set to close this year - Chronicle Live",
+                    "source": "Chronicle Live",
+                    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNaENnQlQtdzhoeWFoM2otaDNsTHpPUk5NeVRtdmJKYzh6VnRLNWViTUZBOG4xRFMyNnR1bEhSTUlFeDhfaEN5Szk1eHg4VHJObXN3S2ttSnBpc3FwSTltaVhHSVJfNXVxSnpwQmg5bWQyMXk4cVdhY1NSRnphNjVkMnJydUU5YnUtS0gyZ2RyakV2WURHekdGSXJ0SWV3VEhBSW8yb1pVdGsyUHVqWGfSAbMBQVVfeXFMTUVoNTE5S1pzRmxmcUpyOEFuNjhVS29vT1p5Q3RsRkpBYlVVS3pLaVB2UjFSM3Q5VEE1ZHk2ZThpb0ZtLWdPQWJSV3lFaWdScXZQZ3Qxc1Z6Z192SmZlWTFwT0MtRlFnYU9aamxIb3BGU3IzWWIzZG1zTy1Zc1J6TUJfVVVoRER5TW1mcTc3UW93dHYxVDBTczJsU2tJVm1Lam1xZ1dvOEJ3NlhITU5Mb1k2WDA?oc=5",
+                    "publishedAt": "2026-05-06T10:13:00.000Z",
                     "language": "en",
-                    "summary": "I don't have access to the full article content from the Hexham Courant, only the headline and source information you've provided. To give you an accurate 2-3 sentence summary focusing on the specific restaurant, what happened, and why it matters to visitors, I would need to see the article text itself.\n\nCould you share the article body or a more detailed snippet? That way I can provide the practical summary you're looking for."
-                },
-                {
-                    "title": "Newcastle restaurant recognised at House of Commons event - Rayo",
-                    "source": "Rayo",
-                    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOcF90QW9JcjF3d3JpTTBBZ0MwUXZDVUV0VFRXa1V2czZCTV9meU0ydEh1S2xGNVhaUVl4QktDWVl4R2JDdnBTQl85eWd5QVNLRGtPY3BOdlpodWJyX2N6LUpfaVlyUlFmdi1wRlk3R0psc1dvQmtRUmtHUGVRQ0hjVnZ6bkRzR1h6VFhadlcyY2Yxb2otTXNQU042OFBmcFpqZ3NYUVpuc3U?oc=5",
-                    "publishedAt": "2026-05-06T17:48:41.000Z",
-                    "language": "en",
-                    "summary": "# Summary\n\nA Newcastle restaurant called Rayo has been recognized at a House of Commons event, indicating it has received notable official acknowledgment for its work or achievement. While specific details aren't provided in the snippet, this recognition suggests Rayo is a standout dining destination in Newcastle worth visiting for quality food or service. Visitors to Newcastle would care about this news because it highlights a restaurant that has earned parliamentary-level recognition, making it a credible choice for dining."
+                    "summary": "# Summary\n\nA popular Newcastle restaurant known for its steaks and Sunday dinners is closing later this year. While the article doesn't specify the restaurant's name in the provided snippet, this would be significant news for locals and visitors who enjoyed these specific dining experiences. Anyone planning to visit Newcastle and wanting to try this establishment's signature dishes would need to do so before the closure."
                 }
             ]
         },
         "tallinn": {
             "places": [],
-            "news": [
-                {
-                    "title": "Slava Ukraina restaurant closes in Tallinn after surviving arson - ERR",
-                    "source": "ERR",
-                    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOVjBPQmMzZVRNcUN6S3RVLWRtT0tERTJNZldnVF81WHlKekd4TXJGVzlxYnFCVDlrY0VQaTZLa3FKdWVBbHpsNzBRWm40d3BETG4zVE5PRUsyaktrMjBrX2NkVGQ5SXBvbGJ4cnFIclUxMTBBRDVLcGpaeUdWNmlTUDRwSjRzb21nUjh4Y255VDZvMVB4NUZYZ1FBcw?oc=5",
-                    "publishedAt": "2026-04-30T11:25:00.000Z",
-                    "language": "en",
-                    "summary": "# Summary\n\nSlava Ukraina, a Ukrainian restaurant in Tallinn, has closed despite surviving a previous arson attack. Visitors interested in Ukrainian cuisine or the city's dining scene will lose this dining option, though the closure is notable given the restaurant's resilience through the earlier incident."
-                }
-            ]
+            "news": []
         }
     }
 }
