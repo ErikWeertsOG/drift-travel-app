@@ -1,27 +1,10 @@
 {
-    "lastUpdated": "2026-05-20T08:50:53.315Z",
+    "lastUpdated": "2026-05-21T08:53:29.531Z",
     "source": "github-actions",
     "cities": {
         "cologne": {
             "places": [],
-            "news": [
-                {
-                    "title": "Großaufgebot der Polizei vor Ort: Mehr als 60 Beteiligte bei Massenschlägerei vor Shisha-Bar - General-Anzeiger Bonn",
-                    "source": "General-Anzeiger Bonn",
-                    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOTUlTZzQxVnlWR09pN0VodzMyeENXN19JNlJPOXZNX3A4UGw5QmlZYzNZMERaQUo3eUJxeVY5VWpBYmh1alNYblM0NXkzUTBzU0w4Vkh2ZVUtemVhVThaVDhqLVdEemcxWXZfMjhiaXpxcElVNGRJdUFiZmdSNi1EaWlCWHVFZThFRnpZTEpnQ1lERnI3YlpZTV9oU3JLWVp2SUc4ZnNYZldlMk5NODV5Tmln?oc=5",
-                    "publishedAt": "2026-05-19T08:43:00.000Z",
-                    "language": "de",
-                    "summary": "# Summary\n\nThis article reports on a large brawl involving over 60 people that occurred outside a shisha bar in Bonn, requiring a significant police response. While this is technically food/hospitality-related news, it's a public safety incident rather than dining news. Visitors to Bonn would want to be aware of this location for safety reasons rather than as a dining recommendation."
-                },
-                {
-                    "title": "Akuter Personalmangel in Gastronomie - Radio Köln",
-                    "source": "Radio Köln",
-                    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOX3dhZ2NqMjQ1MHpCdU9panRJRWFpZnRXWUExQ1NHalVZZHpqNmM1YThqeWZ3WXJITy1SSkROdF9ockFFcTZ6SlppVHM0WlZqUElkSnJUdFJneElMODRLOHZ2b2JFQjBnX2plSVNRckRicmtsTmN1ZUZTcjZIUUZialFoWlg?oc=5",
-                    "publishedAt": "2026-05-13T18:40:38.000Z",
-                    "language": "de",
-                    "summary": "I'd be happy to help summarize that article, but the snippet provided is incomplete—it only shows the title and source without the actual article content. \n\nCould you please share the full article text or a longer excerpt? That way I can give you an accurate 2-3 sentence summary with specific details about which restaurant is mentioned and why it matters for visitors to Cologne."
-                }
-            ]
+            "news": []
         },
         "amsterdam": {
             "places": [],
@@ -30,25 +13,9 @@
                     "title": "Joris Koudstaal en Daan van Splunteren openen restaurant Tacite - Misset Horeca",
                     "source": "Misset Horeca",
                     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOSzI0RDI1REpYLUFlU2VUeHUzNnNEWWtPWFVpOHRPeHdsaS1VSFVuRjJLMkw0d2p5WjluTkhoTkJPZTRTYjV1V1FtZHY3cUhiYmx3czNlV2pXelVtM0hMOHNYalFlSmNuYV9fUFRFWFVNXzdGc3lGX2Z3Y2pfOGNRMFAwc0hJcnoxbVhlMkwxaDdFZjRrTFZNYWMxTWxBcVk?oc=5",
-                    "publishedAt": "2026-05-20T05:28:36.000Z",
+                    "publishedAt": "2026-05-20T15:17:43.000Z",
                     "language": "nl",
-                    "summary": "I appreciate you sharing this, but the snippet provided is too brief for me to give you a meaningful summary. The text only repeats the headline (Joris Koudstaal and Daan van Splunteren are opening a restaurant called Tacite) without any details about the concept, location, cuisine, or significance.\n\nTo write a useful 2-3 sentence summary with the practical details you're asking for—what makes this newsworthy and why a visitor should care—I would need the full article text or a more detailed snippet."
-                },
-                {
-                    "title": "Waarom iedereen een tafel wil bij dit tijdelijke restaurant in Baambrugge (en je dus snel moet zijn met reserveren) - JAN Magazine",
-                    "source": "JAN Magazine",
-                    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQTVcxQkE2X2c5Z1dScGd2cE0xbFJZcTdPc3VpTmJxWFExaktBNDk0VWpDUTk0MW5Ua18xMXZNUGJXRE5UOHRoZHhzamVrSDljV0dyZTFUU1NhOFEyTktKM1gxeHFMOHFleldTaE4tQkVwMnUtamV6LTNJR0R2TVBoLVB1QnpYWmdKcjIzWWdlMFBCcHpVdmJSZg?oc=5",
-                    "publishedAt": "2026-05-20T08:32:27.000Z",
-                    "language": "nl",
-                    "summary": "# Summary\n\nA temporary restaurant in Baambrugge has become highly sought-after, with reservations filling up quickly due to its popularity. The article (from JAN Magazine) highlights why this pop-up dining spot is generating so much buzz in the area. If you're visiting the region and want to dine there, you'll need to book a table promptly as availability is limited."
-                },
-                {
-                    "title": "Karlijn: ‘Als je van barbecue-smaken houdt, wil je dit restaurant in Amsterdam proberen’ - NSMBL",
-                    "source": "NSMBL",
-                    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQNDh3ZUJsSzFMUlpSOVl0eE8yUTVFbHAxVFlVRG84SVhDX0ZldUR0TkFvUXRSZ0E5aERXLWswSVBwQzVjRXJMYVZVR04tZXU0T1VfRGNHcXg3SHVYRVVQdFRNb21Yc1g3aGc2UkRzd1BFT0d3VTlBLUNCbGFTeWRZZk1yWnd2QzVaNDFGZ1R1OGpGcFFkZ3g4dFRmdE9RbUNIbVYySi1xanpQdw?oc=5",
-                    "publishedAt": "2026-05-14T14:00:00.000Z",
-                    "language": "nl",
-                    "summary": "# Summary\n\nKarlijn is a new barbecue restaurant in Amsterdam that specializes in barbecue flavors and is worth trying if you enjoy smoked or grilled meats. Visitors to Amsterdam who appreciate authentic barbecue cuisine should add this spot to their dining list, as it appears to offer a distinctive BBQ experience in the city."
+                    "summary": "# Summary\n\nI don't have access to the full article content to provide an accurate summary. The title and snippet indicate that chefs Joris Koudstaal and Daan van Splunteren have opened a restaurant called **Tacite**, but I'd need the complete article text to explain what type of cuisine it serves, its location, and why visitors should care about it.\n\nCould you share the full article text so I can provide a proper 2-3 sentence summary?"
                 },
                 {
                     "title": "Chef en gastvrouw van restaurant de Poldervogel werden gevormd in De Kas en Vuurtoreneiland: ‘Mijn passie ligt bij het maken van mooie herinneringen’ - Het Parool",
@@ -56,15 +23,31 @@
                     "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxOU2NwdHhyaDVpYmNUTEFyZXl5bXFHS2hnNEVJWnc5UWFFcW83b0FSRHJvOFRWMjE2TUpId1dfUkpQZV96aEZyamZwTlhBcUNDV04wY2pSLUFYa1BlMkxzbko4QXpENFY3Q2ItS0F2WlFKbmNwZmRHR0ZUN2xBNGxUcDJNZTFfb3pxWENNcVRYRGhkY2ZrZWRzYkJIVWc0NXdTcV9yUVBOSUNjNURwWFEwdnhsazlTMUY2VHZuYzl0X0xVaVNzejQzMTB3dTVaOVNsTGwtUmxyM2FCNkZhbGY3OHg1dHhUcGdWWTNPM3dlMHhnUFVKclpnYTRyQWsyVlJaYkNZQzd0TGlNSGN1M2dsUWoySGN3d1g2N19tczJFYTg?oc=5",
                     "publishedAt": "2026-05-18T01:00:00.000Z",
                     "language": "nl",
-                    "summary": "# Summary\n\nThe chef and host of Amsterdam restaurant **De Poldervogel** were trained at prestigious establishments De Kas and Vuurtoreneiland, bringing refined culinary expertise to their new venture. The team is passionate about creating memorable dining experiences for guests. Visitors to Amsterdam should care because this restaurant combines fine dining credentials with a focus on personal hospitality and memorable moments."
+                    "summary": "# Summary\n\nRestaurant de Poldervogel's chef and host were trained at prestigious Amsterdam dining establishments De Kas and Vuurtoreneiland, bringing refined culinary expertise to their new venture. The team is focused on creating memorable dining experiences for guests. Visitors to Amsterdam should care because this restaurant offers quality food and hospitality informed by training at well-regarded fine dining institutions."
                 },
                 {
-                    "title": "Frites Atelier opent pop-up in Amsterdam bij Café Jopie - Foodclicks",
-                    "source": "Foodclicks",
-                    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNS3hUSEpHMlN5VDhhNDZwTkNsYTlKX0l0QmpNaUxxN1B1ZkdPclF1VEhHQ25YTjdvaW94NHFtMFk5RFE2VVBma0Y4T0lBTkNTcUpRZnBsc192eWVZSXFvMnluMHA1MHlXOWNRZ0IxazdyTG9qbWFrWFc1VDJjWnlwYlhLTkgzT2VkQ2tWX1Y3TEIyb2M?oc=5",
-                    "publishedAt": "2026-05-17T07:41:24.000Z",
+                    "title": "Karlijn: ‘Als je van barbecue-smaken houdt, wil je dit restaurant in Amsterdam proberen’ - NSMBL",
+                    "source": "NSMBL",
+                    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQNDh3ZUJsSzFMUlpSOVl0eE8yUTVFbHAxVFlVRG84SVhDX0ZldUR0TkFvUXRSZ0E5aERXLWswSVBwQzVjRXJMYVZVR04tZXU0T1VfRGNHcXg3SHVYRVVQdFRNb21Yc1g3aGc2UkRzd1BFT0d3VTlBLUNCbGFTeWRZZk1yWnd2QzVaNDFGZ1R1OGpGcFFkZ3g4dFRmdE9RbUNIbVYySi1xanpQdw?oc=5",
+                    "publishedAt": "2026-05-14T14:00:00.000Z",
                     "language": "nl",
-                    "summary": "# Summary\n\nFrites Atelier, a specialty fries restaurant, is opening a temporary pop-up location in Amsterdam at Café Jopie. Visitors to Amsterdam interested in high-quality fries will want to check out this limited-time opportunity to try the restaurant's offerings at this established café location."
+                    "summary": "I appreciate the question, but I'm unable to provide an accurate summary because the article content itself isn't included—only the title and source are provided. \n\nBased on the title alone, I can tell you that **Karlijn is a barbecue restaurant in Amsterdam** that would appeal to barbecue enthusiasts visiting the city. To give you a proper 2-3 sentence summary with specific details about what makes it notable, I would need access to the full article text.\n\nIf you can share the article body or more details, I'd be happy to provide a concise summary!"
+                },
+                {
+                    "title": "Waarom iedereen een tafel wil bij dit tijdelijke restaurant in Baambrugge (en je dus snel moet zijn met reserveren) - JAN Magazine",
+                    "source": "JAN Magazine",
+                    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQTVcxQkE2X2c5Z1dScGd2cE0xbFJZcTdPc3VpTmJxWFExaktBNDk0VWpDUTk0MW5Ua18xMXZNUGJXRE5UOHRoZHhzamVrSDljV0dyZTFUU1NhOFEyTktKM1gxeHFMOHFleldTaE4tQkVwMnUtamV6LTNJR0R2TVBoLVB1QnpYWmdKcjIzWWdlMFBCcHpVdmJSZg?oc=5",
+                    "publishedAt": "2026-05-20T08:33:25.000Z",
+                    "language": "nl",
+                    "summary": "# Summary\n\nA temporary pop-up restaurant in Baambrugge has become highly sought-after, with tables booking up quickly due to high demand. The article suggests this dining spot offers something special that's generating significant buzz among diners. Visitors to the area should book reservations promptly if they want to experience this limited-time restaurant before it closes."
+                },
+                {
+                    "title": "De beste restaurants in Amsterdam: bekijk onze recensies op de kaart - Het Parool",
+                    "source": "Het Parool",
+                    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxObmYtQUE0NFp0OWI4ODlreXVTbFFRb2Jid2JZMFNjcy1OcEU4TUszTFhpZVRmaUc4Si1nS3BDcVRuWFJTaEM3TjBwdU5TblBmeDBUSmo2RlRVYWxxTDNXRlA5cnlBRHFfWG8zY2lwajhmdDlHQm9VamVuWVdZc3ptdk9VVkVuZkM1UXpTME10WQ?oc=5",
+                    "publishedAt": "2026-05-16T01:00:00.000Z",
+                    "language": "nl",
+                    "summary": "I'd be happy to help, but the snippet provided is just a title and doesn't contain the actual article content. To summarize the news properly, I would need the full article text.\n\nBased on what's visible, it appears to be a guide from Het Parool about the best restaurants in Amsterdam with map-based reviews, but I can't provide specific details about which restaurants are featured or the key takeaways without seeing the actual article content.\n\nCould you share the full article text?"
                 }
             ]
         },
@@ -72,12 +55,28 @@
             "places": [],
             "news": [
                 {
+                    "title": "Hotspots: 12 nieuwe restaurants in Antwerpen voor op je bucketlist - ELLE.be",
+                    "source": "ELLE.be",
+                    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE16UnpQUzZ3NDdEbFZsWGtZWEI5MDA1dnRlZkxNcGdFdWhMLS00UXlxdzlSSlhEVEtwVmk0Z1pDVWtRMU1mQUVwRXlTa0VRYl91N1ZPc21PQkVXX1IzelVJR0wycEJOR3hmeTFNMU5VbzhHQ1MwMXJRUmh5YXI?oc=5",
+                    "publishedAt": "2026-05-16T07:00:00.000Z",
+                    "language": "nl",
+                    "summary": "# Summary\n\nThis article highlights 12 new restaurants that have opened in Antwerp and recommends them as must-visit dining destinations. While the specific restaurant names aren't listed in the snippet provided, the piece serves as a curated guide for visitors and locals looking to discover the city's latest food scene hotspots. Anyone planning to eat out in Antwerp would find this useful as a starting point for exploring trendy new dining options beyond established favorites."
+                },
+                {
+                    "title": "Hoera, daar is de zon! Ontdek 7 hippe zomerbars in de Antwerpse Rand - HLN",
+                    "source": "HLN",
+                    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQTUlRcFJBcVRwamVBY0R1NGV2VExiWWlxaHA3aXFUaFpPeHloeERjazBuZ2R2amtyZ202Y2M3OEo1c2NITWhRX241QmNuV1JVZzN5ZkJxem5rMF95a1JmNGplS1pDUDd5M3gxOXN6V25kOWJTVDdOWHhZNnVVWTdobF9YblpqNFR0Y2FtZzVDcWZiVGszMEFxdzVuM19sOF9mb2YtdmthZ3g?oc=5",
+                    "publishedAt": "2026-05-21T06:31:53.000Z",
+                    "language": "nl",
+                    "summary": "# Summary\n\nThe article highlights 7 trendy summer bars around Antwerp that are worth visiting now that sunny weather has arrived. While specific bar names aren't detailed in the snippet provided, the feature focuses on seasonal outdoor dining and drinking spots in the greater Antwerp area. Visitors to Antwerp would find this useful for discovering popular places to enjoy drinks and food in a social atmosphere during the summer months."
+                },
+                {
                     "title": "Restaurant Nage: à la minute in Antwerpen - Barts Boekje",
                     "source": "Barts Boekje",
                     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE0xRk9QY2c5eUpHZUlla1ZhTlZQdmlEYnZ3c0w2V21fbHBHTTBqOVJQR3ZhR2FsNk1mWXRjcVlZblRmOG9FZXlIYW8tOXotTWZ0aTQ3TkpFT3Z0QnhYVVZ1aUV1U1k?oc=5",
                     "publishedAt": "2026-05-19T16:29:48.000Z",
                     "language": "nl",
-                    "summary": "I appreciate you providing the article details, but I'm unable to give you a proper summary since only the title and source information were provided—the actual article content/snippet isn't included. To summarize what the news is about, which restaurant is mentioned, and why visitors should care, I would need the full article text. \n\nIf you can share the complete article content, I'd be happy to create the 2-3 sentence summary you're looking for about Restaurant Nage in Antwerp."
+                    "summary": "I don't have access to the full article content—only the title and source information you've provided. However, based on the title, **Restaurant Nage: à la minute** in Antwerp appears to be featured in a restaurant guide or blog called Barts Boekje. The phrase \"à la minute\" suggests the restaurant specializes in fresh, made-to-order dishes prepared individually. To give you a proper 2-3 sentence summary with specifics about why visitors should care, I'd need the article's full text."
                 },
                 {
                     "title": "Rellen in Antwerpen na actie van omstreden YouTuber ISAE: 7 arrestaties, onder wie 6 minderjarigen - VRT",
@@ -85,15 +84,7 @@
                     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQT1VuUlBqY0JWMVJHMVJaaGt4Sy0zeW5xWVNTYldDU2lBbWNhN2JXSzlYV2hxN3VMWmhwMkhTclNTbi1WSklwMV9WSlNQUmlVX0k4cHdWanctMkJPRlg3WjIyM3hwUDRqaXBTQmFrSFNKSkUtOW03Zmw3N28zbUhfSWhreHRYcGRmS0l0NjVSWEI4RXpOMzQ4OFV6bENtSWhJWFEzdkJn?oc=5",
                     "publishedAt": "2026-05-17T04:12:18.000Z",
                     "language": "nl",
-                    "summary": "I appreciate you sharing this, but this article doesn't appear to be about a restaurant or food spot. The headline is about riots in Antwerp following an action by a controversial YouTuber named ISAE, with 7 arrests including 6 minors—this is a news story about public disorder, not a food or dining establishment. If you have a restaurant/food news article you'd like summarized, I'd be happy to help with that instead."
-                },
-                {
-                    "title": "Komst van Youtuber ISAE veroorzaakt rellen in Antwerpen: “Restaurant en politie bekogeld met stenen” - Nieuwsblad",
-                    "source": "Nieuwsblad",
-                    "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNWXN5aDJma2xYOUtEVXQyWENJZnlBWXFteC1RY2REQVQtWEl6UTR1eGl1YUZHZFY2aGxKSzdGaWJLd25DSUNBLV9XdDZnY0xYOC1kRnE3cl9CZWFkaVNoam9qZ0FFQ2szYXdIVWJaeVRUT1I4enFTQzNPdTFWZEpERG5tM3BXdzNWa2czMll3SjRIWjRreFZ2MDBwY2Z3ZTFUTFpmZGplZkhaY2FtMl9aM09URmxLYjFEazIyRDJydXRZR3dQVkJGTk5QMmZJUzVVQlBDVGsxTGN3aWlxN21JVTFxMTF6UHFROVRiS2NXNi1heXV2XzZWaHhNenMxWGFVa2huQXBJOEpmYzRE?oc=5",
-                    "publishedAt": "2026-05-16T21:13:03.000Z",
-                    "language": "nl",
-                    "summary": "# Summary\n\nA popular YouTuber named ISAE's visit to Antwerp caused riots, with a restaurant and police being pelted with stones. The incident disrupted the area and created safety concerns for both the establishment and law enforcement. Visitors to Antwerp should be aware of potential crowd disturbances related to influencer visits that could affect dining experiences and public safety."
+                    "summary": "I appreciate you sharing this, but this article isn't actually about a restaurant or food spot—it's about riots in Antwerp following an action by a controversial YouTuber named ISAE, which resulted in 7 arrests including 6 minors. Since it doesn't contain restaurant or food news, I can't provide the food-focused summary you requested. If you have a restaurant or food article you'd like summarized, I'd be happy to help with that instead."
                 },
                 {
                     "title": "De lievelingsplekjes in ’t Stad van actrice Daphne Paelinck: “In dit restaurant lust ik de Vlaamse asperges wel” - GVA",
@@ -101,73 +92,48 @@
                     "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxPMENzYWpGXzVKVkIyLWxfZG5uVzNfS1pnNDBZa3BmcDZTNTdxVmpEUkRtOTlTanVTZ08tbmh2eGtqVDBYc1pQbHNoNTN3MF9EbkZUMUVfREItajJ1a2FvSkhuclZpcl9KUzNyMzNBXzB6MUlGcXV4czcySG5TSHh5X3ZhNFVJUElid2tuLThob2xyM1lDalR6VTlacmtZOXRDQU1LbGlhLUJWd1E4b2pPVE1yNUNjajdEbXF0TWtDZ0ZLbWxPNW55aWZtY1p6ajNYMjhFRno4LTFUMHpZT0NBNHRDVHo3a1lfN1l4T25WTm13bkJBaDJGZ1JYNjM5OVc4SkgzNUhQV3ExaXl6dmZwRk5B?oc=5",
                     "publishedAt": "2026-05-18T09:00:00.000Z",
                     "language": "nl",
-                    "summary": "# Summary\n\nThis article features Belgian actress Daphne Paelinck sharing her favorite spots in her city, with a focus on a restaurant where she particularly enjoys Flemish asparagus dishes. The piece highlights local dining recommendations that reflect the actress's personal tastes and preferences. Visitors to the city would find this useful for discovering authentic local restaurants and seasonal specialties favored by someone who knows the area well."
-                },
-                {
-                    "title": "Rellen in Antwerpen tijdens bezoek van populaire Nederlandse youtuber: politie pakt zeven relschoppers op - HLN",
-                    "source": "HLN",
-                    "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNd25LSVN5cHlLSGwyYUxZY3g4R2ItTW4zSFowNV9LTFhCeThwdFE0MjNzMHU0enlLNGNUbGhZaDN3TUwzX1NVZXBIRERVUGd0eDFidVB3RTdmcHpZV2xnMFJuTXM3MkRGb0hQY0p1eXNFYW1oM0hWdUJtQzJRdFNMSE82TDdiOFVobDNvNkNUOFRlV0RQWTBBWm10UE9KQ1NicFFNNUF0N1pLOTl0VU5CNkhOVTBickpBM3ZhTWNKTUFiUVlZaHVaUXRqeEtwTS1MaVFKYy04SVNFVFJQ?oc=5",
-                    "publishedAt": "2026-05-17T06:00:23.000Z",
-                    "language": "nl",
-                    "summary": "# Summary\n\nI appreciate you sharing this article, but I'm unable to provide the summary you requested. The article appears to be about riots in Antwerp during a visit by a popular Dutch YouTuber (with seven arrests made by police), rather than restaurant or food news. \n\nCould you please share an article that's actually about a restaurant or food establishment? That way I can give you the practical summary focusing on the dining spot and why it matters for visitors."
+                    "summary": "# Summary\n\nActress Daphne Paelinck shares her favorite dining spots in her city, highlighting a restaurant where she particularly enjoys Flemish asparagus dishes. Visitors to the area would find this useful for discovering local, celebrity-approved restaurants and seasonal specialties worth trying. The article appears to be a guide to the city's best food destinations based on a local personality's recommendations."
                 }
             ]
         },
         "lisbon": {
             "places": [],
-            "news": [
-                {
-                    "title": "Da noite para o dia: neste icónico bar de Lisboa, ao fim de semana, a campainha também toca ao almoço - Expresso",
-                    "source": "Expresso",
-                    "url": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxQMmlscFBuOGJJejRJMk9fSFpsR3VrdXR2OW1nR0ZKZXBXS0szR2xzSU9Pc19rRnU1bVlfT091cXZKb19nUGs3bTIxNDdJT2lhM181VlZieUtXZ1ZCRlAxTW1LRlhfLWFacDJvczZObGgtNHZrZHV3dkxqMF9SYlNRcHBON2Z1TGRxQzhKU3N2X3htaUc2WGxhNkxINkN4WmxSdEU2N1ZjYnM4dmUwQXZIaDRNWXJnYzJtZ0VDTVZjZVdmbFVfUlI1eFhSSE15VWUyckhYeGZpdWJRLVpnZTdrM2NZUkFjZHgyV2ZUQ3VEcGtISlRhczZPbmVKZnB0bllocEtkNWExYTU2bWpkZjdIZlJtUi02MVA2R0JUTWlVbWtib0JfUFZhVw?oc=5",
-                    "publishedAt": "2026-05-15T13:44:52.000Z",
-                    "language": "pt",
-                    "summary": "# Summary\n\nAn iconic Lisbon bar is now opening for weekend lunch service in addition to its traditional nighttime hours. The article highlights this shift in operating schedule for a well-known local establishment. Visitors to Lisbon would care about this because it expands access to a popular, historically significant bar venue during daytime hours on weekends."
-                },
-                {
-                    "title": "Esta churrasqueira nas Laranjeiras serve um dos frangos assados mais falados de Lisboa - nit.pt",
-                    "source": "nit.pt",
-                    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOekxyNEZ6WDRvQnVvam1pREliYkRPVUtod05ReTNFMzZfNGdhdUN3eEJfSnNlUlRhWDdPVTlCd2k2NjhndVo3UzJyV3pEcXJxTDBDTXB0NmlVd3ktd3ZwYkJVZHh2Wnozd0VRa3hYcnpLaFVvTkZ4OHhLSUtYalR2RVVFYmZYeVUzSVdoNEI3TVYwdHBYVW9iYnoyWi1QVzBpMElBMWs4SHpUX3I2SmtIYWtxV1pVU3J5YWxudlhaNjJhMnM?oc=5",
-                    "publishedAt": "2026-05-17T11:36:00.000Z",
-                    "language": "pt",
-                    "summary": "# Summary\n\nA highly-acclaimed rotisserie restaurant in Lisbon's Laranjeiras neighborhood is gaining buzz for serving some of the city's most talked-about roasted chicken. Visitors to Lisbon should care because it's become a notable dining destination for authentic Portuguese grilled chicken, making it worth seeking out if you're looking for highly-regarded local food in that area."
-                },
-                {
-                    "title": "Ex-vereador da Câmara de Lisboa vai ser julgado por licenciar obra ilegal de restaurante - Jornal de Notícias",
-                    "source": "Jornal de Notícias",
-                    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOUkRZdWVYTF9IM0hENEZ4b3BHdHozZHBEQU9ldjBZSzliaWhET0NzTmtPUU0xYnBMQ1VuLS1hcm56d3RnQVlRR3RELXBZNThnUzNQTXpJMnBtQURFWWEtd3MybEYzamtDLTZDS3NLeGxwcWhBU2FDYmNoVUVqMHpRbGJ6U2pQY3p6U1JVaU9XRzc4WGZQR3JtaFFLYV8tbWRadXdQVEIxYmV4aFZkekFhT2JwUjdTTG84eVNYUjJfOEJZQWtoOVZYb0NR?oc=5",
-                    "publishedAt": "2026-05-16T09:28:00.000Z",
-                    "language": "pt",
-                    "summary": "# Summary\n\nA former Lisbon City Council official is facing trial for illegally licensing construction work at a restaurant. While the article doesn't specify which restaurant is involved, this highlights potential regulatory issues in Lisbon's dining scene. Visitors to Lisbon should be aware that some establishments may operate with questionable permits, though this appears to be an isolated legal case rather than a widespread problem."
-                }
-            ]
+            "news": []
         },
         "newcastle": {
             "places": [],
             "news": [
+                {
+                    "title": "Well known Newcastle pub to close its doors this year to become American BBQ restaurant - Chronicle Live",
+                    "source": "Chronicle Live",
+                    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPbUZiRjRYZGdVV216X01KeHpZeDB5ems0SVRrbkJiQURhZDlBYlBjV0pVLWQ2bUVDN2VGWGMzcl9JWGpRU3REY2lRdXNiUklUWTRLWUU3d2RiVFB3RU9qWXNxYksyUWdSUFdYQ3VDRWRaS2hZVDgxeFJhZkhDcWdTYm9BTTlmeUlnQXBnZDBVZVlNbWxTMG9fNWdVWDbSAaIBQVVfeXFMUGZlUkpiN3ppbVQwTGc0aXZCTmsxZlFneWx3VzFEdnRkNlZhb01iSHpsWm51ZW8xcWhEWmltUC02azJ1R2VRbDdTYl9tRVRwY01XWng5T19XQnR5TmlRMnFzLXB6dlQwZ2FOdnpRTkxJVVNSN3dNYTlFMVF6LTFEUERId01sczNvY0tvTm5yY0xOOW9YaGEtXzlPNktzWGpiYlpB?oc=5",
+                    "publishedAt": "2026-05-20T10:29:00.000Z",
+                    "language": "en",
+                    "summary": "# Summary\n\nA well-known Newcastle pub is closing this year and will be replaced by an American BBQ restaurant. While the article snippet doesn't provide the specific pub name or exact details, this represents a significant change to Newcastle's dining scene. Visitors to Newcastle should be aware of this transition if they're familiar with the original pub, as they'll need to adjust their dining plans and can look forward to a new BBQ dining option in the city."
+                },
                 {
                     "title": "'New lease of life' after major refurbishment at 'modern' Newcastle pub - Hexham Courant",
                     "source": "Hexham Courant",
                     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPeWhCa2QyODY1enhkbjJBbzJESHdiWk4zUm9NOE81T3ZCc182Z0FHSVFlZUMwTVFHV1RKMm5ya3REZjVYaW14aG5uMWJGVG5VZ2ltWmRfb19Cc3JYaDdKaDVKNVpGS0puSjNkdlFsejQyVWdqdkRvQmJpdEg5Vm1kN1pwX0ptbkM0bUR1V3dCR2pVN3hwdHJLaVVWTHVLaEdH?oc=5",
                     "publishedAt": "2026-05-19T11:46:01.000Z",
                     "language": "en",
-                    "summary": "I appreciate you sharing this, but the article snippet provided only includes the headline and publication info—not the actual article content. To give you an accurate 2-3 sentence summary focusing on the specific restaurant details, why it matters to visitors, I'd need the full article text. Could you share the body of the article or a more complete excerpt?"
+                    "summary": "# Summary\n\nI don't have access to the full article content beyond the title and snippet provided. To give you an accurate 2-3 sentence summary with specific details about what changed, which pub was refurbished, and why visitors should care, I would need the complete article text.\n\nIf you can share the full article or more details, I'd be happy to summarize it for you focusing on those practical points for visitors to Newcastle."
                 },
                 {
-                    "title": "Restaurant giving away free wings today with 2,600 portions up for grabs - Chronicle Live",
-                    "source": "Chronicle Live",
-                    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNMmtBaE9sLUR5eHlRdS13YVZNX3ZWZkd2cHlGLVdqc1FmR1IycnQxV0VDNnJOYWd2R09nQmlwdzEwV1dJQ3JvUHlTRHoxQnJQaENpMFg3MnhhNzVKZGFxYU4weGxBcWpyWWJhSUlqTTJZSmI0Z3VtT19UV09pTkxvV2Jwd3lmc3Y5c1gzbDVVLUl0RnhUZ1BxSTNfTQ?oc=5",
-                    "publishedAt": "2026-05-20T07:58:00.000Z",
+                    "title": "'At least it wasn't on my head': King laughs off bird poo misfortune - BBC",
+                    "source": "BBC",
+                    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBueFI3VmJJY1FJR3o2V3kxY0tNc0RmM1htYWlCdVpoV0ROeGtkd0NZRmhVNlBzQ09SQjRRN0UtLWRxVjIwQWZ6RENULVpmMlpzeVhaMXRvRVk1OTZf?oc=5",
+                    "publishedAt": "2026-05-20T15:36:07.000Z",
                     "language": "en",
-                    "summary": "# Summary\n\nA restaurant is giving away 2,600 free portions of wings today, offering a great opportunity for visitors to enjoy complimentary food. While the specific restaurant name isn't provided in the snippet, this is noteworthy for anyone in the city looking for a free meal or wanting to try a popular spot without paying. This type of promotion is ideal for budget-conscious travelers or locals wanting to sample the restaurant's offerings at no cost."
+                    "summary": "I appreciate you sharing this, but this article appears to be about King Charles and a bird incident—not about a restaurant or food establishment. The article doesn't seem to match the criteria you mentioned (restaurant/food news, a specific dining spot, relevance to visitors). \n\nCould you double-check that you've shared the correct article link? If you have a restaurant or food-related news piece you'd like summarized, I'd be happy to help with that instead!"
                 },
                 {
-                    "title": "What a view you get from this 1-bed apartment at The Bar in Newcastle - NewcastleWorld",
-                    "source": "NewcastleWorld",
-                    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPZ0Jxb0ZIV1ZsVzdqM0hCSjJqVHZyZDQ4bGpUSVJYam5va2ltaHAyRXB2Z2x1b1Q4OGVNNEs2ZG13QnFpbWdseWJmVGNqS2o4d2VLdWRrM0hmNnJUS041cGt6SlIzc0VYX3ZHWDdCUEFlbVlzQnpiSEtOalZrWTN0b2dCT2lhbDJsQ3JoVXRLMXR4UmNkejVHSWF2MmFmbjg2MVhnekZWWUg5SXhxNG5B?oc=5",
-                    "publishedAt": "2026-05-19T15:00:00.000Z",
+                    "title": "Newcastle restaurant accused of unpaid super and false pay slips - Newcastle Weekly",
+                    "source": "Newcastle Weekly",
+                    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOdnFvN0RheEZ1UDJQS01aYWdSMjdMemF4cU9EdkVNVVFENXhSNXh6VTljQ2JDTEZKUnMyWG5vaG16SUY1Q2dOSl83Rkk3U21KOHNZb2RSVUJUVWg4Tlh2ekhmMnpjR3JZMUhTUGN0Tm1QaHJnX0dKSlJOVDRIWjd5QTNtTGJ4QnNWNzRwZ2RxUjJOMHpXbkZCTUQ2MXI?oc=5",
+                    "publishedAt": "2026-05-21T05:45:00.000Z",
                     "language": "en",
-                    "summary": "I appreciate you sharing this, but the article snippet provided is too limited for me to write an accurate summary. The title mentions a 1-bedroom apartment at \"The Bar\" in Newcastle with a view, but the actual article content isn't included—only the headline and source information.\n\nTo give you a helpful 2-3 sentence summary focused on what visitors should know, I'd need the full article text. Could you share more details about what the article discusses?"
+                    "summary": "# Summary\n\nA Newcastle restaurant is facing accusations of failing to pay employee superannuation and issuing false pay slips, raising serious concerns about labor practices and worker protections. While the article doesn't name the specific restaurant in the provided snippet, this type of violation typically affects worker rights and business credibility. Visitors to Newcastle should be aware that such incidents highlight the importance of supporting establishments with ethical employment practices."
                 },
                 {
                     "title": "Pablo’s serves up sixth site in Newcastle - Bdaily",
@@ -175,15 +141,7 @@
                     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZWRPX0l1S1RCUnk4NUJuNS1kempzVXZIWnBvRlFtMVNYWGNzNmswaldoOVlFVVJ2MFNEX3dWdDkxX3IwQU9vZDcxbkVqdnFBMXFtWXl6empvVjRvd0cycXZOalQybXMweS1GN011UUNmT3NDS3JoSk0wRjRRN1VCemNGRGFLcndK?oc=5",
                     "publishedAt": "2026-05-18T12:54:31.000Z",
                     "language": "en",
-                    "summary": "# Summary\n\nI don't have access to the full article content, only the title and snippet you provided. Based on what's available, it appears that **Pablo's** (likely a restaurant or food establishment) has opened its sixth location in Newcastle. Visitors to Newcastle would care about this news because it indicates the restaurant's expansion and potentially increased accessibility to dining options across the city, though specific details about the cuisine type, location, or what makes this expansion noteworthy would require reading the full article."
-                },
-                {
-                    "title": "Viral breakfast spot Pablo Eggs Go Bao to open new store in Newcastle - see when - The Northern Echo",
-                    "source": "The Northern Echo",
-                    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQeGVzWFVxR1hyelF4VTFvTktRckFFUU90VGRvS19kd0xQM2h5VFFEVkp2d212dWpqN3RVRVQtc1pQRHVURmVWWDNBYnJpTWs4NnNYV2JlN09pT2JxSENGLUJKa2tzZ3dubzA0ZXZJamRyRk5sNmRYMWwzdXhsaS1YSzJWSUkxQWRkMnFuenRoSmctSW1RMmZRMUV6eVV5UQ?oc=5",
-                    "publishedAt": "2026-05-18T10:41:39.000Z",
-                    "language": "en",
-                    "summary": "# Summary\n\nPablo Eggs Go Bao, a viral breakfast spot known for its trendy egg-based dishes, is opening a new location in Newcastle. The expansion brings the popular restaurant chain to a new city, giving Newcastle residents and visitors access to the Instagram-worthy breakfast concept that has gained significant social media attention. This is notable for food enthusiasts visiting Newcastle who want to try the hyped dining experience without traveling to existing locations."
+                    "summary": "# Summary\n\nI'd be happy to help summarize this article, but the snippet provided is incomplete—it only contains the title and source without the actual article content. To give you a concise 2-3 sentence summary with details about what Pablo's is doing, their specific location(s), and why it matters to visitors, I would need the full article text or more details about the news.\n\nCould you share the complete article content?"
                 }
             ]
         },
@@ -196,7 +154,7 @@
                     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBGYVhPRFljYUJDcGgtRzBfUXhJb2ljbmREYXhrOHJDNUlYUElHV0NSUXp6ZUlLMktIZWpJOEs5MGlyazV6Z05JTS0wUkI1MnJ6ZWpnbHdlR25DbENuX3VtVWxfYVFUa2E5c3BOTmJaeG1yQ3NxZFE?oc=5",
                     "publishedAt": "2026-05-16T06:38:47.000Z",
                     "language": "en",
-                    "summary": "# Summary\n\nI don't have access to the full article content to provide an accurate summary. However, based on the title, this appears to be a feature about a chef in Tallinn, Estonia who specializes in Estonian cuisine, likely recommending the restaurant as a must-visit destination in 2025.\n\nTo give you the specific restaurant name, chef details, and why visitors should care, I would need to read the complete article. If you can share the full text, I'd be happy to provide a concise 2-3 sentence summary with those practical details."
+                    "summary": "# Summary\n\nA chef in Tallinn, Estonia has created an exceptional dining experience that showcases authentic Estonian cuisine, inspiring visitors to appreciate the country's food culture. While the article doesn't specify the exact restaurant name in the snippet provided, it highlights why food-focused travelers should visit Tallinn in 2025 to experience innovative Estonian cooking. This would be valuable for visitors seeking authentic local culinary experiences beyond typical tourist fare."
                 },
                 {
                     "title": "43 Estonian restaurants get Michelin nod - ERR",
@@ -204,7 +162,7 @@
                     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB6S3llNzdLQWpCdzhNVWtGUnVuN1d5UnlOcEdnVFFtUUlLUEJ0VXdKVTk1dXcxekJ6QnpFRjVGM0kzMTRBbjMwUTJMbWhFbm5teEhYSG41MkNZbmU2dHZWVHNjMU5MTlFjUkhxSm91ZlRocV9fQWMwRHlKQQ?oc=5",
                     "publishedAt": "2026-05-19T12:02:00.000Z",
                     "language": "en",
-                    "summary": "I don't have access to the full article content, only the title and snippet provided. Based on what's visible, 43 Estonian restaurants have received Michelin recognition, which is significant news for Estonia's dining scene. To give you a complete summary with specific restaurant names and details about why visitors should care, I would need the full article text. If you can share the complete article, I'd be happy to provide a detailed 2-3 sentence summary."
+                    "summary": "I don't have access to the full article content, only the title and snippet you've provided. To give you an accurate 2-3 sentence summary focusing on what the news is about, specific restaurants mentioned, and visitor relevance, I would need the complete article text.\n\nCould you please share the full article or more details? That way I can provide the concise summary you're looking for."
                 }
             ]
         }
