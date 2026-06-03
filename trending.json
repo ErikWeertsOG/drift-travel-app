@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2026-06-02T09:59:53.320Z",
+    "lastUpdated": "2026-06-03T10:40:31.141Z",
     "source": "github-actions",
     "cities": {
         "cologne": {
@@ -11,15 +11,15 @@
                     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxObHlDYURieFVMWThoNENUdGhVV21MYzlta1ZoMGE2MHpnU05EVVJvSThpd0xSQllWWmt2Y2dMUHMwbTZIUS1YaDQ3R2JZdk90M1Y4anEzX2hfX2l0QVdISWRYN0ptRXBxZ0JuSk9zOVVOLWo3NnBYRlliRVVVMDdMYUlYWkFwcXBT0gGHAUFVX3lxTE5UMlRIdnJ4MDUwYlZfTVVFWkE0M0l5a2M0dHRCdmd0NUdhdDZBWTNqUjdKZy1fVlJiY3BxSHZNd0dNSHdzZTJldHdKMWdIY0M3OEJoYlVZSGVPTGpGS2s4LUZLLXMzYS1pTlZVRVE1WXJhVERhdkxMSzJrTEFpWnZZSTRheE1pcw?oc=5",
                     "publishedAt": "2026-06-01T05:14:00.000Z",
                     "language": "de",
-                    "summary": "I appreciate you sharing this, but I'm unable to provide a useful summary because the article snippet provided is incomplete. It only contains the headline \"Explosion vor Bar in Köln\" (Explosion in front of bar in Cologne) and source information, without the actual article content.\n\nTo give you the 2-3 sentence summary you're looking for, I would need the full article text. If you can share the complete article or more details, I'd be happy to summarize it focusing on what happened, which specific bar/restaurant, and why it matters to visitors."
+                    "summary": "I can see this is a German news headline about an explosion outside a bar in Cologne, but the snippet provided doesn't contain enough detail for me to write a meaningful summary about the restaurant/food news aspect or practical information for visitors.\n\nTo give you a proper 2-3 sentence summary focusing on the restaurant, its location, and visitor relevance, I would need the full article text. Could you provide more details from the WDR article?"
                 },
                 {
                     "title": "Nordrhein-Westfalen: Explosion in Bar in Kölner Innenstadt - tagesschau.de",
                     "source": "tagesschau.de",
                     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNdExQRzFCQ052QzN1SEx0YjZHNGlLcFZrOTdKdWE5aFZSalI5YnRad21JRWRWVVc3UlhNcUVrM0diT3B2LXNFRl82OUVBWlIwT1hfakdnV3M4NEFSOXBsU2JXZWl5ZGVmTWtpSF8xaGhBSnQ2NG9WWDFBN21HZE1RWFVWN2RIbGRQc3ZvV3BjOTBDMzRhUXRveWczcXBhdEdndGJvVEJwMzRvMzdJeHBxaW5zLWxaRlZpeFlIbDR4Z2YtVlU?oc=5",
-                    "publishedAt": "2026-06-01T05:13:56.000Z",
+                    "publishedAt": "2026-05-31T16:45:00.000Z",
                     "language": "de",
-                    "summary": "# Summary\n\nThis is not a restaurant/food news article—it's a breaking news story about an explosion at a bar in Cologne's city center. The article focuses on a safety incident rather than food, dining recommendations, or restaurant reviews. Visitors to Cologne should be aware of this incident for safety reasons, but this isn't relevant food or dining information."
+                    "summary": "This is not a restaurant/food news article. The headline reports an explosion at a bar in Cologne's city center, which is a breaking news/safety incident story rather than food or dining news. For someone visiting Cologne, this would be important safety information rather than a restaurant recommendation or food-related update."
                 },
                 {
                     "title": "Polizeieinsatz am Friesenwall: Nach Explosion an Shisha-Bar in Köln: Verdächtige auf der Flucht - General-Anzeiger Bonn",
@@ -27,15 +27,15 @@
                     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxON3BXUzFGOHJ1YjhDSTI3QWtSTWJ1ZV9tZEx0R2xxZXE3RExIM0w3Q2lqdElzMkl1Rm00cUptUU13WUYtRlNIc0xkQ05BWUtiRXF5R2lhVFlhM2FuMzZFa2ZEbUYzaFR3ZGFWRG5wbFZQem5qelNqU1Q1UFJIOFpBSGNIbEs4VDBhUUVCeUV6RnBMaDJiQnJOaEFBcmlLZ0JBSkVNT1lQd3Q3T2NQcG1Bakl4MDhvQQ?oc=5",
                     "publishedAt": "2026-05-31T10:05:00.000Z",
                     "language": "de",
-                    "summary": "# Summary\n\nThis article is not about restaurant or food news—it reports on a police operation following an explosion at a shisha bar in Cologne, Germany, with suspects fleeing the scene. This is a crime/safety incident rather than a food or dining story. Visitors to Cologne should be aware of potential police activity in the Friesenwall area due to this ongoing investigation."
+                    "summary": "# Summary\n\nThis article is **not about restaurant/food news** — it's a crime report about an explosion at a shisha bar in Cologne, Germany, with suspects fleeing the scene. While a shisha bar is mentioned, this is a police incident story, not food or dining coverage. Visitors to Cologne would only care about this if concerned about safety in that specific area (Friesenwall), not for restaurant recommendations or food-related reasons."
                 },
                 {
-                    "title": "Explosion in Shishabar erschüttert Kölner Innenstadt – mehrere Personen flüchtig - RND.de",
-                    "source": "RND.de",
-                    "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQSHoxTFhzTTZrOGxFLVh2NGxGMHFWenJYY1FwWXM4MjNJN3kxNmNCUUtKLTlXTVc2VXlTcHgtcVBwSXB4Ui1Sdm9oV3dORV9HWFFYYTZfWlVOd0VWODRQd0ZYYXV3djNhZjRpNHpWTU1PdmFLR2hMSVpyN1VlWlQ1QXJkLTRnckU4dVRIdGZ5VG9PMnpDUVpnMEJtNmhKTlAzc1JjOWJPaGJZdGVTWmg0VUVjSTVsazNqWWh0TWhUOW9tckJieDFXRnRNbTN3Tkcxc2F0ZGwxODhnYWFWdXA0TGpHb0hKUQ?oc=5",
-                    "publishedAt": "2026-05-31T10:10:33.000Z",
+                    "title": "Kölner Künstler: Ritterschlag in Veedels-Kneipe! - koeln0221.de",
+                    "source": "koeln0221.de",
+                    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1wcUFidmtNc0V0WjE1aEtqenY5MGxGSFFGajFSNElscjNOTXR2YXp5Nks1REhVOUpyTWQ5dFRhZDJvWk90SG1EQzBqYVdjM1J2MkpzS2hPbFh3MTJOdzBiSzlfcml1eVZ0WW80eHFYOEZyZnRJUUg0UHA2c2swTm8?oc=5",
+                    "publishedAt": "2026-06-02T19:53:14.000Z",
                     "language": "de",
-                    "summary": "I can't summarize this as food news—this article is about a serious incident, not a restaurant review or food story. The headline reports an explosion at a shisha bar in Cologne's city center with multiple people fleeing, which is a breaking news/crime story, not food/dining coverage. If you're looking for restaurant recommendations or food news from Cologne, I'd be happy to help with a different article."
+                    "summary": "I appreciate you sharing this article, but I'm unable to provide an accurate summary. The title and snippet appear to be in German and mention a \"Ritterschlag\" (accolade/honor) at a neighborhood pub (\"Veedels-Kneipe\"), but the snippet doesn't contain actual article content—only the headline and source.\n\nTo give you the practical summary you're looking for (what restaurant, why it matters for visitors), I would need the full article text. Could you share more details or the complete article content?"
                 },
                 {
                     "title": "Auch Explosion an Shishabar: Mann durch Schüsse aus Auto in Köln schwer verletzt - Ntv",
@@ -43,7 +43,7 @@
                     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNdm12WHV1MFVra0c4OVhvVXQyR3FCR0dKRS1SMV9LWEhjdHhpTnNMT2lISlB5Z1ZuN1dXS0FiY3ZMQUNYaW5hUVBuUnhrUF9LLWY4ZHNUMExsZVdsWnlNWjJrOERqdERCeF9ObTFuSERkR1JaODh1WVo3dTZWWDkybTJpS2IwdGk5dEE2aElieEFiTVVya3JMd05jc1VCdlE?oc=5",
                     "publishedAt": "2026-05-31T12:22:19.000Z",
                     "language": "de",
-                    "summary": "I appreciate you sharing this, but this isn't actually a restaurant/food news article—it's a crime news story about a shooting incident at a shisha bar in Cologne, Germany. The headline describes a man being seriously injured by gunfire from a car, which is a public safety incident rather than food or dining news. This wouldn't be relevant for visitors looking for restaurant recommendations or food-related information about the city."
+                    "summary": "I can't summarize this as food or restaurant news. This article is about a shooting incident and explosion at a shisha bar in Cologne that resulted in a serious injury—it's a crime/safety story, not food journalism. While a shisha bar is mentioned, the news concerns violence rather than dining, food quality, or restaurant operations that would be relevant for visitors planning their meals."
                 }
             ]
         },
@@ -51,20 +51,20 @@
             "places": [],
             "news": [
                 {
-                    "title": "Tim en Daan Vooges openen all-day restaurant Bar Staal in Amsterdam - Entree Magazine",
+                    "title": "Dua Lipa deelt haar favoriete restaurants wereldwijd (en één daarvan zit gewoon in Amsterdam) - NSMBL",
+                    "source": "NSMBL",
+                    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQR0w2VjhLUlZ2cFMweHoxVGtSbGZXaFNRSmx4NENuTU5JYjQ0cWpvQVZSVWJrOGNzbFNuZUpiQVZqQnFkNkV4LWk1MjN2Tnhiek9hbkN4OXkwb0NBWkpoX1RmQlRqOGFiejEwd2dZdHRIWVJVVHZiYUFIM2NIX3BXSEhpdnBHVmU5bWo3c182VWxGNjJtMzhNRXhn?oc=5",
+                    "publishedAt": "2026-06-03T10:29:36.000Z",
+                    "language": "nl",
+                    "summary": "# Summary\n\nPop star Dua Lipa has shared her favorite restaurants from around the world, including one located in Amsterdam. While the article doesn't specify which Amsterdam restaurant made her list, visitors to the city would be interested in knowing which spot earned the endorsement of a major celebrity. This kind of celebrity recommendation can be useful for finding trending or high-quality dining options when visiting Amsterdam."
+                },
+                {
+                    "title": "Tim en Daan Vooges (24) openen all-day restaurant Bar Staal in Amsterdam - Entree Magazine",
                     "source": "Entree Magazine",
                     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOeFp0VTJ5cDhBajZ3TzQzM0pTVHNRZ2RxamlHQ1Q4VTZrUmVoc1Ric1hnSmppMHh4bU5vaFlPUnFMc252OHU4RzI3Nnh5RFZLcnBybHYtUEctcTVaendZay1NS21mOFZZdXotc2dOOGJYUTJuZWdLcDVTdU1UemdEdjd2dTZGOXlKMVZWMFQybkl1Y2FiRlhHbjNYRVJUYnNMTDRmX0hSSE95OG4zSUxncjhaaUc?oc=5",
                     "publishedAt": "2026-06-02T06:45:20.000Z",
                     "language": "nl",
-                    "summary": "I don't have access to the full article content to provide an accurate summary, as only the title and snippet are visible. However, based on what's provided: Tim and Daan Vooges have opened a new all-day restaurant called Bar Staal in Amsterdam. Visitors to Amsterdam would care about this because it's a new dining option from established restaurateurs, offering all-day service rather than traditional meal-time-only hours."
-                },
-                {
-                    "title": "Deze horecazaken openden in mei 2026 - Misset Horeca",
-                    "source": "Misset Horeca",
-                    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5qRHl1TXFiQWxXa0FmYl92Z014Vmh2ZzdFZ3pVMkxzd3lTbExIem9zMVRXNG9zanZheF9qMFN5MFVtc2VSME5NRkFHV1dmeXFFSUhtZ1lEbDNIZUU0Qlh0OHo4LThZNUZpMlVGTkFCWjQxZHlPV3ZFVmxfaw?oc=5",
-                    "publishedAt": "2026-06-02T07:21:46.000Z",
-                    "language": "nl",
-                    "summary": "I appreciate you sharing this article request, but I'm unable to summarize it because only the title and source information were provided—not the actual article content. To give you a useful 2-3 sentence summary focusing on the specific restaurants, their locations, and why visitors should care, I would need the full article text or snippet details about which establishments opened in May 2026.\n\nCould you please share the article body or more complete content?"
+                    "summary": "I don't have access to the full article content, only the title and snippet you've provided. Based on what's available, here's what I can tell you:\n\nTwin brothers Tim and Daan Vooges (both 24) have opened a new all-day dining restaurant called Bar Staal in Amsterdam. Visitors to Amsterdam would care about this as a new dining option offering all-day service, though without the full article details, I cannot specify what cuisine type or unique concept makes it particularly noteworthy.\n\nTo provide a more complete summary with specific details about the restaurant's concept, menu, or location, I would need access to the full article text."
                 },
                 {
                     "title": "Restaurants in Amsterdam: de beste hotspots & tips - Foodies Magazine",
@@ -72,15 +72,7 @@
                     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5FZ1U0ZFFDYmVfVHF6b1JNU01Ya09fUlo2R2RvOEx3R0dQZ2pueGw2Zzc5NkpzU2NuVXBkQkFwNEJlRzY5bGlFeGZJdWZDVkwwb3k5Q1NBRUgyb0RmbFR4VWpRMl9ZbjhRckt6SXpkZ1BYU3N1MjkwYw?oc=5",
                     "publishedAt": "2026-05-28T07:00:00.000Z",
                     "language": "nl",
-                    "summary": "I appreciate you sharing this article, but I'm unable to provide a detailed summary because the snippet provided only contains the title and publication information—there's no actual article content to summarize. To give you a helpful 2-3 sentence summary focusing on specific restaurants, why visitors should care, and practical details, I would need the full article text. Could you share the article body or content?"
-                },
-                {
-                    "title": "Sterrenchef Sidney Schutte opent nieuw restaurant in oude gymzaal in Amsterdam-Zuid - Het Parool",
-                    "source": "Het Parool",
-                    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOVmNIaldMbF82SGRpbzhWcGNKcWs2RHFzTk5DdkNTZFIybkxIR1FmeUZwQUItaUgwMm9sWHlvOTJZbXF3amMtRWRxV1ZBVkVtTTN0TmJKLWNKTWFfamYxaF9rRVNCcHk0bHpDaVpOWUdqbHpZdllrRFB2OF9yd3FQNWZMRkc1cU9QTDRPeXk4YUppUUxmOVJ1TVVtMGE1ek1tcExfMzVYQzlod2NQaEVaYmN6YUtoUWhXdXlWb3BYZkVFMUE?oc=5",
-                    "publishedAt": "2026-05-27T09:03:00.000Z",
-                    "language": "nl",
-                    "summary": "# Summary\n\nMichelin-starred chef Sidney Schutte is opening a new restaurant in a converted gymnasium in Amsterdam-Zuid. Visitors to Amsterdam should care because this represents a high-end dining opportunity from an acclaimed chef in an interesting renovated space that blends culinary excellence with unique architecture."
+                    "summary": "I don't have access to the full article content from this snippet. The title suggests it's a guide to the best restaurant hotspots and tips in Amsterdam from Foodies Magazine, but without the article body, I can't identify specific restaurants mentioned or provide the detailed summary you're looking for.\n\nCould you share the full article text or more of the content? That way I can give you a proper 2-3 sentence summary highlighting specific restaurant names and why visitors should care."
                 },
                 {
                     "title": "Denk mee over de toekomst van horeca op de Wallen - Gemeente Amsterdam",
@@ -88,7 +80,15 @@
                     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPZTlXVU9SdkFBRElJT1NZd2twcVJPSjVJOUhfYTFXLXd1eS10WnlhMWdkX0NyRENEOVhUR2YyeElVREFKWGh4R3FicmFua0x6ejBkRnFBWGloN3dKYlljVU9Nc0tXQWM3RFZVNWFHa1puNUpFa01ub2NGVVdRdTFEZXBVT3E1Q28?oc=5",
                     "publishedAt": "2026-05-27T14:22:29.000Z",
                     "language": "nl",
-                    "summary": "I don't have access to the full article content, only the title and snippet you've provided. Based on what's available, this appears to be a Dutch news item about Amsterdam's municipality inviting public input on the future of food and beverage establishments (horeca) in the Red Light District (Wallen).\n\nTo provide a proper summary focusing on specific restaurants and practical visitor information, I would need access to the full article text. Could you share the complete article or additional details?"
+                    "summary": "I'd be happy to help, but the article snippet provided is quite limited. Based on what's available, here's what I can tell you:\n\n**Amsterdam is inviting public input on the future of restaurants and bars (horeca) in the Red Light District (De Wallen).** This is a city planning initiative from Amsterdam's municipality seeking community feedback on how food and beverage establishments should develop in this historic neighborhood. **Visitors should care because any changes to Wallen's horeca scene could affect dining and entertainment options in one of Amsterdam's most popular tourist areas.**\n\nFor a more detailed summary, I'd need access to the full article text rather than just the title and source information."
+                },
+                {
+                    "title": "Deze horecazaken openden in mei 2026 - Misset Horeca",
+                    "source": "Misset Horeca",
+                    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5qRHl1TXFiQWxXa0FmYl92Z014Vmh2ZzdFZ3pVMkxzd3lTbExIem9zMVRXNG9zanZheF9qMFN5MFVtc2VSME5NRkFHV1dmeXFFSUhtZ1lEbDNIZUU0Qlh0OHo4LThZNUZpMlVGTkFCWjQxZHlPV3ZFVmxfaw?oc=5",
+                    "publishedAt": "2026-06-02T07:21:46.000Z",
+                    "language": "nl",
+                    "summary": "I appreciate you sharing this article, but I'm unable to provide a meaningful summary because the snippet provided contains only the title and publication information without the actual article content. To give you the 2-3 sentence summary you requested—including specific restaurant names, their locations, and why visitors should care—I would need the full article text. If you can share the complete article content, I'd be happy to summarize it for you."
                 }
             ]
         },
@@ -101,7 +101,15 @@
                     "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNUGlEREY5cXVZdTI3a0VIcnQyekFNNVd4RXdqZnhUSW84MG9PUXIzbjZuVUhzZ0w1bnJQd2d4RW54SG9lZm0wNVZHdEVNTUhTa2tYS3RadU1VZXRqbC10amhYWjZfQlozcUFnTzlldEhUaTF3ZWlhM0VVSndmMGVnakJvcURoQ181R3JvNkNYMEpsaWF3RGQwd3JhWmNsTXpGREN5WmNCNGVRN2NjU01sdHVxUy1vV25sRzltT3R0YlRwTkJoWGM1SGRPMHd3MTFDdVVNZVpxQVdwVWt6MWVnU3pJakZ2djV1aThCVlJmaXBkcXg0SzV6LXR3Tnd4dXByYVE?oc=5",
                     "publishedAt": "2026-05-29T09:38:32.000Z",
                     "language": "nl",
-                    "summary": "# Summary\n\nAntwerp's iconic karaoke bar Bonaparte has temporarily rebranded to \"Bar België\" starting today, with the owner hoping to keep the new name until July 19th. The venue is a well-known local hotspot famous for karaoke entertainment in the city. Visitors to Antwerp looking for a lively karaoke experience should note this temporary name change while the bar operates under its new identity."
+                    "summary": "# Summary\n\nAntwerp's iconic karaoke bar Bonaparte has temporarily rebranded to \"Bar België\" as of today, with the owner hoping to keep the new name until July 19th. This beloved nightlife spot is undergoing a name change, likely related to a special event or promotion during this period. Visitors to Antwerp looking for a classic karaoke experience should note the venue's new name to find it easily."
+                },
+                {
+                    "title": "Aperotime: de 25 mooiste terrassen in Antwerpen om van de zon te genieten - feeling.be",
+                    "source": "feeling.be",
+                    "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPZkJxSklPcUhRM3BEUHU3dHB5N2JqZnM3eXRfZEJMRXBiYjRDSWN4alN3cXJGOVdBMkJZOFUyaEE3NTJZdzF5QTNkS0xMcGVnSUpxZnNqaFdVMUx2SkFuTnhIaVp2WC11MFFyNEZiYk5adXRZUUItMWxqSmdtRldKNVA4eEFXT2VRaVhBRHl4ZTJCNzZENmxBV0FiYlEyZEFnNVFBa1ZsaXNpems1MHEtWGRjRExlbVlPLTB1bDJVUXRvYTNWdFQ0bGRCUWFoc0lUWnEwZnVXdGd5SVoyMnhHMTVmU1pka0wz?oc=5",
+                    "publishedAt": "2026-05-29T08:00:00.000Z",
+                    "language": "nl",
+                    "summary": "# Summary\n\nA Belgian lifestyle publication has compiled a guide to the 25 best terraces in Antwerp for enjoying drinks and sunshine. The article highlights top outdoor dining and drinking spots across the city, making it a practical resource for visitors looking to experience Antwerp's social café culture and weather-friendly outdoor venues."
                 },
                 {
                     "title": "Onderzoek naar brandstichting in gesloten shishabar op Bredabaan: “Gerechtelijk labo ter plaatse” - GVA",
@@ -109,23 +117,7 @@
                     "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNaDFyNlBVaXhiNnY3SjM0ODk5bFdfbm84T0pVejY2WmlSaW9XakhBODBkUTJZVllVd24yR2tORXFaVnJCZ3BtT2xXUUlnN1ZpZmFJSFFXSi1hN3k4Mzd3LXg4b0JnYkpoV2cxREZ4VGRQS0U4YWJwdEJLT25VUzk4M0todG93TTdGSVc5S2NqUjMzdmxzblB6eEhxMEVZdThHT0J1VXJZMDFUc29KbGlMNGRIVkxjMzVMazdoeVpNREJEeXdQbUxEQVBoUzdRVHYwYjREVzFsaHh0Vnh2RG5hUTZZeGxPQXVPNnBWMlpMTUFNeEZmY2I2UURGMmlaWWc?oc=5",
                     "publishedAt": "2026-06-01T16:10:00.000Z",
                     "language": "nl",
-                    "summary": "# Summary\n\nI cannot provide a useful summary based on the snippet provided. While the title indicates there's an investigation into arson at a closed shisha bar on Bredabaan, the snippet lacks substantive details about what happened, when, or why it matters to visitors—it only repeats the headline. To give you a practical 2-3 sentence summary focused on the restaurant, the specific incident, and visitor relevance, I would need the full article text."
-                },
-                {
-                    "title": "Horeca in buurt van De Coninckplein gecontroleerd: “Zwartwerker zat verstopt in een kast onder de toonbank” - Nieuwsblad",
-                    "source": "Nieuwsblad",
-                    "url": "https://news.google.com/rss/articles/CBMiswJBVV95cUxOblZOTzJ3SVk1dk5icHdEMjI1NUdHOWVOYkpfNDVPT1hDLXhfUjd1ZmprZUR2UnpGdnE5UUNjLXFXSDJhOVpiN2JPVWdPRkJqNWU3Z0tqNXFPajNIQm5fWXQxTU5oaEM4bWJEOG5zRkFyRWdpTmpBLXh6c2M0Nm1WY2V1Mm5nc3F5RXdXS09FUWk0T2xIRGhmemhRSDY2VWFWTkJtZm9jT3NGRkJXNjBvbkRSUEhFUXl1Mmw5NDBGc0lURVdMeW8wNldpd3JQRUJtbTcyelU4UVQxc0dHVkFZczF2YkY2SnRPNWhOY09jamk1YUZjNC1xNWNKTzBJUERfTFhQQzNTSkYyUGxNSEwxM3ZDT0NKems5cnBLVTNtVHMzanI1WTBGV25ESjlxa2Q3SnVn?oc=5",
-                    "publishedAt": "2026-06-01T15:12:50.000Z",
-                    "language": "nl",
-                    "summary": "# Summary\n\nAuthorities conducted inspections of restaurants and bars near De Coninckplein and discovered an undocumented worker hidden in a cabinet under the counter at one establishment. This news highlights serious labor violations in the local hospitality sector. Visitors to the area should be aware that some venues may be operating with illegal employment practices, which raises questions about working conditions and business practices in the neighborhood."
-                },
-                {
-                    "title": "Man pleegt diefstal in Aziatisch restaurant in Antwerpen - HLN",
-                    "source": "HLN",
-                    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPOEVmWnFyaVBjZEV5QWVYWTU3ZFFENTRfWWJFck1ZZ1dmVHVUVnJENjFHWldma1NwUEh3b1FzSFh4aXpoTE9XSFp5dWNzcVJrVWRSLWFiaG53RkxKNDh5cGRKREVKakVBLW52Tl80OXd5UEMwNGZoZVhPZEY2bmpCVXRybW1Oa3Y3aGlHTUdPMGp6ZGVYb01nUDI4RVZrd3hRR0E?oc=5",
-                    "publishedAt": "2026-05-27T19:20:18.000Z",
-                    "language": "nl",
-                    "summary": "I can see this article is in Dutch and appears to be about a theft at an Asian restaurant in Antwerp, but the snippet provided is too limited for me to give you a meaningful summary with the details you're looking for (what happened, the specific restaurant name, and why visitors should care).\n\nTo provide the 2-3 sentence summary you requested, I would need access to the full article text. Could you share more of the article content?"
+                    "summary": "I appreciate you sharing this article, but I should clarify that this isn't actually restaurant or food news—it's a crime story. The article reports that authorities are investigating a suspected arson at a closed shisha bar on Bredabaan, with forensic teams examining the scene. While a shisha bar is a food/beverage establishment, this story is about criminal investigation rather than dining news that would interest visitors planning where to eat in the city."
                 },
                 {
                     "title": "Dief verstopt zich in restaurant in centrum Antwerpen en rooft zaak na sluiting leeg - Nieuwsblad",
@@ -133,7 +125,15 @@
                     "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNdnk4NmlKLThOaDZxak1Fd3k4QU5kRW9TZk9MNFo2SC00MHJQeWR2dVBKRmkzNHh2QnFSVUNTRHUzTHRGbi1fLVU0a1RKUERqVGxpdkoyaG4yWGRJcjM2eHRwaWxvdkdzbHp0bEZVUWVOUkJQSGpsLTJ1a0pfQXN5TzJDX2Z3ZXFxTzYwWnYxaUVPR0dyNXdfZW1XWGQ5ank0NDZIakl4Qm15OWVya0x0RGQ2blpWWVlXSkhhbEZ2Rl94ZUlUTno2NFZaTmRSallmdmpkaDBXVGo3LTV6NmRVR0hiVTZ4ZzVKeFFkNHlxTUE2T2JrZzUxX3Zkcw?oc=5",
                     "publishedAt": "2026-05-27T15:31:00.000Z",
                     "language": "nl",
-                    "summary": "I can see this article is in Dutch and appears to be about a theft at a restaurant in central Antwerp, but the snippet provided is too limited for me to give you a meaningful summary with the specific details you're asking for (the restaurant name, what was stolen, etc.).\n\nTo provide you with a concise, practical summary focusing on what restaurant was targeted and why visitors should care, I would need access to the full article text. Could you share more of the article content?"
+                    "summary": "I can see this is a Dutch-language article about a theft at a restaurant in central Antwerp, but the snippet provided is too limited to give you a detailed summary. Based on the title alone: **A thief hid inside a restaurant in downtown Antwerp and robbed the establishment after closing time.** Visitors to Antwerp should be aware of this incident at a central location, though the specific restaurant name isn't clearly visible in the provided snippet. For practical purposes, this highlights security concerns for diners in the area, though individual restaurant details would require reading the full article."
+                },
+                {
+                    "title": "Welke zomerbars zijn zéker een bezoekje waard? Dit zijn onze tips in Antwerpen - Nieuwsblad",
+                    "source": "Nieuwsblad",
+                    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNLWpMdXVEN0ZpbDBqaDJEZ0Z3WmFSaEMyeUxhT2tvT2RaWFhOTUZMcnFqMEpQTFFha2cyUkJmYzcxU19RRWxkTmotTFZLRUttZTFkQ0FhOG1RbTZJOHNVVHFQdTBGbl8zMHRsd2hsUjNQb2pyTl9qVUpUVFhMMHpkVS1QMUJfSkdnOW9RSEtxOGJ6eHY3QmdDR0thejN0OGttNUZMVGVVOGpHQUQ4WU1adjNrdnlZQzg3LVV5NGVfUUQzQ1JLVHpmQkRaVDYzVkE?oc=5",
+                    "publishedAt": "2026-05-29T03:00:00.000Z",
+                    "language": "nl",
+                    "summary": "I appreciate you sharing this article, but I'm unable to provide a summary since only the title and snippet were provided, without the actual article content. The title suggests it's about recommended summer bars in Antwerp, Belgium, but I'd need the full article text to give you accurate information about which specific venues are featured and why they're worth visiting. Could you share the complete article content?"
                 }
             ]
         },
@@ -141,36 +141,28 @@
             "places": [],
             "news": [
                 {
-                    "title": "Restaurante em Lisboa transforma pratos em obras de arte e os clientes participam na experiência - NiTtv",
-                    "source": "NiTtv",
-                    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNYjloSS12WjZ2OWU2Nkt6QkYzQUtaOUp6MXBraU5UVVY3Y0dZelVfV3RHaDNDUmN0QjBUM0ZSZHVEdmtZWUJZcWl6OFdNdDFKRXJxYUx3Zks2QW5MTW45MEE5UXFNQlRGaU93UFQ1Yk5VY0JpRU5YaFdaYktRS2lfekpoQzZRVmIxMGdkNDNNdGt5eG10WVFiRlFFUzNJcnBuMl9BUmwtWUlsVDI1U2NIQ2RkOVFkX2NQaHhUa0dJZ1ZtUQ?oc=5",
-                    "publishedAt": "2026-06-01T14:49:00.000Z",
-                    "language": "pt",
-                    "summary": "# Summary\n\nA Lisbon restaurant is transforming dishes into works of art with interactive experiences where customers actively participate in creating their meals. This unique concept combines dining with artistic engagement, making it an innovative and memorable food experience. Visitors to Lisbon would find this restaurant appealing if they're looking for something beyond traditional dining—a place where creativity, food, and entertainment merge into one experience."
-                },
-                {
                     "title": "\"Vamos chegar aos 100 anos\": este restaurante de Lisboa é testemunha da história no Bairro Alto - SIC Notícias",
                     "source": "SIC Notícias",
                     "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQamlSb1I2d04zbnBTU3duc2RaMzF5d044U3YyWVFpV08tZW9MME9xVnRCem5Nd3FfQnJGb0Ewd19JZVhsN2p0VUFKMTBzT1hwcVRBckZqMVpBaGN5dGVfYzVpZGstcFlicm9IanRCUGhoSlZUSlNGTTVaS09jMS1QYzB3aklGMzNOTWxhRlpRT1ItMmhYYUxFTGVtZUktX0l6clZRcHR6WjhDYXF3WWx1dXZFdmI1MG9RRThXZi1sT0xCbkxfa3Y0OUJacVBuaEVWRUhOeGZ5bkhsQ0E0alpzS1NTVmdsZGRhUXl2WEFUM2ZoRDM5Mnc?oc=5",
                     "publishedAt": "2026-05-31T06:30:00.000Z",
                     "language": "pt",
-                    "summary": "# Summary\n\nA historic restaurant in Lisbon's Bairro Alto neighborhood is approaching its 100th anniversary and serves as a cultural witness to the area's evolution over the decades. The establishment has maintained its traditional character while adapting to modern times, making it a significant landmark in one of the city's most iconic districts. Visitors to Lisbon would appreciate dining at this venerable spot for its authentic atmosphere, historical significance, and deep roots in Portuguese culinary and social heritage."
+                    "summary": "# Summary\n\nA historic restaurant in Lisbon's Bairro Alto neighborhood is approaching its 100-year milestone and serves as a cultural landmark in the district. The establishment has witnessed significant moments in the area's history and continues to operate as an important part of Lisbon's heritage. Visitors to Lisbon should care because it offers an authentic, century-old dining experience that connects them to the city's past and local character."
                 },
                 {
-                    "title": "Graças ao sonho do Sr. Fernando e da D. Maria Antonieta podes comer \"os melhores caracóis de Lisboa\" - versa - lifestyle",
-                    "source": "versa - lifestyle",
-                    "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPa3NtMDlvdDd6M3VWeE1adGhyd0dIekwyUFhhTHB4bGJPcVZWM2txRXhTazVXZVNiZTN3U2xIdWxMT3FudkhuUWNvMDE2SWNOOVZSRlcxRVFUb3VVQXBWc2x4SkV4Ym05X1J0ams1eE1SS20wWmRkUXlUQW1kTnMyWXRDcFNnMGtPb21kdGVxOWRJMUxYYkgzRnZDUGRId1Q2ZkNrdlZyU1B2X1lJRjhpNlY5WmVEZ2tydTBFWmdVN3RnRGlLd0gwT3lNNFJiZUdlU0xWNWYwX0R1WFdPdkVYbU15TEx2eTlOWWRRRGcydFZwbzZZS0Y4ekJCZWJZZkpvZEE?oc=5",
-                    "publishedAt": "2026-05-28T12:52:00.000Z",
+                    "title": "Santos Populares em Lisboa: onde jantar antes do arraial, bairro a bairro - Time Out Lisboa",
+                    "source": "Time Out Lisboa",
+                    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNekhpWDFfT1JyNXlVUHBJNy1ESkMzTzZsQ2JVc2FCM19xazVxbVJoYXBrMkh2MTd3TF9ndTROQUdtS2VhZ0lvazB1VElhMlVTUTdJWEkxbzJjOUtKSS0yVWJwXzVuUDhrWnNhdl9vdldpTzVCTHNwQ2duYU1xcGpiVk5ZQmFiZjA?oc=5",
+                    "publishedAt": "2026-05-31T23:00:00.000Z",
                     "language": "pt",
-                    "summary": "# Summary\n\nThis article highlights a traditional Lisbon restaurant founded by Sr. Fernando and D. Maria Antonieta that's renowned for serving \"the best snails in Lisbon.\" Visitors to the city should care because it represents authentic Portuguese cuisine and culinary heritage, offering a genuine local dining experience focused on a signature dish prepared with traditional methods."
+                    "summary": "# Summary\n\nI appreciate your request, but I'm unable to provide a complete summary because only the title and snippet were provided—not the full article text. \n\nBased on what's available, this article from **Time Out Lisboa** appears to guide readers to **dinner restaurants in different Lisbon neighborhoods before attending the Santos Populares festival celebrations** (a major traditional Portuguese summer festival). Visitors to Lisbon would find this useful for planning where to eat before enjoying the festive street parties in various districts.\n\nIf you can share the full article text, I'd be happy to provide a more detailed and accurate summary."
                 },
                 {
-                    "title": "Há um novo wine bar num jardim secreto em Lisboa. Para entrar, basta tocar à campainha - nit.pt",
-                    "source": "nit.pt",
-                    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPck5USDlJaEg2Yk03dGNsRzVMREtZcWJEWGtMSThSQWZWS1ItaFdza1QzV1BXZlJoQXFKWXk5b2p6MF9fcEphQnc3TUhmSVRxa1hVaFJyV0VaaVZ3dThPbU9iVFZqTHBzYnhvOFNEMk9lUUZWbFhwNlQtTGlZNjZjMnBBbXN1eVp3MmRYUFlHbkV3M095NHozRzVleUFpZ1cxbk9CeFM1U2M5N1NOamgwcmJ0RFF6OTdZZVFReW9BVGdETU9FUFE?oc=5",
-                    "publishedAt": "2026-05-29T17:21:00.000Z",
+                    "title": "Restaurante em Lisboa transforma pratos em obras de arte e os clientes participam na experiência - NiTtv",
+                    "source": "NiTtv",
+                    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNYjloSS12WjZ2OWU2Nkt6QkYzQUtaOUp6MXBraU5UVVY3Y0dZelVfV3RHaDNDUmN0QjBUM0ZSZHVEdmtZWUJZcWl6OFdNdDFKRXJxYUx3Zks2QW5MTW45MEE5UXFNQlRGaU93UFQ1Yk5VY0JpRU5YaFdaYktRS2lfekpoQzZRVmIxMGdkNDNNdGt5eG10WVFiRlFFUzNJcnBuMl9BUmwtWUlsVDI1U2NIQ2RkOVFkX2NQaHhUa0dJZ1ZtUQ?oc=5",
+                    "publishedAt": "2026-06-01T14:49:00.000Z",
                     "language": "pt",
-                    "summary": "# Summary\n\nA new wine bar has opened in Lisbon hidden within a secret garden, accessible only by ringing a doorbell at the entrance. The venue offers a unique, intimate dining experience that combines wine service with a private garden setting. Visitors to Lisbon would appreciate this as a distinctive spot for wine lovers seeking an exclusive, off-the-beaten-path atmosphere."
+                    "summary": "# Summary\n\nA Lisbon restaurant is transforming dishes into works of art with interactive dining experiences where customers actively participate in creating their meals. This unique concept blends culinary creativity with artistic engagement, making it an exceptional dining destination for visitors seeking something beyond traditional restaurant experiences. Food enthusiasts visiting Lisbon should consider this spot for its innovative approach that combines gastronomy and participatory art."
                 }
             ]
         },
@@ -183,39 +175,39 @@
                     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQMHhaRXB0dUluaWp4NTVNdDFaNEktMzktOTJobzdfb1RCR0tyaVVPSXhVcDluQ1ZFQjVYOTZyVkhJRTVoMW1fNExrVklpNHA0bG5xVzRfdWhWYkZIcmpkdU4zQjhFN055R2d4ZUFnaVhmdVV4bVhpa1BGb2lkY3ZuNW1HdjhKbWxYdndMY09FcXhkcFI4?oc=5",
                     "publishedAt": "2026-06-02T08:31:22.000Z",
                     "language": "en",
-                    "summary": "# Summary\n\nSpudBros, a potato-focused fast-casual restaurant, is opening an express location in Newcastle. This new store format offers a quicker service option for the chain, making it more convenient for busy locals and visitors looking for fast, quality meals. Visitors to Newcastle will have another quick dining option for casual, potato-based food in the city."
+                    "summary": "# SpudBros Expansion to Newcastle\n\nSpudBros, a popular food establishment, is opening a new express location in Newcastle. This development matters to visitors because it will provide faster, more convenient access to SpudBros' offerings in the city. The express format suggests a streamlined menu focused on quick service, making it ideal for customers seeking a speedy meal option."
                 },
                 {
-                    "title": "Popular TV personality joins event at North East restaurant this month - Hexham Courant",
+                    "title": "TV personality Si King joins event at North East restaurant this month - Hexham Courant",
                     "source": "Hexham Courant",
                     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxObzBsUENWd2lWN1FVZ0ctMjBBU1FZeTk1WGxFVkF0N0JnUHZMZ0hjaWUySHBBbHVvTlNGZm9xTng2WlJJSnY2LXRMWDRWcUk3bTZmV082VF8tZVN3WXBRQWEtekdFaXBsdWRMNXI2dVgxN2ZnTm1fTnpaNG1sai11eUtrSWZzS0I5eS1kQjFySDJxVjQ0OURkX3hQNGNRbXpp?oc=5",
                     "publishedAt": "2026-06-02T04:00:00.000Z",
                     "language": "en",
-                    "summary": "I don't have access to the full article content from the Hexham Courant, only the title and snippet you've provided. To give you an accurate 2-3 sentence summary with specific details about which restaurant is mentioned, the TV personality involved, and the event date, I would need to see the complete article text.\n\nCould you share the full article or additional details so I can provide the focused summary you're looking for?"
+                    "summary": "I don't have access to the full article content beyond the title and snippet you've provided. To give you an accurate 2-3 sentence summary focusing on the restaurant details, the specific event, and why visitors should care, I would need to read the complete article text.\n\nCould you share the full article or provide more details about which North East restaurant is hosting Si King's event?"
                 },
                 {
-                    "title": "Popular jacket potato brand opens first North East store today - The Northern Echo",
-                    "source": "The Northern Echo",
-                    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPbWt6YW84ZE5tbm5scmNDdHlXdDcwZ0tvZ1MxOWNOS0d3Wk1HOHNMY0xiSHdON0dKXy1CV3pvUWxqM1gxYkZHRnA2bWRxb3JZMm1vRjZ6WndqSWFCNVVsSXpzYVFFdjAyblpmaVpjUG14QzJrS1FJRExUM1lVQkZiSWIxbjBMUXJDUXBqbmxXZjBGeHJUcnd4NlBiVQ?oc=5",
-                    "publishedAt": "2026-06-02T09:05:33.000Z",
-                    "language": "en",
-                    "summary": "# Summary\n\nI appreciate your request, but I'm unable to provide a summary since you've only shared the article's title and source information, not the actual content. To give you a concise 2-3 sentence summary highlighting the specific restaurant, location details, and why visitors should care, I would need the full article text. \n\nCould you please share the complete article content or the snippet/body text?"
-                },
-                {
-                    "title": "Three people arrested after immigration raid on Newcastle nail bar - Chronicle Live",
+                    "title": "World Cup action around Newcastle - where to watch summer's big games - Chronicle Live",
                     "source": "Chronicle Live",
-                    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQUlNNd01FSnl3djlBV0NfNTJsVkZ2Y1BIa2g0NlhQTjBCcS1WRjRtcTZfNk9BcU1rQjZleDk1TjhIYnF2d1F5NVFXT0dkaXlIbnh6SlNRN1VKVnd1U05uQ0VWQW50ZVg3R1hsNU9mU1VLd2ZMb1Y0XzJ4a0g0VklRSUluZ2hYWTMybGVCa2Z3NENjY000Y002Z0VuZWFjaE81VlEw0gGoAUFVX3lxTE9RVi12OUtGU3czYXNpTnE5ejFWTVpJWXpSb1MwMWRiOFhpcUpsa3diOThHT3VCcWVLMXg0cG9IVDlXNEZZcjlBd1lGalZDQ094YnJIaUtzVjZleWc1c1M4MEg4bU9JUW9ZZU5yN2tmMzI4LTAyY3EwNFAtclNINnhQS01weV9VNUtHRjBTOFFTUVAzcDBBa0VkeERzTkQ1eXFwdjJvX0pvTQ?oc=5",
-                    "publishedAt": "2026-05-28T06:50:00.000Z",
+                    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQN3ZxbkZ4OXRGS3loWFlGY1Q1U3NvM1JLbE5kRlFkZTBNWjFVdWR5dFY2Tm9zam5yXy1IZDg4VjdNXzU0bWg1WVRieVEyckJ5Mml2emNjUnhYY1hxeE9IOEdKTl9MekJ6TmJuOENpQ0p3X3daM0N2Y25UcTNVcHlBeWhyMklmdThDaHpQVjlFRjJhaVNETmloU21rbERRd9IBowFBVV95cUxPUTViYkVmYkxiYzdpQ3hoZzBGSl94cGdBTmg1NHAwcHp6dUJHSnM2R3AyLWszUVc4NzB0M25ucWVBdlVoalFQOGNqb0dtaWlRQkJJdnVmcTBjRFQ1ZlkxRGhTTFVZM0xnLUEwc1VRYzktS2ZmVkVSbUtpOVV2NVFlREZ4VmNUSk10eXVYZjBQOVhMSzNReU5uWk9GeWNZcG91eFVB?oc=5",
+                    "publishedAt": "2026-05-31T18:04:00.000Z",
                     "language": "en",
-                    "summary": "# Summary\n\nI appreciate you sharing this, but I should note that this article is about an immigration enforcement raid on a nail salon in Newcastle, not food/restaurant news. The snippet provided doesn't contain details about the food industry or dining establishments. If you have a restaurant or food-related article you'd like summarized, I'd be happy to help with that instead!"
+                    "summary": "# Summary\n\nI appreciate your request, but I'm unable to provide a summary because the article content itself wasn't included—only the title, source, and a snippet were provided. To give you a useful 2-3 sentence summary focused on the specific restaurant/food venue and why visitors should care, I would need the full article text.\n\nIf you can share the complete article, I'd be happy to summarize it with those details in mind."
                 },
                 {
-                    "title": "Superannuation Fiasco for Newcastle Restaurant - restaurantandcafe.co.nz",
-                    "source": "restaurantandcafe.co.nz",
-                    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxON0pHVWRHamc2TWI1Q2c5VVc2MEhGVUh1XzVOMkF1YTFQd3JaaW1ZbWZ0ZEx4bjhJN3kwdXd4cGhQcFZYQXh6TmlIYy1hSkg2Z3gxeG5zQ0pMODFuVW1nNl85LUxCQzFScUZ3alVwaGw0RzdKdUdiV2NuY1NSdi0xVlNVUUVrZw?oc=5",
-                    "publishedAt": "2026-06-02T03:07:23.000Z",
+                    "title": "Holiday vibes arrive in Newcastle with opening of Sicilian inspired bar on outskirts of city - Chronicle Live",
+                    "source": "Chronicle Live",
+                    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNNlZWRjlEOUhyRTFQYjFhRHpLMl9JZ1hleThHS2Fra3VpQm5zTVRsVmYyTmhWNnhfekdsc0s5ZUNYd240bEF4SGg5RDd2SEpjamFpd2xSQzNWYm1ETnhqa1lkSVFQeDJ4elc4T3RIX25wN3I3a0M5eGxFc050SFg4cXVsZlJsQ2VhbGFlUUc1VDQwLUN0WHBXMUZta2RYTTVmenctbjBsUQ?oc=5",
+                    "publishedAt": "2026-05-28T17:37:00.000Z",
                     "language": "en",
-                    "summary": "I appreciate your request, but I don't have access to the full article content—only the title and snippet you've provided. The title mentions a \"superannuation fiasco\" at a Newcastle restaurant, but the snippet doesn't contain enough detail for me to summarize the news, identify the specific restaurant, or explain why visitors should care.\n\nTo give you an accurate, practical summary, could you share the full article text or link?"
+                    "summary": "# Summary\n\nA new Sicilian-inspired bar has opened on the outskirts of Newcastle, bringing holiday atmosphere to the city. While the article title doesn't specify the bar's name in the snippet provided, visitors to Newcastle would be interested in this opening as a destination for Mediterranean-style drinks and ambiance. This addition offers locals and tourists a new spot to experience Sicilian culture and holiday vibes without leaving the city."
+                },
+                {
+                    "title": "Spud Bros Express confirm location and opening date for Newcastle as massive queues expected - Chronicle Live",
+                    "source": "Chronicle Live",
+                    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQcGt2U2JwNVM5ZmJLY1pVWEpMc0NXLXV5U0p2XzR5ZGFVNUM3VXhzSm0xaWlFamZNVF9NNmdRWTBvY0tSaEw3ZVZNVm5RNXA4STRMeTkwTU96VXJXN24zTGNqazFuSk1meTlfdjlLbXRyYUZISThYZkZrWU1VdlR1MXB2VUJrazlZME9RdkVCVkg3amNlaVVCN0dJSGtSZ0ktblHSAacBQVVfeXFMTkRKQ0tyaGVSdW8yc0FLQ0pSWWFiX3Y0cHI4aDYzWXNtU0RqQ2x6a1FpSzhhc3llZVpBclhoLWU5M1kxaDI4MGZpRXQ5UEItRHEySVNWUjNtODdrVUYwaDZzQ2hXYjNsMGJiV29XODdyUjRHeFdYcllNSnpTWGZRYURJLVI5T3h0b3ZDdWhYNWd3Y1RweDFoT1RJZVdyeTRLQTh1bGVMTzg?oc=5",
+                    "publishedAt": "2026-05-30T12:16:00.000Z",
+                    "language": "en",
+                    "summary": "# Spud Bros Express Coming to Newcastle\n\nSpud Bros Express, a popular fast-casual restaurant, has announced its opening location and date in Newcastle and is expecting large crowds upon launch. The news is significant for Newcastle visitors and locals interested in trying this new dining concept. While specific details aren't provided in the snippet, the confirmed opening means food enthusiasts in the area should prepare for potential queues if they want to visit soon after launch."
                 }
             ]
         },
