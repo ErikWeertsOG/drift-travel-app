@@ -1,17 +1,33 @@
 {
-    "lastUpdated": "2026-06-17T10:23:10.382Z",
+    "lastUpdated": "2026-06-18T10:02:38.578Z",
     "source": "github-actions",
     "cities": {
         "cologne": {
             "places": [],
             "news": [
                 {
+                    "title": "OPENING: Sommergarten Bickendorf mit MILJÖ live - EINTRITT FREI am 21.06.2026 in Köln - Rausgegangen",
+                    "source": "Rausgegangen",
+                    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQdXFyX0pfYlpld1lSZURhdGExUXdKSF9aQVMzWUpSUlNTZXdNaGt2YVQxRk13UjBvSmFyd0xXTzJUMVFid2p4TFE5VEo1MDBpTk5GcjhYa2xmNFJqMUdHQUdpTk9NaGctd0RqZ2lBd2dEZGhIUGxjVFlVTVNCQThLeVdiXzZhSDVwdzFMWFp3ZnI1T2txZW5YajZR?oc=5",
+                    "publishedAt": "2026-06-18T06:26:48.000Z",
+                    "language": "de",
+                    "summary": "# Summary\n\nSommergarten Bickendorf, an outdoor garden venue in Cologne, is opening on June 21, 2026, with live music from MILJÖ and free admission. Visitors to Cologne would want to know about this because it offers a free entertainment option combining food/drinks with live music in a garden setting. This is a good spot to check out for a casual summer evening out without paying a cover charge."
+                },
+                {
                     "title": "Altine Emini als Neuzugang: In Niehler Kultkneipe wird die neue Staffel „WaPo Duisburg“ gedreht - Rundschau Online",
                     "source": "Rundschau Online",
                     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNYWZMWXNNVU5sSTZnUUVZOU03QzRFYnd3Z1NKb3JqOW1PUjZTbzE0T0hZOWtOSXRiU0RMS2RKYUNqS2RqUk54em5TQzA0R0hCVURuUWhlbkJPWWtVdnc3TDJjaWNpektmbElxY1ZDMXZ3YUpuN29kb25kblFxUTdONzM2M2p1SVpRcVFRWHM2WXNJT1pPcEVJTGN6QWV4cF9PVnJicVgzcDBvR0NHX1pLYzBsQQ?oc=5",
                     "publishedAt": "2026-06-17T07:02:00.000Z",
                     "language": "de",
-                    "summary": "I appreciate you sharing this, but I should note that this article appears to be about a TV production (WaPo Duisburg) being filmed at a local bar in Cologne's Niehl neighborhood, rather than food/restaurant news. The snippet doesn't contain food or dining information—it's about casting news for a German crime series. If you have a food or restaurant article you'd like summarized, I'd be happy to help with that instead!"
+                    "summary": "# Summary\n\nThe article announces that a new season of the German TV series \"WaPo Duisburg\" will be filmed at a popular local pub in Cologne's Niehl district, with Altine Emini joining the cast. Visitors to Cologne interested in German television or local culture would find this noteworthy as it highlights a well-known neighborhood establishment gaining media attention. The pub's cultural significance is elevated by serving as a filming location for this established police drama series."
+                },
+                {
+                    "title": "Flow's Mitsingfenster - Das Mitsingkonzert für alle! am 26.06.2026 in Köln - Rausgegangen",
+                    "source": "Rausgegangen",
+                    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1oZU5Db01DNkNTY3RMdGYtOHMwajB4SEZENkdSelMzQ2NabzBVblVCQXk2MjFDdEJBYzB4N2x2NGZTTGpHb0ZKNVBKeGduTFNyTGJnMVZ2ZlhnbU9VRkxYTVdLMEI?oc=5",
+                    "publishedAt": "2026-06-16T15:33:56.000Z",
+                    "language": "de",
+                    "summary": "I appreciate you sharing this, but this article isn't actually about a restaurant or food spot—it's about a singing concert event (\"Mitsingkonzert\") called \"Flow's Mitsingfenster\" happening in Cologne on June 26, 2026. Since it's a music/entertainment event rather than food-related news, it falls outside the scope of restaurant and food coverage you've asked me to summarize.\n\nIf you have a food or restaurant article you'd like me to summarize, I'd be happy to help with that!"
                 }
             ]
         },
@@ -19,20 +35,12 @@
             "places": [],
             "news": [
                 {
-                    "title": "Nieuw op de NDSM-werf in Amsterdam-Noord: Café Restaurant De Baanderij - Barts Boekje",
-                    "source": "Barts Boekje",
-                    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE13RnVMQUc5d19IcGVqd1NsLWl3MmhuRXBzbk1lSlpDNDE5bDhsNFV1N09pUXpjSXpOdlZkWDdnb2xpY3d4NXRrdkJsY3NjcHJxVDRN?oc=5",
-                    "publishedAt": "2026-06-17T09:02:25.000Z",
+                    "title": "Van ontbijt tot dansvloer: Papa Zatarra brengt eten, muziek en community samen in Amsterdam-Oost - De RestaurantKrant",
+                    "source": "De RestaurantKrant",
+                    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOb3hUaTV2NTVzWERpZ09RaDY0NnBKWnhQVXRkcVptVVE5OEdXZF9XbGFsX3VjenBJUlV2Sjh2bXU1eE81eHdOVnlPQldjWVZtUzVGUWM4TnNwMUM0SFFqSUJQcW1hUDFuN2t3cTdqQ1Y2Q2FTT3JjSkJxTlktb0IwdUQzZHlpbUJtVzlVWmJBcW5XV3dsUjdHWXFacGNpMjR6VE5YalowaG1VMXVpU1pzdHdXYm40UFI3eWNFRkgyODZNN1drY1E?oc=5",
+                    "publishedAt": "2026-06-18T08:55:11.000Z",
                     "language": "nl",
-                    "summary": "# Summary\n\nA new café-restaurant called De Baanderij has opened on the NDSM-werf, a creative cultural venue in Amsterdam-Noord. This addition to the popular waterfront area offers visitors another dining option in the increasingly vibrant neighborhood. For people exploring Amsterdam-Noord, it's worth checking out as part of the NDSM-werf's growing food and leisure scene."
-                },
-                {
-                    "title": "Restaurant Bouchon du Centre to close after 27 years: ‘I’m going to miss the people, but not Amsterdam’ - Het Parool",
-                    "source": "Het Parool",
-                    "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxObXhzcnNHMDlwOFBPc1p0VU5xTVZyMWw4R3RqMTFaVzBQcWNWdzVhT3ZmMEl6QXNtTDQ3LUJ3VV9UcS1lNmpxcnpNbzdCNkc3TmU4cWNJeFo2WC02bnNBLVVxWDJ3UXJVRHpiRzJOeGhxUk5LRDZKcE9jekw1b05KWGtCaVZqcU1Ld3ZFS3VGb05MbEd0RUR4dEpCMmtZWXBsN3dJMkFJbHdIa1ZYQXByYzNxQVZHWUZRR21aN01zbjN6ekxScjdaZy1BQ3Y4SlVfWEk4YkhIQlpTbHlRclE?oc=5",
-                    "publishedAt": "2026-06-17T01:00:49.000Z",
-                    "language": "nl",
-                    "summary": "# Summary\n\n**Bouchon du Centre**, a long-standing restaurant in Amsterdam, is closing after 27 years of operation. The owner expressed nostalgia for the customers but indicated they're ready to leave Amsterdam. Visitors to Amsterdam who appreciated traditional French-Dutch cuisine or were planning to dine at this established neighborhood spot should note that it will no longer be available."
+                    "summary": "# Summary\n\nPapa Zatarra, a new venue in Amsterdam-Oost, combines breakfast service, dining, live music, and dancing in one space, creating a community-focused destination. The restaurant offers a full day experience starting from breakfast and transitioning into an evening entertainment venue with a dance floor. Visitors to Amsterdam-Oost should check it out if they're looking for a versatile spot that blends food, music, and social atmosphere all in one location."
                 },
                 {
                     "title": "Tien Limburgers openen samen café in Amsterdam - L1 Nieuws",
@@ -40,7 +48,23 @@
                     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNR0cwZTRmM1VIQmF0dXBYQy1BNGpZZk9lRHY1QWd4Y2JxSTNuOXlSdDZCY2h5RjgwTUw4NXdhd0tuY2pXSjh3RUNPcjVpWUxnc01rZVM4WUZkb2Mya2J1d204XzhycV9Yc2tha2Y1SVRiS1BfeUNXeHNHMllfZTQ0dXJKbW9mWXhHRzA4UHhR?oc=5",
                     "publishedAt": "2026-06-15T18:27:42.000Z",
                     "language": "nl",
-                    "summary": "I appreciate your interest, but I'm unable to summarize this article because only the title and source information are provided—the actual article content isn't included in your message. \n\nTo help you, I would need the full article text. Could you please share the complete article content? Once you do, I'll be happy to provide a concise 2-3 sentence summary focusing on what the news is about, the specific restaurant/café mentioned, and why visitors to Amsterdam would care."
+                    "summary": "I appreciate you sharing this article, but I'm unable to provide a summary because only the title and headline are visible—the actual article content isn't included. \n\nTo summarize this properly, I would need the full article text. Based on the title alone, I can tell you it's about ten people from Limburg opening a café together in Amsterdam, but I can't provide details about why visitors should care without reading the actual story.\n\nCould you share the full article text, and I'd be happy to give you that 2-3 sentence summary?"
+                },
+                {
+                    "title": "Restaurant Bouchon du Centre stopt na 27 jaar: ‘De mensen ga ik missen, maar Amsterdam niet’ - Het Parool",
+                    "source": "Het Parool",
+                    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOS0w0V1dCTTVOZVBBR3ROVS1PV0JDblRCUFRaX3RSd19nMWpUdm1WTElvVzFLTVN4bTNETk9VcjUxanI5YmFCNzJENE90aHNmdWkxNWhvV3FvdnpvT002VU5mSkFEd1JXZmF5WG5yRHp5LWN0WTEyRVFJWVZkZzNNTTFMQ1pOSzkxRkxoVVhOcWh6NW1TNGZFYmQtQXVKLWhLUDVKdm1xay1oYXhSbHJTbXJsUDlGMWJPbmxnR1lGVDVWdkVSTk1jV0t3?oc=5",
+                    "publishedAt": "2026-06-16T09:10:37.000Z",
+                    "language": "nl",
+                    "summary": "# Summary\n\nBouchon du Centre, a French restaurant in Amsterdam's city center, is closing after 27 years of operation. The owner expressed that while they'll miss the regular customers, they won't miss Amsterdam itself, suggesting a bittersweet end to the establishment. Visitors to Amsterdam looking for a long-standing French dining spot will need to find alternatives, as this classic restaurant is no longer an option."
+                },
+                {
+                    "title": "Café Restaurant De Baanderij opent op de NDSM-werf in Amsterdam - Entree Magazine",
+                    "source": "Entree Magazine",
+                    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOejVjM2FoaXpOb3FZa0lyd3hmYklTTmk4VHU3NEsybEtTWk5zUUVvT2EwaDZuaE1OZ1lMcHF4M09YTm5lVnZHZkE1TUhRbmsyT2h6elhmaTc2Sy05WXh2WHU2TXZ2ZWoweWI4WGxaeXJSdUZLd1dNWE50LTd6XzJFVXlKbXdBbGNjZVdxcUlPbTFJZGFKcVFWRzRQVm9HMlVmSVB6XzRRYUgzWnBuN29F?oc=5",
+                    "publishedAt": "2026-06-16T07:02:25.000Z",
+                    "language": "nl",
+                    "summary": "# Summary\n\nI'd be happy to help, but the article snippet provided is too brief to extract meaningful details. From the title alone, I can tell you that **Café Restaurant De Baanderij is opening on the NDSM-werf (a creative arts district) in Amsterdam**. However, without access to the full article content, I cannot provide specific information about the restaurant's concept, cuisine, opening date, or why visitors should care. \n\nTo give you a useful summary, I would need the complete article text."
                 },
                 {
                     "title": "Angelo Kremmydas opent twee nieuwe restaurants in Amsterdam - Misset Horeca",
@@ -48,15 +72,7 @@
                     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE81MlY2cDh4WnFSWlBYTW9FMTBRYXczd0lqZTRmNzFZSk9PMEJOZmVld2FGd1RhUFYwakpNbXp4d0l1QnBOZHZuejdBdlFmWXV3YjhFbnpYMUZteW5uME03bA?oc=5",
                     "publishedAt": "2026-06-17T07:21:58.000Z",
                     "language": "nl",
-                    "summary": "# Summary\n\nI don't have access to the full article content to provide an accurate summary. However, based on the title, the news is about Chef Angelo Kremmydas opening two new restaurants in Amsterdam. Visitors to Amsterdam would care because this represents new dining options from an established restaurateur, likely bringing fresh cuisine and dining experiences to the city.\n\nTo give you a more detailed and practical summary, could you share the article text or snippet?"
-                },
-                {
-                    "title": "Deze vrienden hebben samen een kroeg gekocht: \"Enige discussiepuntje was het bier dat we wilden schenken\" - NH Nieuws",
-                    "source": "NH Nieuws",
-                    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNQjdqM19YaVZ2OEFkTVIwUkIzZHMzUDdkSG14QjdsNkEyaXNPeEpWQnI2amoycjUxTXZyMm01NkJJSU92bXVYYlJnNGM4dllVNWNHWjB0U0gwaFIyTmRmUGdub3RCSzNoeEp6ZnV4WEtiejdMMVA4dG1ha3ZVYjI0cWFtWnp3ak5BeU4xMHNPOE52WVlCbmlQbk5ETEFSQlNQZnVfNWxuSDFhQ2VpMHFLenlBNTNpMG5WdXhYVjgxd3pfd3lvX2V1ZU04OFpLZEg5VmxWLU9Daw?oc=5",
-                    "publishedAt": "2026-06-14T06:16:00.000Z",
-                    "language": "nl",
-                    "summary": "I appreciate you sharing this, but I'm unable to provide a summary because the article content itself wasn't included—only the title and a snippet are visible. \n\nTo give you a helpful 2-3 sentence summary focusing on the restaurant details, beer selection, and why visitors should care, I would need access to the full article text. If you can share the complete article, I'd be happy to summarize it for you!"
+                    "summary": "I appreciate you sharing this news, but I'm unable to provide a summary since only the title and source information were provided—the actual article content wasn't included. To give you a concise 2-3 sentence summary focusing on the restaurant details, location, and visitor relevance, I would need the full article text. Could you share the complete article content?"
                 }
             ]
         },
@@ -64,12 +80,20 @@
             "places": [],
             "news": [
                 {
-                    "title": "Grootschalige controle in Deurne-Noord: kapperszaak en restaurant verzegeld, tientallen pv’s uitgeschreven - HLN",
+                    "title": "RESTOTIP. Ox: bijzondere vleeservaring in hét Wagyu-restaurant van Antwerpen - HLN",
                     "source": "HLN",
-                    "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQb0RjcG92cUswN2QtRXJ5V2YyRXlndUFNSEVtY2wwbUlvZTQ4TGNUZ2ZXWHdzc3ZYNmRMdUkyZk5JZXFiWThaSUgyZHRwUnYxcXNRTUhUV0tuU2JqcTVNdnV1dWFWODBnb0E0TmhnUjNFNXBfdl82c01yZS1yUVlyZ1dFaGFVeTVaM3JDY0V4elNxd1gxTlpHcHVEbWZmTGZqcjlaNk5BNUFrN2M0U01yQS02YnBWRGt4WjhZY1gteUJkNmY1TV9fT01HcjdOVVdxODNxRWJEOTFVZw?oc=5",
-                    "publishedAt": "2026-06-17T08:23:12.000Z",
+                    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOQ2ZsRzBpSWpqZW82RzhCNkZEX0gybFFrWFBhSEgyQlR1SGpXcDVFSjVoNGJlazNNam1NVVhHMW5JMlg2RjZrS05DdnNKMGtZVEVjNFVGS2UwVlJBV0JUSDJQVmFVX3p2NE9yMzV6U2dKU3ZFcjZZUmhhQXBGVGwwRUJ3ekszbWwxY3dYb2NGS2t2a3lxTURnTUFvMmhRMjdYbGpfQWItLWFBVzRkX2J5Ync0RQ?oc=5",
+                    "publishedAt": "2026-06-18T09:01:28.000Z",
                     "language": "nl",
-                    "summary": "# Summary\n\nI can see this is a Dutch-language article about enforcement actions in Deurne-Noord, but the snippet provided doesn't contain enough detail to identify the specific restaurant name or give practical information for visitors. The article reports that a large-scale inspection resulted in a barbershop and restaurant being sealed off, with dozens of violation notices issued, but without the full article text, I cannot specify which restaurant was involved or the exact violations that occurred.\n\nTo provide a useful summary for visitors, I would need the complete article content."
+                    "summary": "# Summary\n\n**Ox** is Antwerp's premier Wagyu restaurant, offering a unique meat dining experience specializing in high-quality Japanese beef. Visitors to Antwerp should check it out if they're passionate about premium meat dishes and want to try authentic Wagyu prepared by experts. The restaurant has earned recognition as a top destination for carnivores seeking an exceptional culinary experience."
+                },
+                {
+                    "title": "Marnixplaats krijgt nieuwe bar: \"Palma moet vakantiegevoel naar Antwerpen brengen\" - GVA",
+                    "source": "GVA",
+                    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNOVp6LXY0R3dXaTRVZ1RsOHFvTnVCQkJ2S3IwWGVXRU82VGwzRnBFS2haTmZCVmhLS3NXSm9oUkczVEFUOXcyLTFXMGF1OGtYWmlzRTBRSVhURVprU2diTnlKRjh5d3F1QkdJejFiQ0Y1c1pZcE41ZUowamJ5cnNyOWd4bTBWS3lDaW50UDE5OE94OUJydTY5M01wTHhTOG9uNkd0eTFOektvb013aHhRMHNBNE1IS2lC?oc=5",
+                    "publishedAt": "2026-06-17T23:07:33.000Z",
+                    "language": "nl",
+                    "summary": "# Summary\n\nA new bar called **Palma** is opening on Marnixplaats in Antwerp, aiming to bring a vacation atmosphere to the city. Visitors to Antwerp will appreciate this spot as a destination to experience a relaxed, holiday-like vibe without leaving the city. The bar represents a new addition to Antwerp's dining and nightlife scene on this popular public square."
                 },
                 {
                     "title": "Restaurant uit Kontich wint toonaangevende prijs: \"Beste wijnkaart ter wereld\" - made-in.be",
@@ -77,23 +101,15 @@
                     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPOWFCNVkzNmp6dXVVMzBzQnItQzJzMW9QTTNEV1lxaHZoZm5vTjktRDBjUFlaSndQZWRvZDlzM2lIMTdMN2FBdUllaVdHMGRtR0JmOE9BWmxBNTNOaENKTDZJNmNrRjBybGFFWFNPNThaNTc0emJ1NGQ5N1duNTZtTVF1QTV3ZXNnYVlkalRsaVZMV19mZkxQdHhJWllrdXlETlhEMTZlTmx1eXE4bFE?oc=5",
                     "publishedAt": "2026-06-16T08:54:42.000Z",
                     "language": "nl",
-                    "summary": "# Summary\n\nA restaurant in Kontich has won a prestigious award for having \"the best wine list in the world.\" While the article snippet doesn't provide the restaurant's specific name or detailed context, this recognition indicates the establishment offers exceptional wine selection and pairing expertise. Visitors to the area interested in fine dining and wine experiences would want to seek out this award-winning restaurant for its distinguished beverage program."
+                    "summary": "# Summary\n\nA restaurant in Kontich has won a prestigious award for having the \"best wine list in the world.\" This recognition makes it a must-visit destination for wine enthusiasts and fine dining travelers visiting the area. The award highlights the restaurant's exceptional wine program and curated selection, making it an excellent choice for those seeking an elevated dining experience with expert wine pairings."
                 },
                 {
-                    "title": "Krijt in Antwerpen getest: ‘Dit is de wijnbar die de stad nodig had’ - Weekend Knack",
-                    "source": "Weekend Knack",
-                    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9YbGZkOFFMQTVGQ3Z5OUVfZTlZS1dxaHVnWHU3bi02X1lZOG5ydk1DancyQlV0Mzgya0tWd1BwTUhuWThhVGpQaGd3VGFJbTdiczVlaV9DQ1hpbGRPYWg5Wk9Hb19ZelJxWlNDUXQ3VkJNOFBIVWc?oc=5",
-                    "publishedAt": "2026-06-17T04:00:00.000Z",
+                    "title": "NET OPEN. Eigenaars van Vitrin openen tweede zaak Palma op Marnixplaats: “Vakantiegevoel naar Antwerpen brengen” - HLN",
+                    "source": "HLN",
+                    "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNdVExaW5yQ0xHd0ZlUHZmblFTYUI0a0JldDBISU5HOWozWng4Y3NVeGRSQXNZWkVNbWI0cG1YdGdyejRKZUJtU203ZHYteEtKNFlOY1hhUXFjNFdkVmRCUndfWFVKR2Nqd015ZUxONllOWDBHMjdqQW9WREtpTXhqUzJGdlZoX19taDd3NjRUQTh0QXFDSDBCSk16ak5obDAwVGNTOWJVOW9OSmExTnQ4MUxFeExWc2p1ZHNUazZSd2stX3NFUlE1T2tNQ2lqd1I0QnpDal9qWF9sVkVHdTM2Wg?oc=5",
+                    "publishedAt": "2026-06-17T21:25:18.000Z",
                     "language": "nl",
-                    "summary": "# Summary\n\nKrijt, a new wine bar in Antwerp, has been reviewed and praised as exactly what the city needed. The review suggests it's a notable addition to Antwerp's dining scene, making it worth a visit if you're looking for quality wine and an appealing wine bar experience in the city."
-                },
-                {
-                    "title": "Ze werkte voor de bekendste chefs van Antwerpen, nu start Senna (30) het eigenzinnige BOE: “Het lijkt op een theehuis in Hongkong” - GVA",
-                    "source": "GVA",
-                    "url": "https://news.google.com/rss/articles/CBMipwJBVV95cUxQb3BIcERqNk9HSk1UV0w4SmRjN2N4UmJZaVZwTHRWcXl2ZkZlRE5FV0JIMUpTT0RfQURhcnpENV83NlRyZU4zMElPZHBtRXlHbk80MEZuZ0RsWFZCaTVCWFZjY1JNMkpobmUycDFaemo2dGlnYnZUOVVOajljN0FBekxYdjNtMm9YcHE1Qk5Zc3ZIVnUtb3hjSXZLQ2lNdVJkYVdHZS1FSzBSaHVtZDE4bFltUEtEaTBFQS1RS0JnRkRfaWJMcHBDczlUWVlaYlRLY1drY1dXNjNEcjlTVi1TSzlZVHFsbm1objRjQ2dfcHIwWGNEVE5DNjZVV3JieUU4bDFhTFZwYi1ZZnZDcEZia1JUTVdTQV95ZDFKcS1yWHExSGM0Mzc4?oc=5",
-                    "publishedAt": "2026-06-12T19:16:00.000Z",
-                    "language": "nl",
-                    "summary": "# Summary\n\nSenna, a 30-year-old chef with experience working under Antwerp's most renowned chefs, has opened a new restaurant called BOE with a unique concept inspired by a Hong Kong teahouse. The venue offers an unconventional dining experience that stands out from typical Antwerp restaurants. Visitors to the city looking for innovative, distinctive dining in an atmospheric setting influenced by Asian design would find this new spot worth exploring."
+                    "summary": "# Summary\n\nThe owners of Antwerp restaurant Vitrin have just opened a second location called Palma on Marnixplaats, aiming to bring a vacation atmosphere to the city. This new spot expands the dining options in Antwerp's food scene with a concept focused on creating a relaxed, holiday-like experience. Visitors to Antwerp now have another destination for this established restaurant group's dining concept."
                 },
                 {
                     "title": "CAOS Antwerpen: not your average taco-avond - Barts Boekje",
@@ -101,7 +117,7 @@
                     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBFUjRkVXc0azBnQTZaLTh3ZGkzQUFmcDUzbGNWSDBpTjQtbnExNkJhUGVzTnRXVmpFRkVERVFGYnZvWHhmQVZ4MUs0RW5VWGhKSHB3clZR?oc=5",
                     "publishedAt": "2026-06-16T12:57:09.000Z",
                     "language": "nl",
-                    "summary": "I don't have access to the full article content, only the title and snippet you've provided. Based on what's available, CAOS Antwerpen appears to be a restaurant in Antwerp offering a unique take on taco night that sets it apart from typical taco restaurants. To give you an accurate summary of why visitors should care and what makes it special, I'd need to see the complete article text. Could you share more details from the piece?"
+                    "summary": "I don't have access to the full article content, only the title and snippet you've provided. To give you an accurate summary focusing on what makes CAOS Antwerpen noteworthy, why it's worth visiting, and specific details about their taco offerings, I would need to read the complete article.\n\nCould you share the full article text, or would you like me to help you with something else related to this restaurant?"
                 }
             ]
         },
@@ -114,7 +130,15 @@
                     "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOY3pvV2tJb3pCNU1lUHBtYW54R19LN0FhMWFVbnNXZE9PVkhiV1BEREdOdE1nc0s0aFFfb293dlRFbXBHN0l3QVBnU0hYRXdBSE56RDRXamFLXy12SzFRU0MtUHBWQXVIWEhhR3dYS0pMcmhUc0wyaU1ldWhkZWZwaHZLNnBlMjA4N0ZxUk5xb3RQMGZzSTctZTdoOVdsRmVfVEtMZzk2cHJGZnRmbnlDbG1NMW9TT2FZdkxIZDI4bmxDU3ZKRFpFalRObjBJakxUWTN1dmNXcVJzTzBkdnZNOEM3a1Nqdmcybm1IdVhBUFNQdGhYZW9HVDFR?oc=5",
                     "publishedAt": "2026-06-15T09:39:00.000Z",
                     "language": "pt",
-                    "summary": "I don't have access to the full article content from CNN Portugal, only the title and source information you've provided. The title translates to \"The best restaurant in Lisbon,\" but without the article text, I can't tell you which specific restaurant is featured, what makes it noteworthy, or the details that would help a visitor.\n\nTo give you an accurate summary, could you share the article text or snippet?"
+                    "summary": "I don't have access to the actual article content—only the title and source information you've provided. To give you an accurate summary, I would need the full article text.\n\nHowever, based on the title alone, this appears to be a CNN Portugal article naming the best restaurant in Lisbon. If you can share the article content or link, I'd be happy to summarize it in 2-3 sentences focusing on the restaurant name, what makes it notable, and why visitors should care."
+                },
+                {
+                    "title": "Cachecóis ao alto: em Lisboa saiba onde comer, beber e ver os jogos de Portugal - Expresso",
+                    "source": "Expresso",
+                    "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOb0ROUnZxMUo1c0R2NUk0d2NMUGx6U1dDS0xEbmRiWHhCV1V3bllxY18yc28tdklTYnJTZ2JtcEZnb2xCTERxZzJOckJZTHlKZzlvdVpYSzBRMnA1ck5lSnNWWk0yVkdHZ0FhSkFpNTR1bzNEUEhwelhPM0FvclVEc0QzQ1AyRVB3WjEtTVVaS2E5MWtsaExEN2phN0ZobzFrWFB6VHU4SExYR29LSVkxZks0dVVFSDVidjBIS1VHTHk0VFo0ZWNuRENUcTZPV2hNcTF2NWZkcDMzWXZRR05Tc201UWczWURNZnRyY0pOaHRsZWhObkphRkFGQThkYWplLUF3R0ZR?oc=5",
+                    "publishedAt": "2026-06-16T19:06:17.000Z",
+                    "language": "pt",
+                    "summary": "# Summary\n\nThis article is a guide for watching Portugal's national team matches in Lisbon, highlighting various restaurants and bars where visitors can eat, drink, and enjoy the games with other fans. While specific establishments aren't named in the snippet provided, the article serves as a practical resource for travelers looking to experience Portuguese football culture in a social atmosphere during match days. Visitors to Lisbon during major tournaments would find this useful for combining dining and entertainment while supporting the national team."
                 },
                 {
                     "title": "Visabeira amplia divisão de Turismo com novo restaurante em Lisboa - ECO",
@@ -122,15 +146,7 @@
                     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPeDdsVVMycTVFdTJUR1hZMVdpQVdtSG95dmZyUVBOVXFFY2xwbTlpTVAxdHlTMHJuRjBwMkI4Mi1EdUVhalpIcGEwWG5IWlY1X1o5Wm5RdVNZSFl3SmxBckhGeU12ZGI3dTFwVjlyblZvYm9lLU5BZDc1M2lRbTBtdE0ySG9pc2RRQ1hZdEFveVgzWTMxOG9tTThwQ3NlVGc?oc=5",
                     "publishedAt": "2026-06-15T18:03:26.000Z",
                     "language": "pt",
-                    "summary": "# Summary\n\nI appreciate your request, but I'm unable to provide a meaningful summary based on the information provided. The snippet you've shared only contains the headline (\"Visabeira expands its Tourism division with new restaurant in Lisbon\") and doesn't include the actual article content needed to extract details about the restaurant, its concept, location, or why visitors should care.\n\nTo help you properly, please share the full article text, and I'll gladly summarize it focusing on the restaurant details, its significance, and practical information for Lisbon visitors."
-                },
-                {
-                    "title": "Proprietário do restaurante Júlio dos Caracóis alvo de assalto milionário - Correio da Manhã",
-                    "source": "Correio da Manhã",
-                    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPd0x2dTIxb2M5OUtIcG1RSzg5Q0xocTFXMnNqS0NlQVJPV2lzTDFXNXBZVEpCRWZMUkd1MkZwazk3LTFWNXNMTXFORE9WeUsxS1kwWnJHY3hDM3Z5Ql9zc2U5MTNWalR3N2Z4bnRkRTlyNURIajNZUjdBUWpkb08tempCU292aEZtNGQ4cV9xbVN5Ym5hdEJYeEZORlhRWFlfYUdWVTNKdlpma0NrcmV4QVdNZk3SAa8BQVVfeXFMT1RyYy1FUVJEWGhiZGc3bjZWQlhrUXVUam9Td0R4UmFHODAzM2xEbjJCX1VDR1RPemZjVWNrVmJiRU9RdjRqbzBEOUZvWHZiMkhkbnNBTTQ1cFFfT1lLMzZRcHhKLU1CWGZYdGk2elNCUkwxMkN1aXdQaGVodW1ITnpOU3pDNnhTSDhaR2NDMXY3TzMxREJXZVNmYm9xeFBQb0E1c2JmUHRtWGs3MEd0WQ?oc=5",
-                    "publishedAt": "2026-06-14T00:41:00.000Z",
-                    "language": "pt",
-                    "summary": "# Summary\n\nThe owner of Júlio dos Caracóis restaurant was targeted in a major robbery. While this is primarily a crime story rather than food news, visitors to the city should be aware of this incident involving a notable local restaurant establishment. The specific details of the robbery and its impact on restaurant operations are not detailed in the snippet provided."
+                    "summary": "# Summary\n\nI don't have access to the full article content to provide you with the specific details you're looking for. To give you an accurate 2-3 sentence summary including the restaurant name, its concept, and why visitors should care, I would need to see the complete article text beyond just the title.\n\nIf you can share the full article or more details, I'd be happy to summarize it for you!"
                 },
                 {
                     "title": "Restaurante de Olivier causa polémica na Estrela: como se vive agora no jardim mais emblemático de Lisboa - SÁBADO",
@@ -138,15 +154,15 @@
                     "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPMWgzUVBBem5lSFVXSzAtdzZYcUV4VGhSUG9OX2FEWHdWNXkycHl1Y3lzak45dFVTNzNBSlZjZ09Sbjh0bnZPZ3RWSGl6Nno2WTV0QlJqOVNVMkhMVDFUSml2VE1WOG1jeXdoZXRDY0FnUEhzS18tMnhVbVdzZ3FUSkdGRktsSHV2SXctckZhQmw4NlNTMXBTYUx3ZEY0Zk51Q2R2bjZ3blJKTjU0VVptMTEzYTNneTJncG1hQ0RjZzV2SjhxUG1zU0t6dzV2NnhMeFI2eg?oc=5",
                     "publishedAt": "2026-06-14T07:00:00.000Z",
                     "language": "pt",
-                    "summary": "# Summary\n\nOlivier's restaurant in Lisbon's Estrela Garden has sparked controversy, raising questions about how life in this emblematic public space has changed. The article discusses the impact of this dining establishment on one of Lisbon's most iconic gardens. Visitors to Lisbon should care because this story involves changes to a major public landmark and how commercial ventures are reshaping popular recreational spaces in the city."
+                    "summary": "I'd be happy to help summarize this article, but the snippet provided only contains the headline and publication information, not the actual article content. \n\nFrom the headline alone, I can tell it's about **a restaurant by Olivier causing controversy in Estrela Garden**, one of Lisbon's most iconic parks. To give you an accurate 2-3 sentence summary focusing on what's happening, which restaurant it is, and why visitors should care, I would need the full article text.\n\nCould you share the complete article content?"
                 },
                 {
-                    "title": "Proprietário do restaurante Júlio dos Caracóis alvo de assalto milionário - Record",
-                    "source": "Record",
-                    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNaXZDSnZUN0dLTjROeWM5c21VYng5ZnN6UjFaQ3poR1hmRnpmakV4akJyZlM0ZzR2ODlublEwYmM5Z0RWaHg2a0g0dk9qWHEyMjBOZmxIWUNNUW42NjVkVWNDbjFpYTJSYTNDLVBwT0VHb3FBYTVONlNIRjgzVnJzcG1vRFJZS3RGYmFnUjhYUFBlcF9WcUpRRVBiN2RUdmxud2lROVBzQ1VJVjFwaHB5enFZbjV4blFa?oc=5",
-                    "publishedAt": "2026-06-14T10:37:00.000Z",
+                    "title": "Lisboa ganha novo espaço premium para lançamentos de vinho e gastronomia - Plataforma Media",
+                    "source": "Plataforma Media",
+                    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOT29BenpKSHdMdFRCWkU0a0JDSkpPNTFGWVBpZzNSZ0N4LXNPeWx6Z1AxWU03elNydFJka3VPSlNJaXB2SjRmblVOb3NtblFITFJrOTJWUWowVEpWSXYxN0ZEOFh6ejFMbm5qQjBwUVlVWXdpcXdEeldORGRsQ2gtcXlXUlR0OWMxTEpsVVV0cmxpV0tROWpTSDZTd0FVSVVodDFrVWNwVWt5MzE0UnUwdHRlbkNCVUk?oc=5",
+                    "publishedAt": "2026-06-17T09:53:05.000Z",
                     "language": "pt",
-                    "summary": "# Summary\n\nThe owner of Júlio dos Caracóis restaurant was targeted in a major robbery. Visitors to the city should be aware of this incident at this notable dining establishment, though the article doesn't specify whether it affects restaurant operations or safety for diners."
+                    "summary": "# Summary\n\nLisbon has opened a new premium venue dedicated to wine launches and gastronomic experiences. While the specific restaurant name isn't provided in the snippet, this new space offers visitors an upscale destination for wine tastings and fine dining. Anyone interested in Portuguese wine culture or premium dining experiences in Lisbon should consider checking out this newly opened establishment."
                 }
             ]
         },
@@ -159,23 +175,15 @@
                     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPa1ROZTJQN0JqLUJTUjI1T0JlUW95TTRBeWZ1bTc1NGRtTG5rcjF4WFhYRUNDRjBWV25INWVkeGo5aHpza1ZkVzdDaTRGSF92S3JhUEhSYjFOcExBVjUyRmR4NEJrSFZ3ejBnR2RaTVZCbzZrQnNqblkzaHQ3TzIyV0FuSE1uaWlVelZjUmJ0eUlqTnh6TndNcHNHTllyNEFHTGdyM1ZDMGTSAa4BQVVfeXFMTkN0LUlybGJzaDI2ZzJhcGppV2xWUnFJdDN5ZDhEYmR0dTEzWU53U3VheEo0cjcta1dwdEFQZXhxOEtVbVBFczJfMEVDVXdJUmotTnNoVExBVnJVcnNCTGlLTDJONmZGQWg5ZUJiUmpCWGMteDFhdmlhV2k0UWZvYTJWMXdTeDFVX01RWXRibDhLUGM3ajB0MkJSZHR0YnRMZmhMSUNSbHA4dG9ROTBB?oc=5",
                     "publishedAt": "2026-06-15T15:03:00.000Z",
                     "language": "en",
-                    "summary": "I'd be happy to help summarize this article, but I need the full article text to provide an accurate summary. The title and snippet you've provided only indicate that a Newcastle pub (a matchday favorite) is closing and reopening as a new venue, but don't include the specific details needed to identify which pub it is or why visitors should care. Could you share the complete article content?"
+                    "summary": "# Summary\n\nA popular Newcastle pub that was a favorite among matchday visitors has closed and will reopen as a different venue. While the article title doesn't specify which pub is closing or what it will become, this would interest Newcastle visitors who enjoyed the original establishment or are curious about new dining/drinking options in the area. Fans attending matches at St. James' Park may need to find alternative pre-match gathering spots if this was part of their usual routine.\n\n**Note:** The snippet provided doesn't include enough detail to identify the specific pub or new venue. You may want to check the full article for these details."
                 },
                 {
-                    "title": "Bar serves cocktails disguised as pints for football fans - The Drinks Business",
-                    "source": "The Drinks Business",
-                    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNS3lwZjFNaHJVMTRhc0VEWE5VMk14TTg2aDJzZ3FvX3l3SV94QndzN3NVZy1MOENMMWRIZVBUbk1iaGhRVTJmclIyNFhIMmRnUUFZak1MZVZ5NkozODJDb1cxSG9VaFNJS21HVXNPZTdLTzdudnpxeTcwVlBxUS1ZMXNKYXl6eWdFZE5wVTJiSWNVdm93bUdndUhnQ3Y5VlI1Zmc?oc=5",
-                    "publishedAt": "2026-06-16T09:27:29.000Z",
+                    "title": "Stop scrolling and start tasting at Newcastle's Viral Food Festival - Newcastle Herald",
+                    "source": "Newcastle Herald",
+                    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOektaOG9wdnBFNEp5MEZvMzdHYjJ5clBndUp3VVpSYk5HeXo2SFo4NC1KQzQ0cjFjUHRyMFNMbEJ6VmRxTE5pZGtubG1UOHdySmtDLVFjaF8tdUF0dURvZ25jai0xSnItT3dqVVdjUGhPcTh0SzV5dWs3MDlMUERpcEQ2Rms3VDM0R2NIWThqZmRCMFpKQUp1R2lLNjFOUmwtajVvdVhHV055NmZ4NHV1cnRn?oc=5",
+                    "publishedAt": "2026-06-17T22:37:09.000Z",
                     "language": "en",
-                    "summary": "# Summary\n\nI don't have access to the full article content to provide an accurate summary. However, based on the headline, the news appears to be about a bar that's creatively serving cocktails in pint glasses to appeal to football fans who might typically order beer. Visitors to the city would find this interesting because it offers a fun, disguised way to enjoy cocktails while maintaining the familiar appearance of a traditional pint—making it appealing to sports viewers looking for something beyond standard beer options.\n\nTo give you a more detailed summary with specific restaurant details, I would need the full article text."
-                },
-                {
-                    "title": "Walkers to honour McCloy’s memory on first anniversary of his passing - Newcastle Weekly",
-                    "source": "Newcastle Weekly",
-                    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNNU5UMDdaRExYTkM2N01TaDFtSWlLQW5nSzJPYlpGVDZsVXNib3o2aEdmUWtibkRpbEktbWtVck9YQkdqbHUtSVd1bGtGaUJ0R09ZNlB6TDZ5NDlNcDV1ZDZtbDBpMXFnSmlCcVZjLUhKX3BwMFpnOGJoSDVvLWxLT19oaTJOY3pLZ3NsRGxKQldBdzBBa3o1TXRBUm5fbVNmSkE?oc=5",
-                    "publishedAt": "2026-06-16T23:30:00.000Z",
-                    "language": "en",
-                    "summary": "I appreciate you sharing this, but the article you've provided appears to be about a memorial walk honoring someone named McCloy, not about a restaurant or food establishment. This seems to be a community news story rather than food/restaurant news. Could you please double-check and share the correct food or restaurant article you'd like me to summarize?"
+                    "summary": "# Summary\n\nNewcastle is hosting a Viral Food Festival that encourages people to experience local cuisine in person rather than just viewing food content online. The festival features local restaurants and food vendors showcasing their offerings. Visitors to Newcastle should care because it's an opportunity to discover and taste authentic local food from the city's dining scene while supporting neighborhood restaurants."
                 },
                 {
                     "title": "Eldon Square unveils first look inside Freight Island Newcastle as landmark rooftop destination opens - A1 Retail Magazine",
@@ -183,15 +191,23 @@
                     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZ2d0al9WU0VpZG1rT3F6N3E0MzFfWEd6MzZ3Z0VnU1dzWXhPZVVCX0k0NVAwWTFUdVFnakFHVnpLamkybTF3dFQweW05amdwcVRKdkNUQmhMX1gyNFZrMGk2U3UwcVpENnVuNU1GVXc2SzFLak9HajdoczlicDJkSlRWS0U4ZmNpOWRCU05sYWx4SUlaWnpzbjZ6SlRkSER4Q1pKdTkyekVET2t0U1E?oc=5",
                     "publishedAt": "2026-06-16T10:46:14.000Z",
                     "language": "en",
-                    "summary": "# Summary\n\nFreight Island Newcastle, a new rooftop destination, has opened at Eldon Square in Newcastle, offering visitors a landmark food and entertainment venue. The space features multiple food vendors and dining options in a rooftop setting, making it an appealing destination for both locals and tourists looking for dining experiences with a view. Visitors to Newcastle should care about this opening as it provides a significant new venue for casual dining and entertainment in a central shopping location."
+                    "summary": "# Summary\n\nFreight Island Newcastle, a new rooftop destination, has opened at Eldon Square shopping center, offering visitors a landmark dining and entertainment venue. The venue features food and beverage offerings in a distinctive rooftop setting that's become a notable attraction in the city. Newcastle visitors will want to check it out as a new go-to spot for dining and leisure, with the rooftop location providing a unique experience and likely cityscape views."
                 },
                 {
-                    "title": "Food Bites: Sukimama celebrates milestone, French wine 'fire sale' - Newcastle Herald",
-                    "source": "Newcastle Herald",
-                    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQOWFteFAzU0NrdjNRRjBELURaX2ljQzY0VHhWUlJZak4xWFRVN0FHUXFPdTFzaFdCR2psaXR3aDlvQThsLUlNTTU2VUVBTkdSMkVhT2Y2ZzRsTGoyQjV5WVFIallyMF9tQ0NqWFZKT3ZweUc4dG9GSzcxck5XNVVuT2dDa05kcnV5ZUxkaGdtQTFIY2JRLUl5bHI3bzJUQmdmUUFZV05CeWtVWnBnSUJDNQ?oc=5",
-                    "publishedAt": "2026-06-17T04:03:49.000Z",
+                    "title": "Long-awaited project to alleviate flood risk in Wallsend - Newcastle Weekly",
+                    "source": "Newcastle Weekly",
+                    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNSmdTR0liRDBnRVVrdVdxazFQQ3M3dnFoOEpuYy1SY28wX0xVV0V0aEg2a3JUSXpCZWRfNnlrdzlyYmRqY2dfTWJpdXBNdDgxQ09KTzFJQmRLdThpYVNiSFZaTGwwY2JMUkcyNFRVNW50Z3dsdFlRYnpFSF8zYUZMM0ZrUlBwSVZqdldvNXcybVMwUQ?oc=5",
+                    "publishedAt": "2026-06-17T21:00:00.000Z",
                     "language": "en",
-                    "summary": "I'd be happy to help summarize this article, but the snippet provided doesn't contain the full article content—only the title and source information. To give you an accurate 2-3 sentence summary focusing on what's happening at Sukimama and the French wine sale, I would need the complete article text. Could you share the full article content?"
+                    "summary": "I appreciate you sharing this, but I notice the article excerpt you've provided is actually about a flood risk mitigation project in Wallsend, not a restaurant or food news story. This appears to be infrastructure/civic news rather than food-related content.\n\nIf you have a food or restaurant article you'd like me to summarize, please share that instead and I'd be happy to help with a concise 2-3 sentence summary highlighting the restaurant, news angle, and relevance for visitors!"
+                },
+                {
+                    "title": "Byker pub staff rushed to help seriously injured person 'attacked' on Shields Road - Chronicle Live",
+                    "source": "Chronicle Live",
+                    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPTl9ZSnV2SHE2TDJxOFh4RG5EUmlmZWRqdXY2ZVIyMjRpX2FxMU10UnBwOFR0WGYtM2lNMHowV051RXFuOHVaWW05UVpLRzIxZlBBVUp1ZFJwR0N1emJwdjd0MGZ4SDlyUUNGQmVLcHV5T1JFOWowb2ZvVU1WYXQ1VXR2VldBcTEyR3lUSWZOODdHTGfSAZgBQVVfeXFMT0g0NGtSZkFtbWlNRzFzQWp5c3RiSGlQZFVzOGMyOG8wWmlyNUxXRUZ3dUlxTk9MdlhPdTRpR1hMVHVINW5uQThKeV9Ma2pxRU55MzMzZXRkUm15Vmgza1Zab1BxeHhNOUZOV3N6cERZOWZYQVJUMzJEZHRKZ1FQUXd6WTRabnl2cFk5QlhrWmNPZjBUM2hRYXI?oc=5",
+                    "publishedAt": "2026-06-17T12:26:00.000Z",
+                    "language": "en",
+                    "summary": "# Summary\n\nThis article reports that staff at a Byker pub responded quickly to assist a seriously injured person who was attacked on Shields Road in Newcastle. While the article highlights the pub's community-minded response during a violent incident, it doesn't provide details about the restaurant itself or why it would be a dining destination. Visitors to the area would likely be more concerned with the safety incident than any dining recommendation from this story."
                 }
             ]
         },
