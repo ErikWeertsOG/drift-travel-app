@@ -1,231 +1,26 @@
 {
-    "lastUpdated": "2026-06-25T08:44:14.955Z",
+    "lastUpdated": "2026-06-26T08:47:52.606Z",
     "source": "github-actions",
     "cities": {
         "cologne": {
             "places": [],
-            "news": [
-                {
-                    "title": "Michelin-Stern für Restaurant Neobiota - WDR",
-                    "source": "WDR",
-                    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQaFdTVWdxdnNJZ2RYTGM3Y3d6V1FKYlltVGpBMW1MWkswektSOXFGU0NtOUl5SVdDbEJFQVhYZGJLcnhZeFdXYjNkTm4wNDFPVUZnMVN3LWVOdkNIUnVkdWtQUUcxRGdhY29peEtuaDNqMUhJeDJ0dlhyd2RVdE93UFpRQnUyYVBmMFVYYy1HSC1mRFdlTXphQmU2ZmNuc0hXX1FIcV8tRmRXYVVzMGow0gGuAUFVX3lxTE1GMGNWejJ3RmRJYWZ1Vkt6R0U2LUpLZ003RjNpWVFMOHZPM0s2Ylg2QXFtcnBjNnBiY2RLSzVRelZsNk9PcWdnR3lvYWFSSWtOYy1zZWs4TEEtSHU1MEJMa1dOLW9GaS1sSHJ0SmtTQXQ5UGhKWDhWaHVJVG5RMFd1VlFyRVBPbWtyTGx4T0dsdktEaEJVWXRVRFVUWjQ0bVFlRHFGNks0UzFYcWZVdw?oc=5",
-                    "publishedAt": "2026-06-24T18:27:00.000Z",
-                    "language": "de",
-                    "summary": "I don't have access to the full article content, only the title and snippet you provided. However, based on what's available, here's what I can tell you:\n\n**Restaurant Neobiota has received a Michelin star**, making it a notable fine dining establishment. This recognition means the restaurant offers high-quality cuisine worth seeking out if you're visiting the city. For food enthusiasts traveling to the area, this is a destination restaurant worth booking in advance due to its elevated culinary standards.\n\n*To provide a more detailed summary with specific information about the cuisine style, location, or chef, I would need access to the full article text.*"
-                },
-                {
-                    "title": "„Kein Mais, kein Brokkoli“: Nonna Napoli eröffnet Filiale an Kölner Innenstadt-Platz - Rundschau Online",
-                    "source": "Rundschau Online",
-                    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNNDdiVUlPR3kxQlhtMjJGb0xhTnRicGt5Y2NpUkVWaFRlMy1SdzVOcmNKQmtReXg5UHdVT09hbU94bnozZmkxVE05alFXVzVqR19hNDhGUXRNTVE1YlREUUQyVGdmMEV1YjdUNzZKdVRxYWR4M1dwTVctZ1VVTHVvNk95VkZYYmpRZmp5QklZRlBVcTR1VnFwV1Q5NjFKREE1UFp3UXdyWUYxM1k?oc=5",
-                    "publishedAt": "2026-06-24T14:15:00.000Z",
-                    "language": "de",
-                    "summary": "# Summary\n\nNonna Napoli, an Italian restaurant known for traditional pizza without corn or broccoli toppings, has opened a new location in Cologne's city center. Visitors to Cologne will appreciate this addition as it offers authentic Neapolitan pizza made with classic Italian ingredients and traditional preparation methods. The new downtown location makes it convenient for tourists and locals to enjoy quality Italian cuisine in the heart of the city."
-                },
-                {
-                    "title": "Yu*lia Mezze Bar - MICHELIN Guide",
-                    "source": "MICHELIN Guide",
-                    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNXzItdlc2dU5wQWIxUlVMVWZrVTh3cngwSzUwY1NJa1BzVWRqcEpyWjJLY29QYTE5dzhMU3BUbmcxbnhTcVRzVWJWZ01LOGFVa2hidklGUHRIZlFzcE5ZUGZqclNzWFBPNFZsQ2lZWTdRcUJyN1NxanJhaFJKdU1nQ0k5YmV2T2ZvQ21LX3JB?oc=5",
-                    "publishedAt": "2026-06-23T18:07:10.000Z",
-                    "language": "de",
-                    "summary": "I don't have access to the full article content to provide an accurate summary. The snippet you've provided only shows the title and source, indicating that Yu*lia Mezze Bar has been included in the MICHELIN Guide, but without the article details, I can't tell you:\n\n- What specific achievement or recognition it received\n- Why it's newsworthy at this moment\n- What makes it noteworthy for visitors\n\nCould you share the full article text or additional details? Then I can give you the concise 2-3 sentence summary you're looking for."
-                },
-                {
-                    "title": "Guide Michelin 2026: Diese Sterne-Restaurants gibt es in Bonn und der Region - General-Anzeiger Bonn",
-                    "source": "General-Anzeiger Bonn",
-                    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOSU1YVDdaT0ZtTWdTY2ZtSHJobDVSN2psYXNQLXBKNFdRQTlnZjlqYzZkU2tqV1NQYnM5T0w4bE0yM2ctYlNZU0VWUWs4WFVNenNZYjB2VzZGd1BFcnNmRm5ENXFucTdURllWamJRZm5NLW9UTWFLbDZJNW0tNXJMZVNndGhvVld1OEZ2dHcwdVFlWmhzMjdBNWZkYWFGaktWbkd4QTYyMjgwdw?oc=5",
-                    "publishedAt": "2026-06-24T19:01:16.000Z",
-                    "language": "de",
-                    "summary": "# Summary\n\nThe 2026 Michelin Guide has been released, identifying the star-rated restaurants in Bonn and the surrounding region. This is important for visitors to Bonn because it provides a curated list of the city's highest-quality dining establishments, helping travelers find excellent restaurants worth experiencing during their visit."
-                },
-                {
-                    "title": "Nach Stern-Verlust: Michelin-Jury entscheidet über Restaurant von Nelson Müller - t-online – Köln",
-                    "source": "t-online – Köln",
-                    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPdmhTWHZDSThBM3ZLbkEySVVWSGNEXzNsc1o4TktlWHVKZ1BOanJfTVZnOW4zS1dIS3g5Zjkzd1U1T21HZWZCYVBXOEpSU2ZVTHVCNTNCNGpVVVg1dWptX281VU45M0JRRXJsNlVCM2czMXN3WUlNeG80M05qaTJBMkNHYTRma2tSVzk0Q29SNEVZd3kwVk5TdGQ3ZEQ0VGl6emJWc21JVDI2V0d4cHBHUTVvNTZDdE5KcU04MGlkUQ?oc=5",
-                    "publishedAt": "2026-06-23T18:10:29.000Z",
-                    "language": "de",
-                    "summary": "# Summary\n\nNelson Müller's restaurant in Cologne has lost its Michelin star, and the Michelin jury is now deciding on its future status. This is notable because Nelson Müller is a prominent chef, making this decision significant in Germany's fine dining scene. Visitors interested in high-end dining in Cologne should be aware that the restaurant's prestige and rating may be changing."
-                }
-            ]
+            "news": []
         },
         "amsterdam": {
             "places": [],
-            "news": [
-                {
-                    "title": "Binnenkijken bij NYX Hotel Amsterdam: mix van slapen, eten & drinken en cultuur - Misset Horeca",
-                    "source": "Misset Horeca",
-                    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNOE9qeGtBOUtKeGVwRG14T2UwM0dRN2NqbENMTGl1VDFCcHhXR2dvYjlRSlY1ZXZPakluMjVhaW1selNyaVFHN1JuaVd0bTdLblVtRnJGV00wSVVNX0UtLVRSWlJvR2dOQVoyLXcyb2NlSWI2T3BKUXI4N1ZQajdaWDVSYjF6R2ZTOFJYcERKTWtZOTNYc0sw?oc=5",
-                    "publishedAt": "2026-06-25T05:31:00.000Z",
-                    "language": "nl",
-                    "summary": "# Summary\n\nThe NYX Hotel Amsterdam is a new hospitality destination combining lodging, dining, drinking, and cultural experiences in one venue. Visitors to Amsterdam would appreciate this all-in-one concept that integrates accommodation with food and beverage offerings, plus cultural activities, making it a convenient option for experiencing the city's dining and entertainment scene."
-                },
-                {
-                    "title": "Neni opent tweede restaurant in Kimpton De Witt Amsterdam - Entree Magazine",
-                    "source": "Entree Magazine",
-                    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOcnlQbEhocEcydTNlWTlic1FTRzhiNTZkdGtubEMxVnVqUjR1QWItNVpOalpMQjdubXhtdWdsNzdyRUxkZ2s1WVdINUotYXQwOVpqVERnd3dhYkdkZmRWUGxzZFpCak9WYkpSQ0Y2V0tQdGo3bzc5enM4YlZKaGRIUDRudExPeU1ZTFZkSk5qSjRsOFlpLWZ2S0dlSjJoZmdYeGZmN0ZjZw?oc=5",
-                    "publishedAt": "2026-06-24T07:04:21.000Z",
-                    "language": "nl",
-                    "summary": "# Summary\n\nI'd be happy to summarize this article, but the snippet provided only contains the headline and doesn't include the article's body text. From what's visible, **Neni is opening a second location at the Kimpton De Witt hotel in Amsterdam**. \n\nTo give you a complete summary with relevant details for visitors (such as cuisine type, opening date, or what makes this expansion significant), could you provide the full article text?"
-                },
-                {
-                    "title": "CIMA Rooftop Bar Amsterdam opent verborgen terras - fhm.nl",
-                    "source": "fhm.nl",
-                    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPVnY4c1pnZmM5eFFScU44czNlQWJRbHZfaXdmV2hhUnRDS3NkWmkyeWh1cFFvajFEMWV3aWFUbF96clQwWGpOcnYwX3RwbTdJQjcxUHo2VnJUMldodEZDSnNBS2hoMVhhWW5sdnFHNUJ1MFprYlBRSVBVZ1dBYmNGNnhPUlpOdlFsQnhXQlZad004YzZZZ21lbQ?oc=5",
-                    "publishedAt": "2026-06-20T15:06:09.000Z",
-                    "language": "nl",
-                    "summary": "I don't have access to the full article content from fhm.nl, only the title and snippet you've provided. Based on what's available, here's what I can tell you:\n\n**CIMA Rooftop Bar Amsterdam has opened a hidden terrace.** Visitors to Amsterdam would care about this because rooftop bars with terraces are popular destinations for drinks and views, and a newly discovered hidden outdoor space offers an exclusive spot to enjoy the city. However, I'd need the full article to provide specific details about the terrace's features, location within the bar, or what makes it particularly special."
-                },
-                {
-                    "title": "Hundreds of venues prepare to host fans for Netherlands vs Sweden World Cup match - NL Times",
-                    "source": "NL Times",
-                    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNOUVhczRoNlQ0eUhSS0RoVm5qMS1SckdfWG5CU0N2Yjh5ZXZsR2dkV3pjSVFtMGpOazZhVDNDcVhXNllmaVVLMmw4RV9KS05tOElRNVJ1LVN6T3FmR0dLZkdLUVMwZUwySjUtY0NxM1lzVnNXR3Z4dmUzN1kyczk3eWdTMERqSnRGVG9nZENqejI0NWFYUHprMnJhZC1McUFQTjRJ?oc=5",
-                    "publishedAt": "2026-06-20T07:15:00.000Z",
-                    "language": "nl",
-                    "summary": "I'd be happy to help summarize this article, but the snippet provided doesn't contain enough content details—it only shows the title and source information. \n\nTo give you an accurate 2-3 sentence summary focusing on the specific restaurant/food venue mentioned, the match details, and why visitors would care, I would need the full article text or a more detailed snippet.\n\nCould you provide the complete article content or a longer excerpt?"
-                },
-                {
-                    "title": "Een zomer lang Gucci, Dior en ALO: de opkomst van horeca-takeovers - Entree Magazine",
-                    "source": "Entree Magazine",
-                    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNVDZPVm1pbDB1T0YwYjFHaE5VUmltRzhEeXhoNUt1c0dGVEc0cHZPZzFpNWJhdzVaRTZOQVJBYUlFMkEwYWRjamEzMVZSOU1KaXRqd1FVWms5V2JNNVhldHBUdE1Ub1F3Nm5CYV9HUnRLYmlhaEUtWmRBcDdwbnVCZEk5MWFPd0tJVTFQX3E5YVA2a3E0a1A0U2VOb0FOQVpiNHJTRlJZTVZ6V184SS1ERg?oc=5",
-                    "publishedAt": "2026-06-24T13:00:42.000Z",
-                    "language": "nl",
-                    "summary": "I appreciate the request, but I'm unable to provide a summary because only the title and source information were provided—the actual article content isn't included in your message. To give you an accurate 2-3 sentence summary focusing on the specific restaurant, why it matters to visitors, and the news itself, I would need access to the full article text.\n\nIf you can share the article body or a longer snippet, I'd be happy to summarize it for you."
-                }
-            ]
+            "news": []
         },
         "antwerp": {
             "places": [],
-            "news": [
-                {
-                    "title": "Hittegolf treft ook horeca en winkels: zaken in Antwerpen passen openingsuren aan - HLN",
-                    "source": "HLN",
-                    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQUXdfcEg4UU1pdTJCSFZqTGZFdEVsZ0dKcVJPN3RCTE1VNDBqVUpRLUhlWGNxeUlBX2p0ZFFsX1FRMXRQV0M0N1J1TjJ0eW0zN1RsM2l3UHhvTTluVG9iN3BZSmRzTEJheTJjaDBZNEs2Q0dhRk9udmk3cnA2UUp3b0dDal9rVFl2MzU4ODRiTTZubFBhSTI1MlFxZ3d6YXl5a215Q1FpdmZxWGkzOXpmOUJPQXVVMGh5RlJn?oc=5",
-                    "publishedAt": "2026-06-25T01:21:06.000Z",
-                    "language": "nl",
-                    "summary": "# Summary\n\nA heat wave is forcing restaurants and shops in Antwerp to adjust their operating hours to cope with extreme temperatures. While the article doesn't mention a specific establishment, it indicates that multiple businesses across the city are modifying their schedules in response to the weather. Visitors to Antwerp should check ahead with restaurants and stores, as usual opening times may have changed due to the heat."
-                },
-                {
-                    "title": "Restaurant Sanctus in Antwerpen: peperduur maar ijzersterk - De Tijd",
-                    "source": "De Tijd",
-                    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNY243SHJ6Z1RWeFJVSzRoYVByV2RfNjJOR0pOYks3MXdVWGxOekZlS0ZvWVRDaURJbGVtVFFlSkVzUG0yZHMzWjFELXFlOFdyd21WTVBXbmRacElzTFExeWNEVUpXR2QyT3pRd0ZSSmNmc3hHdlFzZllqY0tkUWltQTdkcThVSFlVQjNQbFBIMGZXRlpHLTl2S1hueGMyaDB5RzdqaHBydnZHemlQ?oc=5",
-                    "publishedAt": "2026-06-19T04:45:00.000Z",
-                    "language": "nl",
-                    "summary": "I don't have access to the full article content, only the title and source information you've provided. However, based on the title alone, I can tell you that:\n\n**Sanctus** is a restaurant in Antwerp that is described as \"pepper expensive but iron strong\" (meaning very pricey but excellent quality). Visitors to Antwerp would care because it appears to be a high-end dining establishment worth considering despite its premium prices, suggesting strong food quality and execution that justifies the cost.\n\nTo provide a more detailed summary with specific information about the cuisine, dishes, or other relevant details, I would need access to the full article text."
-                },
-                {
-                    "title": "Geen zomerbar op Arenadak door strengere regels - GVA",
-                    "source": "GVA",
-                    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPUVZnVGwwamV1eVd4dWNDbFpaMDVyX25ram9PeERkbzVFUVZJUmU4eWZod0pVcG5rY2pKdllLOTkwaDdLM0M2Uk9FZmJmaXFrM0NrVVF4LXE0Mmt3aVhSZ1F5SGhtTDh0RmJrZnBKXzU5cmxERTY0T1pvVFN5X2Eyd3JWNnBVbnBjRTZQRzBkY2pxRzNXTnlBblhkZXYwV2FKdGlDU2hBXzlhc0V2UnFoZzQ5cFVNdEhBejg2ZHY5ZEVfNV9qT2hFTnZ3?oc=5",
-                    "publishedAt": "2026-06-23T16:12:09.000Z",
-                    "language": "nl",
-                    "summary": "I don't have access to the full article content—only the title and snippet you've provided. Based on what's visible, here's what I can tell you:\n\n**A summer bar that was previously operated on Arenadak (likely a rooftop or outdoor venue in Antwerp) will not open this year due to stricter regulations.** Visitors to the city who were expecting this seasonal outdoor dining/drinking spot should look for alternative venues, as the regulatory changes have prevented its operation.\n\nTo provide a more detailed summary with specifics about why the rules changed or what alternatives exist, I would need access to the full article text."
-                },
-                {
-                    "title": "Brussels icoon Yves Mattagne toont in primeur restaurant Sanctus in Antwerpen: “Ik wil mijn beste niveau ooit halen” - Nieuwsblad",
-                    "source": "Nieuwsblad",
-                    "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxPb0ZGT2pxNlg0N3ptY0F2bmFrS2tKTTRqd1hrdXgxTm1Zem9TcWo0WldoRUJMQmwycVcwRGJONGdaWU1IWG9EQVZoX2dmX1N3UUR1OHJrX1ZLREVvTjY5Zm1tekFnLUh5RnpDTTBMUVlTTkU5TUl0d1dORVhGOXFiaEpFdFQzWGwwZFFwS0FSTlVIZnY2enItTVdJUXhmNHBxd1BYUWhnaURvcnYxcUQ4cHZ3Y1JSeHZZMDZYaUM5TEZLbmFfSVB5SUwxMFdmQUpVdTJvNy1VbHNSRUxoMFBzeWRDek5YTEMwd21kQUp3V1JhMTZQWld4czNDSHEzTTQwYjRRb0taRmZ6ZTh1Q0ozUXoxczVUeklCWVRxM3Y5dUQxQQ?oc=5",
-                    "publishedAt": "2026-06-20T02:00:00.000Z",
-                    "language": "nl",
-                    "summary": "# Summary\n\nRenowned Brussels chef Yves Mattagne is opening a new restaurant called **Sanctus in Antwerp**, marking his first venture outside Brussels. Mattagne aims to reach peak performance with this new establishment, bringing his acclaimed culinary expertise to Antwerp's dining scene. Visitors to Antwerp should care because this represents an opportunity to experience one of Belgium's most respected chefs in a new fine dining destination."
-                },
-                {
-                    "title": "Eerst samen op restaurant, daarna werd hij dood gevonden langs de weg: vrouw (53) aangehouden nadat partner (56) sterft bij aanrijding in De Haan - pzc.nl",
-                    "source": "pzc.nl",
-                    "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOenF4UXQ0NnJ0VWVaZnlTVzllNGM2NHZxT0pWTHpPN2xTeFdBNmxBRm5kc21PSUJIek4wb01ydlV2azl3ZXl6dWF1cE1zc0tSTDNtR1BSdUtILUVMWFJCRGJvaFBuZG13S19VUzgyT0lidlpRN0NBbUpQUTNXcWVkSXRtbVhTR25VbWFVSWd6VlBKQ292ci1sd05NMTNGODNYbnNuQVJ0Ync5dGp3LVl4bXpPYl9PS3VsaGg2clFFTmp6Uk50OE1oOURVaUVyRWJPbTQ1bW5TeE43bGdNNmJzYW5tdWhrZzRhcnJoYWlwWjViTHNFV3ZuMVV5N0VLZXNoUG43dnJ2RUwxUQ?oc=5",
-                    "publishedAt": "2026-06-24T06:46:00.000Z",
-                    "language": "nl",
-                    "summary": "I appreciate you sharing this, but I need to let you know that this isn't actually a restaurant/food news article—it's a crime story about a fatal hit-and-run incident in De Haan involving a couple who dined together at a restaurant. While a restaurant is mentioned as a location in the story, the focus is on a serious criminal matter (a death and arrest), not on food, dining, or restaurant recommendations. Therefore, I can't provide the practical dining summary you requested."
-                }
-            ]
+            "news": []
         },
         "lisbon": {
             "places": [],
-            "news": [
-                {
-                    "title": "Grupo agride e ameaça com arma de fogo funcionários de restaurante em Lisboa - Diário de Notícias",
-                    "source": "Diário de Notícias",
-                    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOT0o0anVUeXdCQXNkZGFqOXpxUVY5ZDh5OE9oR3hNMzA3ekdVb0ZMN0F6eE5xY3FrMktkcFh0c011WVZVdEhoUG4zdWNhck1FZEpuaUwxLWZOMzB0cDdveVpxWTNUVmYtQ1NnZHZZUDN0a0FVQlg3UGhOd3pHZTR0ZlZ4dFFfZlV2ajF6c29pby1tbEpGd1BJTWl4MEpZai1McXRwRw?oc=5",
-                    "publishedAt": "2026-06-21T15:35:04.000Z",
-                    "language": "pt",
-                    "summary": "# Summary\n\nA group of individuals attacked and threatened restaurant staff with a firearm at an establishment in Lisbon, Portugal. While the specific restaurant name isn't mentioned in the snippet provided, this incident highlights a serious safety concern for both workers and customers in the Lisbon dining scene. Visitors to the city should be aware of this violent incident as a reminder to stay cautious and avoid any establishments or areas where such disturbances may occur."
-                },
-                {
-                    "title": "Mulher ameaçou funcionários de restaurante em Lisboa com arma de fogo - Jornal de Notícias",
-                    "source": "Jornal de Notícias",
-                    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQcjZId3FqTF9saGFjR3BhZF8xMV9Lb2ZoLU9pY1FScnVRVUdyWUQtYlVrMzFIRHg2dU9kbjQ4UlpZLXVQOXhvNDVFNTM1Q1ZMLVhDLVB4aXFJN2I0WW90U1Y1T0RfQ1BTQ2M3TmdqMjd4YV9XSEtEQVhrSDN4VGRVTk1DenZlSGZmOGZSTUN1MmlnX1FxZHRTOTlpNHF0dHFBMWJFYzh3RUFrZmxBQ1Q0MdIBogFBVV95cUxOaWVySklxNFV4anR1Ym9ZRmcwelRmY0E2VmlVTU5BcnpUc1BiQ0VWMW1JYnAxbkZvZ25DUHU2X1BaNDlYdmM5V2RCR0Z5SG54Q0p4cHNsR2dNdTlnUUNsbVVJbFNqWEdkY3JqUEtFbDZRTS1ZYlpyaVNKNGE4QjRyMUNFVURQeG53RjNUTDdibnB1UGh3ZW93TmRJSXdydWNjMFE?oc=5",
-                    "publishedAt": "2026-06-21T13:41:00.000Z",
-                    "language": "pt",
-                    "summary": "# Summary\n\nA woman threatened restaurant staff with a firearm at an unspecified restaurant in Lisbon. While the specific restaurant name isn't provided in this snippet, this incident highlights a serious safety concern for diners visiting Lisbon's dining establishments. Visitors should be aware of this isolated incident, though such violent confrontations remain extremely rare in the city's restaurant scene."
-                },
-                {
-                    "title": "Grupo de seis pessoas agride e ameaça funcionários com arma em restaurante no Parque das Nações - SIC Notícias",
-                    "source": "SIC Notícias",
-                    "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPZkFZMUE2a2ZLWTlOeUtpS1d2VUlzc1Vra2xHZmRPTHZlQ2ZEVHRqTE8tejVmendIQXB0ejJSQ0FFaXVnRnd0RjlZMUFmVmFLTjdZaTRmWDNjdFRLYzFMZm9TY0s5YlZ2UjlCM3ZKQS1sU0pERkJ3U2g2MG9MLTRleHV2OUk4aHEwMV9sMV9GR2RpdkoxLXBEdGFKckVzUVF4TndrVHJiZFR2LUV4U0tucWlCTlZUOUFjdXBNZXRoZi1ITzEwRkR6S1Y1SHJBN29JVGlGWTV4N0JKek5OeEtBUkFVQQ?oc=5",
-                    "publishedAt": "2026-06-22T19:35:40.000Z",
-                    "language": "pt",
-                    "summary": "# Summary\n\nA group of six people attacked and threatened restaurant staff with a weapon at a restaurant in Lisbon's Parque das Nações neighborhood. While the article doesn't specify the restaurant's name, this incident highlights a serious safety concern in the area. Visitors to this popular Lisbon district should be aware of this violence and may want to exercise caution when dining out in the neighborhood."
-                },
-                {
-                    "title": "Discussão em restaurante termina com ameaças com arma e funcionários agredidos no Parque das Nações - Jornal SOL",
-                    "source": "Jornal SOL",
-                    "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQZWk2V2ZZdGNYUnE4VEd1Sk5zV2RHQ2FPSHdpeEdMT2dXNERESUJzNXpwWmhLYnhtM0FQaGh5MFpfUHNmemo1LUhyRTFBRDFkeVFYNjFyTHNfblh4aVJrOUZua01fU2J5M2NqMDB2cEtIZWZ5elBQa3pIbXMxMGlYcTNVaXJFNzZ3cGFLRG1ybDZzX1I3SE51M29BMEVmM21VdXBNYzRKU2I4c1F2T3VkRlRvc2VpdzhKZGp2bmVJdzdTbTA5Wk5zTFBwSTRiTHMwbXVoOVMyREtlenFLU2FJbDNNZWY4WnFlWDFGQUpadGdxVkZGdGN6czBzd2diWFkt?oc=5",
-                    "publishedAt": "2026-06-22T11:44:11.000Z",
-                    "language": "pt",
-                    "summary": "# Summary\n\nAn altercation at a restaurant in Parque das Nações (Lisbon) escalated into a serious incident involving weapon threats and physical assault on staff members. While the article doesn't specify the restaurant's name, this incident highlights a safety concern in what's typically a popular dining and entertainment district. Visitors to the area should be aware of this occurrence, though such violent incidents remain relatively uncommon in this neighborhood."
-                },
-                {
-                    "title": "Grupo agride e ameaça funcionário de restaurante com arma em Lisboa - Notícias ao Minuto",
-                    "source": "Notícias ao Minuto",
-                    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNVl9aTEdYNl81amZRRElGamVtOEtDZS13aHVGcXZlak5MeDMtU0VRRXp1b0pKOUM5WWFlcVNDUTIxTFZMdERGbE1Ya3RzcXFaZ3pYVGRoc0p3ZmN6aUlQUXVjb2VZRTlyNmxIWl9iVTZMSWx2Y0NPN09fQ21ONElGZHVBZFhHdnEtLTZYMm5BaVRkRmp3LTFuWkZ6MXlGZHB5TXZ0Qk1RUHVmc1RMWEtEcGxBTQ?oc=5",
-                    "publishedAt": "2026-06-21T12:45:22.000Z",
-                    "language": "pt",
-                    "summary": "I can see this article is about a violent incident at a restaurant in Lisbon where a group assaulted and threatened an employee with a weapon. However, the snippet provided doesn't include enough details to identify the specific restaurant name or provide practical dining information. This is a safety/crime report rather than food or dining news that would be relevant for restaurant visitors."
-                }
-            ]
+            "news": []
         },
         "newcastle": {
             "places": [],
-            "news": [
-                {
-                    "title": "DOOD Launches Silk Road-Inspired Sunday Roast on Newcastle Quayside - Hospitality & Catering News",
-                    "source": "Hospitality & Catering News",
-                    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQaHN3aS1EMzROU0tuMDd3ZDM3MGdMTVBYQkFIdDBVdmt5WWZuYVNNOHAzVmpOaDFBZU9MZ01aZ2ViTG9BZGxWQU81UVRpSURmcVFxREpSVDItT1dlSDZQRkpBS3F4bm1jYTZONW9SX2VnVWs1YkJuTExPMGNqRkNXVmU1bUhCNzA3UEJ4bWY5MF8xUVpEV01WUEl2VXl0THIyb19mOXY3MGtMNTE2UnBtbkpGTWNUN1hjVWxF?oc=5",
-                    "publishedAt": "2026-06-25T08:12:14.000Z",
-                    "language": "en",
-                    "summary": "# Summary\n\nDOOD, a restaurant on Newcastle Quayside, has launched a new Silk Road-inspired Sunday roast menu. This fusion take on the traditional British Sunday dinner offers visitors a unique dining experience that blends classic comfort food with exotic spice-route flavors. If you're visiting Newcastle and want a creative twist on a weekend staple, this would be worth checking out."
-                },
-                {
-                    "title": "Sayers father and son deny GBH after their Newcastle diner hit - BBC",
-                    "source": "BBC",
-                    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBYekZWeDVHeEFnZlVaTkpIbE5MLVJzRVRJY1lENFphN2JRWXJaMzlmSVU3ckpXMFpqd1EteEhtdDVSWjB4TjRYVEtlREhQUU5oSjdydWFzRnhPQzYx?oc=5",
-                    "publishedAt": "2026-06-24T14:42:14.000Z",
-                    "language": "en",
-                    "summary": "I don't have access to the full article content, only the headline and snippet you've provided. However, based on what's available, this appears to be a news story about the owners of **Sayers diner in Newcastle** who are denying charges of grievous bodily harm (GBH) following an incident at their restaurant. \n\nTo provide you with a proper 2-3 sentence summary focusing on what happened, why visitors should care, and practical implications, I would need to read the complete article. Could you share the full text so I can give you an accurate, useful summary?"
-                },
-                {
-                    "title": "Heaton pub reopens after £250,000 revamp with new menu and beer garden - Hexham Courant",
-                    "source": "Hexham Courant",
-                    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPYmVfajVQV0ljcXEyTjBrVHg0M0VveFFlQzY3b09JUlBMalMwbnFpYk5CTXRDemozWTBMSTE1VzExNHl0MWNYVFo1TTViblI1YXNOMldaVDktdXJuOFpGSDRma3d4cHZ2Zy1xME1wZmpSM0VWQzdHcGZqSlpzLXljNWRrS1JYR1hFOWRjbGtuclhJdDFxNXluZWcwUE5Hdw?oc=5",
-                    "publishedAt": "2026-06-24T04:00:00.000Z",
-                    "language": "en",
-                    "summary": "# Summary\n\nA pub in Heaton has reopened following a £250,000 renovation that includes a new menu and beer garden. While the specific pub name isn't provided in the snippet, this refurbishment makes it a noteworthy destination for visitors to the area looking for updated dining and drinking options. The revamp suggests improved food quality and outdoor seating, making it worth checking out if you're visiting Heaton."
-                },
-                {
-                    "title": "Serial burglar used electric grinder to steal cash from safe in popular Newcastle Quayside restaurant - Chronicle Live",
-                    "source": "Chronicle Live",
-                    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOeXMtb2xhTDlLNlNteXBjQ1htLTdoTW5hM2FJNkhfaWFvQklPWm9FckducXFwUGgtdTg1aFpXZUdETW1mVDh1RWxXVDJRQTRWY2l5UW9DcGp6Sl96SDV5S2ZjbDRaVk4wOXNIZHAyMnNUUVU0dkR5YTFaeEZpS0w4WFBGNnUtSzlMZFlBRmlKbWt3SW9aaXVkYWhPNl9nOEXSAaQBQVVfeXFMTUtRN1dqd25ZenB5Q2NXUWdmYVloc2FEdklIR2piejl6clJUMGNjcDgwUnZPbHRDc1h0M3hoWHRyR29ZYVh1TUI3LW5tMC1LWENhdTdFVjM3UWNqSjlGaGIwR0ppdmFCSmdQblNIVndXRm04dDRrMU9IZ19KX3phYnZSdXdUOWtWRTZ0NzY4OTNQMFp5OTYwQzdYR2s0c1BMR3IwYVY?oc=5",
-                    "publishedAt": "2026-06-24T23:18:00.000Z",
-                    "language": "en",
-                    "summary": "# Summary\n\nA serial burglar used an electric grinder to break into a safe and steal cash from a popular restaurant on Newcastle's Quayside. While the article doesn't specify the restaurant's name in the provided snippet, this incident highlights security concerns at a well-known dining destination in one of Newcastle's premier entertainment areas. Visitors to the Quayside should be aware of this crime, though the incident appears to have been an isolated burglary rather than an ongoing safety concern for diners."
-                },
-                {
-                    "title": "Famous Newcastle snooker club The Hustler set to re-open in new home months after closure - Chronicle Live",
-                    "source": "Chronicle Live",
-                    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZldyRUYtRjVFX29ZQUR4XzVrSnI0V1Rmek1waXBLZGUzLTNlWW0wN3BYQUdWTnpHbzhBM3U5dWxFUGVXcW5pTTVvdngxV0gxS2VLV3kyM25QRUhDejZ5RlpFNWJ2TWZEYVViMjdvY3I3T3VCTWJtd0l3N0k5ZlFVX2NXSmZMUV9WSVBlOVZLY256TTBaY2ttRW0tU0pIcWxRaXhj0gGoAUFVX3lxTE00RGFJd1dSanVDSlQ5WE1HX2I5TjluWldQQ05NMFozSXFERmlYc2k4TXg5czNKbGFqNVJtVHpVcGE1Z2U2QjlrdjZVbXRDY1lydWg0ZWpWRUdrcGp2LXpoSzZkcXdIdjV3RVByWDVEeVh1WEh4M3dUUG9xSHp0OXVLYmZUWG95UzF6cURaLWowUkl6Y0liVElWSkkwX3hQVjlQaVhIS1NjYQ?oc=5",
-                    "publishedAt": "2026-06-22T12:14:00.000Z",
-                    "language": "en",
-                    "summary": "# Summary\n\nThe Hustler, a well-known snooker club in Newcastle, is preparing to reopen in a new location after closing down. Visitors to Newcastle who enjoyed the club's entertainment and social atmosphere will be pleased to have the venue back in operation, offering snooker and leisure activities at a fresh venue."
-                }
-            ]
+            "news": []
         },
         "tallinn": {
             "places": [],
