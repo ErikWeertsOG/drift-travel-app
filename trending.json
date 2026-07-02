@@ -1,30 +1,244 @@
 {
-    "lastUpdated": "2026-07-01T09:26:29.258Z",
+    "lastUpdated": "2026-07-02T08:39:26.788Z",
     "source": "github-actions",
     "cities": {
         "cologne": {
             "places": [],
-            "news": []
+            "news": [
+                {
+                    "title": "non binary day - altersoffen am 14.07.2026 in Köln - Rausgegangen",
+                    "source": "Rausgegangen",
+                    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1lYWZlTUtUZWFjbW5UTVlKaTNGa0RIMjN6SVZ3Z3VoMXIzb1R6RTZucmhPNC11Sm5XMWFyNC1BMHF4QndrNlZUYnZ4T0U3T3pYcGxjT1pMYk1BQTVISDBxZlRMN3RyWEZBZk5yZA?oc=5",
+                    "publishedAt": "2026-07-01T14:20:08.000Z",
+                    "language": "de",
+                    "summary": "I appreciate you sharing this, but I need to let you know that this isn't actually a restaurant or food news article. The snippet is about a \"Non Binary Day\" event (altersoffen) happening in Cologne on July 14, 2026, which appears to be a cultural or social event rather than food-related content.\n\nIf you have a food/restaurant article you'd like me to summarize, I'd be happy to help with that instead!"
+                },
+                {
+                    "title": "Aus für »The Grid Bar« in Köln: Deutschlands einst beste Bar schließt - Falstaff",
+                    "source": "Falstaff",
+                    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPanFFN3VicTI1NUJTVFN1UTBxNWJSX192Vkl2TmdMT0lZcFd1ajBkMGNFeW9HTUkzaVZnY2FpQjczRWt4UFF3QTJra042ckk5REY5NFhJejlEcE5JcDJVWFpYaWVLOG05VXVOd0xuYWt3OTJBajBiYm1XTzVXUkdUdm90TDBZZWtMTm52bS1JYjI5WHZuOUVzaUpBVUlOQlVkdTNyYg?oc=5",
+                    "publishedAt": "2026-06-29T09:41:42.000Z",
+                    "language": "de",
+                    "summary": "# Summary\n\nThe Grid Bar in Cologne, Germany, has closed after being recognized as one of Germany's best bars. This is significant for visitors to Cologne because the bar was a renowned destination for cocktails and nightlife that won't be available anymore. Anyone planning a night out in the city looking for high-quality cocktail bars will need to explore other options."
+                },
+                {
+                    "title": "Kölner Kultkneipe muss nach 100 Jahren schließen – Appell an Gäste - t-online – Köln",
+                    "source": "t-online – Köln",
+                    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQZ3dJUW5vYVpnS2toa2hZUkt2ZG9ET0w4RGNIWXl3T2JhS1BtZlZkc09mY1c1dFlSNl96aU55SXlWcUtRQmJsNC1RcTlvVWxRdzhaTGdlMWpXcFh4QXBKSS15R1lQcF9FaFhxNUx6NHdKbkFEd2FYRGJfcVFYcU04eGxtT3ZpTjZVNUNPMDlmR1QtX0VGVWNLazZveE14SUx3YUt6NVZTYTVhVzJXNG4yRHl0RzUyUDdaalRv?oc=5",
+                    "publishedAt": "2026-06-30T05:32:42.000Z",
+                    "language": "de",
+                    "summary": "# Summary\n\nA iconic Cologne pub (Kultkneipe) that has been operating for 100 years is being forced to close. The establishment has made an appeal to its regular customers and the public. Visitors to Cologne should care because this represents the loss of a beloved local institution and cultural landmark that likely has historical significance and authentic local character that's increasingly rare in modern cities."
+                },
+                {
+                    "title": "«stadtklang» mit EMILY OTTO | Live @ Ruby Ella Hotel & Bar Köln am 24.09.2026 in Köln - Rausgegangen",
+                    "source": "Rausgegangen",
+                    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQMi1rTDJqQXNWaTl2R2JUNUVEY0JqbFc1SzB5TEd4YU42SDhWelhJbG0zblljVndwVy1YZHkyZllkZ1NjQl8tVktCdXM5YW83Z2hIY01LTGpodkd4WEJFLUZLM3Z4VnBXenh0TnRES3JQY1YwOC1Uc214VGh2dTBGZU8wTTI4SjN3Z2J6ZmF4dUdtWWc?oc=5",
+                    "publishedAt": "2026-06-30T14:01:41.000Z",
+                    "language": "de",
+                    "summary": "I appreciate you sharing this, but this article isn't actually about restaurant or food news—it's an event listing for a live music performance by Emily Otto at Ruby Ella Hotel & Bar Köln on September 24, 2026. While Ruby Ella is a hotel and bar venue in Cologne, the article focuses on entertainment rather than food/dining offerings. If you're looking for actual restaurant news, you may want to share a different article."
+                },
+                {
+                    "title": "11 kühle Orte in Köln, an denen es sich bei extremer Hitze aushalten lässt - Mit Vergnügen Köln",
+                    "source": "Mit Vergnügen Köln",
+                    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1YOFRVM0ZiTXZpSTNkdDFNaHdNT1d4NVR5U081UkFOWXdBd1RJNEJWSF9MdmRJc3RibnZIaU5zcUI4OWUyOWw2SnNONmlCcHJCQlRTLUtUekt5bTBI?oc=5",
+                    "publishedAt": "2026-06-27T08:42:31.000Z",
+                    "language": "de",
+                    "summary": "I appreciate you sharing this, but I should note that this article isn't actually about a specific restaurant or food spot—it's a general guide listing 11 cool places throughout Cologne to escape extreme heat. Without access to the full article content, I can't identify which specific restaurants or venues are featured or provide the practical details you're looking for. If you'd like a summary of specific food/restaurant recommendations from this list, you might want to share the full article text, or I'd be happy to help summarize a different food-focused piece."
+                }
+            ]
         },
         "amsterdam": {
             "places": [],
-            "news": []
+            "news": [
+                {
+                    "title": "Tweede vestiging van Duke of Tokyo geopend in Amsterdam - Misset Horeca",
+                    "source": "Misset Horeca",
+                    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOc1FtSXNWcFBuWmZiZ1dfZy1sWjB5WXNsN2NLWWo1LWJ1b3dMQXVMWVV4eXNKaE9wcWJZT0ZaRUdvSzJzNkhxdkFBS2VERVpDWHVvVzlONkU3WjBSN2xQOEZsZ2NpSndnNDEzRS1KT0lXTllBWmlJV3RSbklaTG1oUXdxSHZaX3ZBb2M3Qzhka2stSFNY?oc=5",
+                    "publishedAt": "2026-07-02T07:07:10.000Z",
+                    "language": "nl",
+                    "summary": "I don't have access to the full article content, only the title and snippet you've provided. Based on what's available, here's what I can tell you:\n\n**Duke of Tokyo, a Japanese restaurant, has opened a second location in Amsterdam.** While the snippet doesn't provide details about the new location, this expansion would interest visitors to Amsterdam looking for Japanese cuisine options, as they now have an additional spot to visit beyond the original Duke of Tokyo restaurant. For a complete summary with specific details about the new location's address, menu highlights, or opening date, I would need access to the full article text."
+                },
+                {
+                    "title": "Bedrijf in Amsterdam moet horeca-activiteit als kerntaak staken - Gemeente.nu",
+                    "source": "Gemeente.nu",
+                    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPXzRNYXVVXzh2NmtCdW5ha25veXVzSTdTVjd2ZngzQnBJejZ3M2dxRGhOXzk4M0VhSmw3eWhBcTBOM1JjRE1mTS1zTmFMWU1HekFodXh4blFmT0dCLTZZWU1nSk9kTVFUR2IyR3ZJY29LaXpuRXBSTlFUUVRHRzROb0dVLUE1VFFndTc2QzM2VklQUmU4NWI0dXJMcERPVjk3RFd5Wl9vNHZVaW9kRjhfWlZDYVRLcVo1TWdlVTZfUQ?oc=5",
+                    "publishedAt": "2026-06-29T12:18:13.000Z",
+                    "language": "nl",
+                    "summary": "I don't have access to the full article content to provide an accurate summary. However, based on the title, it appears to be about a business in Amsterdam being required to stop its food and beverage (horeca) operations as its primary activity. \n\nTo give you a useful 2-3 sentence summary with specific details about which restaurant is affected and why visitors should care, I would need access to the article's full text. Could you share the complete article or more details?"
+                },
+                {
+                    "title": "Kroegen massaal langer open voor WK-wedstrijd tussen Oranje en Marokko - NU",
+                    "source": "NU",
+                    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQeGpFVXNBZndva3hrX1JBbVAyRzFHT1BiSTI1T1FqSF83akR1a2p6Q2JKOUp3V182eF9tX2s0NE9rUzhNNlVYaFNiMk5xNDBORUtJYlpVZHViMENkX3hpQU02SU82S2JDWlpyb3RpSDl3UzQwbzB1MHpPM0Y5cGd0XzVIVjBoT2pobENVNTNaN0xaY002aVlEVVluVXJ1elBHMnhQaUxLNHlhY0tGUWhn?oc=5",
+                    "publishedAt": "2026-06-29T11:44:00.000Z",
+                    "language": "nl",
+                    "summary": "# Summary\n\nDutch bars and pubs are staying open late across the country to show the World Cup match between the Netherlands and Morocco, allowing fans to watch the game together. While specific individual establishments aren't named in this snippet, the news indicates widespread extended hours at local bars during this major sporting event. Visitors to the Netherlands during this match should know that many kroegen (traditional Dutch pubs) will be open late, making it easy to find a place to watch the game with locals."
+                },
+                {
+                    "title": "In de islamitische horeca is alcoholvrij niet alleen bij moslims in trek - Trouw",
+                    "source": "Trouw",
+                    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQOWlGZk8zSktOOHg4VktyamZLQk1sb0xIVTZnT1psSGExUk1VZGZOQmN6OWxlalVKUDlIb0hIQmVrT1lYaVoyMnFvNmJHSFZVU093R0E1QVZpSHVvZnBGbmVqNEpLQlo3R05VVWt0ZzlDUmkxU0NVd0dkTFVwUW55eHZjZ3dwMWFNOWQyMk5tZzZPX0Yyb0RsMl9wN0xiSjhnS0x1OFhuakh6STZaUWxBYzNkR04wTjF0c1JaVGpB?oc=5",
+                    "publishedAt": "2026-06-30T09:15:00.000Z",
+                    "language": "nl",
+                    "summary": "I don't have access to the full article content, only the title and snippet you provided. Based on the headline alone, here's what I can tell you:\n\nThe article discusses how alcohol-free dining options in Islamic restaurants have become popular beyond just Muslim customers. However, without the full article text, I cannot identify the specific restaurant mentioned or provide complete details about why visitors should care. \n\nTo give you an accurate 2-3 sentence summary with the practical information you requested, I would need access to the complete article content."
+                },
+                {
+                    "title": "Het oordeel: Bedrijf in De Pijp moet horeca-activiteit als kerntaak staken - De Rechtspraak",
+                    "source": "De Rechtspraak",
+                    "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxOWnFWNUpfSGJWVTRFeFFRV01qR1JFcmRPNVo3b0p3T3hxN2dfUHlZMFd3blpvV0o0NlhKZnpYVktCUmxCVTVyaHBBZElQZjdZZFl4OWE4XzRSNy11Tk9oTWlWQ1A0eG1YZ1J6c19WX0JrZDRPb1o5LWtiYWtyaTFEa2JEei1WUFZkb2VTUmx4T2paYzAxX0xXNy0tRG1wZVBEQmYxMlJOYkxGUVIyNnFUQ3RDSjNCYmhvaFptUGExU1diNjVkX29YSi00MkxWeUFtS1NTcFZjUkJiYWlNV1R0MGM4akNhdnNRSnRFOXd6cks3aXQ0Y2tRMmxhbThkY2tLUV9ILWduNXptVzhTcGJJ?oc=5",
+                    "publishedAt": "2026-06-26T12:51:11.000Z",
+                    "language": "nl",
+                    "summary": "# Summary\n\nA court has ruled that a food/hospitality business in Amsterdam's De Pijp neighborhood must cease its horeca (food and beverage) operations as a primary activity. This decision is significant for visitors to the area as it may affect dining options or result in changes to how this establishment operates. The ruling suggests the business was operating outside permitted uses or violated local regulations in this popular Amsterdam district."
+                }
+            ]
         },
         "antwerp": {
             "places": [],
-            "news": []
+            "news": [
+                {
+                    "title": "RESTOTIP. Eldo: “Toegankelijke topkwaliteit met een toets van open vuur” - HLN",
+                    "source": "HLN",
+                    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNYXNXa2NFajJzaVRpcUVQek9Oc2tONkU0NTF4LWdXaVZDNG5Wcjc3dV9ma2hjLTA2NEo0Vk94VTdjVzByTm5iYktjODZoLWFfQngxWTBCdXM2dEotNW9YaVhpVVdjNVNxVXI3N0xVT3NBMWdlVjlHRW5jTlhHUm1CYkkxcUs1UlJMS0tZMHNuYWFsaUpQeUJtNkItYjFIeGozel90VkVHd2xSbE0?oc=5",
+                    "publishedAt": "2026-07-02T03:37:27.000Z",
+                    "language": "nl",
+                    "summary": "I appreciate you sharing this article, but I'm unable to provide a summary because only the title and a snippet are visible, not the full article content. To give you a useful 2-3 sentence summary focusing on what makes Eldo noteworthy for visitors, I would need access to the complete article text from HLN.\n\nIf you can share the full article or more details about Eldo's concept, menu, or what makes it special, I'd be happy to summarize it for you."
+                },
+                {
+                    "title": "Tot 5 jaar cel voor aanslag tegen Mexicaans restaurant in Antwerpen - VRT",
+                    "source": "VRT",
+                    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQaURkVHhxYXRUWjFSdl9nQVY2WkZDNWgzM2pnakpkcW5ERGxsMmlZYTczUGdjeHcwai12dV8wWm1zNHp2cjVvaUVUU0tsTXJ0Q2J5SXRkbWFnVVdRUWYtYS1oUXd5ZExtaWNkMXZEekN6YS1pQVNmR1F3eFVGMUQ4cE9QNktheXlpdG1oaE9WTXVJU29FVnp3Wk9KbW1iZmItN0N3amc0cGc?oc=5",
+                    "publishedAt": "2026-06-29T12:32:42.000Z",
+                    "language": "nl",
+                    "summary": "I appreciate you sharing this article, but I'm unable to provide a meaningful summary because only the headline and source information were provided—the actual article content is missing. \n\nFrom the title alone, I can see it's about a criminal sentence (up to 5 years prison) for an attack on a Mexican restaurant in Antwerp, Belgium, but without the full article text, I cannot provide the practical details you're looking for (which specific restaurant, why the attack occurred, or its current status for visitors).\n\nIf you can share the complete article text, I'd be happy to summarize it in 2-3 sentences as requested."
+                },
+                {
+                    "title": "9 Antwerpse bedrijven failliet, waaronder restaurant en bouwbedrijf - made-in.be",
+                    "source": "made-in.be",
+                    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOTkhqcU9FM1dlMm1HMnJpaFl2eGxZWjYwbGxqbFA3Sjl4TkVSRXBTc1gyM3BEd3FIQ3IyVjlxQUJseGFaRjRpNVIxeURTNkwyS3VpSmZoNVYxZEZzTFN2OUdOYWI2TmNmTkU5aG9SRXg0aVJrbUtRV0MxYnpXYnVIVTdsRXNWWm84WW5KVi1GYjJzRDAxdEVEaEo0c1VOUmJ3bWc?oc=5",
+                    "publishedAt": "2026-06-30T19:20:04.000Z",
+                    "language": "nl",
+                    "summary": "I'd be happy to help summarize this article, but the snippet provided is quite limited. Based on what's available, here's what I can tell you:\n\n**Nine businesses in Antwerp have filed for bankruptcy, including a restaurant and a construction company.** While the article mentions a restaurant closure among the bankruptcies, the specific restaurant name isn't provided in the snippet. **Visitors to Antwerp should note that dining and service options may be affected by these business closures, though without the full article details, it's unclear which specific establishments are impacted.**\n\nTo provide more specific and practical information for visitors, I would need access to the full article text to identify which restaurant closed and any other relevant details."
+                },
+                {
+                    "title": "Tot vijf jaar cel voor tweede aanslag tegen Mexicaans restaurant in Antwerpse binnenstad - Nieuwsblad",
+                    "source": "Nieuwsblad",
+                    "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOZjZ6RmE2TXg2YWNBcHZoam90RVl5NEtfb3FaY1E5dy0ybjllSUNPVmxCbUdIMkR2dlJWYWpzS0tBRkoxZWZ1NVU0aDhWMThRNXFOTlFHSVp4dUQ2ZU13eVlzODlIcXVzbjlNUW0wemw2ZDQ0RVlGblY0dEhzQUd1ZWtkWGp3V1VYbkYwU0FyN3ZURTJybTNaTzZiaTlMWUZncnV1VEJnN3RwTm92dktwNXQ4Ry03Y0tHZHZ5WVREbWs5VUY0cGFlT0lCZ0Z3bG5obS11b19YcEZEaVZwSnFVMnZwaHlBOTN0YjBCRFRZUFRXUzh4bmt6V1RabHBrZTVp?oc=5",
+                    "publishedAt": "2026-06-30T11:30:11.000Z",
+                    "language": "nl",
+                    "summary": "I appreciate you sharing this, but I should note that this article appears to be about a criminal case rather than restaurant/food news in the traditional sense. \n\nThe article reports that someone received a prison sentence of up to five years for a second attack on a Mexican restaurant in Antwerp's city center. While this involves a restaurant, it's a crime story rather than dining or food-related news that would typically interest visitors looking for where to eat."
+                },
+                {
+                    "title": "Nieuw restaurant Eldo in Antwerpen is er eentje uit de de Sergio Herman-school en maakt indruk - De Standaard",
+                    "source": "De Standaard",
+                    "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPVTNuZ0RRNHk3anFYYl9ULTYxeU4ycEtnb2pqWWYzb1YwdkZHcVB1UEV6a0hKZmxabVlnemRtRDhrWXd0UFI2bUJVaDRpT0VyY3JERlR5VzJGVWx6R3F4UnFqalZacmVRWnJ0NW10RzZia3ZPVHFYUXVDQkFsaFZHOEVpLVdVaUhxS2VLSW9ub3pFOUoxelJ6dFdXSTRRc29wUzJPX1BZZ1FhUjBpczlsdXltblY4eTFfcl9BWFh6MGhHaTh4b3lsTG5kMVNfcnppNEVFeUlXWlZ4VzdnMlpBb2MwdnB5c0x0Ukk0c3cxeEJocDlITU9kZF9sUzkyUQ?oc=5",
+                    "publishedAt": "2026-06-27T02:00:00.000Z",
+                    "language": "nl",
+                    "summary": "# Summary\n\nA new restaurant called **Eldo** has opened in Antwerp and is making an impressive impact with its approach rooted in Sergio Herman's culinary philosophy. Visitors to Antwerp should care because it represents a high-quality dining concept from a respected chef's school of thought, suggesting refined cuisine and notable dining credentials. This is likely a destination-worthy restaurant for food enthusiasts visiting the city."
+                }
+            ]
         },
         "lisbon": {
             "places": [],
-            "news": []
+            "news": [
+                {
+                    "title": "Rei do bacalhau, este histórico restaurante de Lisboa celebra 50 anos dedicados ao fiel amigo - Expresso",
+                    "source": "Expresso",
+                    "url": "https://news.google.com/rss/articles/CBMirgJBVV95cUxQLUg2ZVU3Q3l0bTdBaElPY0pVX2dhUHlRNGdUQ3Z3djdCOWFnNFA4MFZnNndVdEU4UlotSHdIYldDYzJBUmxtOW55VkwzOEp2eW0zTEtoTTZZVW5zeVZTTVByWlZ5ZXRpd0x2T3ZUcGpaeUtkenRLdlJKWkNYUXhnR0hpTjdVN09vVkZuYmF3c0VTUmMxZzV6SlNBS0F3bTNLZzVfM0ZsWnBnSnl4Yms3NVVtNjhiU2JnR2Nzek85X0V2aGg4ajlPbUVqLWhPaGRTWnk4Y2l0Sm1WTV80aFZjeG1DWWN0YTM1OGFzV3BoTlFUN1JLOU8wMm1XazJNNGJGc1BUTWJ1N2x3Ym05SFE4Zm54OF9ldnB3U1c1VUNOSVM2ZjlWdkZuUExYUWRtZw?oc=5",
+                    "publishedAt": "2026-06-30T14:20:57.000Z",
+                    "language": "pt",
+                    "summary": "# Summary\n\n**Rei do Bacalhau**, a historic Lisbon restaurant, is celebrating its 50th anniversary as a specialist in cod dishes. The establishment has built its reputation over five decades around serving traditional Portuguese cod preparations, earning its name (\"King of Cod\"). Visitors to Lisbon interested in authentic Portuguese cuisine and classic seafood dishes should consider this long-standing restaurant as a reliable destination for experiencing traditional bacalhau (cod) preparations."
+                },
+                {
+                    "title": "Capítulo Restaurant & Bar estreia nova carta de verão em Lisboa - ShoppingSpirit News",
+                    "source": "ShoppingSpirit News",
+                    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQVC0tSGRwcjFyMG9ZT2N1TDh5YVVuNGwzUEZ0OUt6aGVqRjI2UDdJV215SkhJM0VUaWxlU1ZsU0duQ201c1ZuUWJqU1YzTjROcmd3eVZnVS1lQVZpX3ljSXBORW5yOThMZ2ZiMExXTEdYeXVLQzEwelljaVlWWENsdjJnNnBndnJhX1FJT1dURU9aUQ?oc=5",
+                    "publishedAt": "2026-07-01T15:04:37.000Z",
+                    "language": "pt",
+                    "summary": "# Summary\n\nCapítulo Restaurant & Bar in Lisbon has launched a new summer menu. This is relevant for visitors to Lisbon interested in dining at an upscale establishment offering seasonal cuisine, as the updated offerings will feature fresh summer ingredients and dishes tailored to the warmer season."
+                },
+                {
+                    "title": "Eddie's Dive Bar leva o universo Iron Maiden ao Lisboa ao Vivo - METAL IMPERIUM",
+                    "source": "METAL IMPERIUM",
+                    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQYVlDVS1iOVBsdGxJTmRRb3ZHZnJDYnJ1WE5XaHNnTmwwVWFpbkFPWGN0c0hYQlNNYnZGRGJQZUQwby1IOENWZEhMS25Ob25lOXF2LVpYZEk3QUo5Z0dtYmVnSmVoOTV3YzNpZXhOUlBqT0RBSzNWZXJxMkdNQmk5S1lWVjg?oc=5",
+                    "publishedAt": "2026-07-01T15:20:51.000Z",
+                    "language": "pt",
+                    "summary": "# Summary\n\nEddie's Dive Bar is bringing an Iron Maiden-themed experience to Lisboa ao Vivo (a Lisbon venue/event). This is relevant for visitors interested in heavy metal culture and themed dining experiences that combine food with music fandom. If you're in Lisbon and enjoy Iron Maiden or metal culture, this venue offers a unique atmosphere blending both interests."
+                },
+                {
+                    "title": "Quinta da Moscadinha em Lisboa para jantar especial no restaurante FOGO - SAPO",
+                    "source": "SAPO",
+                    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQNThRYWRHcXd2YVR4Qk9NZ1djd0tjZnFwNzFGbkhBcVVFM0Z4WXFEaVJRbzB3TW1Qa3JzVG1ZYWhybnMxUVFxSmZpV243WTBQQWE0bTI2X3c3Vlk4UkYtSHJ1c29LRWpKMmpUWWNfU2lHeklqaUF4VDBXMWE2YldlSlN5WWQ4VnFCdXNLTGdUNjhBMFpJRUg0czhIS25Jc3pRUG4zZzFtUkxPYjhCdFI0eTVqU09ZcUxmQ0Fn?oc=5",
+                    "publishedAt": "2026-06-30T11:38:19.000Z",
+                    "language": "pt",
+                    "summary": "I don't have access to the full article content, only the title and snippet you've provided. Based on what's available, here's what I can tell you:\n\n**FOGO** is a restaurant in Lisbon that features **Quinta da Moscadinha** (likely a wine or local producer) for a special dinner experience. Visitors to Lisbon would care about this because it suggests FOGO offers curated special dining events, possibly pairing local products or wines with their cuisine, making it worth visiting for a memorable meal beyond their regular menu.\n\nTo give you a more accurate and detailed summary, I'd need access to the full article content."
+                },
+                {
+                    "title": "Conheça o primeiro e único restaurante de comida típica colombiana em Lisboa - Expresso",
+                    "source": "Expresso",
+                    "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOMjdPNHpkaXJLLWpUMWlJVGdpTzV6Z2dsdXRKaXhzbzl1dnlLaGZfM1czamI0eWdDMzJGWFdiNkstVTliYmFwa3ZFNmZuT2E2a1lndnNYTl9GSGlfTmV3VElTbmpDVmFGWU14eFc0VktvdnJEN2lTQnk0RGJuTzNnbXlseGhRY3paVll0ZWFVVFlkd3pqWHRyem9qVkRjcEZsekVJREJZNVNnV2poZ1daSEhFbjhRZi1JdWxNcW95anhNc1JsNXBralBCQ3FCNGFjellWSDU1cGtJRTJPaWpINWFnMzdkTE1LN2ZDS045ei1PUzhGSFNUdmd4UGhnQTFELUp1YQ?oc=5",
+                    "publishedAt": "2026-06-27T14:45:22.000Z",
+                    "language": "pt",
+                    "summary": "# Summary\n\nLisbon now has its first and only restaurant dedicated to authentic Colombian cuisine, according to Expresso. Visitors to the city who are interested in trying traditional Colombian dishes will have a unique dining destination to explore this underrepresented cuisine in Lisbon's food scene."
+                }
+            ]
         },
         "newcastle": {
             "places": [],
-            "news": []
+            "news": [
+                {
+                    "title": "Newcastle-under-Lyme bar allowed to stay open extra hour at weekends - Stoke Nub News",
+                    "source": "Stoke Nub News",
+                    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNZHU1dWNZSUJYMDByTWdzMlFhOGduSTNEUEdvMnYxajlZNmotZVZtY0djVWcwcS1iNVdYYkpFNXZWaHp1MzZ2YXQ5M0NlZGZHLWlvUmEwVlVub2dCWF9SclhxWXlTOGNKYTluS2pPblRFSXZocmsxZTNHSzJqNXlHZjNmWEIxYzA1MkFOcFRTVGJ1dU9hcTk3X2gwZ3A3aXFmd3BjNlR5V0JxM3NMdU5qRlNnbVk?oc=5",
+                    "publishedAt": "2026-07-02T08:07:00.000Z",
+                    "language": "en",
+                    "summary": "# Summary\n\nA Newcastle-under-Lyme bar has been granted permission to extend its weekend closing time by one hour. While the article doesn't specify which bar received this approval, visitors to the city would benefit from knowing about this extended hours policy when planning evening outings. This change allows for later weekend entertainment options in the local nightlife scene."
+                },
+                {
+                    "title": "New 'build your own meal' Chinese restaurant to open in Newcastle as shut down café taken over - Chronicle Live",
+                    "source": "Chronicle Live",
+                    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOV3p5Q3lhakpzSnB1NzNxS3NDX19EZEljWlp3YllNX2dRQ094cnZ0aHI0dVNFQmpOT2Z1cThKdzcxYWNXOXk4X3hQZG9Qb2RnRHhHdkxiZC1iU0xVbjlnSDNwUHl4NlZMcHFDS0ZPb3lNd09IczVvTGY0eFdkQXZZRDVkWlJSWDFIbmhYQm96SmFjVnhaV1g3Y2RCVVFqV2vSAaQBQVVfeXFMT2dPV2FKWHZwczU2aEpiTE5wMjY5N1pCaURtUjRNcWhKVTFaLTAwTFRtTjNhMmpoQVUtMDJOeHFXTkt3cDFqYmVZTklDdXhhUUZhT3ROSVpWLTJINkFaeXlzbENwU3IybEVLZ2t0ZWt3NkRnbk1NQ3RrTDRGcktBeDRHU2MyNGZLT2hCaGVPdUhwbGhDcFRZQzJkSE1HaTVYV3RzbWQ?oc=5",
+                    "publishedAt": "2026-06-29T16:40:00.000Z",
+                    "language": "en",
+                    "summary": "# Summary\n\nA new \"build your own meal\" Chinese restaurant is opening in Newcastle in a location previously occupied by a closed café. This dining concept allows customers to customize their dishes, offering a more interactive and personalized dining experience. Visitors to Newcastle will appreciate this addition for its flexibility and fresh take on Chinese cuisine in the city's dining scene."
+                },
+                {
+                    "title": "5 of the best beer gardens to try in Newcastle this weekend, based on reviews - Hexham Courant",
+                    "source": "Hexham Courant",
+                    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNVDFFTHlLMFd1d0FsMzE0RFUzTTlNSWtFMmZlRF9vZW5vWUZsTjd0elRsb0phaXRDb3FzaU8tQmVQSmhoZ1d2VEF3VHpKOVNYenp1d2NnRnRvY2R0cUdObjl6eUJmc2lwcVBzckl5bDVCNXowdG1jWnVmN3hnU3ducTZET2daQzJrMS01SUdjMTMtRlY5cjlnVG1DZkFQR2hreVdZ?oc=5",
+                    "publishedAt": "2026-06-27T04:00:00.000Z",
+                    "language": "en",
+                    "summary": "# Summary\n\nThis article highlights five top-rated beer gardens in Newcastle that are worth visiting this weekend. The recommendations are based on customer reviews, making it a useful guide for visitors looking to enjoy outdoor drinking spots in the city. Anyone planning a weekend trip to Newcastle would benefit from this curated list to find quality beer gardens with good atmospheres and service."
+                },
+                {
+                    "title": "MICHELIN Guide Chef Showcases Community-Grown Produce At Jesmond Restaurant - Newcastle Magazine",
+                    "source": "Newcastle Magazine",
+                    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNbzR3SW1JNjRQcmwyUk1OcWE2c09OQTVFcktkcDg5ZWREcUZNdENSOHlYQlVxaFBqOFJzMFBidE4tYklxQ1k3ZTVHckJnVXRsM0xFZk5DUzFkUlRCeklUbnN2Qjc4Q1VLd2U4VjNaMWJ5bG1XeTBhYm9TM0trS0kxcVlPU09IV3J5VXNaMVFUT1g3cWVOM2pJMi10X0hPdUxtQ0NTdmtmQ1BIQQ?oc=5",
+                    "publishedAt": "2026-06-28T18:45:16.000Z",
+                    "language": "en",
+                    "summary": "# Summary\n\nA Michelin Guide-recognized chef at Jesmond Restaurant in Newcastle is featuring locally-sourced, community-grown produce in their cuisine. This highlights the restaurant's commitment to sustainable, farm-to-table dining that supports local growers. Visitors to Newcastle would appreciate this option for high-quality fine dining that emphasizes fresh, regional ingredients while supporting the community."
+                },
+                {
+                    "title": "Two Newcastle restaurants in the running for best in the North East title at national awards - Chronicle Live",
+                    "source": "Chronicle Live",
+                    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxONllmNFVCakF2bFJ1MVJGQXZtUE1ZV3oxUU5VTG91ekRvOFg4OU9DVFBwV0VDQzluQzh2WjJQWjdLZVMwLTN6Q3RaM3ZjeTBQdEtZMHVDM3VDOUc4Y1VWTi1LcWFDZUdyQmxDNkFFR2h3MjlhcTJ5akxMSndtVEtKSUZ5MjVXSTAzOGtYSW5mZ2xvZC0yR2ZWWFJLTjVpVkdRalhhOHZuSdIBrAFBVV95cUxQRWt5ZXhZUGNncHZfVWRlWjNhcEtHa3dYc1ZIaDNSbER0MVZuZFNnMUdKUmItbnhYNzFDdWh5V1dZR3VFYkVFckEzWXlYYVRkT0F0RnRFM1BKSHdaaWpoV0VfQ25XN0I1ang3ZFpvRElpQzNKNGhYYjJFZUhFYkUyandJSUZEcnZ3SzBlY2NvbXkxMVA0bEc4cW9pbm9KNUJPNzZuZVVJY3RHUEhS?oc=5",
+                    "publishedAt": "2026-07-01T15:14:00.000Z",
+                    "language": "en",
+                    "summary": "# Summary\n\nTwo Newcastle restaurants have been nominated for the best in the North East title at national awards, recognizing excellence in the region's dining scene. While the article snippet doesn't specify which restaurants are nominated, this highlights Newcastle's competitive food scene and prestigious culinary recognition. Visitors to Newcastle should take note of award-nominated establishments as they represent top-tier dining quality in the region."
+                }
+            ]
         },
         "tallinn": {
             "places": [],
-            "news": []
+            "news": [
+                {
+                    "title": "Tallinn, Conference on nutrition, food information and innovation - Ministero degli Affari Esteri e della Cooperazione Internazionale",
+                    "source": "Ministero degli Affari Esteri e della Cooperazione Internazionale",
+                    "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNQTh2Umt4ZUQ1ZDY4dnA3anJNWmRNQXBGRVAzNV9IVVBGaElJaDZSQWR0czRlYVdDZmJCaVZMYkphSlBCNjZWQkhlb3dyZXN2MkxiNnp1S0FhU3JhZFBTZlkzUmw1UWZ2S19YRHp4RkxFcmFaRnlTSVhuSDZtRnBXTTllSU9pMUpLbGxXaXctYXJmTzBiSk45Vk1INnhCQlpmS0ZMbDhIa25wdHdidEJSUWJfRDUySVJwVlVlQ09NQlFHM0k2YnBLZGtSdFJ1anF4NkhaZ0pkZFFtYkdHS085c0xR?oc=5",
+                    "publishedAt": "2026-06-25T12:59:46.000Z",
+                    "language": "en",
+                    "summary": "# Summary\n\nThis article announces a conference on nutrition, food information, and innovation being held in Tallinn, organized by the Italian Ministry of Foreign Affairs. While no specific restaurant is mentioned, the event focuses on food-related topics and innovation in the nutrition sector. Visitors to Tallinn interested in food policy, sustainability, or culinary innovation might find this conference relevant for networking and learning about emerging trends in the food industry."
+                }
+            ]
         }
     }
 }
