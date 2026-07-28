@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2026-07-27T09:25:27.307Z",
+    "lastUpdated": "2026-07-28T08:11:56.004Z",
     "source": "github-actions",
     "cities": {
         "cologne": {
@@ -11,7 +11,15 @@
                     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPRVNvanFvdDZNWTM0cll2NnVDNEhmUUZsQWpSVG01NnhVU3hlMUZSdmZwdXBNVGQwUEQ1S3ZIQ0pwaGs0V2FUMVhJUlhzYUd3dHc2NEFfRnJMQmduazBvTlJKZUQyZ3hFNUlsYXFRNzlTUDVTQzRJTkl5VHpMN3BQRU5VN0k1YXVKNFE?oc=5",
                     "publishedAt": "2026-07-23T03:17:52.000Z",
                     "language": "de",
-                    "summary": "I appreciate you sharing this, but this isn't actually a restaurant or food news article. The content is about \"Flow's Mitsingfenster,\" which is a participatory singing concert event scheduled for August 21, 2026, in Cologne, Germany—not a dining establishment or food-related news. \n\nIf you have a food or restaurant article you'd like summarized, I'd be happy to help with that instead!"
+                    "summary": "I appreciate you sharing this, but this article isn't actually about a restaurant or food spot. The content describes \"Flow's Mitsingfenster,\" which is a sing-along concert event scheduled for August 21, 2026, in Cologne, Germany—not a dining establishment. \n\nIf you have a restaurant or food-related article you'd like me to summarize, I'd be happy to help with that instead!"
+                },
+                {
+                    "title": "Länger Außengastronomie am Brüsseler Platz in Köln - Radio Erft",
+                    "source": "Radio Erft",
+                    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNam5IcWFpS0ZSa0xERVh5Qk00NTF2ZldYVG51OGFrRVRMM3Y0dW5BaF9Oem5CbnZZT21yMlR1eFFpY0g4YTR4ZjZRY0tTd1ZPMUpVd2tLQmdVazBWYUlqUUpQdzVfN3liY1RHakx5dERNeFhZYkF4NThSX244cVFyQ2RFN0s5dDE5b0hjOTJYR045MTE2aWNYbzlDVQ?oc=5",
+                    "publishedAt": "2026-07-21T23:44:00.000Z",
+                    "language": "de",
+                    "summary": "I appreciate you sharing this article, but the snippet provided is too brief for me to give you a meaningful summary. The title indicates this is about extended outdoor dining at Brüsseler Platz in Cologne, Germany, but the actual article content isn't included—only the headline and source information.\n\nTo write an accurate 2-3 sentence summary covering what the news is about, which restaurants are involved, and why visitors should care, I would need the full article text. Could you share the complete article content?"
                 }
             ]
         },
@@ -19,44 +27,44 @@
             "places": [],
             "news": [
                 {
+                    "title": "Restaurant Rotate aan het Kleine-Gartmanplantsoen is geen club en heeft geen viptafels: ‘Die ellende willen we niet meer’ - Het Parool",
+                    "source": "Het Parool",
+                    "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQczZfNnNMLWpxbURxX0hKYWN4VDR6d3FweDItZEFKTjNVS20xZWVlbXZMY0REbXpYRFRGOFJTV21XZ29LNVZHMmQ5WTh1eFo5eEtORElhNmM1UU8xVGdDYmNKSldmRmhnQlc3WDhOUURvdndTdTRmLUNfcTM2aWgzUFVOOTRpY3lLWTdyWnlmeUdNaEZMVFViUHhnVkxMVjk0NlpvUFdEcDloSXFGV2JFa2UzNmJJMW5kb1dFU2VZTWFEUFpubHAwcWw1RGtzN0lQU0JGR0Ntc0tEenNaLUhoaVJlSGF5a1J5NFpvMEJMU3NTS3VjLVFHVEE4Sjk?oc=5",
+                    "publishedAt": "2026-07-27T01:01:00.000Z",
+                    "language": "nl",
+                    "summary": "# Summary\n\nRestaurant Rotate, located at Kleine-Gartmanplantsoen in Amsterdam, has deliberately distanced itself from operating as an exclusive club with VIP tables, rejecting the pretentiousness of the nightlife scene. The restaurant's owners emphasize they want to avoid the exclusivity and gatekeeping that typically characterizes high-end venues. Visitors to Amsterdam will appreciate this approach if they prefer an accessible, unpretentious dining experience without the hassle of exclusionary seating or membership requirements."
+                },
+                {
                     "title": "Dit zijn de goedkoopste Michelinrestaurants van Nederland - Foodies Magazine",
                     "source": "Foodies Magazine",
                     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPUVJ1RUs2SUNudHBjNlQ0eVNpUUtqZlNEUjB4RlFOZjJCOXRBTmdTcV9Yb0ZHNVdldmpBY251aGZQcjFHWjNaZlJVWXlTZ2lackQ1MHNHUlZDVUk1QWh3aS1QRG1tTld4RzFRSjI3alhHTkJOQjNreFdLZXVsVzV4M2VkczJpeUU?oc=5",
                     "publishedAt": "2026-07-23T07:00:00.000Z",
                     "language": "nl",
-                    "summary": "I appreciate you sharing this article, but I'm unable to provide a summary because only the title and source information were provided—the actual article content/snippet is missing. \n\nTo give you the 2-3 sentence summary you're looking for, I would need the full article text. If you can share the body of the article, I'll be happy to summarize which budget-friendly Michelin-starred restaurants in the Netherlands are highlighted and why they'd be worth visiting."
+                    "summary": "I appreciate you sharing this, but I'm unable to provide a complete summary since only the title and source information are visible—the actual article content/snippet isn't included. \n\nBased on the title alone, the article appears to discuss **the cheapest Michelin-starred restaurants in the Netherlands**, which would be valuable for visitors wanting to experience fine dining at more accessible price points. To give you an accurate 2-3 sentence summary with specific restaurant names and details, I'd need the full article text.\n\nWould you be able to share the complete article content?"
                 },
                 {
-                    "title": "In september en oktober weer dineren op perron 2b: pop-uprestaurant opent zijn deuren op Amsterdam Centraal - Het Parool",
+                    "title": "An evening at restaurant De Poldervogel is not just about food: ‘My passion is creating memories’ - Het Parool",
                     "source": "Het Parool",
-                    "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNMmJRVWVmXzN6SFRMQjV1Qkk1Nl9DdDZfSmlsUl9QR0hldTlRVW5oX1ZvUUdZdkhJcnZsVWRZSlpLUDMwNnY0YU80S0wzUk51SWQ2MnFnZ0tkYmZvRE1MaHJYX3JkYzNvRVpRTS1xUVNHRWlpdHJwR1lDcmhfUUtWQ3JNUEhOZWlYZnlUNVA1YU5pM3JJMTltUXNTY3FuY3pzeGpFTFpMX053bmhsdU5PYUpZVk9FeG1idU51dy0wZEdJeTdLRW1GaVRGYWtsbTliSEJhbFBQUzh4ZGs?oc=5",
-                    "publishedAt": "2026-07-20T16:01:14.000Z",
+                    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQNHRySXhuR2N1TndCLVdfUTJiZDNDcXkzaDZmVWVoOWo2NWNBN1pRNXIxU1lPUmpOa1FuXy1qYlNLVnpHOXRBdWgySEd2STlXTk9BS0Q3ZDhMM3hYanVGdmV2VlI1QWFrcEI0RW9WZ25pZG1heDlMZVhqbDZndkdTenlISG5odlItZ1RUUXpQZXdTSW1BMC04cUhCbU1QWmhteGFuNVJFaEs2QkJqVkd6MUwyRm82VTVjdm5wckQzMDlJTHExZ3ZRb1hQRTBLSnRVT05JWjhtZw?oc=5",
+                    "publishedAt": "2026-07-27T11:00:33.000Z",
                     "language": "nl",
-                    "summary": "# Summary\n\nA pop-up restaurant is returning to Platform 2B at Amsterdam Central Station in September and October. This temporary dining spot offers visitors and commuters a unique opportunity to eat in an unconventional location—right at the train station—making it a convenient and memorable experience for travelers passing through or exploring the city."
+                    "summary": "# Restaurant De Poldervogel Summary\n\nThis article features **De Poldervogel**, a restaurant where the dining experience goes beyond just serving food—the owner's philosophy centers on creating memorable experiences for guests. Visitors to this establishment can expect a thoughtfully crafted evening that prioritizes atmosphere and connection alongside cuisine. For travelers or locals looking for a restaurant that offers more than standard meal service, De Poldervogel appears to be worth visiting for its focus on hospitality and experience."
                 },
                 {
-                    "title": "Betaalbaar uit eten? Bij deze tien restaurants dineer je voor minder dan dertig euro - NRC - Nieuws, achtergronden en onderzoeksjournalistiek",
-                    "source": "NRC - Nieuws, achtergronden en onderzoeksjournalistiek",
-                    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPR0VnQmdfQXk5MEdrVzNYdG5yQ096Uko5S2VTZ2lMNXAzNmZueTd1bG1ybkplVk45WHJQTXlnZFUzQWxsVFFSZTJXSXg1bGxoSElGR2JuaHBuS2huY0d0aFdBLVM4M1BBblUzN25HOFNDSTNuT2l1M2JZQkFfOF9INVp3YW0zamNKZnZjX2l6ZkZGNy1BeGU2eml0R3pXN3gyUUY3X0h3S250aXlaWkNxQjNtWVdjdnRuLXVPdGxMVmJpaWZTQ3A5MQ?oc=5",
-                    "publishedAt": "2026-07-22T18:30:00.000Z",
-                    "language": "nl",
-                    "summary": "# Summary\n\nThis Dutch news article highlights ten affordable restaurants where you can enjoy dinner for under €30 per person. The article from NRC provides practical guidance for budget-conscious diners looking for quality meals without breaking the bank. Visitors to the city would find this useful for discovering good-value dining options that don't compromise on quality."
-                },
-                {
-                    "title": "Restaurant Chard: à la carte met een – smakelijk – zwart randje - Quote Net",
-                    "source": "Quote Net",
-                    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQV1EwQjZBbHZWQnJFaVdoRldHbnJORVZlUm5ZY2dFcFZxV0Y4Nlc3ZnFwTm1qMFBhNVRUdVJ1aXAyeUJnUldBaDRmMS1BLTBPWkozb19JZU5sLW8wc2lIR2dtWWtfelRzTG0xMnlDV0NsSHhhcWx5Nnc0d1hwZE9XaTBmNFhJT3dvWmZfV0FodERTcHZPVkF4QzV2MFpVZDFKYWdoNkRKMkFjVjd2N2V4RVE1Y21BOTgw?oc=5",
-                    "publishedAt": "2026-07-24T13:35:38.000Z",
-                    "language": "nl",
-                    "summary": "I appreciate you sharing this, but I'm unable to provide an accurate summary because only the title and source information are visible—the actual article content isn't included in what you've provided. \n\nTo give you a helpful 2-3 sentence summary focusing on what the news is about, which restaurant is mentioned, and why a visitor should care, I would need access to the full article text. Could you share the complete article or its main content?"
-                },
-                {
-                    "title": "Deze 8 nieuwe Indonesische zaken in Amsterdam mag je niet missen - Het Parool",
+                    "title": "Culinary hotspots: 7 new Indonesian restaurants in Amsterdam you should try - Het Parool",
                     "source": "Het Parool",
-                    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQWHJXN3AwNWdkTjhvN0Z6LTlNT2JJeWQ3ZjZicFIwaGNFWE5OQmlFNXphemtXekxMZFprNHNrQ0NNYnpxS0dzbmV5ei1CVS16ZEtmRGlxRFp6a1JCb190TEJrd05IVk9wMy1aeWhpVU9MbktpY0VRNGVaTURwR0dzTXZ3Mkt3a013YmxqSEx5SWR4N1JnUmRtbG9sbFRMM2ZJcG9RUmNWcHk4a2RCQ3hhTzFwUQ?oc=5",
-                    "publishedAt": "2026-07-22T01:00:00.000Z",
+                    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOSmowNVQ5bm1RSDFNOXNwdTk0SVpIOVpOQ0c1STAzRjVTRGJsakwxLUh5UGNGS1k5YlZ4TE52WDhfZWY2Rk96TUh0UURSTWxEZk00TGZZZDVnN3FWRFlLbkFFcG1RZU9fMjFoZ19XcUtaTzN0RmFVOUxMdXM5YWc3VVBJMG4weEtkTllDWmh0UzZKdmF1UTJmVUlILVROTXNWaTdDN2xoUUQtSnBhQ1JqTklmNWZfSkROWUhTRg?oc=5",
+                    "publishedAt": "2026-07-24T11:00:12.000Z",
                     "language": "nl",
-                    "summary": "# Summary\n\nAmsterdam has eight new Indonesian restaurants and food spots worth visiting, according to Het Parool. This news is relevant for visitors looking to explore authentic Indonesian cuisine in the city, as these new establishments offer fresh dining options beyond the typical restaurant scene. Food enthusiasts and those interested in Southeast Asian flavors will find these additions appealing for their next meal out in Amsterdam."
+                    "summary": "# Summary\n\nI appreciate you sharing this, but I'm unable to provide a detailed summary since only the title and snippet were provided without the full article content. However, based on what's available: **Het Parool reports on 7 new Indonesian restaurants that have opened in Amsterdam**, making it relevant for visitors seeking authentic Indonesian cuisine in the city. To give you practical details about which specific restaurants are featured and their locations/specialties, I would need access to the complete article text."
+                },
+                {
+                    "title": "Spaans restaurant onder woontoren op Zuidas mag blijven grillen, vve levert onvoldoende bewijs voor brandonveiligheid - Het Parool",
+                    "source": "Het Parool",
+                    "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPQ2thWVFRX0tHaWlRMThISHpxUWliUjV6WDJwRTJYSHJPMXp3YUpjdmlpNEdULV96bEJlaWgzbjdZbC0tVnhDUEtRMUNNSm51UkVLT3JaWmh3SjZyUS1MeWs2bFk4dVA0WG85UWxUbUNCX1pXM1pZcWpLZV9xLWhkbTF3a1lWQlc5S3NPNzN5b2Y4UUZtU09wU012SUdsc2hLU2pEYkpSSWw5MzNxcy1zM1FfaEtQeUFPdlRYQi1jdm5uWU9YMnF2d1VjbHFRY1ExaGF6bDRUVzBkd0pWamNHNVNJOEg1RlJqQjRtX24xOA?oc=5",
+                    "publishedAt": "2026-07-22T20:29:00.000Z",
+                    "language": "nl",
+                    "summary": "# Summary\n\nA Spanish restaurant located beneath a residential tower on Amsterdam's Zuidas district has won the right to continue its grilling operations after a building association failed to provide sufficient fire safety evidence to shut it down. The ruling is significant for visitors to the area who want to enjoy Spanish grilled cuisine at this location. The case highlights an ongoing dispute between the restaurant and residents over safety concerns, though the restaurant has been cleared to operate."
                 }
             ]
         },
@@ -67,9 +75,9 @@
                     "title": "Sandip (40) en Faieq (35), ex-pupillen van Seppe Nobels, openen restaurant Flatons in Antwerpen: “Hier kunnen we ons eigen ding doen” - HLN",
                     "source": "HLN",
                     "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPZVk0ZkQ1QkowbUxuUkhyR1NmbjZOS3h0RHNiNXAxak1jQUN0SDFvemFtT2R1QklxQndkbDR0WlE5YW1hQ1dsNy1vQTVpR3JMUXg1TUtyLWM3dDhpZUZfb25USnJLdFpsY2x1UC1lUG1GZVBhUzBiVGNUamxpaE84anhtX3V4Y2RTSW13VXlnV0ZUemoydU9tX3VkWU1odjZYd0dNcVFqS3VwUFRzdmc5ZzNLdEpubUptbU1FbzduaGRJOUc4S3V3VTRyUmp2dURfTXpMZF9ZNlJ1WVU4aUNEZk95M2EtYjJ5MnVkODBVaGljcUhiMlZr?oc=5",
-                    "publishedAt": "2026-07-25T07:50:18.000Z",
+                    "publishedAt": "2026-07-27T22:52:51.000Z",
                     "language": "nl",
-                    "summary": "# Summary\n\nTwo former students of renowned chef Seppe Nobels, Sandip (40) and Faieq (35), have opened a new restaurant called Flatons in Antwerp. Visitors to Antwerp should care because this represents a fresh culinary venture from chefs trained under an acclaimed mentor, promising their own creative direction and cooking style. The restaurant offers an opportunity to experience the next generation of Belgian fine dining talent."
+                    "summary": "# Summary\n\nTwo former students of renowned chef Seppe Nobels—Sandip (40) and Faieq (35)—have opened a new restaurant called Flatons in Antwerp. The chefs are excited to establish their own culinary identity and creative vision at this new venture. Visitors to Antwerp should care because this represents a fresh dining option from experienced chefs trained under a respected Belgian culinary mentor."
                 }
             ]
         },
@@ -82,7 +90,15 @@
                     "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPTmc4R2I4V0tEMWw3aEtsUGQ4X0pRcVY3RE5oUlc2Q0x5LTJJcHprcGlRT0N2SW9ITzZfTEJCTkNoQnAwaEg1RHVuU1hjRW9EWUxtajE0SUFuVzhtOUtKcjRzeU9aWWxleHNiNUhycWUzblc5ZVBOWVdLRUZKWUEtcEdUX1Q2b3NhSV8tU0tpdENoMXprYU5mcWN2ZVUyeXpyeW5tRXRFajI0dVJXQjFSZ0p5YTlHSUFpT2EtekpRUUlpTU8xWk9tM0RGYXhMV0FVM0NoTDAtSDRyUmk4cGxLYkN6aFAwUHdJZ2pBa1pIX1pNMVBFRi1YVEVNNXB5cmUxMno3NllNVQ?oc=5",
                     "publishedAt": "2026-07-26T10:46:22.000Z",
                     "language": "pt",
-                    "summary": "# Summary\n\nI don't have access to the full article content needed to provide an accurate summary. However, based on the title, it appears to be about a new healthy food restaurant in Portugal with 408 seats that may be the largest of its kind in the country.\n\nTo give you a proper 2-3 sentence summary with specific details about the restaurant's name, location, and why visitors should care, I would need to see the full article text. Could you share the article body or more details?"
+                    "summary": "I'd be happy to help, but the article snippet you've provided is only the headline and doesn't include the actual article content. To write an accurate 2-3 sentence summary focusing on what the news is about, which restaurant is mentioned, and why it matters to visitors, I would need the full article text or more details from the body of the story.\n\nCould you provide the complete article or additional details about this healthy food restaurant with 408 seats?"
+                },
+                {
+                    "title": "Elemento Atlântico. Novo restaurante a hora e meia de Lisboa tem a melhor chef da América Latina. Saiba onde fica - SAPO",
+                    "source": "SAPO",
+                    "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNLWFrYjlPdktKRHZZWjlPOHNKOFRXSUp0VGxBY0FRdFlpWm1FbC1yNkRROEkyYjBOT250T2hIZ01xQlk5UlhoMHB3YTNseURrWFpRcHNsMkFsZlUybURUck1qcVZ6S0JGVlRidHJRa0EwNEFGS0UzNm9sNDBLNVVLU0VZRGZrMi1sRTg0aU9WSVhlR0pPY2NFcTVtVEtmYnY2aXh6dTI5bW5yakd1b0tfcHRLUGZXVHdnVWhucERhck5uRU5uN3JiWmdobW1hQkdCVUJuejloNHhKRFRHcXBqMzFONGk3MkNndmJwT0JYaDc?oc=5",
+                    "publishedAt": "2026-07-27T19:30:44.000Z",
+                    "language": "pt",
+                    "summary": "# Summary\n\nA new restaurant called Elemento Atlântico has opened about 90 minutes from Lisbon and is helmed by the best chef in Latin America. Visitors to the region would care because this represents a rare opportunity to dine at a world-class culinary destination without traveling to South America, offering high-end cuisine from a renowned chef in a relatively accessible location from Portugal's capital."
                 },
                 {
                     "title": "Honest Greens abre novo restaurante em grande, muito grande - Time Out Lisboa",
@@ -90,7 +106,15 @@
                     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOczN2TG5uaEE4WWNTN1JjVzFnRTlaRnFrZnl4YVB1MklkV0hQbHNhVVJFX01SRktkWFZnUGVtMC0zd1dUbVAyOTRxZ1pqazhOT3YwRUVlTmZzaTRyLTRXSTZrakRUa0hoWC04clJ6eGhZaGlZbzY5Q2hrVmE2RGdNY1E3N29GSXJUN0xTNWtzZG1RZDZnT3dGNjJheHByT1JqcHlvUU91eXdMUkk?oc=5",
                     "publishedAt": "2026-07-24T15:12:58.000Z",
                     "language": "pt",
-                    "summary": "I appreciate you sharing this article, but I'm unable to provide a summary because only the headline and source information were provided—the actual article content/body text is missing. \n\nFrom the title alone, I can tell you that **Honest Greens is opening a new, very large restaurant** (likely in Lisbon, based on the \"Time Out Lisboa\" source), but without the full article text, I can't give you details about its location, specific features, or why visitors should care.\n\nIf you can share the complete article text, I'd be happy to provide a concise 2-3 sentence summary with the practical details you're looking for."
+                    "summary": "I don't have access to the full article content to provide a complete summary. However, based on the title, **Honest Greens is opening a new, significantly larger restaurant location** in Lisbon. Visitors to Lisbon would care about this because it indicates the popular healthy/vegetarian restaurant chain is expanding, likely offering more seating capacity and potentially an improved dining experience at this new venue.\n\nTo provide a more detailed summary about specific menu offerings, location details, or opening date, I would need access to the full article text."
+                },
+                {
+                    "title": "Sneaky Sip: no novo bar de Lisboa a entrada é secreta — e não há vinho nem cerveja - NiTtv",
+                    "source": "NiTtv",
+                    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxONVpLSmprVGFVMVAzRUFIVUluNmlHWEI5aDNGSWlzNkZxVzhjc05VaFhKYUtGRnBxdTh5aUJZMnBGWjJfUjRqdDR4bGJFNElzVjdlcUxjOUFmWk5pQkFSVXdRQjNHNzJDTXJ3NFJkTER3OG1PUTEyOWdsaGVzQktmanlqQm92U2kyZkpERUhpOVBlZUxhcFQ1Tm1yYkNXRVphc0VtTmYzaTFxOGtP?oc=5",
+                    "publishedAt": "2026-07-27T08:26:00.000Z",
+                    "language": "pt",
+                    "summary": "# Summary\n\nA new speakeasy-style bar called Sneaky Sip has opened in Lisbon with a hidden entrance and a unique twist—it serves no wine or beer, focusing instead on other beverages. Visitors to Lisbon would be interested in this spot for its novelty factor and the experience of discovering a secret entrance, making it an intriguing destination for those seeking unconventional nightlife venues in the city."
                 },
                 {
                     "title": "Bica do Sapato já não é restaurante: passa a casa de eventos e casamentos | Lisboa - Público",
@@ -98,23 +122,7 @@
                     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPek5aUGZhWWRscUpUNWtYVC16R2JkbnMzZHA3cnlBSzREZ3dWVTM0WmJDYWJkaDl3OGNzaW9QN0Q5RklBZmpTQjRQMHhwWHUzYkxWY3JOV0NXMHk1VzhncjdfOGs1X2UwTXVCWXBPNEVweVpCWlFSX1ktQXJUdjNFdnhDbTR1dmwxaEw5VVNzdkJOalc1TWV6b21vTU1Qa19TOXZBazZsU0FsYmg0NGVRbzJ0bkdkQVE?oc=5",
                     "publishedAt": "2026-07-21T21:45:17.000Z",
                     "language": "pt",
-                    "summary": "# Summary\n\nBica do Sapato, a well-known restaurant in Lisbon, has closed as a dining establishment and is now operating as an events and wedding venue instead. This is notable for visitors to Lisbon who were familiar with the restaurant or were planning to dine there, as it will no longer serve as a traditional restaurant. Those interested in hosting events or weddings in Lisbon may find this location relevant as an alternative venue option."
-                },
-                {
-                    "title": "Edifício histórico da Alexandre Herculano já foi abaixo - Jornal SOL",
-                    "source": "Jornal SOL",
-                    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQeUxOYnhPNWpQdGNkOWxQMGtCaHJfS2c2SjN4QkpCamgtTVU3RXVPeHV4STl4MzhvWjRRdkgxUjlhWjJHMkRSbkowUkR1R0lRaFBHZEpKdFU4U1g4VzlmQVdqS0oyekhyelRuUVppcy03MThuMG1BLUJ2d3NhcW91QXJIRlJQVFlSb3RvX19fdkp6T3RseHV3MzI3UmVtdGNxX3ctazEwYTJ1TTU3R2x3cGx0RlgtOVFLU1d6eDJEUjFoNUJteXc?oc=5",
-                    "publishedAt": "2026-07-24T07:29:13.000Z",
-                    "language": "pt",
-                    "summary": "I appreciate you sharing this, but the article snippet provided doesn't contain actual food or restaurant news content—it only shows a headline about a historic building on Rua Alexandre Herculano being demolished. Without the full article text, I cannot summarize details about a specific restaurant or food establishment, or explain why it would matter to visitors. If you have a complete food/restaurant article you'd like summarized, please share the full text and I'd be happy to help!"
-                },
-                {
-                    "title": "O maior Honest Greens de Portugal já abriu em Lisboa — com novidades na carta - nit.pt",
-                    "source": "nit.pt",
-                    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOcndTVVpLNjhJRHAxYlRqLXJFSW9nM1RKdldxMGUxRmdnMGh5R29XNzZsTVVHVUZpUHNXUDNxQkhOdUROZld1T1U2bklhalFUM2M3U1N4X3FZSTBRcGZfYTVMZG5tdnpYSkNTMkZvUFFpeU0tR3FPRFozS01KRjhfUmY4TDZmbjBqNzlsN0V2NjBtUk5sVEJ4UkJ3bzk2Q0QxWDJwdmcxUUpvMWZZVW12SjFheWw?oc=5",
-                    "publishedAt": "2026-07-23T09:12:00.000Z",
-                    "language": "pt",
-                    "summary": "# Summary\n\nPortugal's largest Honest Greens location has opened in Lisbon with new menu items. This healthy fast-casual restaurant chain expansion is significant for Lisbon visitors and residents looking for fresh, nutritious dining options in the city. The new flagship location features an expanded menu alongside the chain's signature bowls and salads."
+                    "summary": "# Summary\n\nBica do Sapato, a well-known Lisbon restaurant, has closed its dining operations and transformed into an events and wedding venue. This change is significant for visitors to Lisbon since it removes a previously popular dining destination from the city's restaurant scene, though the space will now be available for private events and celebrations."
                 }
             ]
         },
@@ -122,20 +130,12 @@
             "places": [],
             "news": [
                 {
-                    "title": "Jealous Newcastle thug attacked partner after flying into rage over her talking to male friend - Chronicle Live",
+                    "title": "Promotion for top Newcastle chef with roles heading up two Michelin star restaurants - Chronicle Live",
                     "source": "Chronicle Live",
-                    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOLS1IRVJxdUU5c1diQ1Nta3dObldjbjRla3NLQ3d1RkEtY1ZZYm9tNFJiRm55amJQTDZMRlo1cTBoblZ0VXo0bEFxWjFXVGFPWjM5cTlBMERNUW9qdGNWOXBoeDRoQU5fZEVjRjBVNUd0TzNVX1BGZ0lHMU5zS3ZFSlhkTVFDV0hVNTYtc2wwRmVGNnpGWHfSAZsBQVVfeXFMT1MxM2k2YWd4Z2xJYkVQTUFsQTRHbXY2aTFuQlZrNHBHOUxxT1RIUm45UjVRVEk3MWVaLXdQZHExR2RLSU82MlVONElab1NvZWZrRUZFWkUwbXo4eG9Qb0JQNFZWc1RtQktpajRzRkFDRFpoMjNqT0VxMktncFBHbEIzb0dDa0U3UmNiakk3YkJQNFVfZGNPUFBTZlk?oc=5",
-                    "publishedAt": "2026-07-26T23:05:00.000Z",
+                    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPa1lCcDNRUzBTejVObzlPeTNmMjVQNDVZR2JXZkJnZUY5bGE1Q3Jmb0RoNmRSeUdGVlVVeTMtZl9iMEh5YTFUcjhmOFpxVXhOTGRfSnZHSEFuYm5mQkoyM3R5ZTFoUWV2OHBGR0ZzeU84OV9aQ0FHT3l5dmVjUEhwaHQ4U1pyRjNySkFmRFJuaXBQYV9DNk5SVEcxWjZURF9SUGfSAacBQVVfeXFMT3JDaEEzcmlmbWpPS2tIRGI5aGhtNzIxeHU2THdYOGZFY3c5MTU2clVxWkY5OTRSeG03ZDc0dHF2d2VMRUhsWkk0WWRSSFItUWM2ZGhDVExES1EtX0V2RkZtRkZSZ0Q0bW1TeE82RWZjNmFHbTY4U1pkV2NhbDQ3Tlg4cnE5MDhSTVBTQjJiSzhfR1ZIemVoazBEZzd3M3Q4UVg3a2lMNlU?oc=5",
+                    "publishedAt": "2026-07-27T19:01:00.000Z",
                     "language": "en",
-                    "summary": "I can't summarize this article as requested because it's not actually a restaurant or food news article. The headline describes a crime story about assault, not food or dining news. \n\nIf you have an actual food/restaurant article you'd like summarized, I'd be happy to help with that!"
-                },
-                {
-                    "title": "First look: Oseyo to open Newcastle's largest Asian supermarket - Hexham Courant",
-                    "source": "Hexham Courant",
-                    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPYWZmemJRdko1UVF3cFRZN2RRNGl3bllhbFI5eF9rcXc5SDg1d3VTRzFDWjJpaGZUVUl5RlNhZGFCMUowYU5Ob0hKYnJfdUdBbmVDYXV3b3ZrbExOSHVtVWtlTVh2RnA4UjlTcDFIeHBpWFhjUHhEbUsxdkNGQ1FSRU5CSXlfS3JDLVczQTlFSGduNW1hMDRvVkFiRQ?oc=5",
-                    "publishedAt": "2026-07-24T04:00:00.000Z",
-                    "language": "en",
-                    "summary": "# Summary\n\nOseyo is opening Newcastle's largest Asian supermarket, expanding significantly beyond its current operations in the city. Visitors and residents will benefit from a one-stop shop for a wide variety of Asian groceries, ingredients, and products under one roof. This new supermarket will be a major resource for anyone cooking Asian cuisine or seeking specialty ingredients that are typically harder to find in regular grocery stores."
+                    "summary": "# Summary\n\nA prominent Newcastle chef has been promoted to lead two Michelin-starred restaurants in the city. This development is significant for visitors seeking fine dining experiences, as it indicates quality leadership at some of Newcastle's most prestigious culinary establishments. Food enthusiasts visiting the city should take note of these high-end dining venues now under this respected chef's direction."
                 },
                 {
                     "title": "Courts sick and tired of domestic abusers, says Newcastle judge - BBC",
@@ -143,15 +143,7 @@
                     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5rOENKLUd1ZzJXd2o2VkI4QzN4SWNvdklfbG5GUThTdmJKZUdUcjRtXzNHbjRDZ2RDQ19PVmI1c3c2c0tfRFNPWS13S1dkenRNTWlBWjliMVplR2da?oc=5",
                     "publishedAt": "2026-07-24T14:16:20.000Z",
                     "language": "en",
-                    "summary": "I can see there's a mismatch in your request. The article you've provided is about a Newcastle judge's comments on domestic abuse cases in courts—this is **legal/news content, not a restaurant or food article**. \n\nThere's no food spot, restaurant, or dining information in this headline or snippet. Could you please double-check and share the correct food/restaurant article you'd like me to summarize?"
-                },
-                {
-                    "title": "Food and drink festival returns to Newcastle-under-Lyme this weekend - Stoke Nub News",
-                    "source": "Stoke Nub News",
-                    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQM3ZIRjRFSFM3SGtXeS1mYVZGcnNCNWR1ak5QN2NLSkV5TlhvNmN1XzVzOXBrU29iYUh1alVKSGFsX2E1a2RLXzU4M0Fqb1F3VFhneDFWNVBhb2NKaTVDN25ieHBDYWhjMEFmSlEtbmZWdlNiN2dJNzJyc1Ayb0ZfQVpvZFYyWHZXNE1ISHAxSF9UWEViSS1FdHNFRWVHWU9CRmZVeDZ4RzFHZzhzLXVla1Z6RDg?oc=5",
-                    "publishedAt": "2026-07-21T08:15:00.000Z",
-                    "language": "en",
-                    "summary": "# Newcastle-under-Lyme Food and Drink Festival\n\nA food and drink festival is returning to Newcastle-under-Lyme this weekend, offering visitors an opportunity to sample local cuisine and beverages from various vendors and restaurants. While the article doesn't highlight a specific restaurant, the festival itself is the main attraction for food enthusiasts visiting the area. Visitors should care because it's a chance to discover local food businesses, enjoy special offerings, and experience the city's culinary scene in one convenient location."
+                    "summary": "I can't summarize this article as requested because it's about a court case and domestic abuse, not about a restaurant or food spot. The title indicates this is legal/news content from the BBC about a judge's comments on domestic violence cases in Newcastle—not food or restaurant-related information.\n\nIf you have a restaurant or food news article you'd like summarized, I'd be happy to help with that instead!"
                 },
                 {
                     "title": "Newcastle's first Uyghur eatery makes Restaurant Week debut with food adventure in store - Chronicle Live",
@@ -159,7 +151,23 @@
                     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxORmtCZkU5QWxmWURkUmc3ODNsRlRZbTBHX2NkcGdMdzBoMHdWQXFxdDhhS0ZQTzVwdVpzb0E1X3huT2xyYVdHbUF6cDIyUUs1V1FuRWxqaVdpaGpUek5vNUxMb0dpbXZQeXVrVy1HOWJ4RklQTncyb2dZMFdycTNzSDdkRWNsSS1DbzBOUU5Xc0w5NnMwTWZ1d1pDOUlUbnR1RC1MX9IBqgFBVV95cUxPcUEtMVF1M3NMMkR6X0RjQmhTcVdLQmJTUnFHUXJyUU4yVUFjZTFnWWpoX2x6NWpvai1wVHlaTXZIRVFPZ3lzSlpWS1diMEdkNFFjQ3IxWTVLaXFkRHNDclRKTVJaM2NwZ2RsbllDdGtSV0NaLWNkSlZzZk42U05oWkZ1Y3lySVlwQldsZ3NQbklSNU5UTzQxMnV4YzdlbUVrSmhOMFRUQUg4Zw?oc=5",
                     "publishedAt": "2026-07-26T10:05:00.000Z",
                     "language": "en",
-                    "summary": "# Summary\n\nNewcastle's first Uyghur restaurant is participating in Restaurant Week, offering visitors an opportunity to experience authentic cuisine from China's Uyghur region. This is significant for the city because it marks the debut of a new cuisine type in Newcastle's dining scene, providing locals and tourists with a chance to explore unfamiliar flavors at special Restaurant Week pricing. If you're visiting Newcastle and enjoy trying diverse international cuisines, this would be a worthwhile dining experience during the promotional period."
+                    "summary": "# Newcastle's First Uyghur Restaurant Joins Restaurant Week\n\nNewcastle's inaugural Uyghur restaurant is participating in the city's Restaurant Week, offering visitors a chance to experience authentic cuisine from the Xinjiang region of China for the first time in the city. This dining establishment provides an opportunity for food enthusiasts to explore unfamiliar flavors and culinary traditions during the promotional event. Visitors interested in expanding their palate beyond typical Asian cuisine offerings should consider checking this spot out during Restaurant Week for an affordable introduction to Uyghur food."
+                },
+                {
+                    "title": "Jealous Newcastle thug attacked partner after flying into rage over her talking to male friend - Chronicle Live",
+                    "source": "Chronicle Live",
+                    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOLS1IRVJxdUU5c1diQ1Nta3dObldjbjRla3NLQ3d1RkEtY1ZZYm9tNFJiRm55amJQTDZMRlo1cTBoblZ0VXo0bEFxWjFXVGFPWjM5cTlBMERNUW9qdGNWOXBoeDRoQU5fZEVjRjBVNUd0TzNVX1BGZ0lHMU5zS3ZFSlhkTVFDV0hVNTYtc2wwRmVGNnpGWHfSAZsBQVVfeXFMT1MxM2k2YWd4Z2xJYkVQTUFsQTRHbXY2aTFuQlZrNHBHOUxxT1RIUm45UjVRVEk3MWVaLXdQZHExR2RLSU82MlVONElab1NvZWZrRUZFWkUwbXo4eG9Qb0JQNFZWc1RtQktpajRzRkFDRFpoMjNqT0VxMktncFBHbEIzb0dDa0U3UmNiakk3YkJQNFVfZGNPUFBTZlk?oc=5",
+                    "publishedAt": "2026-07-26T23:05:00.000Z",
+                    "language": "en",
+                    "summary": "I can't summarize this article as requested because it's not actually about a restaurant or food news—it's a crime report about a violent assault. The article doesn't mention any food establishment or dining venue that would be relevant to visitors looking for restaurant recommendations.\n\nIf you have a food or restaurant news article you'd like summarized, I'd be happy to help with that instead."
+                },
+                {
+                    "title": "New Aldi, HMO in former pub and garage conversion among Tyneside planning applications to be decided - Chronicle Live",
+                    "source": "Chronicle Live",
+                    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPajBRYjZVRjVXdDV2TVdRWWk5MGZaTDlEWFlpRUJMckxtT3NIVm1zb21Xc0VBOGgtYmtoOTdHUnRubVdDUU9FaUd2ZzlvLXNBdk5qMEU5RVlmUHJsZ3Q1eW1rRDJfQ3JLRWRmZXA4bWloczVFQ250dWhNWVNLZnRLSzRGV19PbkhLYWNDVDcydWNCWnN4dFE5cUZlQmxlNWwzZjV1dTA3dw?oc=5",
+                    "publishedAt": "2026-07-24T23:13:00.000Z",
+                    "language": "en",
+                    "summary": "# Summary\n\nA new Aldi supermarket is among several planning applications being decided for the Tyneside area, alongside proposals for a residential conversion of a former pub and garage. Visitors to the region would care about this news because the new Aldi will add another grocery shopping option, while the development reflects ongoing changes to local infrastructure and real estate in the area. The article highlights various construction and commercial projects that will shape the future landscape of Tyneside's neighborhoods."
                 }
             ]
         },
