@@ -1,33 +1,25 @@
 {
-    "lastUpdated": "2026-07-31T08:30:32.160Z",
+    "lastUpdated": "2026-08-01T08:00:18.411Z",
     "source": "github-actions",
     "cities": {
         "cologne": {
             "places": [],
             "news": [
                 {
-                    "title": "Lobby Restaurant: Kostenloses Grill-Menü in Köln - RTL.de",
-                    "source": "RTL.de",
+                    "title": "Lobby Restaurant: Kostenloses Grill-Menü in Köln - rtl.de",
+                    "source": "rtl.de",
                     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxObTd2ZEVSZV9TaWhsUWxha3Nfc0M1RWtBNElOVFdvTTdfa2RTem9JanUxZmxVTFVIazQ4d0VsMjY4d2dRb3o0UnlaQXRrRktMUkZ1VGxzQmVFZ0xnMkN0RjFGT0V6c3RSaVdqV2wyNmZLYVdXdkNmeDZKOXRDbElKejl6NUtEc2dnMWpvWktMUlpOQ2VZbWw0QU9hUlpDQXRJS0ZoVll1MFFGeW95dHFpejhfOEM?oc=5",
                     "publishedAt": "2026-07-30T16:17:39.000Z",
                     "language": "de",
-                    "summary": "# Summary\n\nLobby Restaurant in Cologne is offering a free grilled menu to customers. This is a great deal for visitors to Cologne looking to enjoy quality grilled food without paying for their meal. Anyone dining at the restaurant during this promotion can take advantage of this special offer."
+                    "summary": "I'm unable to provide a summary of this article because only the title and source information are visible—the actual article content isn't included in your request. To summarize it accurately, I would need the full article text. If you can share the body of the article, I'd be happy to create a 2-3 sentence summary focusing on the restaurant details and visitor relevance."
                 },
                 {
-                    "title": "Die Bredouille X Copain du Vin: Bar Takeover Opening Party am 14.08.2026 in Köln - Rausgegangen",
-                    "source": "Rausgegangen",
+                    "title": "Die Bredouille X Copains du Vin: Bar Takeover Opening Party am 14.08.2026 in Köln - rausgegangen.de",
+                    "source": "rausgegangen.de",
                     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPVEtOWWk3ZnVGZmFfQTVfSExRVnd5RnVvalJ6Nmt1d3JmVTQxc3lmOWFINDFMYWZVMGlWSGpPWGxVbkkxNkc0TDdGTElYcElHTE9tNE9yMlhtVEhtd051a2tKeEdRMVJGbWFyUURxM2tOdS16NHpBWm03a19aREI5OHhuWG9kNVhlTDkyd2FhRUN2a1NwakE?oc=5",
                     "publishedAt": "2026-07-30T12:50:03.000Z",
                     "language": "de",
-                    "summary": "# Summary\n\nDie Bredouille and Copain du Vin are hosting a bar takeover opening party on August 14, 2026, in Cologne. This event combines two popular venues for a special collaborative celebration featuring wine and bar culture. Visitors to Cologne should mark their calendars for this unique co-hosted event that promises an exciting evening with both establishments' offerings."
-                },
-                {
-                    "title": "Furioser Start der »Bar Brio«: »Social Media ist ein starkes Aufmerksamkeitstool« - Falstaff",
-                    "source": "Falstaff",
-                    "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPRWpxR09mT1BXd1JuWXhfbTV4WkQxenVtZVRlVV85M1Q2NUJxb3dnamg5dElnV01sOVNHb09USlc4TmJ0Mmh5SnRHeVNYWXR3RzNlXzZTeVFhaENObF90YnhzcDZmcnRrc3o5amdYaVF6dUtrRGx5T2lwdVRqV3dCMzFwUkUxVHcxc2Z1aldWaWwtT0o1Y3UwN3pRekZkYVRrT3k3OHdGbDFCa3EzaEdlMnlMRWl2LUxXNUhvVm9fZHEyMDdWNlBRaEhTWXlPQUNyNlJvY0ZNckZaZGpfVWNFZldoV0VNUnI4d3phM0tRaw?oc=5",
-                    "publishedAt": "2026-07-29T12:15:02.000Z",
-                    "language": "de",
-                    "summary": "# Summary\n\nBar Brio has launched with impressive momentum, leveraging social media as a powerful marketing tool to generate buzz and attention. The new bar is gaining significant traction through its online presence and social media strategy. Visitors to the city should take note of Bar Brio as it's becoming a talked-about destination worth checking out."
+                    "summary": "# Summary\n\nDie Bredouille in Cologne is hosting a bar takeover opening party on August 14, 2026, in collaboration with Copains du Vin. Visitors to Cologne can expect a special event featuring wine and bar culture at this venue. This would be worth checking out for anyone interested in wine, social gatherings, or discovering local Cologne nightlife spots."
                 }
             ]
         },
@@ -40,7 +32,7 @@
                     "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQczZfNnNMLWpxbURxX0hKYWN4VDR6d3FweDItZEFKTjNVS20xZWVlbXZMY0REbXpYRFRGOFJTV21XZ29LNVZHMmQ5WTh1eFo5eEtORElhNmM1UU8xVGdDYmNKSldmRmhnQlc3WDhOUURvdndTdTRmLUNfcTM2aWgzUFVOOTRpY3lLWTdyWnlmeUdNaEZMVFViUHhnVkxMVjk0NlpvUFdEcDloSXFGV2JFa2UzNmJJMW5kb1dFU2VZTWFEUFpubHAwcWw1RGtzN0lQU0JGR0Ntc0tEenNaLUhoaVJlSGF5a1J5NFpvMEJMU3NTS3VjLVFHVEE4Sjk?oc=5",
                     "publishedAt": "2026-07-27T01:01:00.000Z",
                     "language": "nl",
-                    "summary": "# Summary\n\nRestaurant Rotate, located at Amsterdam's Kleine-Gartmanplantsoen, has deliberately rejected the exclusionary practices common in nightlife venues by operating without VIP tables or club-like hierarchies. The restaurant's philosophy prioritizes an egalitarian dining experience where all guests are treated equally, avoiding the social divisions typical of upscale Amsterdam establishments. Visitors to Amsterdam will appreciate Rotate for offering high-end dining that's inclusive and welcoming rather than pretentious or elitist."
+                    "summary": "# Summary\n\nRestaurant Rotate, located at Kleine-Gartmanplantsoen in Amsterdam, has opened with a philosophy against exclusivity—it operates without VIP tables or club-like atmospheres, deliberately rejecting the pretentiousness of typical high-end dining venues. Visitors would appreciate this approach as it promises a more democratic and accessible dining experience where all guests are treated equally. This makes it an appealing option for those seeking quality food without the typical Amsterdam nightlife scene's elitism."
                 },
                 {
                     "title": "Waarom Restaurant ZUID5 in Amsterdam zo’n fijne verrassing is - Foodies Magazine",
@@ -48,7 +40,15 @@
                     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE13eWxRS3hGZHdzb25LcEZfbWlIMTFhd2Y4RDFXOUh3Y256V1AwTFJYaXc3azdkaDUzeVhjS0ViWWJVTkludm14Tk1sSEtROWZodlVyaDBoVHR1RTdEWnZmVlVoQlNsTURzZG1reGFaLTRnbGs?oc=5",
                     "publishedAt": "2026-07-29T13:06:11.000Z",
                     "language": "nl",
-                    "summary": "I don't have access to the full article content, only the title and a snippet from Foodies Magazine. Based on what's available, the article discusses Restaurant ZUID5 in Amsterdam and highlights it as a pleasant surprise for food enthusiasts. To give you an accurate 2-3 sentence summary with specific details about why visitors should care, I would need access to the complete article text. Could you share the full content or key details from the piece?"
+                    "summary": "I don't have access to the full article content, only the title and snippet provided. However, based on what's available:\n\nRestaurant ZUID5 in Amsterdam has been highlighted as a pleasant surprise by Foodies Magazine, suggesting it offers something noteworthy that exceeded expectations. Visitors to Amsterdam interested in dining would care about this recommendation because it indicates a quality restaurant worth seeking out, though the specific details about its cuisine, style, or what makes it special aren't clear from the headline alone.\n\nTo give you a more complete summary with specific reasons to visit, I would need access to the full article text."
+                },
+                {
+                    "title": "Het pittigste Indonesische restaurant uit Den Haag komt naar De Baarsjes - De Westkrant",
+                    "source": "De Westkrant",
+                    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQN3RUa3JsYnRUOEs3LTFsSDVtZE95STJOZExtNXNhZWw4R3g5RWEyZjc5RlB0Um9WLXM0Y2l3OHNTS3JDWmhsMXU0VlBXUGZFZlMxRzZKNFNCVHR5MUdia3FnWVFXbWYzSWdlem1UM2t3NVQ2d3lTc1JOcHNidzNOOHZwVVVTTjVGd2dSc2tRYlVYVWlNVTVCM0lmVHNXVV9WTlHSAacBQVVfeXFMT3NjOFEzTDlDbVNVcVl5eUhXbno3U2cyc1MwTlozbzFaZ2VxVUNGWHEtV1ZWM1BrLXRndmY4b0RlSkt1a2dqQmRVVXUtdFhsVFBVTmFUSDFhLVhLWGRHNXZiQ1pYdW1tNnJBaHIwMG9OSUJLRHZURFpqcndNRmh2S3RBYmVCak5HSnpQaEVyeUhtQjVqZktoNm1QLWNlUUx2eUlpUVczZlU?oc=5",
+                    "publishedAt": "2026-07-30T09:00:10.000Z",
+                    "language": "nl",
+                    "summary": "# Summary\n\nDen Haag's spiciest Indonesian restaurant is expanding to the De Baarsjes neighborhood in Amsterdam. While the article doesn't specify the restaurant's name in the snippet provided, this is significant for Amsterdam visitors seeking authentic, bold Indonesian cuisine. The opening represents a notable addition to the city's dining scene for those craving adventurous, spicy Southeast Asian food."
                 },
                 {
                     "title": "Eigenaren van De Willem en Roest openen Stadscafé in het Westerpark – met flirtbar - Het Parool",
@@ -56,7 +56,7 @@
                     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOVFVuakd2RDk3ZUJ2Vmg1SnBkenk5OVRhVFM4ak9rUlN6ZExyTm1HcG4yM3JxR1dMWFdfTUFnNzZqc1l1MkpBZDlQTFFCelhGZmJMMmJoSWVUcWw1c2lVbVdmNDBuRUpOVFVEU19WWER3VkJrbFc1YlVEeHE5NTlDeXhIc1BFTjZ0dExNczlKVjB0MjFUem9NaGV5T096c1IxMlNFWGZRMTRXdVZlMU43Z0wxcU04c09qMzloR1FBUHpVQU1jbjVoZnFn?oc=5",
                     "publishedAt": "2026-07-28T01:00:53.000Z",
                     "language": "nl",
-                    "summary": "# Summary\n\nThe owners of popular Amsterdam restaurants De Willem and Roest are opening a new venue called Stadscafé in Westerpark, which will include a \"flirtbar\" concept. This is noteworthy for visitors because it brings established restaurateurs' expertise to a new casual dining spot in one of Amsterdam's most popular parks. The new cafe offers another dining option for those looking to enjoy food and drinks in or near Westerpark's scenic setting."
+                    "summary": "# Summary\n\nThe owners of popular Amsterdam restaurants De Willem and Roest have opened a new venue called Stadscafé in Westerpark, which features a \"flirtbar\" concept. This is notable for visitors because it represents the expansion of established, well-regarded restaurateurs into a new neighborhood spot with a social dining experience. The Westerpark location makes it a convenient destination for people visiting or relaxing in one of Amsterdam's popular parks."
                 },
                 {
                     "title": "An evening at restaurant De Poldervogel is not just about food: ‘My passion is creating memories’ - Het Parool",
@@ -64,7 +64,7 @@
                     "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQNHRySXhuR2N1TndCLVdfUTJiZDNDcXkzaDZmVWVoOWo2NWNBN1pRNXIxU1lPUmpOa1FuXy1qYlNLVnpHOXRBdWgySEd2STlXTk9BS0Q3ZDhMM3hYanVGdmV2VlI1QWFrcEI0RW9WZ25pZG1heDlMZVhqbDZndkdTenlISG5odlItZ1RUUXpQZXdTSW1BMC04cUhCbU1QWmhteGFuNVJFaEs2QkJqVkd6MUwyRm82VTVjdm5wckQzMDlJTHExZ3ZRb1hQRTBLSnRVT05JWjhtZw?oc=5",
                     "publishedAt": "2026-07-27T11:00:33.000Z",
                     "language": "nl",
-                    "summary": "I don't have access to the full article content, only the title and snippet provided. Based on what's available, here's what I can tell you:\n\n**De Poldervogel**, a restaurant featured in Het Parool, offers diners an experience that goes beyond just eating—the chef's focus is on creating memorable evenings for guests. For visitors to the city, this restaurant would appeal to those seeking a dining experience that emphasizes atmosphere and emotional connection alongside the food itself.\n\nTo give you a more detailed and accurate summary, I'd need access to the complete article text."
+                    "summary": "I don't have access to the full article content, only the title and snippet you've provided. Based on what's available, here's what I can tell you:\n\n**De Poldervogel** is a restaurant where the dining experience goes beyond just food—the chef/owner emphasizes creating memorable experiences for guests. Visitors to the city would care because this restaurant appears to offer a unique, experiential approach to dining rather than just a meal, making it worth seeking out for a special evening out.\n\nTo give you a more detailed and accurate summary, I'd need access to the full article text."
                 }
             ]
         },
@@ -72,12 +72,20 @@
             "places": [],
             "news": [
                 {
+                    "title": "Deze 6 nieuwe zaken in Antwerpen zijn het ontdekken waard: “Van Iraakse streetfood tot een degustatiemenu van 300 euro” - HLN",
+                    "source": "HLN",
+                    "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOTmpoYzNnOWg3MG4zWnNFLWpLaVNuMVlRWjFpcDJTSUxSVk44eGhkN0RFUk9vQmZxMGduN0pna0FxVTNkblBXTl9peXN0em5PbmJUdzZuQVQtbGNuREIxS2gwYXhyQUdTVXRsaE1vVlpFSlJvNzl4dER6ZnRwbzR6Qkd5TkpkWVpmMWFpRFQ2ckFtRHl6UVVPQTJVTTEzb1BzN3BoZHY3NFlmT0p4Sjdzd0xxSWlERHBqUU9YQmNwVVNQOVpheGlfWUVoLWpDUnpIQy15U0VjYlZZd2s4YnU1MWtNMF9ON1MwaW1j?oc=5",
+                    "publishedAt": "2026-08-01T03:36:42.000Z",
+                    "language": "nl",
+                    "summary": "# Summary\n\nAntwerp has 6 new dining establishments worth visiting, ranging from casual Iraqi street food to upscale restaurants featuring a 300-euro tasting menu. The article highlights the diverse culinary options that have recently opened in the city, offering visitors a mix of affordable casual dining and fine dining experiences. Food enthusiasts visiting Antwerp should check out these new spots for both budget-friendly and premium dining options."
+                },
+                {
                     "title": "Restaurant in centrum meteen gesloten na controle: \"Problemen met hygiëne en sporen van ongedierte\" - GVA",
                     "source": "GVA",
                     "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPTmdIaXNKUFlFSU5TSmhtbk5aYXZkRTYxdUVMLU1QWlV4S2RWSkViZW9hdXlSb2NFZnJuajNyM3BlbnBVdjNwcG13Z1lBX29CYmtpZ2xjcWJLdVluaGFWZk1USk5YNXBQWUFSb1h2Q3FNTkNqcVh3c2puaUViSHVxczF0RWFXdDNsQWRjOHhhaEVLR2MyQzhsWEJDZEhFQnBLVXltNWs1T1pKU1VWblZRdDRELUtFbDVHZ1YtcEwtdjFUOUVsVTE3NTlXbzg2Yms?oc=5",
                     "publishedAt": "2026-07-28T17:08:28.000Z",
                     "language": "nl",
-                    "summary": "# Summary\n\nA restaurant in the city center was immediately closed by health inspectors due to serious hygiene violations and evidence of pest infestation. While the specific restaurant name isn't provided in the snippet, this closure is relevant for visitors as it highlights the importance of checking health inspection records before dining out and reminds them that authorities actively monitor food safety standards in the area."
+                    "summary": "# Summary\n\nA restaurant in the city center was immediately closed following a health inspection due to serious hygiene problems and evidence of pest infestation. While the specific restaurant name isn't provided in the snippet, this news is relevant for visitors because it highlights the importance of checking health inspection records before dining out. The closure demonstrates local authorities are actively monitoring food safety standards to protect public health."
                 },
                 {
                     "title": "NET OPEN. Igor (27) en Ian (26) openen restaurant Lito: “Een Oekraïense zomeravond, maar dan in de Muntstraat” - HLN",
@@ -85,15 +93,7 @@
                     "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPSnpDZERHRVViMzBITERtRDN5bVpmcXdKUnN4UVBEOE9PRkxEZHd0Vm1WSjA1bTNvWDdrTFRuNW44UGR2ZTBIaXFMNHZabGIwZ3JUX0pIc0ZCOVljOGRadWQ2TTVmeWVyaW1hLTRPdVAzZ2dud3ZEOEMtSGVwdTByRHMtdDE2S243WExWZi1YZXFkVXY5NHFmOUdERDBEeFdtNWlJYWRPbjJTdHRVSkF4c3RHbExNcmhtOFh6RUZ5TVRZWkxmbUw4eTY1akoxdmdfTEV2X3Uzaw?oc=5",
                     "publishedAt": "2026-07-30T12:53:20.000Z",
                     "language": "nl",
-                    "summary": "# Summary\n\nTwo young entrepreneurs, Igor (27) and Ian (26), have just opened **Lito**, a new Ukrainian restaurant located on Muntstraat. The restaurant aims to recreate the atmosphere of a Ukrainian summer evening through its cuisine and ambiance. Visitors to the city looking for authentic Ukrainian dining and a unique cultural food experience now have a new destination to explore."
-                },
-                {
-                    "title": "In deze Antwerpse wijk opent Paulien (30) koffiebar Polette: “Ik kreeg meteen het gevoel dat ik iets bijdraag aan de buurt” - GVA",
-                    "source": "GVA",
-                    "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxQRnNaRmpmZHA5RUhZa2Ftenh5d29NUzhYYjhoRkpsYXN6VkxaaDZjUWlIWDRrSFNIc2pfR2JrVG9nV0gzbHdxWEFlVDdTQVBreW9lTWRVdnBsRzJVaG9YRm1VSE5sTGtjU3dtZEVuaEFsYzFlZy11SV8xd2FiQl8zTE5oRUQ5UzIwV2ZKR3poMHJVMVI2NWt4bGdadlY2Q0hTWjJicGNfaGlNOV8taWllSVZheGVCNkQ3N05haDlWV0JaSjNia2VDaUUzQ21iQlN6RGhBZ01vYWNJTWtIWTB5UDcxSTNJTmxwM0N4Z3JCR04xQUVyaTJkVGpXdTFfYlRseUFZSWpyVG4tR25zU0hzS3dsR3FMQ1hLU0hwcDZ6TQ?oc=5",
-                    "publishedAt": "2026-07-28T12:05:00.000Z",
-                    "language": "nl",
-                    "summary": "# Summary\n\nA 30-year-old entrepreneur named Paulien has opened a new coffee bar called **Polette** in an Antwerp neighborhood. Paulien chose the location because she felt an immediate connection to contributing positively to the local community. Visitors to Antwerp looking for a quality coffee spot with an owner who's invested in the neighborhood would find this a worthwhile addition to explore."
+                    "summary": "# Summary\n\nTwo young entrepreneurs, Igor (27) and Ian (26), have just opened a new restaurant called **Lito** on Muntstraat that brings the atmosphere of a Ukrainian summer evening to the city. The restaurant offers an authentic Ukrainian dining experience in an accessible urban location. Visitors to the city would care because it's a newly opened venue offering a unique culinary experience and cultural atmosphere that's likely different from typical local dining options."
                 },
                 {
                     "title": "Sandip (40) en Faieq (35), ex-pupillen van Seppe Nobels, openen restaurant Flatons in Antwerpen: “Hier kunnen we ons eigen ding doen” - HLN",
@@ -101,7 +101,7 @@
                     "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPZVk0ZkQ1QkowbUxuUkhyR1NmbjZOS3h0RHNiNXAxak1jQUN0SDFvemFtT2R1QklxQndkbDR0WlE5YW1hQ1dsNy1vQTVpR3JMUXg1TUtyLWM3dDhpZUZfb25USnJLdFpsY2x1UC1lUG1GZVBhUzBiVGNUamxpaE84anhtX3V4Y2RTSW13VXlnV0ZUemoydU9tX3VkWU1odjZYd0dNcVFqS3VwUFRzdmc5ZzNLdEpubUptbU1FbzduaGRJOUc4S3V3VTRyUmp2dURfTXpMZF9ZNlJ1WVU4aUNEZk95M2EtYjJ5MnVkODBVaGljcUhiMlZr?oc=5",
                     "publishedAt": "2026-07-25T14:42:34.000Z",
                     "language": "nl",
-                    "summary": "# Summary\n\nTwo former trainees of renowned chef Seppe Nobels, Sandip (40) and Faieq (35), have opened a new restaurant called **Flatons in Antwerp**. The restaurant represents their chance to develop their own culinary vision after learning under an established chef. Visitors to Antwerp should care because it offers a fresh dining option from chefs with proven training and experience in high-level cuisine."
+                    "summary": "# Summary\n\nTwo former protégés of renowned chef Seppe Nobels, Sandip (40) and Faieq (35), have opened a new restaurant called Flatons in Antwerp. The chefs express enthusiasm about finally having the freedom to pursue their own culinary vision. Visitors to Antwerp should care because this represents a fresh dining concept from experienced chefs who trained under one of Belgium's respected culinary figures."
                 }
             ]
         },
@@ -109,20 +109,36 @@
             "places": [],
             "news": [
                 {
-                    "title": "Nino Redruello: “Não viemos trazer a cozinha espanhola para Portugal. Viemos fazer o Fismuler em Lisboa” - Diário de Notícias",
-                    "source": "Diário de Notícias",
+                    "title": "Para sobreviver ao Verão em Lisboa, o Ajitama tem pratos para partilhar - Público",
+                    "source": "Público",
+                    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPRVQ5NmtySnJGZDRSYW43U1lzbHJJOE9DdzM4NWJoZFM4ZS13bUlMcklKRzJBNTI2c0xFdEFzRVdkMENKQ3c3bjhXQjQtVENsN2dxY1F1SDlWSzUwSDV3aFV1anpiaGhLMjZCZEJucGg2OHdnT2g3MkV6aGtFQWVLVzllMThYaVBpVklqZno2MElCdVhTclRrR0c2Y0dSYWVXZ3BaUV9NOA?oc=5",
+                    "publishedAt": "2026-07-31T14:01:00.000Z",
+                    "language": "pt",
+                    "summary": "# Summary\n\nAjitama, a restaurant in Lisbon, is offering shareable dishes designed to help visitors beat the summer heat. The article highlights this dining option as a practical choice for those looking to enjoy cooler, lighter meals during Portugal's hot season. Visitors to Lisbon should consider Ajitama if they want a social dining experience with dishes meant for sharing during the summer months."
+                },
+                {
+                    "title": "Detida mulher que ameaçou funcionários de restaurante com arma de fogo em Lisboa - Jornal de Notícias",
+                    "source": "Jornal de Notícias",
+                    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQcU9NMFhVZEhJempYMTBnUmNMSW1iQ3NyZG5mVUZNdXpEeUxtTVliT0NFVEZySjZNVkJKVHRDQVltQ1dmR0N5bzF6bi1DT25FeFVvLTZwYXlEUk4xWjFzcS02bkJESzNiam9WU084bnFuVGIxSkItVFZIaUh3cWJiTVhxcUNlbVlfNnhpX1J5Wkc1NVZtb1RuZXQ1VG1rUUJxekl1Zk1LdmxOZmRENUstN2kwOU94ai1SQnJsLWY3MNIBsAFBVV95cUxQNnMwdXhQeHhyRDQ5NUp5Y1c3V2ZPOWJMbzlZX2FWaTdTSEVSdV9JR0FGckZleDlYU3hEaTVqbk5DQ3BocGRYQWh0ZDhuRG45YjJodkpDeFRkcjZTZE16bWsyXzF6ZlZmX19ELXNKUjNJNUtYVmRfcUcwVXB0QXA1TTZXLWF0T2kyTFVtYkktWDl4QW42YUxrNDBmVTd0NjU2RmFUY29iWjZqbThPOFR0Sg?oc=5",
+                    "publishedAt": "2026-07-31T13:53:00.000Z",
+                    "language": "pt",
+                    "summary": "# Summary\n\nA woman was arrested in Lisbon after threatening restaurant staff with a firearm. While the specific restaurant name isn't provided in the snippet, this incident highlights a serious safety concern at a dining establishment in the city. Visitors to Lisbon should be aware that this was an isolated criminal incident, though it serves as a reminder to choose well-established venues with good security practices."
+                },
+                {
+                    "title": "Nino Redruello: “Não viemos trazer a cozinha espanhola para Portugal. Viemos fazer o Fismuler em Lisboa” - dn.pt",
+                    "source": "dn.pt",
                     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNbEViRnlkaVk0aVpGaDZTTUVhUEZUdjNHTU5zQkFuWmF1a1M1ZnNvY3BjeGp0M2FNNGk2bnVkcTdLXzVpY3k5WlRwV0NoVDZDa09nTl9wZEhfd1hScDRhMGFrSE1KcFU4S0JpcU1MYkRtX0hzRm9CQWhGb3BzbENyZnFxaVhxbWZubFZDRmk4QjlhZC1lV2VOYTFCNTJGdUU0cU9WTEVld1ZxbEFTNkhUY1BndEU0RDByLXc1VTZ3TENqNVBScmMxSkhXQzgtMnVa?oc=5",
                     "publishedAt": "2026-07-30T23:00:20.000Z",
                     "language": "pt",
-                    "summary": "I appreciate you sharing this article, but I'm unable to provide a meaningful summary based on the information provided. The title and snippet are identical and don't contain enough details about what the news actually is—I can only see that it's an interview with Nino Redruello about a restaurant called Fismuler opening in Lisbon, but no concrete information about the concept, cuisine, or why it matters.\n\nTo give you a useful 2-3 sentence summary, I would need access to the full article text. If you can share more details or the article content, I'd be happy to summarize it for you."
+                    "summary": "# Summary\n\nChef Nino Redruello has opened **Fismuler**, a new restaurant in Lisbon that isn't attempting to bring Spanish cuisine to Portugal, but rather creating something unique to the city itself. Visitors to Lisbon should care because this represents a fresh dining concept from an established chef who's committed to developing a distinctive local identity rather than simply exporting Spanish food traditions."
                 },
                 {
-                    "title": "Novo espaço cultural com bar em Lisboa quer ser um ponto de encontro para mulheres sáficas - nit.pt",
-                    "source": "nit.pt",
-                    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQbkZ1VXJzZy1QcFVPd2FicUs3TFFJM1ZTZloyeHVVYlNkTjhYc0p1bVFyV2RqcWRBeE1FTGpDSmphMGlqdlRiT3hJSXBMTXE0SXJPaDJEQzZ2S2Jpb0FFZG55empLd0VTRl9yd0xqNzEzc0dGbzl6MS1OZlk4SmRVTEJmd2NCVG9Wa2Z3X085NTNxY1ZJUjNhMEpwUkRIQ3hoQkhCajdIdGpQYW1sVFFESVBwd0dKMmhzZk51cUsxQjZHOHR3bktJbHpTZ3BpQTZTV0Mw?oc=5",
-                    "publishedAt": "2026-07-28T15:11:00.000Z",
+                    "title": "Mulher fica em prisão preventiva por ameaçar funcionários de restaurante com arma de pressão de ar em Lisboa - Jornal SOL",
+                    "source": "Jornal SOL",
+                    "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQSDhOZ0NGRHB0S0F1TzhvckNUZ1luSExKTVZ6UWlXXy1UT0VXaDBWczA0TG16MFVfdUlmMmhRS1FjbklFaUlfbERSTk1HVUZiTllFaDRSUEhhSXdOMGl3eUpUTFRyMnVkdER5Y0w3NGJmVEs1VmY5bkZ6UGpNZV9HaVNTZXMySE1GTkZJQTBSTDdpaEFOcmdOV20zYjdpUlRKUjhvS01BVkVtNUE1Z1FQcUhNcjRBVExJYWlfQ2ZISXE5VXkxUWkxbmF5SGQ0WWJpc0J0elAyTV9sdHpyalVoN3YwcUFlM3hMamdsRnc1ZlNiOWdEaXYyQUdvendEWmxlSnUtS0RwM19YVHZL?oc=5",
+                    "publishedAt": "2026-07-31T13:17:12.000Z",
                     "language": "pt",
-                    "summary": "# Summary\n\nA new cultural space with a bar has opened in Lisbon aimed at creating a gathering place for sapphic women (LGBTQ+ women). The venue combines cultural programming with a bar atmosphere to foster community and connection. Visitors to Lisbon looking for inclusive, welcoming nightlife and cultural spaces with a specific focus on women's community would find this spot relevant."
+                    "summary": "# Summary\n\nA woman in Lisbon was arrested and placed in preventive detention after threatening restaurant staff with an air pressure weapon. While the article doesn't specify which restaurant was targeted, this incident highlights a serious safety concern for dining establishments in the city. Visitors to Lisbon should be aware that such incidents, though rare, can occasionally disrupt service at local restaurants."
                 },
                 {
                     "title": "Depois de Lisboa, a Nobu de Robert De Niro chega ao Algarve com hotel, residências e restaurante - VOU SAIR",
@@ -130,23 +146,7 @@
                     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOdFJ2NDJCdndaeHNaZkdJajBmUGxvdWdtMG50bXJ3a1ZvZUFYeWw3eWZPUlVMd3ZVcWZRemNRUUZ4Y1pWbEZlcUVqME52bzRZbFkwX2RDeXhUOXFGS0FGVWI5ZFJlZGNoT0FwNk1WZUJXY0lqcVdJQVRLVWxqMWVGckNlRDNEVDJvTU5DS0FNY0lCeU1lWXJZLThiSUpzcGtEVG5Rc3hXdk05M2tSMERIUkRXS00?oc=5",
                     "publishedAt": "2026-07-29T11:19:50.000Z",
                     "language": "pt",
-                    "summary": "# Summary\n\nNobu, the high-end restaurant brand co-owned by actor Robert De Niro, is expanding to Portugal's Algarve region following its success in Lisbon, bringing a hotel, residences, and restaurant to the area. This development is significant for visitors to the Algarve as it will introduce world-class Japanese-Peruvian fusion dining and luxury accommodations to the popular beach destination. The arrival of this internationally renowned culinary destination offers travelers another premium dining and hospitality option beyond Lisbon."
-                },
-                {
-                    "title": "Elemento Atlântico. Novo restaurante a hora e meia de Lisboa tem a melhor chef da América Latina. Saiba onde fica - SAPO",
-                    "source": "SAPO",
-                    "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQX2dtdUF4dUJxa1pUcXNOVTdXWElKSDAzdFdNbEk3d0RHRWtZbXdyNEhmc0VpVWlJUUs5dkdqSWdyRE1YZWtGS3JLS0hKN04xTW1oOUV3RkpXSUdsVmhHUWxqY0s4MlVvT1pXX2VkUDd0M3BQZllpR3JpT0F3Ym1EUDNzYkJuSVNoZHZ4RlZtcEZqeFN0bG9HSmxHcW5fMTZzdTgxU0p4WWZEUXVQSnY4RFN3SEZZR1NPakJaWG9XQVJTb1V0dzBRTkFBUVRFWFRrcDU4alNSUE9DLWlDc2EtVQ?oc=5",
-                    "publishedAt": "2026-07-27T17:30:00.000Z",
-                    "language": "pt",
-                    "summary": "# Summary\n\nA new restaurant called Elemento Atlântico has opened approximately 90 minutes from Lisbon and is helmed by the best chef in Latin America. Visitors traveling to the Lisbon area who are interested in high-end dining should know about this destination, as it offers access to world-renowned culinary expertise without traveling to South America."
-                },
-                {
-                    "title": "Nobu chega a Portugal: Lisboa e Algarve juntam-se a um império global que nasceu de um restaurante em Tribeca - Jornal Mercado",
-                    "source": "Jornal Mercado",
-                    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQMTlPZFJ3Q0pkXzFfVmExMHBwWTdZZHV1QW1kU3pVU2wzUkRhbFR0N1BocEd1SWh1c2tzbGp0VWdORFlyUFZHZ29XbkF0bjNkVVMycks5WGNXR19sZVlreFFHTmZEdm1ENGs5MEJlUldibWcwZ3VwZy0weVZCbUhxYXY2bXcwMXNZc2oxaWd3cHZRX2hhclV5WTRBSjhVTlY4bG9sODZ3UGlCLTkyeGI3cjZOSGFTeW5WNDJJVkNpSllHNGg0czNXclNEVQ?oc=5",
-                    "publishedAt": "2026-07-29T09:16:04.000Z",
-                    "language": "pt",
-                    "summary": "# Summary\n\nNobu, the renowned Japanese-Peruvian fusion restaurant empire, is expanding to Portugal with new locations opening in Lisbon and the Algarve. The luxury dining brand, which originated from a single Tribeca restaurant, is bringing its globally acclaimed cuisine and upscale dining experience to Portuguese cities. Visitors to Portugal can now access this world-class restaurant group without traveling abroad, making it significant for food enthusiasts and those seeking high-end dining options."
+                    "summary": "# Summary\n\nRobert De Niro's Nobu restaurant brand is expanding to the Algarve region with a new luxury development that includes a hotel, residential units, and a restaurant. This follows the opening of a Nobu location in Lisbon, bringing the celebrity chef's acclaimed Japanese-Peruvian fusion cuisine to southern Portugal. Visitors to the Algarve will have access to world-class dining and luxury accommodations in one of Portugal's most popular beach destinations."
                 }
             ]
         },
@@ -154,44 +154,44 @@
             "places": [],
             "news": [
                 {
+                    "title": "Newcastle match day pub with 'belter' pizzas re-opens with weeks to go until new season - Chronicle Live",
+                    "source": "Chronicle Live",
+                    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNcDh3TnA5eFY4Mm4tYVVqc2J0RXNMeTNtS0dncHpmc2E1M0NBMzFRV19lWWt2dEtHTlFfbHY3cUsxNHVvS1JseTE0ZEpLeldSdTRHT2ZTU0k3ZHphejJwbXJrMEQ0a3hPa2xYZmQtRm0xRWVmRGNLZnptQ21yUy1qN2tlbWFKZmNqY1JKblhsLV8wQ05vZm4xbG1kc1HSAaIBQVVfeXFMTmFXVmZWZkVhRFVfVGJsUnUxZUozdXpxQ3h6MHJyNV9iOFM2ekFHOV9xQnJtdG96RUFmQXowMGVFeWlBcUtJdUV2bGhfakhHeUFlUjhJV3dhZWdSVTNocUVYRk5SNEc3b1ZObXlhRjJVVm8tdUtQVU9jc04wRGQyT2EtNFdQaGFNTWhrVlZiMFNmbXdJWk9Wdm1yYThfVkRGSWRn?oc=5",
+                    "publishedAt": "2026-07-31T14:58:00.000Z",
+                    "language": "en",
+                    "summary": "# Summary\n\nA Newcastle pub known for its popular pizzas has reopened just in time for the upcoming football season. The article doesn't specify the exact pub name in the snippet provided, but it highlights a match day destination that serves quality pizzas. Visitors to Newcastle looking for a great pre-match meal spot or casual dining option near the stadium would want to know about this reopening."
+                },
+                {
+                    "title": "Newcastle-under-Lyme pub to temporarily close for 'six figure investment' - stoke.nub.news",
+                    "source": "stoke.nub.news",
+                    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOb2VOQVNCNjlGNVlPdjJoR1lXV3BzT1R6Q0lldjBCR3hiNjZmeXpWYWpKdWxXZ0hDeVBtRWd5S0ZUTEVKNHdHVUM0bnVSUG9UVzVHMzhSSURLTVppQU4teHZUN0VVYV9uOEExQjY5bklyVGxScnBFLTN1VnZPbHZRc3FiR200c0FtOGhhUjRMRWh4aDhROEZDTFdCYVRvTGYzMUI3bEZIWkJ3QVVXZXlYN2dpQ190MXZ2?oc=5",
+                    "publishedAt": "2026-07-31T13:30:00.000Z",
+                    "language": "en",
+                    "summary": "I don't have access to the full article content beyond the title and snippet provided. Based on what's available, a Newcastle-under-Lyme pub is closing temporarily for a major renovation involving significant investment (in the six figures), but the article snippet doesn't specify which pub or the details of the improvements planned. To give you a complete summary with the specific restaurant name and reasons why visitors should care, I would need access to the full article text."
+                },
+                {
                     "title": "Major Newcastle steakhouse to shut in weeks as part of nationwide shut down - The Northern Echo",
                     "source": "The Northern Echo",
                     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQaWdvRi1HWDdoamlMNlRZNVhoWWNLVlpCQ2g2cmhKVjBrZFdydTMxWWE5RjhkUFdjY3g3bVd0aDllT1duUkFjekNiR2ozcF9JMGZTaGZnNmZTV0todGZJUjVRREJpb3ZZdVl3VDlMZU53Tm5pWmFoc0tldFN0ME0wbnV2V3NOTDJ1TVQ4dFpDUThxSnI4cGd3TndSX1QtUUlBcno2UUsydmw?oc=5",
                     "publishedAt": "2026-07-30T12:35:07.000Z",
                     "language": "en",
-                    "summary": "# Summary\n\nA major steakhouse in Newcastle is closing within weeks as part of a broader nationwide shutdown. While the snippet doesn't specify the restaurant's name, this closure affects visitors and locals looking for upscale steakhouse dining in the city. Anyone planning to dine at this establishment should do so soon, as the location won't be available much longer."
+                    "summary": "# Summary\n\nI don't have access to the full article content to provide a detailed summary. However, based on the headline, a prominent steakhouse in Newcastle is closing within weeks as part of a broader chain shutdown. \n\nTo give you the practical details you're looking for (the specific restaurant name, exact closure date, and why visitors should care), I'd need to see the complete article text. Could you share the full article or provide those specific details?"
                 },
                 {
-                    "title": "Newcastle bar confirms United themed Restaurant Week menu but one dish might need to be removed - Chronicle Live",
+                    "title": "The cheapest deals for Newcastle Restaurant Week as bargain meal set to offers return - Chronicle Live",
                     "source": "Chronicle Live",
-                    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOSnVKR1pfZWNkQmpYZWJTMmhkZ2kzd3dfSExnYW15X2x6QVpMWi0tbDdyVUk2UWdZU0hFWmZZWlBzcDdadTVWSVh5Ti1tQUVDUGxmQ1U4RnBCUlM5OE4tSTZUSnFFcjk4eXB1ZzdZMHpMV3AzeGJPN0lMc0Q1eldJeGl2UmNQemhfQ2RPc0xyX1FTTzN5MnVsNUpPWVlONm9FQTFoUtIBqgFBVV95cUxQNEFjRTJ3VGRqN3dLVGEzcGVDaHlYZlJCdVFtbWNJREF2cUh0Ti1BaHl4X0ZNVTQtS0w5Zm5vZ3lFMi1nTVdJZmZwNjJ0ZXgtN2lvV0ZyWGlyMVJvWldWd1RxLWFKcjlWQ2RNRkw4a1RqendaSnQzZUVRZVFabFhYRVRrOEZNeVJZc3RiVWd1T0w5MmllX1FCejZWbWJXWk5EVVpwLVJDenBBQQ?oc=5",
-                    "publishedAt": "2026-07-28T14:20:00.000Z",
+                    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNSG9PWGxaVjQ5RjdEVS11YkZmU3JtaC1sdTNCaUw2Y1dxY1RoVGJWZEJDSF9xVU1TQ1RZLTAyRWxpdnR6Q0NsaXh4U1czMGhmcUd5dkpLR0JZOUI5VW04dWdaYW1Yd0ZLSTVsUDRZSkRYUVJOUFlEajlGUHIwQVFNM0NyX3I0cm8wNUhEeUV0RXhZb2hkVVhacUxzM0RxZHd1VGpiejFiNkdxZw?oc=5",
+                    "publishedAt": "2026-07-31T13:05:00.000Z",
                     "language": "en",
-                    "summary": "I don't have access to the full article content, only the title and a snippet from Chronicle Live. However, based on what's available:\n\nA Newcastle bar is participating in Restaurant Week with a Newcastle United-themed menu, though there's uncertainty about whether one particular dish will remain on the final menu. Visitors to Newcastle looking for themed dining experiences during Restaurant Week should keep an eye on updates from this establishment, as the menu details may change before the event.\n\n(To provide a more detailed and accurate summary, I would need access to the complete article text.)"
+                    "summary": "I don't have access to the full article content to provide an accurate summary. The title and snippet you've provided only show the headline and source information, but not the actual article text with details about specific restaurants, deals, and pricing.\n\nTo give you a proper 2-3 sentence summary focusing on the restaurant name, deals offered, and visitor relevance, could you please share the full article content or a longer excerpt?"
                 },
                 {
-                    "title": "Courts sick and tired of domestic abusers, says Newcastle judge - BBC",
-                    "source": "BBC",
-                    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5rOENKLUd1ZzJXd2o2VkI4QzN4SWNvdklfbG5GUThTdmJKZUdUcjRtXzNHbjRDZ2RDQ19PVmI1c3c2c0tfRFNPWS13S1dkenRNTWlBWjliMVplR2da?oc=5",
-                    "publishedAt": "2026-07-24T14:16:20.000Z",
+                    "title": "'Cheeky bugger': family and customers mourn real character of pub scene - Newcastle Herald",
+                    "source": "Newcastle Herald",
+                    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPaXhCelpiSlFkclZDb0FnUEQzX3BoRS1uelhmUDJBd3lpT003a1pqZHBSVElBa24yb0g2cmVfSmJERTBUTlV4RUZsc3hOcFZBMGdLVE1FV2RfZVBZTEZnNWY3LWVKRWE5RUNiTEFQeWZXVDZzSFdZdVlPSVltaVlvdXNBeWQxNlZIRVRMelBVa0JuMndXZEM2eTM5SVhvaDBQYWUwNDlpdUY1Unho?oc=5",
+                    "publishedAt": "2026-07-31T19:24:21.000Z",
                     "language": "en",
-                    "summary": "I don't see a restaurant or food news article in what you've provided. The headline and snippet you shared are about a Newcastle judge commenting on domestic abuse cases in court—this is a legal/crime news story from the BBC, not food or restaurant news.\n\nCould you please share the correct food/restaurant article you'd like me to summarize? Once you provide that, I'll be happy to give you a 2-3 sentence summary focusing on the restaurant details and why visitors would care."
-                },
-                {
-                    "title": "More trouble brewing: watchdog slaps fresh ban on ex Hunter pub licensee - newcastleherald.com.au",
-                    "source": "newcastleherald.com.au",
-                    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNYkVBSEpETFE2Mm85X1kxR1FMWHFTVFJ1VFZfdG1oWE5HMTlmcnpBMFpEb0pGX2JBdE9LSmE2eW5HTGdEMVJDSGdMMmhtSm5IV3BXQWNyRlN1ZWJTNTZmU0ZhbjZvbEQ5ZXVPWVpwbzFUY19ibTdrZUE2MDZpT01kR2t6SDlCbmlRQ0xFVG1CNVdEeWRzVWhPVDAtMHp1UkFoTUQ4cW13M3FwZEJhdWc?oc=5",
-                    "publishedAt": "2026-07-30T23:03:50.000Z",
-                    "language": "en",
-                    "summary": "# Summary\n\nA regulatory watchdog has issued a fresh ban against a former pub licensee in Newcastle's Hunter region, indicating ongoing compliance issues in the hospitality sector. While the specific pub isn't named in the snippet provided, this news highlights regulatory enforcement actions affecting local venues. Visitors to the area should be aware of such developments as they may affect which establishments are operating under proper licensing and oversight."
-                },
-                {
-                    "title": "Beyond the Winning Post: Newcastle Racecourse Helps Generate Nearly $800,000 for the Hunter Community - newcastleracecourse.com.au",
-                    "source": "newcastleracecourse.com.au",
-                    "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQZkhSSTFBUk5KZHdtbUVyajBpMlZWVm1WQVlOeVRrU0s3dzZkUU5MSHo0UGs4ZnRmQXBzOTk0eUQ2Q1FkRXg1LU90M0NnZV9FTWJaRjBsNk04NWtzeXBvZlFMeWpKTnEyQ245QUFTY1RzU3BsM2wtWDF0VHQyeFdiVTBsenQtNExtUE1ySURZWF9udDhILWJ0TUJGelFCYTdvRkhiWmlUNVNHb0ZPOGhySGNlRWpDc3YzMnhXemxfYW95Q3NvVW4xU002WV96Mzl1R2wzTQ?oc=5",
-                    "publishedAt": "2026-07-30T02:21:09.000Z",
-                    "language": "en",
-                    "summary": "This article isn't about a restaurant or food spot—it's about Newcastle Racecourse's community fundraising efforts. The racecourse generated nearly $800,000 for the Hunter Community, though the snippet doesn't detail specific dining or food-related initiatives. Visitors interested in local community impact or events at the racecourse might find this relevant, but it's not food-specific content."
+                    "summary": "I'd be happy to help summarize that article, but I don't have access to the full content—only the title and source information you've provided. The title suggests it's about a notable character in Newcastle's pub scene who has passed away, but I can't provide specific details about which pub, why they were beloved, or practical information for visitors without reading the complete article.\n\nCould you share the full article text so I can give you an accurate 2-3 sentence summary?"
                 }
             ]
         },
