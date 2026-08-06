@@ -1,17 +1,17 @@
 {
-    "lastUpdated": "2026-08-05T08:13:28.324Z",
+    "lastUpdated": "2026-08-06T08:12:10.952Z",
     "source": "github-actions",
     "cities": {
         "cologne": {
             "places": [],
             "news": [
                 {
-                    "title": "Sprengsatz in Moskauer Restaurant - drei Tote - Radio Köln",
+                    "title": "Nach Skandal: Top-Restaurant Noma ist zurück - Radio Köln",
                     "source": "Radio Köln",
-                    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOUHBIN0dnVllsa0FJOXBzalhITmx1NTdjVV9kN1JfVngza2c5ZkhqRE5ldGtDVlEwbzFoTnNWcWduOVRud2x4aU9uYk1HNkFaZko3enU3RW9GNWVfc282Sk51YXR3T1QtYm9wTmhEU05EaE5Ndk0xRDFHbTY1RTd2UWZMYlNEQ3d0?oc=5",
-                    "publishedAt": "2026-08-01T11:39:00.000Z",
+                    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQVFcxRFZmSmNES29BRklqaWl6NzFpMzVLNzR3QjFTTEk1dFdJMlAyYVdoUWZaa0NjNjU2NktJZFFicnZ4U3RQb0pmTTNKQUEwa3A3NUNuZVozcTdQQWZhUWZZR1M1TW1BQlBNWGREMXRGMzF3UzRxREQ4MzdwdjBVdWw0SkZvODZyN1E?oc=5",
+                    "publishedAt": "2026-08-05T10:43:51.000Z",
                     "language": "de",
-                    "summary": "# Summary\n\nThis article reports a tragic incident where an explosive device detonated in a Moscow restaurant, resulting in three deaths. While the article title indicates this is a news story about a specific restaurant incident in Moscow, the snippet provided doesn't include enough detail to identify the restaurant name or provide context about why visitors should care beyond the immediate safety concern.\n\n**Practical note:** Visitors to Moscow would need to monitor local news and official safety advisories for restaurant closure information and any impacts on the dining scene in the affected area."
+                    "summary": "I appreciate you sharing this, but the snippet provided is too limited for me to write an accurate summary. The title indicates that the renowned restaurant Noma has reopened after a scandal, but the actual article content isn't included—only the headline and source information.\n\nTo give you a proper 2-3 sentence summary covering what happened, why it matters to visitors, and relevant details, I would need the full article text. Could you share the complete article content?"
                 },
                 {
                     "title": "Lobby Restaurant: Kostenloses Grill-Menü in Köln - RTL.de",
@@ -19,7 +19,7 @@
                     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxObTd2ZEVSZV9TaWhsUWxha3Nfc0M1RWtBNElOVFdvTTdfa2RTem9JanUxZmxVTFVIazQ4d0VsMjY4d2dRb3o0UnlaQXRrRktMUkZ1VGxzQmVFZ0xnMkN0RjFGT0V6c3RSaVdqV2wyNmZLYVdXdkNmeDZKOXRDbElKejl6NUtEc2dnMWpvWktMUlpOQ2VZbWw0QU9hUlpDQXRJS0ZoVll1MFFGeW95dHFpejhfOEM?oc=5",
                     "publishedAt": "2026-07-30T16:17:39.000Z",
                     "language": "de",
-                    "summary": "# Summary\n\nI'd be happy to help, but the snippet provided is too brief to create a meaningful summary. The title indicates that Lobby Restaurant in Cologne is offering a free grill menu, which would be of interest to visitors looking for dining deals in the city, but the actual article content isn't included. Could you provide the full article text so I can give you an accurate 2-3 sentence summary with the specific details?"
+                    "summary": "# Summary\n\nI appreciate you sharing this article, but I'm unable to provide a detailed summary since only the headline and source information were provided—the actual article content wasn't included. \n\nBased on the title alone, I can tell you that **Lobby Restaurant in Cologne is offering a free grilling menu**, which would be noteworthy for visitors looking for good dining deals in the city.\n\nTo give you a complete summary with context about the offer (timing, conditions, menu details), I would need access to the full article text."
                 },
                 {
                     "title": "Die Bredouille X Copains du Vin: Bar Takeover Opening Party am 14.08.2026 in Köln - Rausgegangen",
@@ -27,7 +27,15 @@
                     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPVEtOWWk3ZnVGZmFfQTVfSExRVnd5RnVvalJ6Nmt1d3JmVTQxc3lmOWFINDFMYWZVMGlWSGpPWGxVbkkxNkc0TDdGTElYcElHTE9tNE9yMlhtVEhtd051a2tKeEdRMVJGbWFyUURxM2tOdS16NHpBWm03a19aREI5OHhuWG9kNVhlTDkyd2FhRUN2a1NwakE?oc=5",
                     "publishedAt": "2026-07-30T12:50:03.000Z",
                     "language": "de",
-                    "summary": "# Summary\n\nOn August 14, 2026, Die Bredouille bar in Cologne is hosting an opening party for a takeover collaboration with Copains du Vin. This event would be of interest to visitors looking for a special wine bar experience featuring a creative partnership between two local establishments. The takeover promises a unique evening combining Die Bredouille's bar atmosphere with Copains du Vin's wine expertise."
+                    "summary": "# Summary\n\nDie Bredouille wine bar in Cologne is hosting a takeover event by Copains du Vin on August 14, 2026, featuring a special opening party. This collaboration brings a curated wine experience to the popular Cologne bar, making it a must-visit for wine enthusiasts and food lovers in the city. Visitors can expect exclusive wines and a lively atmosphere celebrating the partnership between these two wine-focused venues."
+                },
+                {
+                    "title": "Sprengsatz in Moskauer Restaurant - drei Tote - Radio Köln",
+                    "source": "Radio Köln",
+                    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOUHBIN0dnVllsa0FJOXBzalhITmx1NTdjVV9kN1JfVngza2c5ZkhqRE5ldGtDVlEwbzFoTnNWcWduOVRud2x4aU9uYk1HNkFaZko3enU3RW9GNWVfc282Sk51YXR3T1QtYm9wTmhEU05EaE5Ndk0xRDFHbTY1RTd2UWZMYlNEQ3d0?oc=5",
+                    "publishedAt": "2026-08-01T11:39:00.000Z",
+                    "language": "de",
+                    "summary": "# Summary\n\nI appreciate you sharing this, but I should note that this appears to be a news story about a bombing incident at a Moscow restaurant that resulted in fatalities—this is a serious crime/security incident rather than typical food or restaurant news.\n\nFor visitors to Moscow, this would be important safety information to be aware of, but I'd recommend checking current travel advisories and official sources for accurate, up-to-date information rather than relying on this summary. If you're interested in actual restaurant reviews or dining recommendations for Moscow, I'd be happy to help with that instead."
                 },
                 {
                     "title": "Feuer am Rhein - Sürther Bootshaus in Flammen - Radio Köln",
@@ -35,15 +43,7 @@
                     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOTTlZd3BSd093Yk92X3pHaTJ6bWFuZHcxYUsyaG0wZWRjUlJEWEg0R1E2Wlo2LU4xcHo3QVF3M1BjU281TnNJT3RiazN3Y1hWbVJDQmRqcmJfUV8zXzBrWnM4LVBqbGEtVDl1N1dUVEZoZzFPVEdLWlZHeXY0dHRoX3EwZlBwNER6TVFnRURYdw?oc=5",
                     "publishedAt": "2026-08-04T04:07:00.000Z",
                     "language": "de",
-                    "summary": "I appreciate you sharing this, but I should note that this article appears to be about a **fire emergency** at a boathouse (\"Bootshaus\") in Sürth, Cologne, rather than restaurant/food news. The headline indicates \"Feuer am Rhein\" (Fire on the Rhine) and mentions the Sürther Bootshaus in flames, which is a safety incident rather than food or dining information.\n\nIf you're looking for restaurant news from Cologne, you may have shared the wrong article. Would you like to provide a different article about a restaurant or food establishment?"
-                },
-                {
-                    "title": "Anschlag: Russische Botschaft in Italien macht Kiew Vorwürfe - Radio Köln",
-                    "source": "Radio Köln",
-                    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOMVpjRk5yS0QwNEd2RTloOHZvaVM5dU9VQkNNT3h0NDJkMFJJN29Tdm0yWmt5bGhZSHlWSjVrRFFrYjlkRm9yTmxzWjdmR2pzV2R0aUQxWXVaY3hoQkcxUjRydHVacThya01KbFEyUEZqdHpQQ2NtM3BLbUpiYmVDZHRYOW5lZkNPbnFhdHZMNTlQV2gyOG9zMnhVRWdpUUk?oc=5",
-                    "publishedAt": "2026-08-03T03:24:00.000Z",
-                    "language": "de",
-                    "summary": "I appreciate you sharing this, but this article isn't about restaurants or food — it's a political news story about the Russian Embassy in Italy making accusations against Kyiv regarding an attack. \n\nSince this doesn't fit the restaurant/food news category you asked me to summarize, I can't provide the food-focused summary you requested. If you have a restaurant or food article you'd like summarized, I'd be happy to help with that instead!"
+                    "summary": "I appreciate you sharing this, but I should note that this appears to be a news article about a **fire emergency** at a boathouse on the Rhine River in Cologne, rather than typical restaurant/food news. The headline \"Feuer am Rhein - Sürther Bootshaus in Flammen\" translates to \"Fire on the Rhine - Sürth Boathouse in Flames,\" which indicates a safety incident rather than a food or dining story.\n\nWithout access to the full article content, I can't provide details about whether this establishment serves food or why it would be relevant to visitors, but if you're looking for restaurant news about Cologne, you may want to check for different sources."
                 }
             ]
         },
@@ -51,36 +51,44 @@
             "places": [],
             "news": [
                 {
+                    "title": "Spin combineert pool, vinyl en hospitality in nieuw horecaconcept in Amsterdam - Misset Horeca",
+                    "source": "Misset Horeca",
+                    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPNW03U3dIMHNHOU1NeTlpZ2x3ZkJJMFBxaEZnbkJjYXA2VkFSQkoydEZXdUZ1WjY1VDNYQ2c5d2ItWDRQX1ZRZmpXbDU0OVp2Umt4Si1zcldPaC1OUUlOV1ktSW12R2VPUXJmNnczTzVKWXhXOXhoRGsxbkE2TDVFYndRSDQ3NnFPb0xiV25oa1NHUjJsYURjbnFJUEZNM3Q3?oc=5",
+                    "publishedAt": "2026-08-06T05:01:00.000Z",
+                    "language": "nl",
+                    "summary": "I don't see the full article content in your message, only the title and source information. However, based on the title, here's what I can tell you:\n\n**Spin** is a new hospitality concept opening in Amsterdam that combines pool (billiards), vinyl records, and food/drink service. Visitors to Amsterdam would care about this because it offers a unique entertainment experience that blends gaming, music culture, and dining in one venue—appealing to those looking for something beyond traditional restaurants or bars.\n\nIf you'd like a more detailed summary, please share the article body text."
+                },
+                {
+                    "title": "Taakstraf en voorwaardelijke jeugddetentie voor veroorzaken explosie bij restaurant Caribbean Grill in Amsterdam-West - Het Parool",
+                    "source": "Het Parool",
+                    "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOckhUT3lRU1djVFViQXZoLUdkbXZBNG9hWG1qSVJHTDdnVkVZYzEwbHhTODhGd2ozX0hGUVFrd2tOME1DTU05VlJjTFRVRjhFQ0M3eWJKLThEeFBvdGN3eU9yakZmU0wtTDkxMVRsOWpkZTBFczhKanhya1dpNm5lQnZfc3I1bVIxS3hvNWszUUR2Z0NFMnV3ejRLdXpOYkZtOGZkTW00eG1kWUtVNW1GV3RtMUFTb3dySk1nT1RUek44eEJ0eWZaQ1BqZGxYeS14WDJCNHJmRVdUWEx2cGY0WTdVR2ZiUFFlako5cFpoQUk?oc=5",
+                    "publishedAt": "2026-08-05T17:08:00.000Z",
+                    "language": "nl",
+                    "summary": "# Summary\n\nA juvenile was sentenced to community service and conditional youth detention for causing an explosion at Caribbean Grill restaurant in Amsterdam-West. This incident at a specific dining establishment in Amsterdam resulted in legal consequences for the perpetrator. Visitors to Amsterdam-West should be aware of this restaurant's history, though it appears to have remained operational despite the serious incident."
+                },
+                {
+                    "title": "Cel- en taakstraf voor explosie bij restaurant in Amsterdam - NH Nieuws",
+                    "source": "NH Nieuws",
+                    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPRFd3c0NrTVpOTnEtN1dyUV9CTmp2cGdSazVqaDhZMktvU3VabkEtVlN4RWEwVzNwMlRVMF9QOGo0NmdVcHA1ZzEweHVoXzJpRXdGU0tZZnFIVjJQdEJNUFQ0N19pelVnWEVTc1J5QjZsTVI3bG1lZ1Q4d3ZDYVo2eGROMHdFcWdMZm5EVXdxekhndjlNSnhPOExtNVQ?oc=5",
+                    "publishedAt": "2026-08-05T03:25:00.000Z",
+                    "language": "nl",
+                    "summary": "I can see this is a Dutch news article about a legal case involving an explosion at a restaurant in Amsterdam, but the snippet provided is too limited for me to give you a proper summary. The title indicates someone received jail and community service time for an explosion at an Amsterdam restaurant, but I don't have details about which restaurant, when it happened, or the circumstances involved.\n\nTo provide you with the practical information you're looking for (the restaurant's name, what happened, and why visitors should care), I would need access to the full article text. Could you share more of the article content?"
+                },
+                {
                     "title": "Nieuws - Lelystedeling (18) krijgt taakstraf en celstraf voor explosie bij Amsterdams restaurant - Omroep Flevoland",
                     "source": "Omroep Flevoland",
                     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxObUZBc3RDRWk2VVJyNTlraFA3eFhYcHFLdDRuMGpZYk5mV2lnNS1WVWl0OVd2eWpJRlp5azc4S1U5R1REd21QRDh3T3MtR2o2VjF3bUFiRkstdDd1MGpseTNJMW1kbkloaTJodUR2bHhaOVRiOXhiRXBvcGhGMzBYYVpxUFRmbk5YbGd4Mzl0QUxyS2VIZXhUS3NvRzNDT0R5QVp2VFRGXzZhb1UyUDVXYzRWOGxicUYyUmxrZDlmaXRZc2E5OXFQVmFmLVlaa2RKckE?oc=5",
-                    "publishedAt": "2026-08-05T06:01:45.000Z",
+                    "publishedAt": "2026-08-05T06:04:18.000Z",
                     "language": "nl",
-                    "summary": "# Summary\n\nAn 18-year-old from Lelystad has been sentenced to community service and jail time for an explosion at a restaurant in Amsterdam. While the article doesn't specify which restaurant was affected, this is a criminal justice story rather than food news, so it wouldn't directly impact dining recommendations for visitors to the city."
+                    "summary": "# Summary\n\nAn 18-year-old from Lelystad has been sentenced to community service and jail time for causing an explosion at a restaurant in Amsterdam. While this is primarily a crime story rather than food news, visitors to Amsterdam should be aware that the restaurant was affected by this serious incident. The specific restaurant name isn't mentioned in the snippet provided, so additional details would be needed to determine its current operating status and relevance to diners."
                 },
                 {
-                    "title": "De nieuwe natuurwijn bar van het team achter Choux: Zuiver Bar in Amsterdam - Barts Boekje",
-                    "source": "Barts Boekje",
-                    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5GRGoxRGRlc2EzRWxxT3d2SkIyQ0NzejNwT1d3by01Wkh2eXhpMzQ4dndQUHJTeGpmTFNLMG83X2U3ZGhsdUtNZFU0T1R0V04tWHFNRjNiM2s?oc=5",
-                    "publishedAt": "2026-08-04T07:29:53.000Z",
-                    "language": "nl",
-                    "summary": "# Summary\n\nThe team behind the popular restaurant Choux has opened a new natural wine bar called Zuiver Bar in Amsterdam. This is noteworthy for visitors because it comes from an established culinary team known for quality dining, offering a focused experience centered on natural wines. If you're interested in natural wines and quality food experiences in Amsterdam, this new spot is worth checking out."
-                },
-                {
-                    "title": "Deze horecazaken openden in juli 2026 - Misset Horeca",
-                    "source": "Misset Horeca",
-                    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9Sc3NpSk8zNnhVZlMtcFFpU0FucEhidUJQcVFvVWdhT3BxTEdLc3U4RU1WQTZpR0E2bWhBTGE0SUhaaG5iYzFMQVp3NjZOQl84UTJGTnhERzc3amZWd0ZBSDRESnB0NXI4dFZHY05JTEd4eEh3U0JPZHJuRkM?oc=5",
-                    "publishedAt": "2026-08-04T06:04:11.000Z",
-                    "language": "nl",
-                    "summary": "I appreciate you sharing this, but I'm unable to provide a summary because the article content itself wasn't included—only the title and source information were provided. The title indicates it's about restaurants/food establishments that opened in July 2026 in what appears to be a Dutch publication, but without the actual article text, I can't tell you which specific restaurants opened, where they're located, or why visitors should care about them.\n\nCould you share the full article text so I can create the summary you're looking for?"
-                },
-                {
-                    "title": "Dit café is de huiskamer van de Spaarndammerbuurt: ‘Aan de bar heb je gelijk een gesprek’ - ad.nl",
-                    "source": "ad.nl",
+                    "title": "Dit café is de huiskamer van de Spaarndammerbuurt: ‘Aan de bar heb je gelijk een gesprek’ - AD.nl",
+                    "source": "AD.nl",
                     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPa0JYV3BMQVBQZDBsLUJ4RWVNUGI4UWVTckR2eHhVZENWaFhVNHZqbGQ4ekZQVnR4aUtpUnlETk5pcXdvRGF6aFgzT0VndHBEanRMOEJQQy0ya0RUTWlXSm1OMmJ2a19ucGFMYTR4OWZJS3NFRWdFMTJaZzVRbjNtNWJwbUh3VmFNZ0FWV0ZJcm5yc2hKdnRua183anh0WWduMzNJTnpMWG8tcU5JVTFsbUY1T1FHaWoxTk9nQmdLSEMzQQ?oc=5",
                     "publishedAt": "2026-08-04T07:49:00.000Z",
                     "language": "nl",
-                    "summary": "I appreciate your request, but I'm unable to provide an accurate summary because only the headline and source information are available—the actual article content isn't included in your message. To give you a useful 2-3 sentence summary focusing on what makes this café noteworthy for visitors to Amsterdam's Spaarndammerbuurt neighborhood, I'd need access to the full article text.\n\nIf you can share the article body or more details, I'd be happy to summarize it for you."
+                    "summary": "# Summary\n\nThis article highlights a local café in Amsterdam's Spaarndammerbuurt neighborhood that serves as a community hub where visitors can easily strike up conversations at the bar. The café functions as the \"living room\" of the neighborhood, creating a welcoming social atmosphere. If you're visiting Amsterdam and looking for an authentic local experience with genuine neighborhood character and friendly interaction, this café would be worth checking out."
                 }
             ]
         },
@@ -88,12 +96,12 @@
             "places": [],
             "news": [
                 {
-                    "title": "Deze 6 nieuwe zaken in Antwerpen zijn het ontdekken waard: “Van Iraakse streetfood tot een degustatiemenu van 300 euro” - HLN",
+                    "title": "NET OPEN. Amore serveert Italiaanse keuken met wereldse smaken in hartje Antwerpen: “Klassiek restaurant in een modern jasje” - HLN",
                     "source": "HLN",
-                    "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOTmpoYzNnOWg3MG4zWnNFLWpLaVNuMVlRWjFpcDJTSUxSVk44eGhkN0RFUk9vQmZxMGduN0pna0FxVTNkblBXTl9peXN0em5PbmJUdzZuQVQtbGNuREIxS2gwYXhyQUdTVXRsaE1vVlpFSlJvNzl4dER6ZnRwbzR6Qkd5TkpkWVpmMWFpRFQ2ckFtRHl6UVVPQTJVTTEzb1BzN3BoZHY3NFlmT0p4Sjdzd0xxSWlERHBqUU9YQmNwVVNQOVpheGlfWUVoLWpDUnpIQy15U0VjYlZZd2s4YnU1MWtNMF9ON1MwaW1j?oc=5",
-                    "publishedAt": "2026-08-01T03:36:42.000Z",
+                    "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPWW1HRTk4ZEtyVm5ncXVjLWhZTVR6VHFDay1GVS1PZ045cnBTc3JfVDNIV2pFSWpacE0tc0huNEFHMUJIMkpmc0s2S09RX3pvYVFDNjktRVdRSUhfMHFhOEVvSkdRWndJb2xQT0VhSzRoZFZ2a2c4Smo0WnIzWlRWemMxaEhWZWxzRm82ejFYOE5xeGlfcm9vbThrYWZXSG1fbXpkOVF4Wm91UjFyM3dpZXNQbDc3S21HLVhMWHZISUNoeUZBazlJUGN6OUJOZ0VPUkNmRTB3RFI5ZXpXMEVNcWNOb0w1NzlZYk5OY2V3dVJ4UQ?oc=5",
+                    "publishedAt": "2026-08-05T12:06:56.000Z",
                     "language": "nl",
-                    "summary": "# Summary\n\nAntwerp has six new dining spots worth checking out, ranging from casual Iraqi street food to an upscale €300 tasting menu experience. The article highlights diverse food options that cater to different budgets and cuisines. Visitors to Antwerp looking for fresh dining experiences—whether seeking affordable international street food or fine dining—should explore these newly opened restaurants."
+                    "summary": "# Summary\n\nA new Italian restaurant called Amore has opened in central Antwerp, offering traditional Italian cuisine with global influences in a modern setting. The restaurant combines classic Italian cooking with contemporary design and international flavors. Visitors to Antwerp looking for upscale Italian dining with a fresh, modern twist now have a new dining option in the city center."
                 },
                 {
                     "title": "Johan Schroven heeft al 23 jaar een Michelinster: “Ik zou die bordjes toch eens aan de gevel moeten hangen” - GVA",
@@ -101,7 +109,7 @@
                     "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxON3VMVjMxbmxLWjdzZkNFdlVvM29fMjZoOXNWSU5USmNTSGdhRzR1eDBhb0FqZ3Nrbm1VZzVsMTViVzVSaExXMWEtMXVVRE5HSzlTa29LVkt6TTVJMzAyTnJtY0FCRDkxU0VXWFRyM2RvZ0pWZWxLNWNNcE1EZTBmQUplN1hqV2R2QVo0SFZQdWVwbVVabzJub3EyaTRkYnJtbHNVUVY5YWE4TU1VM1hzRTJkMUNpOHplbHFwRTRhVmpFRUtEZkpYejlPN0pmeWJnR21zbDUyaWFmN25HQVdrTDVzVGFBSm9MM1JHekR2RHdDbzFnX3IxOXZwN3Z0b0E?oc=5",
                     "publishedAt": "2026-08-03T16:16:14.000Z",
                     "language": "nl",
-                    "summary": "# Summary\n\nJohan Schroven's restaurant has maintained a Michelin star for an impressive 23 years, though surprisingly the chef admits he hasn't even displayed the official Michelin plaques on his restaurant's exterior. For food enthusiasts visiting the city, this is noteworthy as it represents one of the region's most consistently recognized fine dining establishments worthy of seeking out."
+                    "summary": "# Summary\n\nChef Johan Schroven's restaurant has maintained a prestigious Michelin star for 23 years, yet he has never displayed the official Michelin plaques on his building's exterior. Visitors to the city seeking fine dining should know that Schroven's establishment is a consistently recognized fine-dining destination, though you wouldn't know it from looking at the storefront. This story highlights a notable Belgian culinary institution that deserves recognition as one of the region's top restaurants."
                 },
                 {
                     "title": "NET OPEN. Igor (27) en Ian (26) openen restaurant Lito: “Een Oekraïense zomeravond, maar dan in de Muntstraat” - HLN",
@@ -109,7 +117,7 @@
                     "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPSnpDZERHRVViMzBITERtRDN5bVpmcXdKUnN4UVBEOE9PRkxEZHd0Vm1WSjA1bTNvWDdrTFRuNW44UGR2ZTBIaXFMNHZabGIwZ3JUX0pIc0ZCOVljOGRadWQ2TTVmeWVyaW1hLTRPdVAzZ2dud3ZEOEMtSGVwdTByRHMtdDE2S243WExWZi1YZXFkVXY5NHFmOUdERDBEeFdtNWlJYWRPbjJTdHRVSkF4c3RHbExNcmhtOFh6RUZ5TVRZWkxmbUw4eTY1akoxdmdfTEV2X3Uzaw?oc=5",
                     "publishedAt": "2026-07-30T12:53:20.000Z",
                     "language": "nl",
-                    "summary": "# Summary\n\nTwo young entrepreneurs, Igor (27) and Ian (26), have just opened a new restaurant called **Lito** on Muntstraat that brings the atmosphere of a Ukrainian summer evening to the city. The restaurant offers an authentic Ukrainian dining experience in an accessible urban location. Visitors to the city should care because it's a newly opened dining option featuring cuisine and ambiance that may be hard to find elsewhere locally."
+                    "summary": "# Summary\n\nTwo young entrepreneurs, Igor (27) and Ian (26), have just opened **Lito**, a new Ukrainian restaurant located on Muntstraat that aims to recreate the atmosphere of a Ukrainian summer evening. Visitors to the city can experience authentic Ukrainian cuisine and ambiance in this newly launched dining spot, offering a unique cultural food experience in an accessible city center location."
                 }
             ]
         },
@@ -117,12 +125,28 @@
             "places": [],
             "news": [
                 {
-                    "title": "O novo restaurante \"escondido\" no Oceanário de Lisboa tem vista para o Tejo e serve petiscos tradicionais - Lisboa Secreta",
-                    "source": "Lisboa Secreta",
-                    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5vcURPSVNKZ2RnNGYxcUVGNXVBZ1gxejFrcHo5OThhSXU4a0dJeFBDWTNfZU02NEY3UmpSNmhFQVhiSVpKZDc3Y2hlZFltY0pjNjNoS1JkVlFZdWRYR1oxTERia0c0cjIwT1F2bzdSdWQ?oc=5",
-                    "publishedAt": "2026-08-04T13:55:04.000Z",
+                    "title": "Restaurante de um dos atores mais famosos do mundo chega a Lisboa e ao Algarve - versa - lifestyle",
+                    "source": "versa - lifestyle",
+                    "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPMko4Y3g5RXR3bFRzaFBUbmJGVkkzVFR1V1FsQmZYM3BhYUs4aGxQaU50eXo5QXBjMGlpMy1UMldpbEQ3LXl4UkdXR2ROaDc4azFVT252UmNNQ1RhS0hXTGE1bzdPVDJXTV9BM3dFc1NVaUhuZzhuWndvUkxFbXpjTVNyb0R2bG43SFFNVGlmRTc1VUU2RURQMTRwWnpWangwZjF2NXY3ajl5bmFpdjN6OHJudVZIRzZoWlhXQ3hSN1VVUEw3aUxhOU1hZlRhQWk1cl9XVWxfMjBzUFNlWDdDLXpWRW1KVFB0?oc=5",
+                    "publishedAt": "2026-08-05T19:44:00.000Z",
                     "language": "pt",
-                    "summary": "# Summary\n\nA new hidden restaurant has opened inside Lisbon's Oceanário with views of the Tejo River and serves traditional Portuguese petiscos (small plates). This spot would appeal to visitors to Lisbon who want to combine a major tourist attraction (the Oceanário) with dining in a unique, lesser-known location offering authentic local cuisine and scenic waterfront views."
+                    "summary": "I don't have access to the full article content to provide an accurate summary. However, based on the title, the news is about a famous actor opening a restaurant in Lisbon and the Algarve region of Portugal. Visitors to these cities would care because they'd have the opportunity to dine at an establishment associated with a well-known celebrity, which typically attracts attention for its atmosphere, cuisine, and star appeal.\n\nTo give you a more detailed and accurate summary, I would need access to the complete article text."
+                },
+                {
+                    "title": "Oceanário de Lisboa abre restaurante de petiscos portugueses com assinatura do Grupo SushiCafé - Imagens de Marca",
+                    "source": "Imagens de Marca",
+                    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPNnZvd05vRFNuR0lJaHRPNUM3cHFmZVhvMWdvZG55bG0zMHJWMUNlcWRSRlZqTlhDb2dnQTliNGxKazNFRS03NklvX21XOTBZRy0zLUhST3FTc0F6QW9GS1FrNEo1X2ZxRWVQdjFYUWprYzZUeGY1RlBBVDM1TU9KSzlQU3F1NWhuekdXNW9XRXVxMS02b0k5cHRtamY0dkhWVkxtUWZwUGpZX1pzM1h1X0pfdGdZWG5PT08xcHo3aDNGbVhtNVdBcU5jM2c?oc=5",
+                    "publishedAt": "2026-08-05T11:17:57.000Z",
+                    "language": "pt",
+                    "summary": "# Summary\n\nThe Oceanário de Lisboa (Lisbon Aquarium) has opened a new Portuguese tapas restaurant under the SushiCafé Group brand. Visitors to the aquarium can now enjoy traditional Portuguese small plates and snacks without leaving the venue, making it a convenient dining option that combines sightseeing with local cuisine."
+                },
+                {
+                    "title": "Submerso: O novo restaurante para petiscar no Oceanário de Lisboa - Notícias ao Minuto",
+                    "source": "Notícias ao Minuto",
+                    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPZnJFTy1VbXk3amVaWEpjR0dTNGQ4SENzN2tTalNkZjF1LUttbFFtOXlxRG9CVWZHazZtVVV4WmVacUtrZk9hX0gzYlJfSFNOTlUybUdOeWtZUTRoaFNUa1hvaFNEUUlDS0tFQmpVZVVwX0F0Vzl0MUxEelU3c05zQlYxbl9lVVVYaTE0VGxYOFFkcXJINmZBWXM0YjVnZDNSWG8ybTBablZnQk12bi1HLTQ4enJPQQ?oc=5",
+                    "publishedAt": "2026-08-05T14:34:47.000Z",
+                    "language": "pt",
+                    "summary": "I don't have access to the full article content, only the title and snippet provided. However, based on what's available:\n\n**Submerso** is a new casual dining/snacking restaurant that has opened at the **Lisbon Oceanarium (Oceanário de Lisboa)**. Visitors to Lisbon would care about this because it offers a convenient dining option while exploring one of the city's major tourist attractions, combining dining with the unique experience of eating near the oceanarium's aquatic exhibits."
                 },
                 {
                     "title": "Detida mulher que ameaçou funcionários de restaurante com arma de fogo em Lisboa - Jornal de Notícias",
@@ -130,31 +154,15 @@
                     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQcU9NMFhVZEhJempYMTBnUmNMSW1iQ3NyZG5mVUZNdXpEeUxtTVliT0NFVEZySjZNVkJKVHRDQVltQ1dmR0N5bzF6bi1DT25FeFVvLTZwYXlEUk4xWjFzcS02bkJESzNiam9WU084bnFuVGIxSkItVFZIaUh3cWJiTVhxcUNlbVlfNnhpX1J5Wkc1NVZtb1RuZXQ1VG1rUUJxekl1Zk1LdmxOZmRENUstN2kwOU94ai1SQnJsLWY3MNIBsAFBVV95cUxQNnMwdXhQeHhyRDQ5NUp5Y1c3V2ZPOWJMbzlZX2FWaTdTSEVSdV9JR0FGckZleDlYU3hEaTVqbk5DQ3BocGRYQWh0ZDhuRG45YjJodkpDeFRkcjZTZE16bWsyXzF6ZlZmX19ELXNKUjNJNUtYVmRfcUcwVXB0QXA1TTZXLWF0T2kyTFVtYkktWDl4QW42YUxrNDBmVTd0NjU2RmFUY29iWjZqbThPOFR0Sg?oc=5",
                     "publishedAt": "2026-07-31T13:53:00.000Z",
                     "language": "pt",
-                    "summary": "# Summary\n\nA woman was arrested in Lisbon after threatening restaurant staff with a firearm. While the article doesn't specify which restaurant was involved, this incident highlights a serious safety concern for diners in the city. Visitors to Lisbon should be aware that this type of violent incident, though rare, underscores the importance of choosing well-established, reputable dining venues."
+                    "summary": "# Summary\n\nA woman was arrested in Lisbon after threatening restaurant staff with a firearm. While the article doesn't specify which restaurant was targeted, this incident highlights a serious safety concern for diners in the city. Visitors should be aware that this was an isolated criminal incident, and normal dining safety precautions apply when eating out in Lisbon."
                 },
                 {
-                    "title": "Há um novo hotspot em Lisboa: Oceanário ganha restaurante de petiscos com vista para o Tejo - Marketeer",
-                    "source": "Marketeer",
-                    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPS19hdkw0eklsZ0NaMUZmOG1MVmxoUEJKeUhhQmo5NFRzZURhYkxoVTJDUWpVS0xXSFFXdDY2dkZFQ3gwV3JrWGxvNnVyN0tqcUx4WmREWVB2bElPMmFSRkZqVS1ad2J3YldlbkFwTWpmVXNBODU0c2xXT1JYbTg0VGJNYUlmb1NlRHJCbzB2ekNlRUl1ZUxQOHh2M0JzbG5Bcm1yRU1pOXY4Z0o0Y2lXMGJuVXN5X0hx?oc=5",
-                    "publishedAt": "2026-08-04T18:00:53.000Z",
+                    "title": "O novo restaurante \"escondido\" no Oceanário de Lisboa tem vista para o Tejo e serve petiscos tradicionais - Lisboa Secreta",
+                    "source": "Lisboa Secreta",
+                    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5vcURPSVNKZ2RnNGYxcUVGNXVBZ1gxejFrcHo5OThhSXU4a0dJeFBDWTNfZU02NEY3UmpSNmhFQVhiSVpKZDc3Y2hlZFltY0pjNjNoS1JkVlFZdWRYR1oxTERia0c0cjIwT1F2bzdSdWQ?oc=5",
+                    "publishedAt": "2026-08-04T13:55:04.000Z",
                     "language": "pt",
-                    "summary": "# Summary\n\nLisbon's Oceanário has opened a new petiscos (tapas) restaurant with views of the Tagus River, creating a new hotspot in the city. This addition combines casual Portuguese dining with waterfront scenery at one of Lisbon's most-visited attractions. Visitors to the city would find this appealing as a convenient spot to enjoy traditional small plates while taking in river views without leaving the Oceanário complex."
-                },
-                {
-                    "title": "Para sobreviver ao Verão em Lisboa, o Ajitama tem pratos para partilhar - Público",
-                    "source": "Público",
-                    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPRVQ5NmtySnJGZDRSYW43U1lzbHJJOE9DdzM4NWJoZFM4ZS13bUlMcklKRzJBNTI2c0xFdEFzRVdkMENKQ3c3bjhXQjQtVENsN2dxY1F1SDlWSzUwSDV3aFV1anpiaGhLMjZCZEJucGg2OHdnT2g3MkV6aGtFQWVLVzllMThYaVBpVklqZno2MElCdVhTclRrR0c2Y0dSYWVXZ3BaUV9NOA?oc=5",
-                    "publishedAt": "2026-07-31T14:01:00.000Z",
-                    "language": "pt",
-                    "summary": "# Summary\n\nAjitama, a restaurant in Lisbon, is offering shareable dishes designed to help visitors beat the summer heat. The article highlights the restaurant's summer-friendly menu options, making it a practical choice for groups looking for lighter, communal dining experiences during hot weather. Visitors to Lisbon would appreciate this spot for its thoughtfully curated summer offerings that encourage sharing and are suited to warm-season dining."
-                },
-                {
-                    "title": "Oceanário de Lisboa tem um novo restaurante com vista para o Tejo e petiscos portugueses - VOU SAIR",
-                    "source": "VOU SAIR",
-                    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQR1JKLTFpMmVSOXVhQUljZEZzSzdMUVRGOUNNcWZWUkVLWmk4XzhMZHo5TnA5YjdMX1lNbndMbnpjVS1LZWQwaTFaQkQ5VmlzWUVJSEZVRWFxZE5WYmxKbHlJakJwX280SWNocVFkWkZYMVBoLXdrLXNaWDlUVVVaakl6X3UzN25aLW0xd0FLRjQ1SkF4S3hvUU53d0VIMTJTRnNYTkdXN0o4Rk1n?oc=5",
-                    "publishedAt": "2026-08-03T16:31:17.000Z",
-                    "language": "pt",
-                    "summary": "# Summary\n\nOceanário de Lisboa (Lisbon Aquarium) has opened a new restaurant offering views of the Tagus River and traditional Portuguese appetizers. Visitors to Lisbon can now enjoy casual Portuguese snacks and scenic waterfront dining while exploring the aquarium. This addition makes the aquarium a more complete destination for a full day visit combining sightseeing and dining."
+                    "summary": "# Summary\n\nA new hidden restaurant has opened at the Lisbon Oceanarium with views of the Tagus River and serves traditional Portuguese petiscos (small plates). Visitors to Lisbon would want to know about this spot because it combines a unique location within a major tourist attraction with scenic riverside views and authentic local cuisine, offering a distinctive dining experience beyond typical restaurant options."
                 }
             ]
         },
@@ -167,23 +175,15 @@
                     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOTzBBWGt6dEVEU2JQNE9YNEZfaXhkR3d3ZUZUZndGb2xTamF5cUFRVjltczVIZTFodElsYURkekpYU3F4b2xNa0ZPYndVcmYySDFrWkJGLWxGRlB2ZGF4c0hfcTFCUm51NVFhaW1tS1NLbjNqWElHNzhoNXNLWGt3Uk45dXFuT0RQUHBLR3dNcXdtWHd3NEdZcW85djJ1OWVzUW1NWERhUdIBrAFBVV95cUxQQUQ5SXBrZXZyWFVGNk9MaVdQTFlQaGR6R0JfUjczaVE1UnVJYVJGYWs1a21tNlc3WHpjNndFQjlPZ1BwVTFjcnJIU2sweGt6VVF1SnFRM1d0UzUtYnloUXVOMTlLOUN0ZHNaYXFtcnM0bl9fRWhocEpJSTk4bzJhWmlGYTNkMHVnNnlBZDFlVndzUVlEYVQ1eWIzNXZSN0dOamlrNnJFUEVjUEdy?oc=5",
                     "publishedAt": "2026-08-03T10:28:32.000Z",
                     "language": "en",
-                    "summary": "I don't have access to the full article content from Chronicle Live, only the title and snippet you've provided. To give you an accurate 2-3 sentence summary with specific details about the restaurant name, what makes it famous, and why visitors should care, I would need to read the complete article.\n\nIf you can share the full text or key details from the article, I'd be happy to summarize it for you in the format you requested."
+                    "summary": "# Summary\n\nI'd be happy to help summarize this article, but I notice the snippet provided only contains the headline and source information—the actual article content isn't included. To give you an accurate 2-3 sentence summary with details about which specific restaurant is opening, why it's notable, and its appeal to visitors, I would need the full article text.\n\nCould you please share the complete article content?"
                 },
                 {
-                    "title": "Mutual renews Newcastle Mela support - Bdaily",
-                    "source": "Bdaily",
-                    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOamg2ckI5LVNkcnJQR2FnTG9BRVpzcmFYZzk1NklfN29RMVFqZnhiUFQxM2ZNTGV0cGdQUHVobHprYVVLb1d0d1NuSGZ1T0hkT0g1MmJZcVEzckRyeF9WS0RTUl9ZMkl1T3hXMWpLVjVMUllTc2owcGI1NVFTR1gxS2R4VQ?oc=5",
-                    "publishedAt": "2026-08-04T15:52:21.000Z",
+                    "title": "TERRY LAYBOURNE LEADS GUEST CHEF LINE-UP - Newcastle Red Bulls",
+                    "source": "Newcastle Red Bulls",
+                    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOeFJMM1dFTHRreHJBWmlfYkxISHl4TVNmb3NRS0NPbHlrWVdzcU91M25tN0l0Z05mVWZXMmJyMTFHTm9ZUU9IbzVLYW4tS0d2TDQwdlVfWmRXakRsb0hUSks3UXZwTVp2b2tGOExDX2taMm82Qm56MkpyQml2Y09ZbnZZUWhvc0hIeVBVUHU2QQ?oc=5",
+                    "publishedAt": "2026-08-05T19:16:20.000Z",
                     "language": "en",
-                    "summary": "I don't have access to the full article content from the snippet provided. The title mentions that \"Mutual\" (likely a company or organization) is renewing support for Newcastle Mela, but the snippet doesn't include enough detail about which specific restaurant or food establishment is involved or why visitors should care.\n\nTo provide you with an accurate 2-3 sentence summary, I would need the complete article text. Could you share the full article content?"
-                },
-                {
-                    "title": "'Seamless': why Flotilla continues to set the benchmark for Newcastle dining - newcastleherald.com.au",
-                    "source": "newcastleherald.com.au",
-                    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNREdXRDJQU0NabWhWYW9nV0JTbmp6U0gtamVWOG1uaDdQY0tWdjJsSnl5UmZ3b0p0Qk1yVFVZTy1oUDkwaWFuY3AxSkVCczFuY003RWNxRDJ5bmRIRmZnOGZOUWo5QjlwM1BsRFNxR3hmbGFtWjlVSWxCSExPSGViTk5qMFh5dEc3MU9ac19BeGxDWUdZcjJzX2ZFVXJhdzRJTXhlRHFHSVBNUQ?oc=5",
-                    "publishedAt": "2026-08-05T02:34:48.000Z",
-                    "language": "en",
-                    "summary": "# Summary\n\nFlotilla restaurant in Newcastle has been recognized for its seamless dining experience and continues to set the standard for fine dining in the city. The article highlights why Flotilla is considered a benchmark establishment, likely praising its service, cuisine, or overall execution. Visitors to Newcastle looking for an exceptional dining experience should consider Flotilla as a top-tier option for quality food and hospitality."
+                    "summary": "# Summary\n\nI'd be happy to help summarize this article, but the snippet provided is quite limited. Based on what's available, it appears that Terry Laybourne (a notable chef) is leading a guest chef lineup at Newcastle Red Bulls, though specific details about the event, dates, or menu aren't included in the excerpt.\n\nTo provide you with a more complete 2-3 sentence summary focusing on what visitors should know, I'd need the full article text. Could you share more of the content?"
                 },
                 {
                     "title": "Newcastle Restaurant Week marks 15 years with biggest event yet - Asian Standard",
@@ -191,7 +191,15 @@
                     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNUVRScnVCNlRSb1NKWVY5OEdmY1phbGhXb1RvWDR5ZUgzZENpZFlwaDJfWlljVFc2S0hlOXlsU2g0dHRCLUpyb2l4REp2aVFtb0ZSNUpSTGtDWVppTDhrcm16UnJHUUV5bElFLXFvVGdmbzZPME1GYWdCT19DZ2x3SU9ZR1BFWHMzaVh3WlV3SnAzbHE2dzNQQmQzWlU?oc=5",
                     "publishedAt": "2026-08-03T11:13:07.000Z",
                     "language": "en",
-                    "summary": "# Newcastle Restaurant Week Summary\n\nNewcastle Restaurant Week is celebrating its 15th anniversary with the largest event in its history, featuring participating restaurants offering special deals and menus. While the article doesn't specify which individual restaurant is highlighted, the event showcases multiple dining establishments across Newcastle. Visitors to the city should care because Restaurant Week offers a great opportunity to try various restaurants at reduced prices and discover new dining options during this special promotional period."
+                    "summary": "# Summary\n\nNewcastle Restaurant Week is celebrating its 15th anniversary with the largest event in its history. While the snippet doesn't specify individual restaurants, this annual promotion offers diners special menus and deals across Newcastle's participating restaurants. Visitors to Newcastle should care because it's an opportunity to experience a wide variety of local dining options at discounted prices during this milestone year."
+                },
+                {
+                    "title": "Street Food Practices Raise Fresh Questions Over Newcastle’s Health and Bylaw Enforcement - Newcastillian News",
+                    "source": "Newcastillian News",
+                    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQRjV0Q0tLdHdSNGotaHZTSTAzNkdGbC1aUnhWbUluY0tHanVablZTRGVEUW9xMW9FQTNnb0N1RFpxekIxZXNKQm03b29WUGxTaUpxUlJ0SE53UkZDSlZjRDNDM29VVGpNV0kzMy05NGZrMnNhNlNqRjZiOXRfbVl0WmdSc01iaEIwYjVMUFVxQzA?oc=5",
+                    "publishedAt": "2026-08-05T16:47:03.000Z",
+                    "language": "en",
+                    "summary": "# Summary\n\nNewcastle's street food vendors are facing scrutiny over health and safety compliance, raising concerns about bylaw enforcement in the city. While no specific restaurant is named in this headline, the article highlights broader issues with street food operations that affect food safety standards. Visitors to Newcastle should be aware of these enforcement gaps when choosing street food options, as they may want to prioritize vendors with clear health certifications."
                 },
                 {
                     "title": "Newcastle match day pub with 'belter' pizzas re-opens with weeks to go until new season - Yahoo News UK",
@@ -199,7 +207,7 @@
                     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5ZdWRfOW41Mk5RVEQtUlBFRGZBSm1GQzg4aDhYb09fN3BYXzRLR21iSEZ4R245UHVLQl9DVnRMNGc5Ukp1c1F0RXFENkZGUUgwbzdqa3g1MUdvUVZ2ZUxVazQ2YUtiUHNlQjZZNXB5TEZMM1p1X1hXaWRmRQ?oc=5",
                     "publishedAt": "2026-07-31T15:42:46.000Z",
                     "language": "en",
-                    "summary": "# Summary\n\nA popular Newcastle pub known for serving excellent pizzas has reopened just in time for the upcoming football season. The venue, which caters to match day crowds, is ready to serve fans before the new season kicks off. Visitors to Newcastle will want to know about this spot if they're looking for quality food and a lively atmosphere on match days."
+                    "summary": "# Summary\n\nA popular Newcastle pub known for its excellent pizzas has reopened just in time for the upcoming football season. The venue, which serves as a match day destination for Newcastle fans, is ready to welcome crowds back with its signature \"belter\" pizzas. Visitors to Newcastle looking for authentic match day atmosphere and quality pizza will find this a must-visit spot before the new season kicks off."
                 }
             ]
         },
@@ -212,7 +220,7 @@
                     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQWnEwcHl2YzdWUm5oT3NyRzBUbk8zeC13cVYzSWtnZVVRbkJLSUlkSzZ4ZTZjYjZMQS1jVFZLb1hLc191djVoejFFOGp4U09UelFIZVNnSkdBTzRFUlFCdlNVbzBjb0NEbm0wajBDVFBhZzNqWE1KSjJ0M1UzREZ1WnFpei1DNHNjckJnWU01aDA2Y1lXcnNHb1doYmVwSXhiOVNEd0ZzaFNRdGQzeUxRQlRR?oc=5",
                     "publishedAt": "2026-08-02T06:29:30.000Z",
                     "language": "en",
-                    "summary": "# Summary\n\nA Georgian restaurant in Tallinn's Old Town caught fire due to a poorly maintained ventilation system, according to ERR. While the article doesn't specify the restaurant's name in the snippet provided, this incident highlights the importance of kitchen safety standards in the city's historic dining district. Visitors to Tallinn should be aware of this incident as a reminder that restaurant safety inspections are crucial, though this appears to be an isolated maintenance failure rather than a widespread issue."
+                    "summary": "# Summary\n\nA Georgian restaurant in Tallinn's Old Town experienced a fire caused by a dirty ventilation system, according to ERR reporting. While the article doesn't specify the restaurant's name in the provided snippet, this incident highlights an important safety concern for visitors to the Old Town dining district. The news serves as a reminder of the importance of proper kitchen maintenance and ventilation safety standards in restaurants."
                 }
             ]
         }
