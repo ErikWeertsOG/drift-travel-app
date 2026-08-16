@@ -1,30 +1,228 @@
 {
-    "lastUpdated": "2026-08-15T06:18:16.515Z",
+    "lastUpdated": "2026-08-16T06:20:02.294Z",
     "source": "github-actions",
     "cities": {
         "cologne": {
             "places": [],
-            "news": []
+            "news": [
+                {
+                    "title": "Essen gehen in Köln: Diese 15 griechischen Restaurants sind einen Besuch wert - ksta.de",
+                    "source": "ksta.de",
+                    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQUTU2T3JHVEg0ekVDaVlHV2ItSXptNUVKQWFpOXJ5TmdCcVoyNTY5V0tIU0phbERtMTRBSDlJdmtLaHFzZUhWaDQwQjZfN19MbWR1ZXFKWnhMX0hOVHNvZ01ndzBtZFdYWEFSMHRmQnA1NXV5VlZPTlotUFNkZXFYektJUmpGbHQwOFBXck1XTlo0SVVCbVJiZ3FRU2NkV3NJVUdhRlQ2cC00bGRJ?oc=5",
+                    "publishedAt": "2026-08-11T10:00:00.000Z",
+                    "language": "de",
+                    "summary": "# Summary\n\nThis article highlights 15 Greek restaurants in Cologne worth visiting, according to ksta.de. While the article doesn't spotlight a single restaurant, it provides a curated guide to the city's best Greek dining options. Visitors to Cologne interested in authentic Greek cuisine will find this list practical for discovering quality restaurants across the city."
+                },
+                {
+                    "title": "Die Bredouille X Copains du Vin: Bar Takeover Opening Party am 14.08.2026 in Köln - rausgegangen.de",
+                    "source": "rausgegangen.de",
+                    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPVEtOWWk3ZnVGZmFfQTVfSExRVnd5RnVvalJ6Nmt1d3JmVTQxc3lmOWFINDFMYWZVMGlWSGpPWGxVbkkxNkc0TDdGTElYcElHTE9tNE9yMlhtVEhtd051a2tKeEdRMVJGbWFyUURxM2tOdS16NHpBWm03a19aREI5OHhuWG9kNVhlTDkyd2FhRUN2a1NwakE?oc=5",
+                    "publishedAt": "2026-08-14T05:39:43.000Z",
+                    "language": "de",
+                    "summary": "# Summary\n\nDie Bredouille in Cologne is hosting a bar takeover opening party on August 14, 2026, in collaboration with Copains du Vin. Visitors to Cologne on that date can enjoy a special evening featuring wine and drinks in a collaborative takeover event. This would be worth checking out if you're looking for a unique nightlife experience with curated wines and a special atmosphere during your visit to the city."
+                }
+            ]
         },
         "amsterdam": {
             "places": [],
-            "news": []
+            "news": [
+                {
+                    "title": "Bar Gui wordt Bistro de Fles in Amsterdam: elke maand een nieuwe kaart - Entree Magazine",
+                    "source": "Entree Magazine",
+                    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPM3JvRnp0Y3k0VzcyeDI0MWI4RFA2aEZXcmp2YjBlSjllbFl4YlN3d1pFcWhNX3c2UEdManVhMXNrTTJXYnotN0RYZGtvYWpYVjlLSkZOeVV1VXVqVXVXZHdzWVB1aExkTTEzNVNwTDY4M1NENEpod1hlcDdUUzU5d0VYQ25LQ3FYd2RqQ2RRMFVjdw?oc=5",
+                    "publishedAt": "2026-08-11T06:02:25.000Z",
+                    "language": "nl",
+                    "summary": "# Summary\n\nBar Gui, a restaurant in Amsterdam, has been rebranded as Bistro de Fles and is introducing a new menu every month. This change-of-pace dining concept would appeal to visitors who want variety and enjoy discovering fresh seasonal dishes during repeat visits or longer stays in the city."
+                },
+                {
+                    "title": "Explosie bij nog te openen restaurant op Dijkgraafplein in Nieuw-West: ‘In- en intriest’ - Het Parool",
+                    "source": "Het Parool",
+                    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQQzYwSlBYSDc4QV9LNklZWXJwQUUzT1dMTUV4YmM4bnlJYTJ0M0VCUXkzeXZuQUVWZWxtckMzZElQeHFtQVJfbW1zOFhCNTlPRl9JdzVVcjZUbTZsUGRSb0QyOHM5MXVkRUExTXdJakstR3oxcXctYTdpV1hlTUZyUWRzdFUxVFByWlBldERhWS1PRUlUSk1wODA0ZHBtdUxoWnozZlp3MUNwVWFHUHUyRHJnWnhZZzVBcWZhaFFsajFkTmVzLVE?oc=5",
+                    "publishedAt": "2026-08-10T10:07:00.000Z",
+                    "language": "nl",
+                    "summary": "# Summary\n\nAn explosion occurred at a restaurant under construction on Dijkgraafplein in Amsterdam's Nieuw-West district that hasn't opened yet. The incident caused significant damage to the establishment, which was being prepared for opening. Visitors to the area should be aware of this incident as it affects a new dining venue in the neighborhood."
+                },
+                {
+                    "title": "Explosie bij restaurant in Amsterdam Nieuw-West - NH Nieuws",
+                    "source": "NH Nieuws",
+                    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQeFQ2aE1PMVNWMk9QV3R1N1BjTWUzZnNQZWx5OEdBakhMeVdzaW5GZWNlOVZVSlJ5RTlSa0kyekxlcDBiNGVtUGtQMHdGeDVBUVZTUHRWV0VacklhbXJhZFNtWlN2R2dQNmt2bHlMNnJlNUZrVGFVLUMxTWFJc05DYU5XRVotZ3N2V3hIdzdR?oc=5",
+                    "publishedAt": "2026-08-09T23:40:00.000Z",
+                    "language": "nl",
+                    "summary": "I don't have access to the full article content, only the title and snippet you provided. However, based on the title, there was an explosion at a restaurant in Amsterdam's Nieuw-West neighborhood. To give you an accurate 2-3 sentence summary with specific details about the restaurant name and why visitors should care, I would need to read the complete article. Could you share the full text or more details from the NH Nieuws article?"
+                },
+                {
+                    "title": "Satkara brengt Indiase en Nepalese fine dining naar Amsterdam - De RestaurantKrant",
+                    "source": "De RestaurantKrant",
+                    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPeEtDNUVFU0FRbW9zUUw2aFkyT2RkLWZ1U205NUpyUXZLeVVvMmR0T3Jua1dQWHhsdmVwNTFiTEJSc2hGc3FfLWctTG1nV2Jxa3VxdGlDZ3dTX3J2cDY1eTlRSGVKWmxrVTBYekg1MDFFTUdnYWJXR3oxSUtJMFlCVUZDMHd4WVF2SkVVZUZscldJSExoMXFoZQ?oc=5",
+                    "publishedAt": "2026-08-11T12:42:05.000Z",
+                    "language": "nl",
+                    "summary": "# Summary\n\nSatkara, a new fine dining restaurant, has opened in Amsterdam offering Indian and Nepalese cuisine. Visitors to Amsterdam now have access to upscale Indian and Nepalese dining, expanding the city's fine dining options beyond traditional Dutch and European fare. This is noteworthy for food enthusiasts seeking high-end South Asian cuisine in the city."
+                },
+                {
+                    "title": "Een kijkje achter de schermen: Dit Amsterdamse restaurant verovert zelfs de harten van vakgenoten - indebuurt.nl",
+                    "source": "indebuurt.nl",
+                    "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNY21fT0tlbjA1QlFjbFZmTlBXdXV1SmtRYkJGQzhRdE5yMUhfZHY5M19DSXhaVFVXWDRweTMyYnhkak51bW1zaGJBbVZDY0pTU0dzb0tWUnZKMElOQzlVaXhMdjBVMlg5ZENQT2NNaHdNQmhpbENMcS11X1RtZmZFeWY3QlphaFJ0ZzV6R0tCMHFNa09WLVUzX1FqYTdNOHJvLU1XdEk4Tm1MZjJwTWJvZ1k2QWlKSDUzaHNNZ0x6MU1nSXVXWFFtV3ZDNDc4YlB4aFMwdk5jV0gyYjhaUDY0QXJxTDlRQUFS?oc=5",
+                    "publishedAt": "2026-08-12T17:49:31.000Z",
+                    "language": "nl",
+                    "summary": "# Summary\n\nI apologize, but I cannot provide a complete summary as only the title and snippet are available in your request—the full article content wasn't included. \n\nBased on what I can see: An Amsterdam restaurant has impressed fellow food professionals and industry peers so much that it's worth a behind-the-scenes look. **For visitors to Amsterdam**, this would matter because it indicates a restaurant with genuine culinary credibility and quality that extends beyond just pleasing customers to earning respect from other chefs and food experts.\n\nTo give you a more detailed summary, I would need the full article text."
+                }
+            ]
         },
         "antwerp": {
             "places": [],
-            "news": []
+            "news": [
+                {
+                    "title": "Peter Goossens loopt over van de superlatieven in dit nieuw restaurant: “Spectaculair, elegant en zeer smaakvol” - Nieuwsblad",
+                    "source": "Nieuwsblad",
+                    "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOSTZnR0I4RmkteVBfeWdxcVJBUlJYMXlKa25IMUdwU04wZG8zVXhndTlCdHowTF9rRXVNOGhOU2l2U0lGMDFPSHhPWmZXbFRVSUViOW40anM2aVVoTG80RGZFLVBjQl9sTXdBeTNYVGw3WS1wTUtNUTUxdHB5cW1Jb0FfOFR0NDhvLWQwNlNUQnB4YkVmLWR6VTBtR08tc21zRlFQVUVJOWRZcGRqRlJKOVNjS0gyOTNyZTVhQmtvS2dWUUVidmtxanhOSU5uaTZmZGZnODZUWE53R2wxTldSVUFzYmRJakJndHNtNWZOREMwbU5CaFBnenZrdVFzR1paN0trV1NR?oc=5",
+                    "publishedAt": "2026-08-14T10:00:00.000Z",
+                    "language": "nl",
+                    "summary": "# Summary\n\nI don't have access to the full article content to provide an accurate summary. The title and snippet only indicate that food critic Peter Goossens praised a new restaurant with superlatives like \"spectacular, elegant, and very flavorful,\" but the snippet doesn't mention the restaurant's name, location, or specific details.\n\nTo give you a practical 2-3 sentence summary with the restaurant name and location, I would need the full article text. Could you provide more details or the complete article?"
+                },
+                {
+                    "title": "Van pure gastronomie tot de vibe van Saint-Tropez: onze vijf tips om te tafelen aan de Schelde - GVA",
+                    "source": "GVA",
+                    "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNT1JiN1RQTy1jS2MyUmlMRHAtZE04LTN6SmcxQVNtMWVGUEI3NmUxdXJIcXF1UnZOTDhkZ0pJZGdrYW5kZTZudUFUTFZqNFZMYlRsV1hTUm01MWtYZ0Z6cmY2ZVBDS3B2dnNHbXZDaGQtZWpUcVZ5bGVLOXh5cGRfdndKWHZBYlNjY3pVWFNGR3JINWM4MWFMaG1Lb2JoSkNGSERCR3NSOGhrU3N0SEJlcXdKTU8yNV9acjdyVTVud3JJa3ZQTml5ampCU2lOc01nVzh2SzVIUzNRWkpWMDVjRURMUW03cUxCaTN1TmZTenhMVGdGTGNYc3dUT01iZw?oc=5",
+                    "publishedAt": "2026-08-10T11:04:43.000Z",
+                    "language": "nl",
+                    "summary": "# Summary\n\nThis article provides five dining recommendations along the Schelde river, ranging from fine gastronomic cuisine to casual Saint-Tropez-style atmospheres. While specific restaurant names aren't detailed in the snippet provided, the piece highlights waterfront dining options that appeal to different tastes and occasions. Visitors to the city would find this useful for discovering diverse dining experiences with scenic river views."
+                },
+                {
+                    "title": "Restaurant Black Smoke in Antwerpen heropent dit weekend na zware brand: “Voor iedereen gratis drankje om te klinken op comeback” - HLN",
+                    "source": "HLN",
+                    "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPZFdHSnVBeXRvNTRFQjRjWWtPNmk3V1NRaTNSajZOczd5dm1CMC15dTAzcUNBZFpxQ05jUkdFZklOakRZUm9zR0ZnT0F4LU9Yb1NTZjF1SVlXUV9ZbGJfdXI3UlE1Ri1YMDdHd1BzdzFiNmJtMUtvM1VzYmNEUWFUc2tUZ3NNeFJxUy1aUGZxTHQzSjIwNWJpM3dUUjJoaTNTMVJScVNMaXhLeTV2MjJzN0M3WmdjSDdqS3k0eHpQZEV4NEkzUjRSWlAtajBrT2NORnZUeEhFWUdCVVBzMTlGNkk2TVF3aDJOeDBOZjBWZFpMMWo0MS1YWA?oc=5",
+                    "publishedAt": "2026-08-10T11:12:00.000Z",
+                    "language": "nl",
+                    "summary": "# Summary\n\nBlack Smoke, a popular restaurant in Antwerp, is reopening this weekend after being damaged by a major fire. To celebrate their comeback, they're offering free drinks to all guests. If you're visiting Antwerp, this is a great opportunity to support a local favorite and enjoy a celebratory toast at their reopening."
+                },
+                {
+                    "title": "Nog geen cadeau voor Moederdag? Dit zijn de lekkerste lastminutetips in Antwerpen - Culinaire Ambiance",
+                    "source": "Culinaire Ambiance",
+                    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOZ2h5RkVGNGFSS2JXODJVdHNXX3FCQjRyUnQxMDRfNXlMQVVWemVETmptN2wtZkJOeW9oNWxmUFg2Q2lpU2s1Tml6MktmX3Z0eGtQY1dzNVA1aURBcGd4VXhNZTJMa1pFaVB4Y2lxYVBjOEY2SFhxVnhzdVZhd2NfTTg5b2k1TjhFTGtTVC11aE10VDJHMFdjVVlKSkJodXNoOHJBVlJnQWlGM2xmRWNrX1prZmhSZ2wteVRWQVBlVQ?oc=5",
+                    "publishedAt": "2026-08-14T15:33:22.000Z",
+                    "language": "nl",
+                    "summary": "I appreciate the request, but the snippet provided is too brief to summarize meaningfully. The title indicates this is a Mother's Day gift guide for Antwerp restaurants, but no specific restaurants, details, or recommendations are included in the excerpt provided. \n\nTo give you a proper 2-3 sentence summary, I would need the full article content with specific restaurant names, offerings, and details about why visitors should consider these options for Mother's Day celebrations."
+                },
+                {
+                    "title": "Bar Brilschans keert terug naar Brilschanspark met drie dagen lang optredens en animatie - pzc.nl",
+                    "source": "pzc.nl",
+                    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQYkU2aTRFcDg4cWNwYURJd0xHUl9mRmxiU1FBaU5rWmU2Ty1wc3hqeUtieEdnaV92M0dpOWQ3a1RUVVJpbkJ2SF9sN2JycmhFR2ZaUThocnRoY2Z1T0RBeXFQWGh4aDFHVFRCdEdZU01qM3JydHhmVDJHM0ZuSUxoTFdlRVNKUzJxVEVlZUVfVWlUOEo5Ti1lNzFuS0RZYVhTMTJVTUNWN3VGTXJpVm4xWjRzSWMwMU1vQWlJNTBfaktiR19rX3c?oc=5",
+                    "publishedAt": "2026-08-14T09:33:19.000Z",
+                    "language": "nl",
+                    "summary": "# Summary\n\nBar Brilschans is reopening at Brilschanspark with a three-day event featuring live performances and entertainment. The venue is returning to its original location in the park. Visitors to the city should care because it's a popular social spot offering food, drinks, and live music during this special reopening celebration."
+                }
+            ]
         },
         "lisbon": {
             "places": [],
-            "news": []
+            "news": [
+                {
+                    "title": "Da Campanha Gaúcha ao produto português, Arandu mostra a Lisboa outro lado da gastronomia brasileira - Diário de Notícias",
+                    "source": "Diário de Notícias",
+                    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPSTA0blhrUUZ0bE5fY0k5NXYxS0hLanVrTTQ1V2JzSXZwZ19icFZTRTdlRlk0S3ZXREU2RlVVN1lGeTRMU1AweENBYi0xRjFOdW5EREJhNHRqTzNfWWhpWlJldmw4a2VXUDhmWkRBLTFaUFdxbFZ3b0pUTk80VkNFbFhlYURBSGsxZU1oNHl5MjhpLV9vSVJNS3RYWGZmMkV0N0FPSDNIajZZR1BzNzhGUXk4Tjh2YlN5RllDYXpXWEdINmxqVTZ5Sm15V1pOZw?oc=5",
+                    "publishedAt": "2026-08-13T21:00:00.000Z",
+                    "language": "pt",
+                    "summary": "# Summary\n\nArandu, a new restaurant in Lisbon, offers a unique take on Brazilian gastronomy by blending traditional dishes from Rio Grande do Sul's Campanha region with Portuguese ingredients and products. The restaurant showcases a lesser-known side of Brazilian cuisine that goes beyond typical stereotypes. Visitors to Lisbon interested in innovative cuisine that fuses Brazilian and Portuguese culinary traditions would find this dining concept distinctive and worth exploring."
+                },
+                {
+                    "title": "Comobå: Oito anos de vida de uma das primeiras cafetarias modernas de Lisboa - Público",
+                    "source": "Público",
+                    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQRDNfNkd3XzQ2b1lPYWZFeDdhVWg0RmN4aGlxNmZXaUYxLWxpY0UzSTRQRFJjNGZBNy1JRWhyWm1LQXlfdmRaMWRHUGxycTZFYzhheHhnb2JUc0ZJUmhKVWw2OFZtR2VNdW80OGp4SjQ4VElxLU5ia0lVaGRSRjRaRk1tYVdEem5VREVSNTBuOC1GSF94bjF6U1k1SmRxQzNfeXFLOGozTnJCRFFIVmlrU0NtN1Y?oc=5",
+                    "publishedAt": "2026-08-14T11:48:00.000Z",
+                    "language": "pt",
+                    "summary": "# Summary\n\nComobå, one of Lisbon's pioneering modern cafés, is celebrating eight years in business. The article highlights the café's significance in the city's contemporary coffee culture and its journey as an early adopter of modern café concepts. Visitors to Lisbon would care because Comobå represents an important landmark in the local specialty coffee scene and offers insight into how the city's café culture has evolved."
+                },
+                {
+                    "title": "Pedro Pascal rende-se à gastronomia portuguesa no Meco e em Lisboa - Jornal de Notícias",
+                    "source": "Jornal de Notícias",
+                    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNeW1QM012MFZfZEJWdUliQU82c2NnV2t0dmJIdXRFVDhRSmk5NGR1cHBxWXBwdHpqR1lBcHRkbWJ4WDVDMVYtVFB2dnEzMm5zejIyaThkZ094NkZ3aVhwNnM3ZUZfUzV1d1pHTEZfYXY3MVRPcEV5MkZDa0h6NG51bnB5Z05Rci10dmR5aGdWTXdCbkRUQzlzRHEzcFR1R3pUYjRNZmdidG9INEJ5SWFkSVJIOTc2VWpqR3fSAasBQVVfeXFMUDVsNjl2WXBFcWloUWh1eC1FT3VZYW9yWjdGZHRuQm9kdmdmZm15NENqTm9CWHFOYWIxekZlRjY0Nnp2RXVsYnB3WUdpaU1xMUR0anNTdnEzaVJ2RFZsSktJUEdENEp0RHUyaWE5Z2NRTDhsY3dicXlTTGd0LUlmYzVRdmR1VVBackJ4a1ZDclFxTGJqVmNQRy1NRHQ0d09UWmRkWS1leHN0dEF3?oc=5",
+                    "publishedAt": "2026-08-12T11:22:00.000Z",
+                    "language": "pt",
+                    "summary": "# Summary\n\nI don't have access to the full article content beyond the title and source information provided. However, based on the headline, the article appears to be about actor Pedro Pascal enjoying Portuguese cuisine at restaurants in Meco and Lisbon. Visitors to Lisbon would likely find this interesting if the article recommends specific dining establishments he visited or highlights notable Portuguese restaurants worth trying.\n\nTo provide a more detailed and accurate summary, I would need access to the complete article text."
+                },
+                {
+                    "title": "De avental, Pedro Pascal diverte-se em restaurante de Lisboa - Correio da Manhã",
+                    "source": "Correio da Manhã",
+                    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOY1JTdHFmbjlkZ3JOS1Y2TmppaXhqNnFPRWwxcVFOUDNoN1lEYzJaV2IzREQ3NW0tdEg1X2NGdWt4UVM4VUpzZTN5NEh6XzgybDZSOWs1eWpSR1JSOU9BU3Q2bW9PODdGTGVTZzVYODBCNDl4RlMyX2tKRkdhNGJ5TnJzeVBMdFFjNzlJZ3YzWkRQY1J4LXcwZ1BPeWhUQdIBmAFBVV95cUxNd0JPYjR4LTNpamduYWVqNTNKYXBDSXhMUDZKSnk2eU8yZHp0c0d6by02bzV6N0JJcFVBZnJuUUdRTWdINGRQVkNHSU1rTVhFUmxyMEhkQW9aNFdDeHJXUFZ4ckZqWGlOT3JPa1U2LXUwMm9FSUMybjNkd0dWeTM2RmdaY0tfYWpha1AyR3ZBWjE1azFRYmhLXw?oc=5",
+                    "publishedAt": "2026-08-12T13:28:00.000Z",
+                    "language": "pt",
+                    "summary": "# Summary\n\nActor Pedro Pascal was spotted having fun while wearing an apron at a restaurant in Lisbon, according to Portuguese news outlet Correio da Manhã. While the specific restaurant name isn't mentioned in the snippet provided, this suggests a notable celebrity dining experience or event at a Lisbon establishment. Visitors to Lisbon might be interested in this location if it's a popular spot that attracts celebrities and offers a fun, engaging dining atmosphere."
+                },
+                {
+                    "title": "Mulher baleada dentro de restaurante na Baixa de Lisboa, dois suspeitos em fuga - SIC Notícias",
+                    "source": "SIC Notícias",
+                    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOeTZkQ3ZUakZxeU5oUGhDajMzVHlFQktSRVJIYTdDSjdGWnBnOTV4cWpTOFl4UzVSQnRWd3k3WVFrVDd4S0NMaXZPQ3Jzc1ZoZ1hqZXZuRUtZRXFLWTZCOFgybHhuVTIzbjRmR0pzV2RUM2ItcWF2ZEhTaFNheXc4QTA3amRFRnpJdm5PbHg3eURXUnRLVkFqdg?oc=5",
+                    "publishedAt": "2026-08-10T18:44:03.000Z",
+                    "language": "pt",
+                    "summary": "# Summary\n\nA woman was shot inside a restaurant in Lisbon's downtown area (Baixa), with two suspects currently at large. While this is a serious crime incident rather than typical food news, visitors to Lisbon should be aware of this public safety incident in the downtown restaurant district. Local authorities are actively investigating the shooting."
+                }
+            ]
         },
         "newcastle": {
             "places": [],
-            "news": []
+            "news": [
+                {
+                    "title": "City Council asked its plan to bring waste collection service to required standard before merger - newcastle-staffs.gov.uk",
+                    "source": "newcastle-staffs.gov.uk",
+                    "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPNkRFV3dTZjZGcVZOTDMxMUliY3ZEZEtrejlOMXByaW9CVHNiSVd0dXNDbVIybmZ0RVZQQ0VpQXFIZVV4dkl6WExPSjhibVB6SW1EekJKM1pIZXlRbWZRXzFpOFI0bFMyaWotZF81Y2NTWF8xeDJRanFPend4ZUhSRTZMWTJIeHk5dTVpWVB6OGxQWlRvQm1MTHNNTFZBOVBIbXI5ZEZ6V19kUVZOMUZZMlNEMENwbEZDN29TQWw4aTEyREFvS2laTEJLM3h1TGVULW80cXRnNjFjVzRyWWVtT0E1QQ?oc=5",
+                    "publishedAt": "2026-08-13T08:49:18.000Z",
+                    "language": "en",
+                    "summary": "I appreciate you sharing this, but this article isn't actually about a restaurant or food spot—it's about municipal waste collection services in Newcastle-Staffs. It discusses the city council's plans to improve their waste management system before merging services, which wouldn't be relevant to restaurant or food news. \n\nIf you have a restaurant or food-related article you'd like summarized, I'd be happy to help with that instead!"
+                },
+                {
+                    "title": "Best place in Newcastle for a curry crowned as restaurant still going strong after 45 years wins - Chronicle Live",
+                    "source": "Chronicle Live",
+                    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQQ3pUa1cxQzJ4LTdHdkFiT1E2TDFiM3FlWTI0QjRQZzlmXzBaT0dsOUdBNmpsMFpRcHFSQzgyMmtQN2NuTEF3MVlacWhIR0o5c2dEZmFPTHlJZ0pDYVladHNOR1hLdm5VQ2R2bTZkOHFhemxCUUpaNkNwQWhUMkZNZ0c1Wlkyc1pJQjQ0amRNTE5qQ0xsbDh6N1hRZWhyMWZzVFHSAacBQVVfeXFMTjdsSVMwZjVac2xWMVN4b0RlYkRlWVY3ZUxzeWNnUnNudFFCeTdJTWdiOU5mMG1yS19HZi1iQVBWVUVjMWYwdjNRNm9kQlNRQ1pCZVdyMDdZQ00yUldiUnpqc2hRcnVxTy1jSzNqd2oyNEZ0OWNXNUk2NUZuaUZxWERCLVF1aEt2T3FTZW0xZ0lnWTU3VVB0VkhQVDZraTBrSDRPLTVVNVU?oc=5",
+                    "publishedAt": "2026-08-11T15:36:31.000Z",
+                    "language": "en",
+                    "summary": "# Newcastle Curry Restaurant Award\n\nA long-established curry restaurant in Newcastle has been recognized as the best place in the city for Indian food, marking a significant achievement for the 45-year-old establishment. While the specific restaurant name isn't provided in this snippet, the award highlights a venue that has maintained quality and popularity for nearly half a century. Visitors to Newcastle looking for authentic curry would benefit from seeking out this award-winning restaurant, which has clearly earned its reputation through longevity and consistent customer satisfaction."
+                },
+                {
+                    "title": "Sam Fender pulls pints behind bar during surprise visit to popular Newcastle pub - Hexham Courant",
+                    "source": "Hexham Courant",
+                    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQVXVaaVBNQlpxVW5kNGZWWC1kellXYXFuTmdlZURQTHF2ZkFsT3l1NURRdkRNa1JFWHl2bHc4VF8wV25WUkZ6dXk0U3VtSXh3dGV5UUd5djRYVWlGWnNjTDhkR3kzNWVycTV3M3JINDBXN0IwbWNPNUtkRjdfS1JwRHctUzFPMU9aaWU5TkhwOWVia2xUMlg4VnpuTTZDNDc3?oc=5",
+                    "publishedAt": "2026-08-12T10:45:00.000Z",
+                    "language": "en",
+                    "summary": "# Summary\n\nThis article covers a surprise visit by Newcastle-born musician Sam Fender to a popular local pub in Newcastle, where he worked behind the bar pulling pints for customers. While the specific pub name isn't detailed in the snippet provided, this would be of interest to visitors wanting to experience authentic Newcastle venues with local character and potential celebrity encounters. The story highlights the casual, welcoming nature of Newcastle's pub culture and the town's connection to its famous residents."
+                },
+                {
+                    "title": "102-year-old man dies after alleged assault at pub - Gaydio",
+                    "source": "Gaydio",
+                    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPbFREUzhDNDlXSnZyR2NpSE15LVpoandFTS03Q3NVZlZ0TTJUZVkzVnZjQUNsWFQ5Sm54NmNqaXY4MGFSdmkwWnRZZVM4X1VvOWtDT3FVV1RwWWR3a1hCbmpyeVE2REJINnhiUzYxQ0ptWFE2YkhxenRyMzdYUUU2RDNfMXlqOHQtTlIxZ25wV3Z1R1R5VHpDSDg0NXhUZ2xOWnhFYlIwUHRWQ043aDFv?oc=5",
+                    "publishedAt": "2026-08-13T13:18:00.000Z",
+                    "language": "en",
+                    "summary": "I appreciate you sharing this, but I should note that this article appears to be about a tragic incident (an alleged assault leading to a death) rather than typical restaurant/food news. The snippet doesn't provide details about a specific restaurant name, location, or food-related information that would be helpful for visitors.\n\nTo give you a useful summary focused on dining recommendations or food news, I'd need an article that actually covers restaurant openings, menu items, chef news, or similar food-industry topics."
+                },
+                {
+                    "title": "Row over plans to turn former Welsh pub into house - Wales Online",
+                    "source": "Wales Online",
+                    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOVldscEtnSG15OUhnZkRWdDJabTBld0VtQ3BZVHZUU05iZEd4djM1c2FCX21EVjUySUQ5aTRxajFGN0JxdGRhUDRVYW03eHI0TkI5YXczX0g1YU5XRm5GZ1RiQmRzNjVmdDdoU24zc1BpZ3RoRWpwaGRBSmY4ZUhFMHJDYlhGb1lV0gGOAUFVX3lxTE1aM1NCdUhpVW9VWjNaNnhxMy03MHdFc2NmOUxfbnBGVjQ3cmdSMWh4eVNyZzhPellVaGNuLXZFc2pPR3BMRmlWWWp0R2NnX0FTdHlOWFN6N3EzRlVuUVg1VUlQdDJ5V294RHRwNERXbjlRMXU0eU9NUkw3WmIzX3RtZ0F0VVdpZkpBZ0M2SFE?oc=5",
+                    "publishedAt": "2026-08-12T15:24:00.000Z",
+                    "language": "en",
+                    "summary": "I can see the article title and source, but the snippet provided doesn't contain enough detail about the specific pub, location, or reasons for the controversy. To give you an accurate 2-3 sentence summary focused on the restaurant, the specific location, and why visitors should care, I would need the full article content or a more detailed snippet. Could you provide more information from the article?"
+                }
+            ]
         },
         "tallinn": {
             "places": [],
-            "news": []
+            "news": [
+                {
+                    "title": "A new festival is bringing Italy’s lesser-known flavours and rhythms to Tallinn - Estonian World",
+                    "source": "Estonian World",
+                    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPSE1qN2hwSXZjSkIxSUJmWlZ3TE15cVdVRDFmU2U1VDR0RHpzeFNQYVlXNlE2Ry12TkU0UHFISGlaNjM4TDJpbm9OYUs0X2xWalpSRHRJeWZOVVhyNDZmdjFPMHp1cWx2X21lZk5DMFp4eGtGTXpsc0h6Ry1PUEp2RHk2MkYwSEE0R2pXazFseUFRX2tDVW1KY3pMenpzR2NMMmhmakpsbjhzQV9fV0s3NmNfRQ?oc=5",
+                    "publishedAt": "2026-08-14T12:41:41.000Z",
+                    "language": "en",
+                    "summary": "# Summary\n\nA new Italian festival is coming to Tallinn that showcases lesser-known regional Italian flavors and cultural traditions beyond the typical tourist fare. While the article doesn't specify individual restaurants, it highlights authentic Italian cuisine and culture being brought to the Estonian capital. Visitors to Tallinn interested in exploring authentic regional Italian food and traditions outside mainstream Italian dining will find this festival worth attending."
+                },
+                {
+                    "title": "Telliskivi becomes a summer meeting place - The Baltic Review",
+                    "source": "The Baltic Review",
+                    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOQXlxQnM4MGhYaUp0eDdXZndCUDBHaThXSzVuYXYxcG05T3dKMFJVQlhBNWJHenFCV3ZlZ0JDY3FjVWJZMHhkZnhvTTMzWFZIbmVqNXBmWDQ2MVJFdmdBYkl1aEVlWnVpbEpoRlZ2OV94LU1idlhrVUVUc1lkN3RlSEtQMkR4QUpPenhScC1WQjRGMHN1UHdUMzRndVFOYm1FVXZaYk5sRktGRm0wcUdLRGRTZXRDZ0ZQcTNGUHZPRzc?oc=5",
+                    "publishedAt": "2026-08-09T08:15:42.000Z",
+                    "language": "en",
+                    "summary": "I don't have access to the full article content—only the title and a brief snippet are provided. Based on what's available, it appears the article discusses **Telliskivi** (likely a food/dining area in Tallinn, Estonia) becoming a popular summer destination. To give you a proper 2-3 sentence summary with specific details about why visitors should care, I would need the complete article text. Could you share the full article or more details?"
+                }
+            ]
         }
     }
 }
