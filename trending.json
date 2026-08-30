@@ -1,33 +1,25 @@
 {
-    "lastUpdated": "2026-08-29T11:54:16.236Z",
+    "lastUpdated": "2026-08-30T10:51:19.787Z",
     "source": "github-actions",
     "cities": {
         "cologne": {
             "places": [],
             "news": [
                 {
+                    "title": "60 Seconds to Napoli öffnet in Köln - tageskarte.io",
+                    "source": "tageskarte.io",
+                    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNMDZ1cFBDMURtdTlOZE9PX1ExcnE3ODhDZVZSeWx4eGRWMFp5aU9HbGlTMXN2NDF5RmNfX3EwaldlX2swbWVENDdfN2hsLWpUT1VlRkw3R0pKZlR2cDN3dXRQVlZ5UGVwVHI3MHp0eVdSalZoX2FuUlNNU2F6aEZNUUNmVVBBcWhna09zRERRR3I?oc=5",
+                    "publishedAt": "2026-08-30T08:03:45.000Z",
+                    "language": "de",
+                    "summary": "I don't have access to the full article content, only the title and snippet you've provided. Based on what's visible, here's what I can tell you:\n\n**60 Seconds to Napoli**, a restaurant concept, has opened in Cologne, Germany. While the snippet doesn't provide details about the cuisine or specific location, the name suggests it likely serves Neapolitan-style food (possibly pizza), emphasizing quick preparation. Visitors to Cologne would care about this opening as a new dining option, particularly if they're interested in Italian cuisine or fast-casual dining.\n\nTo give you a more complete summary with specific details about why locals should visit (menu highlights, location, pricing, etc.), I would need access to the full article text."
+                },
+                {
                     "title": "Gezielte Attacke in Köln: Mehrere Schüsse! Mann (41) vor Restaurant schwer verletzt - BILD",
                     "source": "BILD",
                     "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQT3Z0R0Ffb2g2TDgycnBZQUJKN05yQTlyc1lwNVc2blVtcEdnb3hxOWdtSVR0TDBEVzN0d0FId3UwQkY2aE5Oai1QZ0NCSFpTeDRSWWJtaU1yZHVYRlVxM2I0THRzaEVEbU55VTd6Q0k2cmU0MGxKdjhKS3NOTU1NdTVXY012SnhRd2IwSzZKYTBsMFpIT1NWWDdjaXgxZld2dzV5TkotY0N2VnRtWGI1ZTNEZElhRHJrbEtnWkFScDQ4VjRSTGE5bDg0U1VNTjhETDBvVWRVRTA?oc=5",
                     "publishedAt": "2026-08-25T05:23:07.000Z",
                     "language": "de",
-                    "summary": "I appreciate you sharing this, but this article isn't actually about restaurant or food news—it's a crime story about a shooting incident outside a restaurant in Cologne, Germany. Since it doesn't contain food/dining information (menu, opening, chef, cuisine, etc.), it doesn't fit the criteria for a restaurant/food news summary. If you have a different food-related article you'd like summarized, I'd be happy to help!"
-                },
-                {
-                    "title": "Schüsse in Köln-Mülheim: Polizei nimmt Verdächtigen nach Flucht fest - WDR",
-                    "source": "WDR",
-                    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8tSHdHM1Q0bFhaU1IyeFB5em15ZHpiSXlveFVXTEZUV1cxdEZPTGRlTnh3QW1jRUlqRV9jMnpzSjhORzViMlA3YmxsdzZTUTdUSkd5eVpWSDFqU0RNc1FlN0h5aXRxeno4eXJUNEFONA?oc=5",
-                    "publishedAt": "2026-08-25T04:23:16.000Z",
-                    "language": "de",
-                    "summary": "I appreciate you sharing this, but I need to point out that this article is **not about a restaurant or food news** — it's actually about a shooting incident in Cologne where police arrested a suspect after a chase. \n\nThis appears to be a crime/police news story from WDR (a German news outlet), not food or restaurant-related content. If you have a food or restaurant article you'd like summarized, I'd be happy to help with that instead!"
-                },
-                {
-                    "title": "Erster Taco Bell Deutschlands soll in Köln eröffnen - tageskarte.io",
-                    "source": "tageskarte.io",
-                    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOUWtwZ2UtRUIzbm13Ym5TTkpUenA0ZUMzVXozLVRqSFVaSEtHcGczYWpfZ1dKMkxtaGtMc0xUaUpKdWRERC1wNGt3dFpsbm9iUWRXeWlGdHF6R0w5alFDeGNubEFCR05Xd2l0aWt1cHh3YVh0YXVUczlTanRyX1FiNXgxU1k0VjJ1LTFEX0JfMUdENkNhY0NUTXNDR3B1eTRKcW8xU3ZB?oc=5",
-                    "publishedAt": "2026-08-28T13:49:27.000Z",
-                    "language": "de",
-                    "summary": "# Summary\n\nGermany's first Taco Bell location is set to open in Cologne, marking the fast-food chain's entry into the German market. This is significant for visitors and locals interested in trying an iconic American fast-casual chain that's new to the country. If you're visiting Cologne and craving Taco Bell, you'll soon have the opportunity to experience it for the first time in Germany."
+                    "summary": "I appreciate you sharing this, but this isn't actually a restaurant/food news article—it's a crime report about a shooting incident outside a restaurant in Cologne, Germany. The snippet doesn't contain food, dining, or restaurant business information that would be relevant for visitors planning where to eat.\n\nIf you have an actual food or restaurant article you'd like summarized, I'd be happy to help with that instead."
                 },
                 {
                     "title": "POL-K: 260825-1-K 41-Jähriger mit Schussverletzung in Klinik - Festnahme in Köln-Porz - Presseportal",
@@ -35,7 +27,7 @@
                     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1jMVJRbGViQkZ3WUtvWUtFWWw2MUh0dUs4eXVBX09BYlV0TzZjMTl0akJWNzRZUmlvLWtoeFl3VjJ2Zmt6Y1B1TVAxM3k3STdXMllzY3Roa0NxZ1daWWM3X3ZKTXM?oc=5",
                     "publishedAt": "2026-08-25T11:00:09.000Z",
                     "language": "de",
-                    "summary": "I can't summarize this as a restaurant/food news article because it isn't one. This is a police report (from Presseportal, a German press agency) about a shooting incident in Cologne-Porz involving a 41-year-old who was hospitalized and a subsequent arrest. It has no connection to restaurants, food establishments, or dining. You may have shared the wrong article by mistake."
+                    "summary": "I can't summarize this article as requested because it's not about a restaurant or food news. This is a police report (Presseportal) about a shooting incident and arrest in Cologne-Porz, Germany. It has no relevance to dining, food establishments, or culinary topics. If you have a food or restaurant article you'd like summarized, I'd be happy to help with that instead."
                 },
                 {
                     "title": "Schüsse in Köln-Mülheim: Ein 41-Jähriger wird schwer verletzt. - BILD",
@@ -43,7 +35,15 @@
                     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOQ2R4bmJXRFU5RkdzTzFaVXl3VkxTbUFfcXdrQ1JMVlY2X3RrN0FwQkx2N3RaZkRScUd5ZWVLOHhlOFdDYl95OWZSdnFYc0JsWkdsWEZlZ21fWmh6Y0Fmb2tVVDc0dWJ3OEF3NGN5dS1QQjBzOVhxSWwzNFJqYnFlSEV3bE5JaFlNc2VsWVZCc1FaaERlRVl1NkNVdUh2UQ?oc=5",
                     "publishedAt": "2026-08-28T11:35:53.000Z",
                     "language": "de",
-                    "summary": "I can't summarize this as a restaurant/food news article because it isn't one. This is a crime news story from BILD about a shooting in Cologne-Mülheim where a 41-year-old was seriously injured. It has no connection to restaurants, food, or dining establishments.\n\nIf you have an actual food or restaurant article you'd like summarized, I'd be happy to help!"
+                    "summary": "I appreciate you providing the article, but this is actually a crime/news story, not a restaurant or food news article. The headline describes a shooting incident in Cologne-Mülheim where a 41-year-old was seriously injured—it has nothing to do with restaurants or food.\n\nIf you have a food or restaurant article you'd like summarized, I'd be happy to help with that instead!"
+                },
+                {
+                    "title": "Erster Taco Bell Deutschlands soll in Köln eröffnen - tageskarte.io",
+                    "source": "tageskarte.io",
+                    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPSHZrX1ZnX1MwUy1fMzZXanpVWmxubjljX0RlVXBUT09EZ1ZrTTIzMVRlU3pGOW9kdDBRakZpQXNZNG1sVVBOWnRxOFBzbzBRSTNwZDFwR2Q2b21qU2U5OEp3N2h2MlVyUk41cjZXUE81VjBIYXhzUm0yc3Q3RHRJdkVGZEJuRHRnZkYzeE0xc0xpZWhyMnc?oc=5",
+                    "publishedAt": "2026-08-28T07:00:00.000Z",
+                    "language": "de",
+                    "summary": "# Summary\n\nGermany's first Taco Bell location is set to open in Cologne, bringing the American fast-food chain to the country for the first time. Visitors to Cologne will have access to a new quick-service dining option featuring Taco Bell's signature Mexican-inspired menu. This opening is significant for fast-food fans in Germany who have previously only been able to access the brand while traveling abroad."
                 }
             ]
         },
@@ -51,20 +51,12 @@
             "places": [],
             "news": [
                 {
-                    "title": "Food Center Amsterdam - Het Parool",
-                    "source": "Het Parool",
-                    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9NUS10Z2J0eThKQUFXQ1lwWGY4VjJNTWdzT0VRYmFnNWlzcFp0ZFdqUk9ma0Nlbkt3Nmpka2Z5OW10YjY2bWJRTnhNdDVNVWREV1d2MWpEak9CWl9qUkVOcTZvN05Id28?oc=5",
-                    "publishedAt": "2026-08-29T01:01:00.000Z",
-                    "language": "nl",
-                    "summary": "I appreciate you sharing this, but I'm unable to provide a summary because the article content itself wasn't included—only the title, source, and language designation were provided. \n\nTo give you the 2-3 sentence summary you're looking for, I'd need the actual article text. Could you share the full article content or a longer excerpt from Het Parool about Food Center Amsterdam?"
-                },
-                {
                     "title": "Karlijn: 'Dit nieuwe restaurant in Amsterdam blaast mijn favoriete uitgaansplek van vroeger nieuw leven in' - NSMBL",
                     "source": "NSMBL",
                     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQdmw3T1lVTkhkMWR5UFFKdm1adm5OdVgxQlVZYlJvN1JqMDdmdGVoYUdMSWVmT1ZpdVFvU0lJUV9FQVNsMDFhTzl0OHRhN0ZlRjFwUkE4NV9vVzRRWGlvMDU4U1JzZUNXTUpacHNNTHV2TDZ0Vk9fQlZqbl9sUGhHampJdnh4TjZwUzV4N1NzUVB4NjVSV1A3eTRhTXplaVY5RkhjUWJBUGZ3bUlNTjZhRGRJNDZLYURSekZ3WE5Kd3I4azMw?oc=5",
                     "publishedAt": "2026-08-25T13:00:00.000Z",
                     "language": "nl",
-                    "summary": "I appreciate you sharing this, but I'm unable to provide a useful summary since the snippet provided only contains the headline and doesn't include the article's body text. To give you an accurate 2-3 sentence summary with details about the restaurant, its location, cuisine, and why visitors should care, I would need access to the full article content. If you can share the complete article text, I'd be happy to summarize it for you."
+                    "summary": "I don't have access to the full article content, only the title and snippet you've provided. However, based on what's available, here's what I can tell you:\n\nA new restaurant called **Karlijn** has opened in Amsterdam and has revitalized a former favorite nightlife spot from the past. Visitors to Amsterdam would care about this because it combines nostalgia with a fresh dining concept in a beloved location that clearly holds cultural significance in the city's nightlife scene.\n\nTo provide a more complete and accurate summary, I would need access to the full article text."
                 },
                 {
                     "title": "Restaurant tijdelijk terug in 1e klas wachtkamer en restaurant Amsterdam Centraal – muurschilderingen gere ... - Treinreiziger",
@@ -72,7 +64,15 @@
                     "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOUTgtaUJxckZlUGV2ckVUaGNBSXo5anBPVGlFbUQ3NGdGVV9SbVJNQWUtWFdOVjV1OVYwejdhQ0lpTEtURW05LU9sbElTcWFSZC0wbGFNcjVxVWVlNGpGV195RnBKaTEycXc4TDBsdzM5aVBxOXIzMTBTSUViU3h6QkFWclYyTU9KblliX05hYkNfem1WcUl1TXV1OS1GU3JzbUFNbWlOWV9HanR1d0E4SGZpNDcxMVJCQXFZc2lKYm1yeFJNXzZ3YlBmNk9ZU3RxLUhZNmV5TENFY2PSAeABQVVfeXFMTWZ0RkwwODczTVd6YXpIOXRsZXZUS1hSZHZrSy14UDhNNUE0ZzFCVGR0S3l3UnhzR1FvTXZDQ1ZNcnJoQUZueC1QSmVULVlNSXZ3ZW93a3RoR09EVGVJT3ZIUUR2RmpqNWpjV2pyNUZxRC1vUGNHeG5pNkIwZUhCQy0tVDJaeGZEdksxWnRZbXdmYlFKazNwTTA4Y2VxLUhjNWptb0Q4UWxTU0VraURVNE4zSG1IRlppWWtvZzlnbF9VbzVSZUk0ZU05RjB4MVEzS3BsSk1OT3BZRFJlS2JaSlg?oc=5",
                     "publishedAt": "2026-08-27T09:52:35.000Z",
                     "language": "nl",
-                    "summary": "I appreciate you sharing this, but I'm unable to provide a complete summary because the article snippet you've provided is incomplete—it cuts off mid-sentence and doesn't include the full content or details.\n\nFrom what's visible, it appears the news involves a restaurant temporarily relocating to Amsterdam Central Station's first-class waiting room, possibly involving murals, but I'd need the complete article text to give you an accurate 2-3 sentence summary focusing on the practical details for visitors.\n\nCould you share the full article content?"
+                    "summary": "I appreciate you sharing this, but I'm unable to provide a complete summary because the article title and snippet appear to be incomplete or cut off in what you've provided. \n\nFrom what's visible, it seems to be about a restaurant temporarily relocating within Amsterdam Central Station's first-class waiting area and mentions murals, but I'd need the full article text to give you an accurate 2-3 sentence summary with the specific details you're asking for (what's happening, which restaurant, and why visitors should care).\n\nCould you share the complete article text?"
+                },
+                {
+                    "title": "Food Center Amsterdam - Het Parool",
+                    "source": "Het Parool",
+                    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9NUS10Z2J0eThKQUFXQ1lwWGY4VjJNTWdzT0VRYmFnNWlzcFp0ZFdqUk9ma0Nlbkt3Nmpka2Z5OW10YjY2bWJRTnhNdDVNVWREV1d2MWpEak9CWl9qUkVOcTZvN05Id28?oc=5",
+                    "publishedAt": "2026-08-29T01:01:00.000Z",
+                    "language": "nl",
+                    "summary": "I appreciate you sharing this, but I'm unable to provide a summary because the article content itself wasn't included—only the title, source, and language information were provided. \n\nTo give you a concise 2-3 sentence summary focusing on the restaurant/food spot and why visitors should care, I'd need the actual article text. Could you share the full article or its main content?"
                 },
                 {
                     "title": "Nieuw in Amsterdam: Restaurant Satkara brengt India en Nepal samen aan tafel - Barts Boekje",
@@ -80,7 +80,7 @@
                     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1UMnU0ZTdIMTYtYlVCd1hHY1pLLWRkUFRFS2NpbkRNRkNhNThyY1p3NU5RV1A2X1p2am9pYmxGeHV6TUJtVmxvcUE4QktwZHE4SjFwdXA1TFFfUG1TWGw5dGp0MlFlY2F1ZVBvZVBtN0dyQ0kzbUFvSjlJWEZ5TFU?oc=5",
                     "publishedAt": "2026-08-27T10:12:22.000Z",
                     "language": "nl",
-                    "summary": "# Summary\n\nA new restaurant called Satkara has opened in Amsterdam that combines Indian and Nepalese cuisine at one table. Visitors to Amsterdam would care because it offers a unique dining experience blending two distinct South Asian culinary traditions that aren't commonly found together in the city's restaurant scene."
+                    "summary": "# Summary\n\nA new restaurant called Satkara has opened in Amsterdam that combines Indian and Nepalese cuisine on one menu. Visitors to Amsterdam would want to know about this spot because it offers a unique culinary experience blending two distinct South Asian food traditions that aren't commonly found together in the city's dining scene."
                 },
                 {
                     "title": "Tijdelijk restaurant strijkt neer in monumentaal 1e Klas restaurant op Amsterdam Centraal - Treinenweb",
@@ -88,7 +88,7 @@
                     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOdE5VY01MQ1ZUejBneUxtN0pKem1YajBrTXBvN3REYmRKcUpDM1FrSDhjRFlpd292MUhaTlBtY1FDcVNwM0JldzR6V3R0VzdiMU5xdFl4T2U0X29wdVFQcWtCVVQ4dEZzeG9OaU5vUUJ5ZWVDR2p2cXkxeDNodkZFT2N6eHAzUWc4d3RRWXE3UEpjeHZ2V2c3cDRMVnVPb3JCREFUQkwxM2twdUpaamlDOThOU3ljbURNR2xvUldPQUE3QXJaeU83bHNISHdCZw?oc=5",
                     "publishedAt": "2026-08-26T13:37:46.000Z",
                     "language": "nl",
-                    "summary": "# Summary\n\nA temporary restaurant is opening in Amsterdam Central Station's historic First Class restaurant, a monumental building. This is notable for visitors because it offers a unique dining experience in an iconic, heritage-listed location at one of Amsterdam's main transportation hubs, combining dining with the station's architectural character."
+                    "summary": "# Summary\n\nA temporary restaurant has opened in Amsterdam Central Station's historic 1st Class restaurant, a monumental building. Visitors to Amsterdam should care because it offers a unique dining experience in an iconic heritage location at the city's main transit hub, combining convenient access with historical ambiance."
                 }
             ]
         },
@@ -101,23 +101,15 @@
                     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPVmFpTnRQcFpUUXJxSGtQdlJkdmppcE55QUhhOFVaS1psM3gyZlJSRVEzZXBGZlBYa2Zya2kxTk95NEhpZUxkUFlkOHdFbWVJbURyTGI0MFRlVm5fdHVmcHpkR0JDZ0YwNThaakZESDl3TFlwTjNmeXlRdE96a3k1UlF1cDhBV1VlZW1xbVJtSUpWemc?oc=5",
                     "publishedAt": "2026-08-28T06:19:00.000Z",
                     "language": "nl",
-                    "summary": "# Summary\n\nI appreciate you sharing this, but I'm unable to provide a meaningful summary based on the information provided. The article appears to be a Dutch-language piece from De Tijd about favorite restaurants in Antwerp, but only the title and source are visible—the actual article content isn't included in your request.\n\nTo give you the concise 2-3 sentence summary you're looking for (focusing on specific restaurants mentioned and why visitors should care), I would need access to the full article text. Could you share the article content or body text?"
+                    "summary": "I appreciate you sharing this, but I'm unable to provide a meaningful summary based on what you've provided. The title and snippet you shared only indicate this is an article about favorite restaurants in Antwerp from the publication De Tijd, but there's no actual article content included.\n\nTo write the summary you're requesting, I would need the full article text so I can identify:\n- The specific restaurants mentioned\n- Why they're noteworthy\n- Practical details for visitors\n\nCould you share the full article content or a longer excerpt?"
                 },
                 {
-                    "title": "NET OPEN. Zussen Hanan (35) en Touba (29) van wijnbar Giraffe openen tweede zaak Mouton op Marnixplaats - HLN",
-                    "source": "HLN",
-                    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNS3hQVEVmMFJEQmp0LW5wLXBwNUx6dVpwNnRnODk0SnRiVVJtb3lOdlFKNTd4elN5Ym9iUVFudEtMaDloX1hhYkZUZ1ZPQmFiSGNDb1VHLWFFQlNpQ24xX1RLZFQwdWFLMEdDZkhSQWtaRjdKNGxrRUFVckNGQUJDMjFJWmM2OUs0YjZYVjd4bHlyU1JqZ2czc09kWm02Y2hZT0QtYUlCdEt5czZzbEdZWnV4eDVrazFBeXR3X3pzUHgyWmdyM0pEWXcxbHNFc0xlYlhj?oc=5",
-                    "publishedAt": "2026-08-28T09:17:31.000Z",
+                    "title": "Gloednieuw en kraakvers: deze 25 nieuwe restaurants geven smaak aan het najaar - De Morgen",
+                    "source": "De Morgen",
+                    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPd2xudzM0U3llWVhpc0djdENTcG82QjJIYlhlbGFJUXdsQ01KQl9xRldVRDRxVGR6M2U4Mng2dTc5UUNqVmVPX1ZhMmU2OFFSN2NtcFcxVlVoOThiQi0xRVZWVXZsSGdKcHptZTlyX21Sc2tNS0h3MjRrQ2swbzg0TzNwS3lOVmdLR1F1X3VKNDNlbHdXRGdnMDg2bUpPcmxGWFhmZ0R6Q043QWtSdHM5MU05QmpoTkFYOTBEb2ozbmVxTk9hV1pnZDJ5VQ?oc=5",
+                    "publishedAt": "2026-08-29T01:00:44.000Z",
                     "language": "nl",
-                    "summary": "# Summary\n\nSisters Hanan (35) and Touba (29) from the wine bar Giraffe have opened their second restaurant, **Mouton**, on Marnixplaats. Visitors to the city should care because it's a new dining option from established restaurateurs known for their wine bar, offering another place to experience their culinary style in a fresh location."
-                },
-                {
-                    "title": "Chef Tom Loockx opent met Fuzz eerste eigen restaurant in Antwerpen - De Tijd",
-                    "source": "De Tijd",
-                    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNVEpaeFpSYkg1cnlXOGN0b2xZRzYwVmZaZmE1aGgyQ3QzNm82ODRmbXVxUjJaY0J1eDhldTVFY3g3OHlrQmE0TjBxczVZZ2pkeEZBNDRzWk1mNG9uRFc5V3ItQnJoc3E3MFV4bGtpZ1ZTd09palJTRGRNRUx0aURQOTlsWlVJTnlMbi05QkRhUmltUHgwRmwtdHhscjFYcVo0WTYzbnlXSUVFWUtiM0h3TW1tdw?oc=5",
-                    "publishedAt": "2026-08-28T04:45:00.000Z",
-                    "language": "nl",
-                    "summary": "# Summary\n\nChef Tom Loockx has opened his first restaurant called Fuzz in Antwerp. Visitors to Antwerp should care because this marks a significant culinary milestone for a notable chef, offering them the opportunity to experience his cuisine in his own independent establishment for the first time."
+                    "summary": "# Summary\n\nI appreciate your request, but I'm unable to provide a complete summary because only the title and snippet were provided—the full article content wasn't included. \n\nFrom what's available: This **De Morgen article highlights 25 new restaurants opening this fall**, offering visitors to the city fresh dining options across various cuisines and styles. To give you specific details about which restaurants are featured and why they'd matter to your visit, I'd need access to the full article text.\n\nCould you share the complete article, or would you like me to help summarize it once you provide more content?"
                 },
                 {
                     "title": "Eigenaars van populaire bar en restaurant Tango openen nu ook bakkerij in Markgravewijk: “Andere oorden opzoeken” - HLN",
@@ -125,7 +117,23 @@
                     "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNcmlFQzhGZFFkYlUtajVqWEpieWp1U3dfWjhLdnNhem5kaG9NbGdsSEVmRHBTTm1sZXNBdG0zQ01HM2Q5b1UwdF9JSjI0S3JidlV1QXJnMmtNSWxPWlZKejFXSE9CLXlWZ0hsNVIyMzN6dldweWszeWFNYS1oVVVQNk95YWNLMDdWU0hxelg5MWdMSnpJSm9zX0Y3bHljZXR0aTJLSW1TZ2d4MzdvNzZ2SzJjektSVFVnUXdiWGE4VjhrRldiZ3BWYVdZT2FmZTl5ZjFpQUhCRWYyM2lYMm9SVVpQNA?oc=5",
                     "publishedAt": "2026-08-25T13:01:00.000Z",
                     "language": "nl",
-                    "summary": "# Summary\n\nThe owners of the popular bar and restaurant Tango have opened a new bakery in the Markgravewijk neighborhood. This expansion gives visitors to the city another dining option from the established Tango team, offering fresh baked goods in a different area beyond their original location. If you're already familiar with Tango's food and service, the bakery provides a convenient new spot to grab breakfast or baked items."
+                    "summary": "# Summary\n\nThe owners of the popular bar and restaurant Tango have opened a new bakery in the Markgravewijk neighborhood. This expansion gives visitors another dining option from an established, well-regarded hospitality team. If you're exploring the area, you can now enjoy baked goods from the trusted creators behind Tango's success."
+                },
+                {
+                    "title": "Bar Makadam al zesde horecazaak die failliet gaat op Mechelse Grote Markt: “Met pinten alleen red je het niet meer” - GVA",
+                    "source": "GVA",
+                    "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxNZjFpVHVXT3d3bWFDTmp5dk1fb3pMbW1BUmUzVlFaSm56dVZRcFB2OW83QU1JOGdhbWtVTGNwMVhFNU9hR1RqVkNFSDd3TXZya0s1amE2amZzYVpvOHFONmxnQ3hsYjFQNFZCUnpvbmlWek9QYVVjWEhkU2w4MlVOSVF3T3NxbGRMbWxZMThwRnNsMWtabzVZOEZwYWxYZG9IOHljMFZGN0RlMHozNVRSUDd5YmJpODNKMGhnYW5Sam9JZGdYeHZJdmlROTBwSldaVEtLQ2U4a2gxdE00ZG14U09HMW43X0M2N1NLbExrSkhGdHBNbFdlczdKMkFTTXNBeUVRN0lPeFoyd09SM0liT2lR?oc=5",
+                    "publishedAt": "2026-08-25T17:12:00.000Z",
+                    "language": "nl",
+                    "summary": "# Summary\n\nBar Makadam has become the sixth restaurant/bar to go bankrupt on Mechelen's main square (Grote Markt), highlighting the economic challenges facing hospitality businesses in the area. The closure suggests that traditional bar revenue from selling drinks alone is no longer sustainable for establishments in this location. Visitors to Mechelen should be aware of the struggling dining scene on the Grote Markt, as multiple venues are struggling financially despite the square's prominence as a tourist and social hub."
+                },
+                {
+                    "title": "Chef Tom Loockx opent met Fuzz eerste eigen restaurant in Antwerpen - De Tijd",
+                    "source": "De Tijd",
+                    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNVEpaeFpSYkg1cnlXOGN0b2xZRzYwVmZaZmE1aGgyQ3QzNm82ODRmbXVxUjJaY0J1eDhldTVFY3g3OHlrQmE0TjBxczVZZ2pkeEZBNDRzWk1mNG9uRFc5V3ItQnJoc3E3MFV4bGtpZ1ZTd09palJTRGRNRUx0aURQOTlsWlVJTnlMbi05QkRhUmltUHgwRmwtdHhscjFYcVo0WTYzbnlXSUVFWUtiM0h3TW1tdw?oc=5",
+                    "publishedAt": "2026-08-28T04:45:00.000Z",
+                    "language": "nl",
+                    "summary": "# Summary\n\nChef Tom Loockx has opened his first restaurant called **Fuzz in Antwerp**. This is notable because Loockx, an established chef, is launching his own independent dining venture for the first time. Visitors to Antwerp now have access to a new dining destination from an accomplished culinary figure."
                 }
             ]
         },
@@ -133,20 +141,12 @@
             "places": [],
             "news": [
                 {
-                    "title": "O novo wine bar de Lisboa é para o convívio descontraído de todos - pit.nit.pt",
-                    "source": "pit.nit.pt",
-                    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNbUlKX2FZak9oYzhFWktTeXg3YmkwYmUycUcwaUF5dC1KeTRNY1piaXI1WjRzblJCUHJBRXlPTnZucUNscUZyRmdSdXk3NVplOHZSNUtvcnJlLXhCcmF0QjQzNjNaeWRUUHo1cV84cDA3cDBVZFJUU1RqRmIyb0ZrMWFFbVR5YktFZm9xTGRhSmVZeENlRllJ?oc=5",
-                    "publishedAt": "2026-08-29T10:30:00.000Z",
+                    "title": "O novo wine bar de Lisboa tem copos de vinho a 4€, burrata, ostras e tábuas para partilhar - nit.pt",
+                    "source": "nit.pt",
+                    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOQzkwQlpwZkppS2s5eEtsTkpnVE1xczIxSk1IZ3J6RXgwd1BDWXQydkxXUXpxREN0R2hwX29lb0NpTVVlYjUxY2hJb3VodkNyVE5EbzBsZ212NGZoNGxnX3RWd1NiNEhkZTMzakdjZTFCSEJzb3I2aWxWaEhESk9iTEl6M2k0Y0dqamdpR0FNRmp5LURmVlFSejUxSkVSM3NZU3VVSmxIOHByRmdERGxNSGdLMTBLT3J0YzBLNUwwemJkcW4zNFk0?oc=5",
+                    "publishedAt": "2026-08-26T06:23:00.000Z",
                     "language": "pt",
-                    "summary": "I don't have access to the full article content beyond the title and snippet provided. Based on what's available, here's what I can tell you:\n\nA new wine bar has opened in Lisbon that's designed for casual, relaxed socializing among all types of visitors. While the specific name of the establishment isn't clear from the snippet, it appears to be a casual wine bar focused on creating a welcoming atmosphere for social gatherings rather than fine dining. Visitors to Lisbon would care about this as a laid-back spot to enjoy wine and socialize with friends or other travelers in an informal setting.\n\nTo give you more specific details (exact location, wine selection, price range, etc.), I would need access to the full article text."
-                },
-                {
-                    "title": "\"Um sítio onde tenho tantas memórias\": Vasco Palmeirim encontrou \"a meca do frango assado\" em Lisboa - versa - lifestyle",
-                    "source": "versa - lifestyle",
-                    "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPMTBNd1NNMjRrYU5CUU1CNDNzd3JIamduaUJPT3p4LTJGcXpWWHVjVnBLN01CZ2ZJcXNwa3M3bGpKVzE3TmIwcFdvYUZnOHRMVXFoMnFTRWF3cEtMSjdwSG9ubjl2ZFg1b2lia3dPVTViZHBtRFZQQXBJcTd1aG9NLURCbXpqaWRhTWZBWEhSQ1JTTzYyckowY0ZxN3UwR3dKZWRlVlpFX042bmNIZWF0YzExTGxqamxPdnFqcjVOQ0hBa2tJYUZiZGZfTXdpX0tndjJpVjNKbERyaHd2V1UwNl9DUktJYl9OcGJCdFJPWUYyTTVKX0ZTOGhZdW5jb1FBZUY3SkRITW50dw?oc=5",
-                    "publishedAt": "2026-08-25T11:42:27.000Z",
-                    "language": "pt",
-                    "summary": "I appreciate you sharing this, but I'm unable to provide a summary since only the title and source information were provided, not the actual article content. \n\nFrom the title alone, I can tell it's about Portuguese TV personality Vasco Palmeirim discovering a notable rotisserie chicken restaurant in Lisbon that he describes as \"the mecca of roasted chicken,\" a place with personal memories for him. To give you the practical details you're looking for (specific restaurant name, location, why visitors should go), I would need the full article text.\n\nWould you be able to share the article body so I can provide the summary you requested?"
+                    "summary": "# Summary\n\nA new wine bar has opened in Lisbon offering affordable wine by the glass (starting at €4) alongside a menu featuring burrata, oysters, and shareable charcuterie boards. This casual spot is worth visiting for tourists and locals looking for quality wine at budget-friendly prices with simple, shareable small plates in a relaxed atmosphere."
                 },
                 {
                     "title": "Prepare-se para viajar até Espanha sem sair de Lisboa: novo restaurante de tapas na Avenida da Liberdade - Flash.pt",
@@ -154,15 +154,15 @@
                     "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQODAxaEl2MDlwRlRKS3NsQnFGUjROeUhEcDA5WWtPRm9qQ2NYN1RGT1B5Y3FwblUwNy1XRG84dno1QlVoLXpENTh6b0NDZjlYemFRemwxZGhKVmFUUXZ6czduYmRPN2JCSGtrMW5FV3pXYTE1Qk9pTlZKYnJNQjJHbjNwMUhOcUJ1M1Z6NmJwc1JjSXBBU0YzY0VLTkVrSFVtNC1zcmE0OFNmT2JieFlfME1GWkNDaFBWRDZjaFRLbUFTbm92OHI0TVdJN1R1TS1oRURmNVNOTdIB0gFBVV95cUxQX2lHaEd6UEZSb1Z1OS11U2lvZ3RSSVRfWXJMM3lTd0htU2pONGVNaVdYbU9UaWRrV29fSU54NDNWdDdDS3BfVXVNS3JvSUltR3RVUFg1WkYxbE9ZT0tVUmN2N09SSGtHcTlJT29mQ1c0dlowWDlsaVFGMkhWX0pmMXY5NkVqWWRMWWlPSXdsOWhiNEFzUGtnZk85dUEtOXQzdTZwaF9xV2hpQlFiMzBlMFhDenFfM2Ytb2Jsb1p5elZLR04xSlR3ajUwMkd4RU81TUE?oc=5",
                     "publishedAt": "2026-08-26T11:50:00.000Z",
                     "language": "pt",
-                    "summary": "# Summary\n\nA new Spanish tapas restaurant has opened on Lisbon's Avenida da Liberdade, offering visitors an authentic Spanish dining experience without leaving the city. The spot specializes in traditional tapas and provides an opportunity to experience Spanish cuisine and culture in a prime central location. Food lovers and tourists visiting Lisbon should care because it's a convenient way to enjoy quality Spanish food in one of the city's most accessible and popular avenues."
+                    "summary": "# Summary\n\nA new Spanish tapas restaurant has opened on Lisbon's Avenida da Liberdade, offering visitors an authentic Spanish dining experience without leaving the city. The spot specializes in tapas, allowing guests to sample traditional Spanish small plates and cuisine. Travelers visiting Lisbon would appreciate this addition as a convenient way to enjoy Spanish food culture in a central location."
                 },
                 {
-                    "title": "Rocco. Um dos restaurantes mais bonitos de Lisboa tem novos pratos e são uma perdição para os fãs de gastronomia italiana - SAPO",
-                    "source": "SAPO",
-                    "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPWlJmVXUwTmg4LWxQUFp0eE9XdmhUdGJrdHJhMk9BSUk2cEdIMHp5VmdZSXhrV3ZYRlJaS2x6YWtZYkxJRE1wR1FBd01JZnFFUWRJS0t4ZXZYZGFjVnNnZ0N0REJwdGtHMFhPMk1XZ1pTeTVMWi1acXkxNEZHbDFqelA2SXFObThWX244ZG1fMWlLSV9WZm9iT0ZHTEYwOXlnZzJIcnZhcW9ZYWVGb1QyYmhMbmhQdkdzU1o5MXlkQVRqRGVjSDdMNmtlYWh2RDI3ZWJXWlZ6ZGJMRXh4Y3BjekV1Zm9Cc3JkVUh5VFRlQlhieG5aSU4zRmU0XzJ4eFk?oc=5",
-                    "publishedAt": "2026-08-27T18:30:00.000Z",
+                    "title": "\"Um sítio onde tenho tantas memórias\": Vasco Palmeirim encontrou \"a meca do frango assado\" em Lisboa - versa - lifestyle",
+                    "source": "versa - lifestyle",
+                    "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPMTBNd1NNMjRrYU5CUU1CNDNzd3JIamduaUJPT3p4LTJGcXpWWHVjVnBLN01CZ2ZJcXNwa3M3bGpKVzE3TmIwcFdvYUZnOHRMVXFoMnFTRWF3cEtMSjdwSG9ubjl2ZFg1b2lia3dPVTViZHBtRFZQQXBJcTd1aG9NLURCbXpqaWRhTWZBWEhSQ1JTTzYyckowY0ZxN3UwR3dKZWRlVlpFX042bmNIZWF0YzExTGxqamxPdnFqcjVOQ0hBa2tJYUZiZGZfTXdpX0tndjJpVjNKbERyaHd2V1UwNl9DUktJYl9OcGJCdFJPWUYyTTVKX0ZTOGhZdW5jb1FBZUY3SkRITW50dw?oc=5",
+                    "publishedAt": "2026-08-25T11:42:27.000Z",
                     "language": "pt",
-                    "summary": "# Summary\n\nRocco, one of Lisbon's most beautiful restaurants, has unveiled new dishes that will delight Italian cuisine enthusiasts. The restaurant's latest offerings are worth trying for visitors who appreciate high-quality Italian gastronomy. If you're visiting Lisbon and enjoy fine dining with aesthetic appeal, Rocco is a must-visit destination to experience their updated menu."
+                    "summary": "# Summary\n\nPortuguese TV personality Vasco Palmeirim has highlighted a beloved roasted chicken restaurant in Lisbon that holds special memories for him, calling it the \"mecca of roasted chicken.\" Visitors to Lisbon interested in authentic, traditional Portuguese cuisine and local favorites would find this spot worth visiting, especially if they're seeking a nostalgic dining experience that's been meaningful to locals. The article emphasizes this establishment's cultural significance and reputation for quality roasted chicken in the city."
                 },
                 {
                     "title": "Dois homens baleados à porta de bar no Seixal - CNN Portugal",
@@ -170,7 +170,15 @@
                     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQZklYOGZoSDJEWEVCalRIa2VEenBpdFJrWTdjcHBSWEV0SnRhYnVaN1ctZFRxU2d6WVlmZWc3Zzd6ZmUtRWF0SUtvQXdUeXNZY1l5eEdERGsyclNpV0NjeUxJSWlSOEk5MjRkZGdBUDgyMlY4MXBBeWFMMUlzRUpvSkNjNDJiUTNvYW9hX0RRWW5uRXNOMFBsY3hYMzR3cEhOOEZRSWVkd1FGSUxVVGRGTkFyN295ZnpVbS0wcXZobU0?oc=5",
                     "publishedAt": "2026-08-28T05:56:00.000Z",
                     "language": "pt",
-                    "summary": "I appreciate you sharing this, but I should note that this article appears to be about a violent crime incident (two men shot outside a bar in Seixal) rather than restaurant or food news. This doesn't match the restaurant/food news format you've asked me to summarize. \n\nIf you have an actual food or restaurant news article you'd like summarized, I'd be happy to help with that instead!"
+                    "summary": "# Summary\n\nI appreciate you sharing this, but I should note that this article is about a shooting incident at a bar in Seixal, Portugal—not restaurant or food news. The headline reports that two men were shot outside a bar, which is a crime story rather than dining/culinary coverage. This wouldn't be relevant for visitors planning where to eat in the city.\n\nIf you have an actual restaurant or food article you'd like summarized, I'd be happy to help!"
+                },
+                {
+                    "title": "Há um novo sports bar em Lisboa onde pode jogar golfe num campo virtual com 18 buracos - nit.pt",
+                    "source": "nit.pt",
+                    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOTHUycDNpd0IxU0J6ZU45Skd5YjRwSHpCMEtqd09Kd2ttYXJDVmMtd1UwMlJ5eUxOakprS3VNbmFmd0Z0SkVvOGwtVnRGSXpVU0ZRenMtR1FfYS04ZmhGQ1dsSVdzWUEtY1YxTmw2RGRJWVJ6UXlnTFJrQUUyTHNpdU5VejVoaElFMmZzQUExVnhiZUdEUHBQcTRXaUlyRE96UkpTS2kyeHF5TXF6UW1FeTFRSWYwck5OdC1VU1hrblg1WTFi?oc=5",
+                    "publishedAt": "2026-08-25T04:43:00.000Z",
+                    "language": "pt",
+                    "summary": "# Summary\n\nA new sports bar has opened in Lisbon that features a virtual golf course with 18 holes, allowing customers to play while enjoying food and drinks. Visitors to Lisbon can combine dining and entertainment at this venue, which offers a unique attraction beyond typical sports bar fare. This spot would appeal to golf enthusiasts and anyone looking for interactive entertainment options while eating out in the city."
                 }
             ]
         },
@@ -178,28 +186,12 @@
             "places": [],
             "news": [
                 {
-                    "title": "How a family-run Indian restaurant topped Newcastle's TripAdvisor rankings - Hexham Courant",
-                    "source": "Hexham Courant",
-                    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNMThjMm1hWFlVRGRteWcxRlNqVU1lbjc5dGVJd0VBNUxBYkxyT0hWWmNzaHJCb2FVWDk4b0htWGxReDVXLVE2R0FpbEM5LXpzWVFWbm1KMHBUb0Rzbzg0VlQ5a25IRC1vZG9DdHdLUU4tajZwWnhTd1h0MUVfYnM1N3JhNUVNRVB5dURaWU9LZ0ctY2RsNjcxZGduNVhYeDg?oc=5",
-                    "publishedAt": "2026-08-29T04:00:00.000Z",
+                    "title": "McFly visit Newcastle restaurant before playing gig at Leazes Park - Yahoo News UK",
+                    "source": "Yahoo News UK",
+                    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZF9nRHpYM2lscndubXFRTENnOVc5QWpfSC0wTzQ2OE1Nb0FJdG1fdTREZ19qb3Q2TGFNRDRkOXI2SG0xYllRUmh1TFROTkNCbGxzd05uMm5CakV5TlMwLWpFVl9RXzZjaTZCQkVBMDhnQk1YbzBHa2RFcW5qX2tGcThXbWpmck5x?oc=5",
+                    "publishedAt": "2026-08-30T10:48:04.000Z",
                     "language": "en",
-                    "summary": "# Summary\n\nA family-run Indian restaurant has achieved the top ranking on TripAdvisor for Newcastle, earning recognition for its quality and service. While the specific restaurant name isn't provided in the snippet, this achievement highlights an exceptional dining option worth visiting. Visitors to Newcastle looking for highly-rated authentic Indian cuisine should consider this top-ranked establishment for a reliable, well-reviewed meal."
-                },
-                {
-                    "title": "Gin & Rum Festival to take place at Newcastle landmark with 120 spirits, live music and themed bars - Chronicle Live",
-                    "source": "Chronicle Live",
-                    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQRXlNMGZiZWswVElYajlpYkRXWXZWeWFSbjlIYnRWS21raGJMaEhtcW9RYjh5Q2JLaEVCdG1kRzY0MVpvSWhvN2FZRHFmS29ZM05NTkk4ZDByLS1LZWJpZVptSnlGNWdHX2pJY3IyLXZ1WVZkeExDbjd5VGgxeWxPaWpDTHVPS1I2ZkplanZEajRkMXdTWXF3Q2FmTFNzT1gtdFU5aNIBqgFBVV95cUxQV1hhZk9vc0piWkZmbVFmczNreXZNZmRHQ0JtbVpIQ2lxMENnMGFmQVBJQVhhVjlGWGdqQWhhdHBZRWxIZnhOMGYwaFJ5X1QxVFpSYnZQcHlaeUlJeE9rQmp0aHViTGdtYWNBTGVEOC1GS2VBWmxjOFhQSjFFX0JIQURScVdzNGRqckxwVkw3d1pWOFZlZE1QcUx6eEdXdVNwcmlQb0p6ajNhZw?oc=5",
-                    "publishedAt": "2026-08-29T11:00:00.000Z",
-                    "language": "en",
-                    "summary": "# Summary\n\nA Gin & Rum Festival is coming to a Newcastle landmark, featuring 120 different spirits, live music, and themed bars for attendees to explore. While the specific restaurant venue isn't named in this snippet, visitors to Newcastle would want to know about this event for a unique opportunity to sample a wide variety of premium gin and rum offerings in an entertainment-focused setting. The combination of tastings, live performances, and themed experiences makes it an appealing social outing for spirit enthusiasts and those looking for distinctive nightlife in the city."
-                },
-                {
-                    "title": "Newcastle-under-Lyme sinkhole repairs leave pub landlord frustrated - BBC",
-                    "source": "BBC",
-                    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE91b0xsWENGbkNKVXRIVFd3aWhZSUJWYWpIVzZqRDc4eW5oLWhoRnA3RFlUTTlvYUVERG13M0RzeVhuVFFaMEdybERRRVBaaDY5LW1RckxnNERUWlhX?oc=5",
-                    "publishedAt": "2026-08-24T05:35:28.000Z",
-                    "language": "en",
-                    "summary": "# Summary\n\nI don't have access to the full article content beyond the title, so I cannot provide a detailed summary with specific information about the pub, the sinkhole repairs, or their impact. To give you an accurate 2-3 sentence summary focusing on the restaurant/pub name, why visitors should care, and the specific issue, I would need to see the complete article text. Could you share the full article or additional details?"
+                    "summary": "# Summary\n\nThe article reports that the British pop band McFly visited a Newcastle restaurant ahead of their concert at Leazes Park. While the snippet doesn't specify which restaurant they visited, this news would interest Newcastle visitors by highlighting a celebrity dining spot in the city and promoting the band's upcoming performance at a local venue."
                 },
                 {
                     "title": "Jungli spices up Newcastle dining scene - Bdaily",
@@ -207,15 +199,31 @@
                     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNUDZZeUlHRjRiWkR0TjIwYnk0dE9QTU1icncxMHp6aUtDa2xKZzlCTEtrWTc1MDNxUVVLRzJxSkt6ZGtpLXNqaTE4Ym5xTVpIcmdkajBvaEhNOTZmVWg0VXN5YXRpSGZBd2NNQmxESVhULWVMRDRBazdSVVRVakQtdXNSaUVMV3lWOGZ0dQ?oc=5",
                     "publishedAt": "2026-08-27T16:31:17.000Z",
                     "language": "en",
-                    "summary": "I don't have access to the full article content from Bdaily, only the title and snippet you've provided. Based on what's available, here's what I can tell you:\n\n**Jungli**, a new restaurant, is making an impact on Newcastle's dining scene with spiced cuisine. Visitors to Newcastle would care because it represents a fresh dining option that appears to offer bold, flavorful food in the local restaurant market.\n\nTo provide a more detailed and accurate summary with specific information about the menu, location, or unique features, I would need access to the complete article text."
+                    "summary": "I appreciate you sharing this, but I don't have access to the full article content—only the title and snippet you've provided. To give you an accurate 2-3 sentence summary with the specific details you're looking for (what the news is about, the restaurant's offerings, and why visitors should care), I'd need to read the complete article.\n\nCould you share the full article text, or would you like me to work with just what's available? If you can paste the body of the article, I'll provide a concise summary right away."
                 },
                 {
-                    "title": "Newcastle-under-Lyme pub reopens with 'new lease of life' following refurbishment - Stoke Nub News",
-                    "source": "Stoke Nub News",
-                    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOdU80QWUzNEowUzJteE9raVd3bXBrQnZreE8xaTVwZktEZEJSVXg4YmYxWDJtb1lKbG1uSkxYeUFXNGFwaUVuMkQ4VThwRWFoQ0dXU1l2aERmMlk3ZGloVkt1dnJjMkJuVlZNMERpTWRPYU10V3haamhLcDB5ejRvMjNKQ0F6VTVCaVlYUzVDeVp5S1BFTWloekJrLWZpNWtNNjZNVkItWGxlU3BGVDBRTlVZQnVWX1NvaXJhWl9R?oc=5",
-                    "publishedAt": "2026-08-28T16:09:00.000Z",
+                    "title": "The Newcastle killer who hasn't changed his ways and threatened to kill bar staff in terrifying raid - Chronicle Live",
+                    "source": "Chronicle Live",
+                    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPZFBtZEtuclU4SnpyQVBJc0VuMWdwY0hSdmFIeGJadm1LN19pUUc5dXVtcHR5ZGlKMWVrM0NrLU4zLUZjUlA1aWUwZmM1ZG9ROTlkX3lzRnRpLVhtNXN3U291SDc3alItdXU0TmVLRXJoempXY1lJOUxvUVBpSWVIUHMycW5lOHpBZ2NFdW52TUZwQ0xTdExjMGRsLVnSAaIBQVVfeXFMTm9vQi1zRC15aEJTRjhNQldyanE1MWg0Vm1JVjZ3S2RWMUZNTnVVTE0xZVhoTmZlNmk2TzBCNlZtZGQwcHZxREFYc0pSRElRS1RrN194U3pjcnBzMkRuRW5KTTR6WFhrQ2VCOWUxaTc2Q1IzRWNNeEZfeFBkdmE5eFVuU2g3YWlEMlI0dklSakFtQ3ZOWjJ2RE9fUW43QmR6VGl3?oc=5",
+                    "publishedAt": "2026-08-29T17:00:00.000Z",
                     "language": "en",
-                    "summary": "# Summary\n\nA pub in Newcastle-under-Lyme has reopened after undergoing a refurbishment, giving it a fresh new look and improved atmosphere. While the specific pub name isn't mentioned in the snippet provided, the reopening represents a revitalized dining and drinking destination in the area. Visitors to Newcastle-under-Lyme would want to know about this because it offers a refreshed venue option with presumably updated facilities and ambiance for socializing and dining out."
+                    "summary": "I can't summarize this article as requested because it's not actually a restaurant or food news article—it's a crime news story about a killer who threatened bar staff during an incident. While a bar is mentioned, the focus is on criminal activity rather than food/dining information that would be relevant for visitors to Newcastle.\n\nIf you have an actual restaurant or food news article you'd like summarized, I'd be happy to help!"
+                },
+                {
+                    "title": "How a family-run Indian restaurant topped Newcastle's TripAdvisor rankings - Hexham Courant",
+                    "source": "Hexham Courant",
+                    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNMThjMm1hWFlVRGRteWcxRlNqVU1lbjc5dGVJd0VBNUxBYkxyT0hWWmNzaHJCb2FVWDk4b0htWGxReDVXLVE2R0FpbEM5LXpzWVFWbm1KMHBUb0Rzbzg0VlQ5a25IRC1vZG9DdHdLUU4tajZwWnhTd1h0MUVfYnM1N3JhNUVNRVB5dURaWU9LZ0ctY2RsNjcxZGduNVhYeDg?oc=5",
+                    "publishedAt": "2026-08-29T04:00:00.000Z",
+                    "language": "en",
+                    "summary": "# Summary\n\nA family-run Indian restaurant in Newcastle has achieved the top ranking on TripAdvisor, making it a standout dining destination in the city. While the specific restaurant name isn't included in the snippet provided, this achievement indicates it offers exceptional food and service quality that visitors should consider when looking for authentic Indian cuisine in Newcastle."
+                },
+                {
+                    "title": "Newcastle-under-Lyme sinkhole repairs leave pub landlord frustrated - BBC",
+                    "source": "BBC",
+                    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE91b0xsWENGbkNKVXRIVFd3aWhZSUJWYWpIVzZqRDc4eW5oLWhoRnA3RFlUTTlvYUVERG13M0RzeVhuVFFaMEdybERRRVBaaDY5LW1RckxnNERUWlhX?oc=5",
+                    "publishedAt": "2026-08-24T05:35:28.000Z",
+                    "language": "en",
+                    "summary": "# Summary\n\nA sinkhole in Newcastle-under-Lyme has disrupted a local pub, leaving its landlord frustrated with the repair process and likely impact on business. While the article doesn't specify the pub's name in the snippet provided, visitors should be aware that ongoing road repairs may affect access to local establishments in the area. The situation highlights potential disruptions to dining and drinking venues during infrastructure work in the town."
                 }
             ]
         },
@@ -228,7 +236,7 @@
                     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAtb2lma3g1TjhPLTUxRGpja2RRXzFQbG9KV1VmM1pET1JvMDUtV0JhSlM0WGhMRDYwTGFib2FhT2c4ZUxIVzNteU9LazA3ZGdibWZrV3I1NzJuV1BIZnFobnJOWkdqM09SX01hYzlENWhiNHAtSnpBRmViZHl3UW8?oc=5",
                     "publishedAt": "2026-08-26T11:14:59.000Z",
                     "language": "en",
-                    "summary": "# Summary\n\nI appreciate your request, but I'm unable to provide a complete summary because only the title and snippet were provided—the full article content isn't included. \n\nFrom what's available, the news appears to be about **Tallinn's Estonia India Festival**, a cultural event designed to bring different communities together. To give you the practical details you're looking for (specific restaurants/food venues involved and why visitors should care), I would need access to the complete article text.\n\nIf you can share the full article, I'd be happy to provide a concise 2-3 sentence summary focused on those details."
+                    "summary": "# Summary\n\nI don't have access to the full article content—only the title and snippet you provided. However, based on the title, this appears to be about an **Estonia India Festival in Tallinn** that uses cultural exchange and food as a way to bring different communities together. \n\nTo give you the practical 2-3 sentence summary you requested, I'd need the full article text. Could you share more details about which specific restaurants or food venues are featured, or provide the article body?"
                 }
             ]
         }
