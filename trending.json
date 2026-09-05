@@ -1,49 +1,49 @@
 {
-    "lastUpdated": "2026-09-04T10:06:26.205Z",
+    "lastUpdated": "2026-09-05T09:35:43.863Z",
     "source": "github-actions",
     "cities": {
         "cologne": {
             "places": [],
             "news": [
                 {
-                    "title": "Versteckte Biergarten-Oase im Restaurant Pöttgen - Mit Vergnügen Köln",
-                    "source": "Mit Vergnügen Köln",
-                    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1fdkRUenl2TWZEMURPckhmTTVVUkUtdjNkVGZ1UDVjc2toT3hiUHJwT2FneXVELVRsXzViVm9YVmNrZnBnR0NQTkxCMzhqVnZzNjhvbzVBMTA2QkhqWFVNTFRoWi1lRXJTaWhCOWlyVVZJZ08xblZLTw?oc=5",
-                    "publishedAt": "2026-09-03T22:03:25.000Z",
-                    "language": "de",
-                    "summary": "# Summary\n\nRestaurant Pöttgen in Cologne features a hidden beer garden oasis that's worth discovering. This secluded spot offers a unique dining experience combining traditional German beer garden atmosphere with restaurant service. Visitors to Cologne should seek it out for an authentic, tucked-away place to enjoy beer and food away from the typical crowded tourist areas."
-                },
-                {
-                    "title": "Zehn Tage, Dutzende Spielorte, Kostenlose Konzerte: Shalom-Festival startet in Köln - WDR",
+                    "title": "Erneuter Vorfall: Fünf Schüsse auf eine türkische Bar in Köln - WDR",
                     "source": "WDR",
-                    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOZVpZYmpDUzNlMGcwZzAtLXRQZk5xYkxibXRNSE1lLVlScE5mVFRmTk5WZm50SDVLRzZ4TEo4eW5hRkxnbHZTQWFCRElVc1JwYkx2NktjWmVXS1QtYjJDTEozLW9TdjJBLUFXUGlfdEhlbGxtMWJtdDZ0dUJsOTB2ZjZtOTdBRE1FYVd3SDVOSU04X3hTWWpn?oc=5",
-                    "publishedAt": "2026-09-01T06:03:02.000Z",
+                    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBkUzVyY21HVWdBcldRbF9WRTBqUWNxLWw5LV9Id3RMZVllcTJfRWhmMHlHYlZKbk1BcnhkaEtjVmJlc2xmd3ctbFNrbS14QXloMDRET3lqS0xXNmlFY3hENEZWWWx3VWta?oc=5",
+                    "publishedAt": "2026-09-05T07:56:31.000Z",
                     "language": "de",
-                    "summary": "I appreciate you sharing this, but this article isn't about a restaurant or food spot—it's about the Shalom Festival, a 10-day music festival in Cologne featuring free concerts at dozens of venues. Since it's not food/restaurant news, I can't provide the restaurant-focused summary you requested. If you have a food or dining article you'd like summarized instead, I'd be happy to help!"
+                    "summary": "I appreciate you sharing this, but this article is **not about food or restaurants** — it's reporting on a shooting incident at a Turkish bar in Cologne, which is a crime/safety news story, not a restaurant review or food news article.\n\nIf you have an actual restaurant or food news article you'd like summarized, I'd be happy to help with that instead!"
                 },
                 {
-                    "title": "Fine Food Days Cologne 2026 in Köln am 04.09.2026 - PRINZ Magazin",
-                    "source": "PRINZ Magazin",
-                    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1JNTlydjJGbjdpU1F1Q2pmQUxNbUptRF9XNVNjTWg1Y2tEY25LWmF2NUhJR0VDZlBXZzhmVnhzR3FSMVZUNXhlRmZydDhoTFFxZWtiWlRjbEdwWjJucHp0WEs1bExFdjlBcU13U1Utalg?oc=5",
-                    "publishedAt": "2026-09-04T07:24:21.000Z",
+                    "title": "Nordrhein-Westfalen: Schüsse auf türkische Bar in Köln - tagesschau.de",
+                    "source": "tagesschau.de",
+                    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQMnNJRnFUbUxxOERvS3FUeGk2QU8ybFhHbXFkckhzRW14Q1RuLWN6NXJ5UkhWWEZHTWpIdkFDWjllVjJSUEYwdENTUGc4amJZenp0Y05naU9YMzNjMmNCNDd3b1didUZCUkFHdnBGeUZpYkdWRElVQXNjek1SdVZoYzRpTDlDWWRNdERxYUlrcDZ2ZUN4a1haQ1UzNkJRc3hyLXRZNlN4RjJSZUhfczNWdmZEVTdyMTVJeGhKR2Zkb3h0Nnc?oc=5",
+                    "publishedAt": "2026-09-05T08:23:00.000Z",
                     "language": "de",
-                    "summary": "# Summary\n\nFine Food Days Cologne is a culinary event taking place in Cologne on September 4, 2026, showcasing fine dining and gourmet food experiences. While the snippet doesn't specify individual restaurants, this annual event brings together top chefs and food establishments for tastings and demonstrations. Visitors to Cologne looking for high-end dining experiences and culinary trends should mark this date as a must-attend food festival."
+                    "summary": "I appreciate you sharing this, but this article isn't actually about a restaurant or food news—it's a news story about shots fired at a Turkish bar in Cologne, which is a crime/safety incident, not a dining or food review article.\n\nIf you have a food or restaurant article you'd like summarized, I'd be happy to help with that instead!"
                 },
                 {
-                    "title": "Schüsse in Köln-Mülheim: 41-Jähriger schwer verletzt -Tatverdächtiger festgenommen - BILD",
-                    "source": "BILD",
-                    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOQ2R4bmJXRFU5RkdzTzFaVXl3VkxTbUFfcXdrQ1JMVlY2X3RrN0FwQkx2N3RaZkRScUd5ZWVLOHhlOFdDYl95OWZSdnFYc0JsWkdsWEZlZ21fWmh6Y0Fmb2tVVDc0dWJ3OEF3NGN5dS1QQjBzOVhxSWwzNFJqYnFlSEV3bE5JaFlNc2VsWVZCc1FaaERlRVl1NkNVdUh2UQ?oc=5",
-                    "publishedAt": "2026-08-31T14:25:37.000Z",
+                    "title": "Schüsse auf Bar in Köln - Radio Erft",
+                    "source": "Radio Erft",
+                    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE45ZEU1VTM2cWhXM2V4cW5iajhyUUVKeV82d2J3UTBhNndpSlFoeGhnTm1HckdPWUFwZkJkUTVzbmVvQlE2SGVGQnNBR3dBalJrRG5HTzdXTW1mbUpZTXp6VmVsS05wWm9CMzF5WG9JbGdNcElI?oc=5",
+                    "publishedAt": "2026-09-05T07:49:00.000Z",
                     "language": "de",
-                    "summary": "I appreciate you sharing this, but I need to clarify: this article is **not about a restaurant or food news**. \n\nThe headline is about a shooting incident in Cologne-Mülheim where a 41-year-old was seriously injured and a suspect was arrested—this is a crime/safety news story, not food or restaurant-related content.\n\nIf you have a restaurant or food article you'd like summarized, I'd be happy to help!"
+                    "summary": "I can see this is a German news headline about shots fired at a bar in Cologne, but this appears to be a crime/safety incident rather than restaurant or food news. The snippet doesn't contain information about dining, cuisine, or food service that would be relevant to visitors planning dining experiences.\n\nIf you have an actual restaurant or food-related news article you'd like summarized, I'd be happy to help with that instead."
                 },
                 {
-                    "title": "Tapas-Bars: 15 Restaurants in Köln für einen Abend wie in Spanien - ksta.de",
-                    "source": "ksta.de",
-                    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNSE9CS2VjYlAwbTJQbnhGaDRvS1FSSTlvNldLblZRYm9mZE9nRHIwSFI4MVc1UGFTX0UwLVVzamFVdE9KRnRNUHdWYkZuT3YtSms1a2xHeUpjQklmbl9NQmRzY01oYk1tMy1wVmp1T3lqcE53R2lxTjlZc2RpWDBpMmQ3RUlyMXkwcEhYTTln?oc=5",
-                    "publishedAt": "2026-09-01T09:37:34.000Z",
+                    "title": "Nordrhein-Westfalen: Erneut Schüsse auf Kölner Gastronomiebetrieb - n-tv.de",
+                    "source": "n-tv.de",
+                    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOcVpzUXRHZE9GZ2hCaWFmQXJtOVFZczRxWkR1UU5kQzhQWGVqRnVfN002NF9NRVczM1dEeXBfeDQ0VkJFeEI4clZXVGtEMGJ3MVZCbkJoOWdpWVhJSzByME8wbkNKM3JCdlJEeHViX213TFBYT0FGSWt5ZGl4Q1pPbFdqeFdsdGxuM0VnZGIwbHB4TkJ1SFBERWQ3eDZiY1RTSXNpaGhfUmMxdUNZbUQ4Q2c4cw?oc=5",
+                    "publishedAt": "2026-09-05T09:06:00.000Z",
                     "language": "de",
-                    "summary": "# Summary\n\nThe article highlights 15 tapas bars in Cologne where visitors can experience an authentic Spanish evening. These restaurants offer traditional Spanish small plates and atmosphere, making them ideal for travelers seeking Mediterranean dining without leaving Germany. Visitors to Cologne looking for casual, social dining with Spanish cuisine should consult this list to find the best tapas options in the city."
+                    "summary": "I appreciate you sharing this article, but I should clarify that this isn't actually a restaurant/food news article—it's a crime news story about shots fired at a gastronomy establishment in Cologne. The headline reports on a shooting incident at a Cologne restaurant, which is a public safety matter rather than food or dining news. Visitors to Cologne would want to know about this for safety awareness rather than dining recommendations."
+                },
+                {
+                    "title": "Polizei vor Ort: Mehrere Schüsse auf türkische Bar in Köln - Kölnische Rundschau",
+                    "source": "Kölnische Rundschau",
+                    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNblE3cE52WGNOVmg4amMxMHRBTUIyZGRZMl8wU2VtMDBIUTdEeExNRmNTaEUxZHhwdTdiNEE3WDJSaTdtQkFKWG9xd29kanI3MlRWREtpa2lMNXlna3plcEJ5WjRST19hQ1VIUEt2c2p0NW14RHdnZVRnd0hfQnZpUnVmRC1FVS1zcTZ6NGhIaEVBTUVYN0Z1djhBd3k0UWVOMG1ENDVvZ3g?oc=5",
+                    "publishedAt": "2026-09-05T07:27:55.000Z",
+                    "language": "de",
+                    "summary": "I appreciate you sharing this, but this isn't actually a restaurant/food news article—it's a crime story about a shooting at a Turkish bar in Cologne. The headline translates to \"Police on scene: Multiple shots fired at Turkish bar in Cologne,\" which reports a serious criminal incident rather than restaurant news, reviews, or food-related information.\n\nIf you have an actual restaurant or food article you'd like summarized, I'd be happy to help with that instead."
                 }
             ]
         },
@@ -51,36 +51,20 @@
             "places": [],
             "news": [
                 {
-                    "title": "Ondernemers over half jaar Bouillon d'Amsterdam: 'Derde vestiging komt eraan' - Misset Horeca",
-                    "source": "Misset Horeca",
-                    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOVnpBVXVOR3JfS2tNQTdDTHQ0anY5SGtfd2dLcWdGT3RHelhwRFFjbXYwWWpIZmp2cFJtWmp6anVkazZlZXpBOUZ5Y3R2NkV1aVloYThQOTNlalUwaXRSQk9JS3hLT2I4RHdZOHFXTDJ3ZGl3VS1WVzFUcjVJeXcyS1M3QVdOWTl4?oc=5",
-                    "publishedAt": "2026-09-04T05:07:00.000Z",
+                    "title": "Dit zijn de 12 lekkerste betaalbare restaurants in Amsterdam van dit moment - Het Parool",
+                    "source": "Het Parool",
+                    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxObzliYWhicVM4bm1vc2RMb2JGV3g4cmx0RkVfZURSREZ1WlpfVlQzR19DMVZXc054eDVFeUcxQnhQOUFxWTJKVUdqR1Bmek5VcE9fUjlhY1JfTXJJb0I5cXc0WjJVTDJtc0RTekN4N25ObzZyQWV2dDBWWXFkSTBtdUl1VnhlMFZqOWZrQjdpbDdiTlhMbmZJemdkQVlyMC13ZEhmdjU4SThSM1JCNHlFbnFVY24xR3RCNHNlX3dGMWc0UQ?oc=5",
+                    "publishedAt": "2026-09-04T01:00:00.000Z",
                     "language": "nl",
-                    "summary": "# Summary\n\nBouillon d'Amsterdam, a popular Amsterdam restaurant, is expanding with a third location coming soon, according to the owners in an interview about the restaurant's first six months of operation. Visitors to Amsterdam should care because this indicates the restaurant's success and growing availability of dining options at what appears to be a well-regarded establishment. The expansion suggests the concept is thriving enough to warrant multiple venues across the city."
+                    "summary": "# Summary\n\nHet Parool has compiled a list of the 12 best affordable restaurants currently operating in Amsterdam, highlighting budget-friendly dining options across the city. Visitors to Amsterdam would find this guide useful for discovering quality meals without breaking the bank, as it identifies specific restaurants that offer good food at reasonable prices. This is a practical resource for tourists and locals alike looking to eat well while managing their food budget."
                 },
                 {
-                    "title": "Halsema wil regels voor Amsterdamse horeca verduidelijken: ‘Spontaan dansen in een café blijft mogelijk’ - parool.nl",
-                    "source": "parool.nl",
-                    "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQWElHWnptOVpZVFZaU2dQT1JmVndwMXJKVGJxalRFeTZFdEFfWVZSR0NjcTJLOWVzMGpQV0J1VUNlVWlMUDdya0VycmpERDhicjYzbGhMd1h2R2tPS3hscXlDZjlMVThISnViN1F0UGgzcXVfeW9JbUJybzRON0VTZkdwb2JDRm05a2dEOVlReGhZZ0dnVkFUbUwtbndsTXNnT2tuVWJMeXljNXRMd0lVVi1xWXFYWjQ2MVc3aWtuQ1M0b2dyTWlpZS1KX09qelpQd3dGcFpfeFJRNXM?oc=5",
-                    "publishedAt": "2026-09-01T15:06:00.000Z",
+                    "title": "De gefrituurde mieren hoeven niet, maar verder is Oaxaca verrassend en origineel Mexicaans - De Telegraaf",
+                    "source": "De Telegraaf",
+                    "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNclU0T21LM19QQ3Z3ekUySk1aVV80MEw0QlRMOUR2VFBEb2JnRDJlblFldml0UUd6YVU4bkNSdjgzRk1RRkdRSlJEcnR1ZDd0dmpwVnZNLVlXVUp2S1NFMmpOWkNRaC1NSVNVYU1HNFB4dnNxT1JGRVBKb29kS3N3dlhNMG1FUVBqcHlpSUtFY2pDNXJzVE9qSUVHRDhfU2tVQU5WY2h3cUpwRjBkLXhLbUF5V1p1SUZmc09HX2pxd3JjSWVXVWQ3dmNiajNKX09DNkVLRmp2eU1LYlFmQ2dGQ2NKUUNXUnliTmlN?oc=5",
+                    "publishedAt": "2026-09-04T22:30:00.000Z",
                     "language": "nl",
-                    "summary": "# Summary\n\nAmsterdam's Mayor Halsema is clarifying regulations for the city's hospitality venues, confirming that spontaneous dancing in cafés will remain permitted. This news matters to visitors because it clarifies what's actually allowed in Amsterdam's famous café culture, ensuring that the casual, lively atmosphere of dancing in bars and cafés isn't being restricted. The ruling provides clarity for both tourists and locals about what behavior is acceptable in Amsterdam's hospitality establishments."
-                },
-                {
-                    "title": "Poolbar de Gracht in Amsterdam combineert spel, horeca én technologie - Entree Magazine",
-                    "source": "Entree Magazine",
-                    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPcWZTZXE2OVFSZEtkVG5seWFPSU1SOWFlS3BPaE9tMFZObzlVam12WDFROFJZMGs4d21MQWRKVkFIWFN5NEF3Ym5XTjcxMmpNME9OajNJdDJlTWxyTXV1M29qQzI1dWFmdU04N3NnNWxBbUZPdDhzU2F3Z19jUHZFb09SV1JZeGRlMHBURjNsVUNNd1FSTFJtMENXeUtIQW55b3k4YkMtY092eHhVZ1E?oc=5",
-                    "publishedAt": "2026-08-31T07:33:00.000Z",
-                    "language": "nl",
-                    "summary": "I appreciate you sharing this article, but I'm unable to provide a summary because only the title and source information were provided—not the full article content. The snippet doesn't contain the actual details about Poolbar de Gracht's concept, offerings, or why visitors should care.\n\nIf you could share the complete article text, I'd be happy to summarize it in 2-3 sentences focusing on what makes this Amsterdam spot unique and relevant for visitors."
-                },
-                {
-                    "title": "Op naar de ster? Deze Amsterdamse restaurants staan sinds augustus in de picture bij Michelin - indebuurt.nl",
-                    "source": "indebuurt.nl",
-                    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQU0JrblI1YnZ3cV9kcmNlREFaYmRPbXgzVGRwQ3RDdUxObTRJeXNrX2NpS05OMU02NWN3V1ZIUUo3eDltengyX2dBd2JqZmpBYzZVWnNNWmhEbVlVeXRKNnRJSmU0VDh6UW0wYmlQRnItN1B3ZXFnZ3V3ZVYwbkhvQ1lfV3k5M2M?oc=5",
-                    "publishedAt": "2026-09-01T14:00:00.000Z",
-                    "language": "nl",
-                    "summary": "# Summary\n\nSeveral Amsterdam restaurants have been on Michelin's radar since August and are candidates for star recognition in the upcoming guide. While the article doesn't name specific restaurants in the snippet provided, it highlights which local dining spots are being considered for Michelin stars. For visitors to Amsterdam, this is valuable information for discovering high-quality restaurants worth trying before they potentially gain official star status."
+                    "summary": "# Summary\n\nThis article reviews Oaxaca, a Mexican restaurant in the Netherlands, praising its surprising and original Mexican cuisine while noting that fried ants (a traditional Oaxacan delicacy) are on the menu for the adventurous. Visitors to the city would be interested in this restaurant for its authentic and creative take on traditional Mexican food, offering a genuine culinary experience beyond typical Mexican fare."
                 },
                 {
                     "title": "Entree Awards 2026: 5 genomineerden Best New Mega Restaurant - Entree Magazine",
@@ -88,7 +72,23 @@
                     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPeTJFU0V6UndnVlltQ1FxaVh0am5NT1EwbFZkQU1abHlhMTMxaXFnUWxUdjhvdXAtQXBEM3JjV29tb28xSmpFc1pFNUJvWTFmNVBmelBFOFNMdEdNUnlTTWVaSlppYjI3Y0VZWUdSaVB2QXFvTE1Ea3NCRGlnYU5zSGQxZW1jOGZOLWV1aFQ1b3p6UQ?oc=5",
                     "publishedAt": "2026-09-02T06:09:33.000Z",
                     "language": "nl",
-                    "summary": "I appreciate you sharing this article, but I'm unable to provide a detailed summary because the snippet provided is minimal—it only contains the title and publication information without the actual article content. \n\nFrom what's available, this appears to be about **Entree Magazine's 2026 Awards announcing 5 nominees for \"Best New Mega Restaurant,\"** but I cannot tell you which specific restaurants are nominated or why visitors should care without access to the full article text. If you can share the complete article content, I'd be happy to provide the 2-3 sentence summary you requested."
+                    "summary": "I appreciate you sharing this, but I'm unable to provide a detailed summary because the snippet provided is very limited—it only contains the title and headline without the actual article content. \n\nFrom what's visible, this appears to be about Entree Magazine's 2026 Awards announcing five nominees for \"Best New Mega Restaurant,\" but I'd need the full article text to tell you which specific restaurants are nominated, why they matter, and why visitors to the city should care.\n\nIf you can share the complete article text, I'd be happy to create a concise 2-3 sentence summary for you."
+                },
+                {
+                    "title": "Ondernemers over half jaar Bouillon d'Amsterdam: 'Derde vestiging komt eraan' - Misset Horeca",
+                    "source": "Misset Horeca",
+                    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOVnpBVXVOR3JfS2tNQTdDTHQ0anY5SGtfd2dLcWdGT3RHelhwRFFjbXYwWWpIZmp2cFJtWmp6anVkazZlZXpBOUZ5Y3R2NkV1aVloYThQOTNlalUwaXRSQk9JS3hLT2I4RHdZOHFXTDJ3ZGl3VS1WVzFUcjVJeXcyS1M3QVdOWTl4?oc=5",
+                    "publishedAt": "2026-09-04T05:34:47.000Z",
+                    "language": "nl",
+                    "summary": "# Summary\n\nI apologize, but I can only see the title and snippet in Dutch without access to the full article content. Based on what's visible: **Bouillon d'Amsterdam**, a restaurant group, is celebrating six months of operation and announcing plans for a third location expansion. Visitors to Amsterdam would care about this because it signals the restaurant's success and means more dining options from this establishment across the city in the coming months.\n\nTo provide a more detailed summary, I would need access to the complete article text."
+                },
+                {
+                    "title": "Op naar de ster? Deze Amsterdamse restaurants staan sinds augustus in de picture bij Michelin - indebuurt.nl",
+                    "source": "indebuurt.nl",
+                    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQU0JrblI1YnZ3cV9kcmNlREFaYmRPbXgzVGRwQ3RDdUxObTRJeXNrX2NpS05OMU02NWN3V1ZIUUo3eDltengyX2dBd2JqZmpBYzZVWnNNWmhEbVlVeXRKNnRJSmU0VDh6UW0wYmlQRnItN1B3ZXFnZ3V3ZVYwbkhvQ1lfV3k5M2M?oc=5",
+                    "publishedAt": "2026-09-01T14:00:00.000Z",
+                    "language": "nl",
+                    "summary": "# Summary\n\nSeveral Amsterdam restaurants have been on Michelin's radar since August and are considered candidates for potential star ratings in upcoming reviews. While the article doesn't specify which restaurants are under consideration, this news matters to visitors because it highlights which dining establishments are gaining recognition and may soon achieve prestigious Michelin recognition. For food-focused travelers, this is useful intel on where to find Amsterdam's most promising culinary venues."
                 }
             ]
         },
@@ -96,44 +96,44 @@
             "places": [],
             "news": [
                 {
+                    "title": "Spice Bank, de bank waar het plezier van de borden spat ⦿⦿⦿⦿ - De Standaard",
+                    "source": "De Standaard",
+                    "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPVzZQOFctOHVZcnVoOTRRU1czY1E5UWpOdEo3LUZ4YWFaNXFaWmdrSTZsWVdpWGF5WnQ5Q3AtU2JVZEZwTVhzMHZlQkIxRlhLdFpOaTkybDdLNVNmaUJnTTBZWUk3OGRGVUFZUjdJYW5ieS1GZ2czVWV0aUdhdEV1OHZ5cUhPYmE5X3ZvMjhVTmxaOTlKb0R3S3lseFRoYUtEUmJaYVNoT1NldzdmU214cEh3ckNaYjVOSHdtZ3NVT2taMDF1ZVljaTd0UXNnaVlBQm1sZw?oc=5",
+                    "publishedAt": "2026-09-04T23:59:00.000Z",
+                    "language": "nl",
+                    "summary": "I appreciate you sharing this article, but I'm unable to provide a summary based solely on the title and snippet provided. The snippet doesn't contain any actual article content—just the headline repeated.\n\nTo give you a helpful 2-3 sentence summary covering what the news is about, the restaurant details, and why visitors would care, I would need access to the full article text. \n\nCould you share the article content or a longer excerpt? Then I'd be happy to create the concise summary you're looking for about Spice Bank."
+                },
+                {
                     "title": "Broers achter Colmar-restaurants starten nieuw concept in Antwerpen en Gent: “Komt overgewaaid uit Frankrijk” - Nieuwsblad",
                     "source": "Nieuwsblad",
                     "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPcktPblprNFhBaGtVSEtteUhkLUF4YUFBV3FZT0laRmxJenZJcS1QaVdvZkMzaEpmN1NsMGJQT0tSbTRXaEVDU1VCelZoQUhmSmNnN0xMMjJYTWFNbTR1S01iWU0zMU8xRUMzSHhfckZzYXdoVVlNVHpmLUI4eWlHcElvdDd0c2tUMzRJbmhHX2s0V3ctbVZUd1pmb2VabU9kanF6YWJRN2NCbENBa1BxbW82TW16RnRad0tfMHVYc1J4dWpFSEJobHpjSHBUVE1RSXoxUC1yczBuNWRIQjV2WVpfUjR1cVdwT3BkTGRDaw?oc=5",
-                    "publishedAt": "2026-09-04T00:44:50.000Z",
+                    "publishedAt": "2026-09-03T15:44:00.000Z",
                     "language": "nl",
-                    "summary": "# Summary\n\nThe brothers behind the successful Colmar restaurant group are launching a new dining concept in Antwerp and Ghent, bringing a French-inspired format to Belgian cities. This expansion is significant for visitors because it introduces a fresh restaurant concept from the proven team behind Colmar's popular establishments. Food enthusiasts in both cities should watch for the opening of these new spots offering what's expected to be quality French-influenced cuisine."
+                    "summary": "# Summary\n\nThe brothers behind the successful Colmar restaurant group are launching a new dining concept in Antwerp and Ghent, bringing a French-inspired format to Belgium. This expansion is significant for visitors to these cities who are interested in quality dining, as it represents a proven restaurant team bringing fresh culinary offerings to the local food scene. The new concept originates from France, suggesting it will offer something different from their existing Colmar restaurants."
                 },
                 {
-                    "title": "Aan tafel met advocate Davina Simons: “Als kind ging ik nooit op restaurant” - GVA",
+                    "title": "Gek op tiramisu? Antwerpse chef verkoopt iconisch dessert vanachter luik: “Ook met ananas of aardbei” - GVA",
                     "source": "GVA",
-                    "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPdElKX3ExSDNYRDhERm1iR2ZBSjBFV0dxSGRvZ2VvWjROUWdySDE0OHZOZldKZUZfTV9RN0hwalNuN3dIUS1OSUZVLWRGb1NoemJTMmY5Z1A4NFh2N20xSnJJclpXbzM4QkM1cHNlYnUzdEdtTTY3b0F4OWQ2Q3htTWhZOTRtc1RzTmpuejR4Nk9FQnp1SEJ3MGoxQ3pTa2FDMlhXWUljTllTT3FRUkZPS3JTei13VU13OWVjbnFHWHI4VXdGY3lTWkwxNlVXNDFmUjJvMTU3WWFTUF96WWtRYjNrMA?oc=5",
-                    "publishedAt": "2026-09-04T07:37:08.000Z",
+                    "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOZk5Gak9wTTJnRWg1TmVVcFFscm1WZm50YjdQZXkwczZ0STNTUm1pWXhkRTg5Q2dTeW5DRC1GSlM0YVM1OVcyNVpDUU1MTHdodGlIclhaZVU2ZGhFV291czQ0QUZ0d3hxRGFXcDg3UkNXMVlheHJpSGlTdmJaMEdibmpCd3Jnc1JGSmVlbzlhMHcyMTVHVmcweUx6ZW11Y2d1dUtTdnpKWEVUaW5SdHRwRVAtQkt1YTBWa0JVQnlhMy05RzhoT2xZb2Z6U3dwUHAzeXRDX29vektwbS00eHgtSUx5eDBPQnEwaVRJLVVKMlFJNEpoLXVmVVM5UlFlWTdjVHFr?oc=5",
+                    "publishedAt": "2026-09-03T00:00:00.000Z",
                     "language": "nl",
-                    "summary": "I appreciate you sharing this article, but I'm unable to provide a helpful summary because the snippet provided is incomplete—it only contains the headline and source information, not the actual article content.\n\nTo summarize this piece effectively, I would need the full article text to identify:\n- The specific restaurant or food venue discussed\n- The main news or focus of the interview\n- Relevant details for visitors\n\nIf you can share the complete article text, I'd be happy to provide a concise 2-3 sentence summary in English."
+                    "summary": "# Summary\n\nAn Antwerp chef is now selling their signature tiramisu through a window/hatch, offering the classic version along with creative fruit variations like pineapple and strawberry. This is a convenient grab-and-go option for visitors to Antwerp who want to try an iconic dessert without needing a full restaurant reservation. It's a practical way to experience local culinary creativity while exploring the city."
                 },
                 {
                     "title": "Topchef Tom Loockx (32) opent eerste eigen restaurant op het Eilandje in Antwerpen: “Met Fuzz wil ik mijn eigen wereld creëren” - HLN",
                     "source": "HLN",
                     "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPWDM5OGxKZVpCM1ZCU1B5a2szVmU4ZlZvSUV1SUN5R1lNeHlnUFVfQ2ZRQUJfelUtTUlrT3NhUy1LNmREYlNuQ3Y1OS1mQVhGNElxVU5FQkNSQ3VhaG9sbVlETkhyd2pieEltR1RDTUdvREc5Q08xX2c5cWFCWlJEZ3VqNFh1dlRSUUxiN3ZQdnpkeEZRcE9pcHBQdUlhcUxTc2VqSXg2WGtnaGVoZ0x1VVlNdVF1dnpGakFrbnlxSm5GM0JwUzhKWXJacFFqNnFfUDNKZzFzMTVZdnAwQTMydUk3V01HYktNTWkyd1c0dHJvVlU?oc=5",
-                    "publishedAt": "2026-09-03T13:43:40.000Z",
+                    "publishedAt": "2026-09-02T14:44:00.000Z",
                     "language": "nl",
-                    "summary": "# Summary\n\nTop chef Tom Loockx (32) has opened his first restaurant called **Fuzz** in the Eilandje district of Antwerpen, where he aims to create his own culinary vision. Visitors to Antwerp should care because this is a new dining destination from an established chef who is bringing his expertise and creative approach to the city's restaurant scene. The opening represents an exciting addition to the local food culture in a popular waterfront neighborhood."
+                    "summary": "# Summary\n\nTop chef Tom Loockx (32) is opening his first restaurant called **Fuzz** in the Eilandje neighborhood of Antwerp, where he aims to create his own culinary vision. Visitors to Antwerp should care because this is a significant new dining destination from an established chef who is now bringing his expertise to his own independent restaurant rather than working under another establishment. The opening represents an opportunity to experience Loockx's personal cooking style and creative direction in a new venue."
                 },
                 {
-                    "title": "Bekende chefs en beloftevolle nieuwkomers: deze 25 nieuwe restaurants openen dit najaar - De Morgen",
-                    "source": "De Morgen",
-                    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQNERGc2RMR1dFeVVaWTNEdklweEpENk01QkJmT1RVREp0dERaMGc2Rzc5WmdyeDVJWFRQUGhFRnR6eFlGXzFlQTcxdXlLeTFZb0RjZlVTaXlLUHNqX0U1ZWtBaHhrNEJ3QWlxR0ZrSjJLLXJua0dzaUJsWFZGbndieGpUNE12MnExX3NoVk5mb2NTN09YSFpjbE9VbEVvSDFGdWJEQ09ORWFMb25Gb3NhSTloaWlvWVpTM0Y5N0d1TUY1RDU4eC0wdTRuSFRadWZtdGNBRU53bw?oc=5",
-                    "publishedAt": "2026-08-29T01:00:00.000Z",
-                    "language": "nl",
-                    "summary": "I appreciate you sharing this article, but I'm unable to provide a summary because only the title and source information are visible—the actual article content/snippet isn't included in your message. To give you a helpful 2-3 sentence summary focusing on the specific restaurants mentioned and why visitors should care, I'd need the full article text. Could you share the complete article content?"
-                },
-                {
-                    "title": "Deze cafés in Antwerpen nemen deel aan de allereerste Nationale Cafédag - pzc.nl",
+                    "title": "Hoe horeca op ‘t Zuid zich voorbereidt op ‘chaos in de stad’ met Amelie Lens: “Zou zot zijn om geen vruchtje mee te plukken” - pzc.nl",
                     "source": "pzc.nl",
-                    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNTm50NlJSUnU2MEJxMU00UnVic2Roak40QkpXNEg3X2xZY0UtdlBlSjNlenZaWDhTaDY3ZkZOWTN6RmQyTzBBQnNsVnB1Ylhyd0UxRG05VjhxZ2JvN2FUY1FuTkJrb2MxbjJCN2tYdTF5aHl5Z2EwTkJsTEhFSl81OEFaUzBXUWkzdHdxX3RWby0yNXJlQUJWY3QzVFN5Y1NYU3FoYzZzSEJxR25XblBz?oc=5",
-                    "publishedAt": "2026-09-02T21:30:00.000Z",
+                    "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQYUNVeFRzNTVyUFR5Mjl1eFRzSURuZEFmaktBcHRTX01RZFdUUlJOS1FWLUtBaURlbm5jYW9hZlVYVDdsYkNtTDlpZUVJeXpsX1lWcFVxWWhzQ2JLaXF2WGNNc0E3Ym1rU2ZORU5ZbTFiY2JnYkNyVmQ2WHFkSENpLVNmVDJOb2lubVJqZWZZZXVkelR2ZFdPUTFhTEctMFNHVkVnQzNkQTRDQ3BqbEVpbFJRVF9fU1dqZXY1V0E4MS1QU1NpQXd3TVZKaGdlOG1ZUC1QQ2s1MnR1Qy1wcFNCZHBEUlo0UEtYM0plcnBR?oc=5",
+                    "publishedAt": "2026-09-04T13:53:00.000Z",
                     "language": "nl",
-                    "summary": "# Summary\n\nSeveral cafés in Antwerp are participating in the first-ever National Café Day, a new event celebrating local café culture in the city. While the article doesn't specify which individual cafés are involved, this inaugural event offers visitors an opportunity to explore and support Antwerp's café scene on a special day with potentially unique offerings or promotions. This would be worth checking out if you're visiting Antwerp and want to experience the city's café culture during this inaugural celebration."
+                    "summary": "# Summary\n\nThe article discusses how restaurants and bars in the South district of a city are preparing for increased crowds during an Amelie Lens event (likely a DJ performance or music festival). Local hospitality businesses are planning to capitalize on the expected influx of visitors, with one venue noting it would be foolish not to take advantage of the opportunity. If you're visiting the city during this event, you should expect busy venues and may want to plan ahead for dining and entertainment reservations."
                 }
             ]
         },
@@ -141,44 +141,44 @@
             "places": [],
             "news": [
                 {
-                    "title": "Planos para o fim de semana: música em Faro, gastronomia em Portimão e cinema em Lisboa - sabado.pt",
-                    "source": "sabado.pt",
+                    "title": "Os quiosques voltaram a pôr-nos às voltas: seis propostas em Lisboa e Porto - Público",
+                    "source": "Público",
+                    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPTE5KaldxSGF2MGdrbEs4eVZsaEwyTDZUZVJNcFk3UFpsZUFrTS1RSGNpeHg0Tjk5TVNOWE9acjhmNVRMT3VjUVlMeFAzb2RwQmJPVzVrTlQ0UmloWFVZM1dteWRKZERNRU5ubkR6em4zRTctcU00VUYzSk96dWhWSmtkNkhhUy1ESng0OTdWdWdEcG4ycDhxWG04dzY4cXZSMkcxU3gyeC0tRUl1d0ctdUNubVlnX1E?oc=5",
+                    "publishedAt": "2026-09-05T07:35:00.000Z",
+                    "language": "pt",
+                    "summary": "# Summary\n\nI appreciate your request, but I'm unable to provide a complete summary because only the title and snippet were provided—the actual article content isn't included. \n\nBased on what's available, the article discusses **six food kiosk proposals in Lisbon and Porto**, suggesting these casual dining spots are making a comeback in both cities. Visitors to either city would care because kiosks typically offer quick, casual, and often affordable dining options that represent local food trends.\n\nTo give you a more detailed and accurate summary, I would need access to the full article text."
+                },
+                {
+                    "title": "Planos para o fim de semana: música em Faro, gastronomia em Portimão e cinema em Lisboa - SÁBADO",
+                    "source": "SÁBADO",
                     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPSWJvVFBWYWc4bEEtcXE3SWd6ODVoUUkwbWpUbDFsOXNOVF91Z0w4MTVibV9lemY3V2U0Wk54ZWVsVWxuTm1aYno3bGZlWHJYc3QwX2RBZzJhQzV3QVAxSXpIeFBnSXZYaGE5Umk4cXRiWmdGZkk4Z0hOTUc0MVVqVmJTVmJIanpmWG5CS3Aya1IweDlEdUE4UU5LVDBfWEU2cUZ1ZXZ6NVh3eHhxTmgtQ3dPbUR5UFZNVktR?oc=5",
                     "publishedAt": "2026-09-04T06:00:00.000Z",
                     "language": "pt",
-                    "summary": "# Summary\n\nThis article highlights weekend plans across Portuguese cities, with a focus on gastronomy in Portimão alongside music events in Faro and cinema in Lisbon. While specific restaurant names aren't detailed in the snippet provided, visitors to Portimão would find it useful as a guide to dining experiences available during the weekend. The article serves as a practical weekend itinerary for tourists or locals looking to combine food, entertainment, and cultural activities across these three cities."
+                    "summary": "# Summary\n\nThis article highlights weekend entertainment plans across Portuguese cities, with a focus on a gastronomy event in Portimão. While the snippet doesn't provide specific restaurant details, visitors to Portimão would care about this food-focused weekend activity as it offers an opportunity to explore local culinary offerings alongside musical performances in Faro and cinema options in Lisbon."
                 },
                 {
-                    "title": "The Weeknd já está em Lisboa e regressa a restaurante favorito - Correio da Manhã",
-                    "source": "Correio da Manhã",
+                    "title": "Brunch, café de especialidade e cokctails: o Lobby é o novo bar de Lisboa e fica no Cais do Sodré - TRENDY Report",
+                    "source": "TRENDY Report",
+                    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNc3V1QURXZGh5aUhjZFFIQ1d5VTJoYUUtejhHbDhxQUpjbW8wTlpITVU3cWxXWUZFdWs1UEgwLW8waV9GVTc0Wnd4TFhHYXhmZHFKVl9sdjRlaG5FV3I1Q2MwQ19oeGJVdFVDTjhrS3Z6MUdrbXJ1TjhoSmJtbkFVTV9HRW9rOGpFbzU5aWlEQUpFMmVPVHg2cU1maGpMcUo1TnhjWmNJOUpjR05ycnd4LTNpX2NzU0ZXakR1eENxZw?oc=5",
+                    "publishedAt": "2026-09-04T14:33:21.000Z",
+                    "language": "pt",
+                    "summary": "# Summary\n\nA new bar called Lobby has opened in Lisbon's Cais do Sodré neighborhood, offering brunch, specialty coffee, and cocktails. This spot combines casual daytime dining with evening drinks, making it a versatile destination for visitors throughout the day. Those visiting Lisbon should care because it provides a trendy new option in a well-located area known for dining and nightlife."
+                },
+                {
+                    "title": "Cocktails a 5€ em Lisboa: este restaurante tem uma Happy Hour que promete encher os finais de tarde - Marketeer",
+                    "source": "Marketeer",
+                    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQaV9aYjUzNC1PTFVwMkIxbkE5V2JZU1FKZ29MWVBvOHRuZjY1YmRrdEVkbjMyX0FzNjhCbGl2OXMzS0NJbnRaYk5BZXhWTTA4aFdObEdRazkzaWYyaUFHZ21pRE9PMHc2YWhwb2ZTTVlxc1FOOGgxZnR1THlmdW9zaDNaSnJXSmNPOEFnTkR4a2VGNnNkR2VUNnJtX0pBRERoMF9ZdGVNdHJaVExad3lINVJ2WngteFk5bWM2QjRTS1NWUTQ?oc=5",
+                    "publishedAt": "2026-09-04T17:01:11.000Z",
+                    "language": "pt",
+                    "summary": "# Summary\n\nA Lisbon restaurant is offering an attractive Happy Hour at 5 PM with discounted cocktails designed to draw crowds during late afternoons. Visitors to Lisbon would care about this because it provides an affordable way to enjoy quality cocktails during a convenient early evening time slot, making it a practical option for after-work socializing or pre-dinner drinks."
+                },
+                {
+                    "title": "The Weeknd já está em Lisboa e regressa a restaurante favorito - cmjornal.pt",
+                    "source": "cmjornal.pt",
                     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNZnAzNUlfZmNUcWFhVFZYVG5pcHpnLVN5WW04OFQyWmZGajRMQTBxaFRYYXViRmh4SEYxWkd2WDI5RmFXUXlralM4TEZsWnlHVWdmcXk5UG9neERGWWdSMk9ueHRlY1RRTWlxTzBGdlJVVDlFd09BM2g1VGpKWGNpZW5KcVVNeWp2TFhScTYxbjNGUEpVVXNEcnR6Y1NGenIxR1HSAZwBQVVfeXFMTkRMSjNGaWZZaW5aamIwajE0UUxOYUZCTVZpbEpmZmRYS2wyNldaRjhaeU94b2hZZXdlQmF5NkZFTjJueGlrejRvQUVWaVVYUHpIU1czMmJrU2VubXFZbDJLMDFPX2FReVViRnlLQlJYLWpUNTlocnBDMnV3U0hlMEwwYWxFUXBXUlNhRUxVd2E5R2E3STlnc1dfOE5r?oc=5",
                     "publishedAt": "2026-09-03T15:43:00.000Z",
                     "language": "pt",
-                    "summary": "# Summary\n\nThe Weeknd is currently in Lisbon and has returned to his favorite restaurant in the city. While the article doesn't specify which restaurant in the snippet provided, this news highlights a popular dining spot that has impressed a major international celebrity. Visitors to Lisbon might find it interesting to know which establishment attracts high-profile guests and potentially try the same restaurant themselves."
-                },
-                {
-                    "title": "Regabofe. A nova marisqueira cool de Lisboa para petiscar a qualquer hora do dia - nit.pt",
-                    "source": "nit.pt",
-                    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOQW5UNFZCM3hpczFsUDZUNHdCZHF0WTdjS0h3aU1LM0ktaUd0eDM5QWsyVW1EbTBhTTZESURCY21fUENkcXp0VDd1bkwxSmNjemtMZ1VyVlltRzhWM09xWlJxUGU1Y0VlUHVSUDRxdUVoWlB5LXFURHplbGxNZVV1Q0lKci1pYXJWNk0yNFFIME1YVVd5UjlMN3JIdlpuODdyekloMHJZVjlDYTNBekdsLVFQT1Q2ZTJlSXc?oc=5",
-                    "publishedAt": "2026-09-01T13:57:00.000Z",
-                    "language": "pt",
-                    "summary": "# Summary\n\nRegabofe is a new casual seafood restaurant (marisqueira) that has opened in Lisbon, offering small plates and snacks throughout the day. The spot is positioned as a cool, laid-back option for casual dining and grazing rather than formal sit-down meals. Visitors to Lisbon would appreciate it as a relaxed alternative for enjoying fresh seafood dishes and appetizers at any time of day."
-                },
-                {
-                    "title": "No Oceanário de Lisboa, há um novo restaurante para ficar \"submerso\" em petiscos - Jornal de Notícias",
-                    "source": "Jornal de Notícias",
-                    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNR1hFdnZtd3RNUFNrbWd2UkhxamNVbjNZZTBGTlVsZXlRUi1aY2NhamxwNEhyMGJNZW1fc3Y0b0twNGNKTlplZWpnWEUtVVVHZDJxaUduZERzMHNFNTBRZExJM0FjRElpU2xCNk5wdzBndWRUMENSRWp4S1FvNWt4dVd1U3RQNWs5NDQ3QklwaHAyalFOcVJBMmlFLTg0U05aTXNMV1VuQjZrdnIxM0RIZjhQMkU2V0JQeDFn?oc=5",
-                    "publishedAt": "2026-09-03T08:03:00.000Z",
-                    "language": "pt",
-                    "summary": "# Summary\n\nA new restaurant has opened at the Oceanário de Lisboa (Lisbon Aquarium) specializing in petiscos (Portuguese small plates/tapas). Visitors to Lisbon can now enjoy this dining concept while exploring the aquarium, offering a convenient and thematic dining option that combines the aquarium experience with casual Portuguese cuisine. This is worth noting for tourists and locals planning to visit the aquarium, as it provides an integrated food experience at a major city attraction."
-                },
-                {
-                    "title": "10 restaurantes para provar sabores de Moçambique em Portugal - Bantumen",
-                    "source": "Bantumen",
-                    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPRmpXZlVfd0VCMWhSYlk3S0ZUc3ZwZktpT3I0b0FqeEd1bVNyYWcxMTlISUtucnJvSDY0TlNxMXMxVkFkM2lnTHJoeDZZNGZOZXFta0dNQ2dwNktFWGdxd1JTcWdWejV1RlFpRTdacDN0YVY0SFRHS0NNZU5rUzJub1Fn?oc=5",
-                    "publishedAt": "2026-09-03T08:00:35.000Z",
-                    "language": "pt",
-                    "summary": "# Summary\n\nThe article highlights 10 restaurants in Portugal where visitors can experience authentic Mozambican cuisine and flavors. While the specific restaurant names aren't provided in the snippet, this guide would be valuable for anyone visiting Portugal who wants to explore Mozambican food culture without traveling to Africa. Those interested in African cuisine, cultural dining experiences, or Portuguese-Mozambican heritage would find this restaurant guide particularly useful."
+                    "summary": "# Summary\n\nThe Weeknd is currently in Lisbon and has returned to his favorite restaurant in the city. While the specific restaurant name isn't provided in this snippet, the news highlights that the popular artist has a go-to dining spot he revisits when in Lisbon. Visitors interested in celebrity hotspots or wanting to dine where famous musicians eat might be curious about which establishment has earned The Weeknd's loyalty."
                 }
             ]
         },
@@ -191,15 +191,15 @@
                     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOdWdPVlJiODQxVktDeTd1MTl6X0kzR05zek1YM1hSZGtMdkJ0RGxCaTloeFN0RnVsZEtnb2FwOWN1S0NOSV9lT0N0TUN2NUJQclhMT3Q1b005RTljUUFzY1dqUXphOWhrVmFITFgyaVkxdktSMHNsR0swY05ZRUlDSTZ6WFllRXlkOHluZml5WFdHOVpMZnRYVkdxYWlZV2U2X1FyWGZ6a0pjV1pyUkk1cWhLeFB5QWx5ZFlUeg?oc=5",
                     "publishedAt": "2026-09-03T15:14:57.000Z",
                     "language": "en",
-                    "summary": "# Summary\n\nA new live-fire restaurant called WYLD is opening at Freight Island in Newcastle, offering visitors a unique dining destination focused on flame-cooked cuisine. This addition to Newcastle's food scene provides locals and tourists with another appealing restaurant option in the popular Freight Island development. The live-fire cooking concept makes it worth visiting if you're interested in innovative dining experiences during a trip to Newcastle."
+                    "summary": "# Summary\n\nWYLD, a new live-fire restaurant, is opening at Freight Island in Newcastle, offering visitors a unique dining experience centered around flame-cooked cuisine. This addition to Newcastle's food scene provides another compelling reason to visit Freight Island, which is already known as a destination for food and entertainment. Visitors interested in contemporary cooking techniques and high-quality grilled dishes would want to check out this new opening."
                 },
                 {
-                    "title": "Doors shut for good at Newcastle restaurant with 'amazing food' as axe falls across UK - Chronicle Live",
-                    "source": "Chronicle Live",
-                    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNWUR1NkpsalJxZlFyT19CTUpORzZ6bDZGa24zWUdOVXpoUEd5TUxLVzIwSFgxaWh2Tm9wMk13ZlZEMDdZZGg4MjVUMjFTZWpWcEVpemV5R2NTdGVUNXpST2swbEhoZWhMZmgxeFJmaXlvaTRta1BzRnBBS05CRE1XTmhGOWxqZjFzSFVNd2d0T3ZDNkZwXy1kNjFGVHUzM0J4SmhEa9IBqgFBVV95cUxONkFxU3hWNndqdjdLaGFDVkZWVG5jMW16cTF1WjhIUzJHLTBsajV1bmRQaFNidW5xQUJQQVZ4d19XRVZVdlBzOEZHZU1Venoyak8xUGN4eERuYkY0QWhkUFpUTkx5eC1Ta2MtY2hXcjVsaENNblI3dUF5Q1pXR1lSUVlVcVc0OWpTdXVHVVZWVHdHT2lFU0F4QzZSZGZoTWdnZ0VvWjZCVXREdw?oc=5",
-                    "publishedAt": "2026-09-04T09:49:00.000Z",
+                    "title": "The Durham city centre cafe with amazing views that most people don’t even know is there - chroniclelive.co.uk",
+                    "source": "chroniclelive.co.uk",
+                    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOaWtGbGVuWGFYbTNjOVFlekU1NzBTQmNDcEozZEk0MThiajdoMGJscUU5Z0NjZlpWanJ5OFducXdreDg0OHlONzJtU0hkaFJvVVZ4a2Rlc09Md0EyOV9KRGh3X0M0cjNYVHpvaFp5dzIzdmk3MGRHbXNtLVp4VklTU3BRaF9DRmNwYUM2QVNVeW9zWHBrQkEwc1ZDM2hTZ9IBowFBVV95cUxPNlVUdDFzSWIyVGFFVEJpdEpzaDFfcEo4UkN2eFd0c0pldlhHUFc5cjl5OW91Z1JUWG9qZFRBRElpUHZZWXR3UVlsRGFIQWQ2T2p6ZlowUkhGcFltXzBwRFFDS2ZaMExyNTc4eTNSa1h2ajRCMzhZQTI1bXBSeUtqSHRjYVAtSXdvWU9hYWFyVGs4WHhuS09kS2k4SG5BSlRfdUs0?oc=5",
+                    "publishedAt": "2026-09-05T09:18:00.000Z",
                     "language": "en",
-                    "summary": "I don't have access to the full article content from Chronicle Live to provide you with an accurate summary. To give you the specific details you need—the restaurant name, the reason for closure, and why it matters to visitors—I would need to read the complete article text.\n\nIf you can share the full article content, I'd be happy to summarize it in 2-3 sentences focusing on those key points."
+                    "summary": "I don't have access to the full article text, only the title and snippet provided. Based on what's available, this article highlights a hidden cafe in Durham city centre that offers impressive views but remains largely unknown to visitors. Without the complete article, I can't identify the specific restaurant name or detailed reasons why visitors should care, so I'd recommend reading the full piece on chroniclelive.co.uk to get those specifics."
                 },
                 {
                     "title": "Owners of 'thriving' historic restaurant mark major milestone - Hexham Courant",
@@ -207,23 +207,23 @@
                     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxONDJtYlJINExBYVYwb2hPeThHMC02X09kbnEzajVYUS1acHh6VW5VS0M2ay1zZlVWQ2x0ajE3Zjg0SXhnQ0JQVEpfSDRmTF93ZFJwSXZsNk5jcS1hMUFMcU1Dd0ZoUHFLNTNGT05UeWdCQVUxdTBWWk5qQzFqUmMwWjRDQ2dLdG5IbjIwM0ZLNE9DbUNHMG9EdVE0NFI3SmZ5bU5z?oc=5",
                     "publishedAt": "2026-09-03T04:00:00.000Z",
                     "language": "en",
-                    "summary": "I'd be happy to help summarize this article, but I need more information. The snippet you provided only contains the headline and source, without the actual article content. \n\nCould you please share the full article text or additional details? That way I can provide you with a concise 2-3 sentence summary including what the news is about, which restaurant is featured, and why it matters to visitors."
+                    "summary": "I appreciate you sharing this, but I'm unable to access the full article content from the snippet provided. To give you an accurate 2-3 sentence summary focusing on the specific restaurant name, the milestone being celebrated, and why it matters to visitors, I would need to see the complete article text.\n\nCould you either share the full article or provide more details about which historic restaurant in Hexham is being covered? That way I can give you a practical summary."
                 },
                 {
-                    "title": "Blackfriars marks latest chapter in 800-year story - Bdaily",
+                    "title": "Full Circle serves up first pub in Fenwick - Bdaily",
                     "source": "Bdaily",
-                    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOT0lWelZPSkkxRkk5eEkyRi14dGJuTmQzbV9OejQtYV8tMkljX0c0SUZQaWY5ellHRmdOV2dxMzY1Z3EzVmxkWWJBLVcxV1NVLVNaSEkzSFVhcGkwcl9GR1FTYTVaaWVUcDdlbFhMaC1VcFFoaGsyUVdjbUpRWm9OdXk3emFscnNMUHZ1ZWhqa0VpazdENGc?oc=5",
-                    "publishedAt": "2026-09-02T14:00:00.000Z",
+                    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOWDc5Um5PWHJmSUxBYm9HTENyaW5YMUwxLV9GbDdCVUZPMXpQbURfU3pjN0lTUExHNU9ob3ktTEZsMmwyYS10UmVKN1NlMERrV2VvcHozYzBvcXpVZlNnWndfNC1Kd1d4YVdwVjRCbkM1ODVzd2VhMWlJRXBySnlEZ0tCcDdzNHhpTHc4?oc=5",
+                    "publishedAt": "2026-09-04T11:33:18.000Z",
                     "language": "en",
-                    "summary": "I'd be happy to summarize this article, but I don't have access to the full content beyond the title and snippet provided. The headline suggests that Blackfriars (likely a historic restaurant or venue) is celebrating a significant milestone in its 800-year history, but I'd need the complete article text to give you accurate details about what's new, why it matters, and what visitors should know.\n\nCould you share the full article text so I can provide a proper 2-3 sentence summary?"
+                    "summary": "I don't have access to the full article content from Bdaily, only the title and snippet you've provided. Based on what's available, Full Circle has opened their first pub location in Fenwick, but I'd need the complete article to give you a meaningful summary about why visitors should care and what makes this opening noteworthy.\n\nCould you share the full article text so I can provide the 2-3 sentence summary you're looking for?"
                 },
                 {
-                    "title": "Ben May adds Newcastle's Surfhouse to east coast pub portfolio - greenstreetnews.com",
-                    "source": "greenstreetnews.com",
-                    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPczk5bUxRM0NRbkxyVl9IQ0ZMM0xrSnZscml5YkJkWHBjMEdwSVo0MTR6Y2o0akFtSWRjMUk3dm53bEZiemFGM1l4eHllcFJyMFZBZEdLM3N0OE1QUlNsZXR6ZEFxd2poSjVoR3ctVm1XNERBNlNSdVQxYnl4aEkwdjFNWEFPSFEyNlVKTjhqTmJYdTExc2lXNzU3a0hhX2s?oc=5",
-                    "publishedAt": "2026-08-31T17:27:54.000Z",
+                    "title": "Full Circle to open first pub in former Greggs tavern - The Morning Advertiser",
+                    "source": "The Morning Advertiser",
+                    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQRXhPekY0aWRLWXpoVUxZbG82SGNoUE9ieGtoX0pfQ0FLN2drMWF1NkE5TURMeW1oVURPWEJaMG14OU5sYUZyN1B6Rk5uRDd6TldrcUN5MjVIUDFydF9mWmFQa2dXSDhNTl81V044ZW96eVlRTThOakE3Wi1oOU9JUVFYalBZRm10dXpvdzlHRjg4aC1McFBkWXcxWThSaEU1YS1lZER6YkJwOFhnbUE?oc=5",
+                    "publishedAt": "2026-09-04T11:16:40.000Z",
                     "language": "en",
-                    "summary": "# Summary\n\nBen May, a hospitality entrepreneur, has acquired Newcastle's Surfhouse pub as part of his growing portfolio of east coast establishments. Visitors to Newcastle now have another venue under experienced management that's part of a larger curated collection of pubs. This acquisition suggests the Surfhouse may benefit from professional operations and potentially improved offerings, making it worth checking out for those seeking quality pub experiences in the area."
+                    "summary": "I don't have access to the full article content to provide an accurate summary. However, based on the title, it appears that Full Circle is opening their first pub location in a space that was formerly occupied by Greggs tavern.\n\nTo give you the practical 2-3 sentence summary you're looking for, I would need to see the article's body text. Could you share the full article, or would you like me to explain what I can infer from just the headline?"
                 }
             ]
         },
@@ -236,7 +236,7 @@
                     "url": "https://news.google.com/rss/articles/CBMizwJBVV95cUxNUXdxUlV0eHh0TkNWSnZWUE9yN0tkSnlTelNydGdISmQ4YVpIZE1WN1FseEd3dDh1Vkdyb2tSVWlyYUlqbnJiWkFwNGZwWk9yOTRBNmJpZVRqYUcxSDBqeHNnRHVXSEJhMm5hTFRMLThNR3RCRGN4RkpueTdTNFdEQ3hrR29ZU05PUUxMSmo4V1ZpNWlfMHZvOTBUaUxYQ01QOUVSeEhYUVdSdU9RWHd3Zkk0OHdyWGpobTB3ODNQRTRsTHlqVzc5MDdLR0ZLRXF1OFJpbDdrS1l1NV9FRlMtTHczSFQ2a0VFNThPa29xYlRKSEdCWGVzSnpEUllRV1hTd0NCWTczSDlTUktNVzNmaTh1MEFhS0t3bnpDUXE0eDRyYy01bkVlNk5GdGxmVEdSVHphTm9HcE5pVHNoZGtSNlVuY1RIaksybkw5OEF1WQ?oc=5",
                     "publishedAt": "2026-09-02T08:16:16.000Z",
                     "language": "en",
-                    "summary": "I appreciate you sharing this, but this appears to be an architecture/urban design article rather than a restaurant or food news piece. The article focuses on 13 architectural projects in Tallinn's waterfront area, not a specific food establishment or dining venue. If you have a food or restaurant-related article you'd like summarized, I'd be happy to help with that instead!"
+                    "summary": "I appreciate you sharing this, but this article appears to be about architecture and urban development in Tallinn, Estonia, not about restaurants or food. It focuses on 13 architectural projects related to the city's waterfront redevelopment rather than dining establishments or food spots. \n\nIf you're looking for restaurant/food news summaries, please feel free to share an article from a food or dining publication, and I'll be happy to provide the 2-3 sentence summary you requested."
                 }
             ]
         }
