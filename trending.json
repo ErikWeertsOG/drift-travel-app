@@ -1,17 +1,17 @@
 {
-    "lastUpdated": "2026-09-23T10:24:36.763Z",
+    "lastUpdated": "2026-09-24T10:41:26.523Z",
     "source": "github-actions",
     "cities": {
         "cologne": {
             "places": [],
             "news": [
                 {
-                    "title": "Einbrecher beim Puddingessen im Restaurant erwischt - Radio Köln",
-                    "source": "Radio Köln",
+                    "title": "Einbrecher beim Puddingessen im Restaurant erwischt - radiokoeln.de",
+                    "source": "radiokoeln.de",
                     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOd1pmU01zOE1ZRnd0RDdmNFV3LXFRa094cVVlY3RoWUtFXzA3YVF2UjRtb0hNY05RNjB5dmRYalkxcnZlT1o0NGV2TmdPemhXZldEQ2RvYUd2YWVqMlBDLVJtUXRrUXNGaVVCaVZzb3lraThETFRLZzg2OGVpVFB1REFDOHdCYV9pMkpXYUxSTVhWR0E?oc=5",
                     "publishedAt": "2026-09-21T10:06:00.000Z",
                     "language": "de",
-                    "summary": "# Summary\n\nI appreciate you sharing this, but I'm unable to provide a meaningful summary based on the information given. The snippet only contains the headline \"Burglar Caught Eating Pudding in Restaurant\" from Radio Köln, without the actual article content.\n\nTo write a helpful summary focusing on the restaurant name, why visitors should care, and the actual details of the story, I would need access to the full article text. If you can share the complete article or more details, I'd be happy to summarize it for you."
+                    "summary": "# Summary\n\nA burglar was caught eating pudding at a restaurant in Cologne, Germany. The unusual capture happened when the suspect was discovered enjoying dessert at the establishment, leading to their arrest. Visitors to Cologne would care about this story as it highlights a quirky local news incident, though it's primarily a crime story rather than a dining recommendation."
                 },
                 {
                     "title": "Taco Bell: US-Fast-Food-Kette verschiebt Start in Deutschland - Manager Magazin",
@@ -19,7 +19,15 @@
                     "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOSVBWS1BROEtwV3VoT3R0cVdaSXNMZl9Xb2JyS0lHT2ZWUXZwS3d4cGRVQm5MOEJXOEVHMFRVY0VyMmJhdmQ2eGFUYm9VZkh4OW4tT2FwYXpIUTl5SVpUMzZNZkVybjBsM1pPTFk1N2VJTExJYTVVRmpFbUZxWGxmR2RTSlhUcXFHd0hYSUd3Zk9DTFFqM2hlRVIwN1FXVHdNaXNGNjQ2SmZQVjFTLTFOZ2QtYmlKZXByWWI4Q3RfWmk4enpTMGZGVzZxOU5fOUR1NkFmdlRDekhMQQ?oc=5",
                     "publishedAt": "2026-09-22T14:41:00.000Z",
                     "language": "de",
-                    "summary": "# Summary\n\nTaco Bell has delayed its planned entry into the German market. The US fast-food chain, known for its Mexican-inspired menu, had previously announced expansion plans for Germany but is now postponing its launch. For visitors to German cities, this means Taco Bell locations won't be available as expected, though the company may still pursue a Germany expansion at a later date."
+                    "summary": "# Summary\n\nTaco Bell has delayed its planned entry into the German market, according to Manager Magazin. This news is relevant for fast-food enthusiasts in Germany who were anticipating the American chain's arrival, as it means they'll have to wait longer to try Taco Bell's offerings locally. The postponement suggests potential challenges in the brand's European expansion strategy."
+                },
+                {
+                    "title": "TACO BELL® eröffnet sein erstes Restaurant in Deutschland und läutet langfristige Expansion ein - Braunschweiger Zeitung",
+                    "source": "Braunschweiger Zeitung",
+                    "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPdzJMM2Q3ZlZnNGhWaVg3SXFVWEJPcGxUZlNCLUVUcEtJWWtHemlwVTN6M3NVZXlod3NuVU9HblhiWGJGT0VNR1JfQk53ZHVDNV9KT3ZsME9LNUdTdEZxS1lhMUZaekZOU3FvUWVIczE1MkVDTjVHR3A5b3d0dXZmYzlXWm1MbnJqT2NqbGx0Wk5sSDZvQnF5ZXZxSFJuT2ZYckFlcldJa2ZqNGt6enh1c25FTzhnUm83NEZWeTR1T0lEdkdxUWtBWkdiTUkySFdFMUJMLWlwazRwOGU0cGQ2aFBRRDI0RThnNW5nSmVWOTMwMmRJOHNyN29aSnRleHZ3V0d2NDVhVGtfLUJLLXBhQQ?oc=5",
+                    "publishedAt": "2026-09-21T15:17:04.000Z",
+                    "language": "de",
+                    "summary": "# Summary\n\nTaco Bell has opened its first restaurant in Germany, marking the beginning of a long-term expansion into the market. This is significant for visitors to Germany because they can now access the popular American fast-casual chain for the first time in the country. If you're a Taco Bell fan traveling in Germany, you'll finally have access to their menu of tacos, burritos, and other Mexican-inspired offerings."
                 },
                 {
                     "title": "Nach Renovierungsphase: Kneipe am Eigelstein feiert 45-jähriges Bestehen – Mit neuem Wirt - Kölnische Rundschau",
@@ -27,23 +35,7 @@
                     "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPQnNQT043aXl5Z2dIbS1fT2JidnJRbTJXanJ1VTlWRDRabHlGSmEtU1U2SnFSZVQ4MS13NGFRb2txMkRwenVuTm5ZbHJRREVJUWJycDVwTFQzWlNJX3RQTk9POWZTYnFnNFNSR1BLcjNKZDUxMzFQTVlnVlBwVEdSbUVZeUZxVXViMnNFcXpOa0U5TDNGNHBxX0ptQTg3b2xBelZuaHZ5aGRWeHQ5ZDc1YlRHNC1RamhrM1BXbmlMdkNLc1JPbDdTNU01MllJNDliM1NqNG9qSWc4VXRTeEFPeg?oc=5",
                     "publishedAt": "2026-09-18T08:32:33.000Z",
                     "language": "de",
-                    "summary": "# Summary\n\nA bar on Eigelstein in Cologne is celebrating its 45th anniversary after completing renovations and welcoming a new owner. This is worth noting for visitors because it's a long-established local establishment that has recently refreshed its space and management, making it a good time to experience this neighborhood institution."
-                },
-                {
-                    "title": "TACO BELL® eröffnet sein erstes Restaurant in Deutschland und läutet langfristige Expansion ein - braunschweiger-zeitung.de",
-                    "source": "braunschweiger-zeitung.de",
-                    "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPdzJMM2Q3ZlZnNGhWaVg3SXFVWEJPcGxUZlNCLUVUcEtJWWtHemlwVTN6M3NVZXlod3NuVU9HblhiWGJGT0VNR1JfQk53ZHVDNV9KT3ZsME9LNUdTdEZxS1lhMUZaekZOU3FvUWVIczE1MkVDTjVHR3A5b3d0dXZmYzlXWm1MbnJqT2NqbGx0Wk5sSDZvQnF5ZXZxSFJuT2ZYckFlcldJa2ZqNGt6enh1c25FTzhnUm83NEZWeTR1T0lEdkdxUWtBWkdiTUkySFdFMUJMLWlwazRwOGU0cGQ2aFBRRDI0RThnNW5nSmVWOTMwMmRJOHNyN29aSnRleHZ3V0d2NDVhVGtfLUJLLXBhQQ?oc=5",
-                    "publishedAt": "2026-09-21T15:17:04.000Z",
-                    "language": "de",
-                    "summary": "# Summary\n\nTaco Bell has opened its first restaurant in Germany, marking the beginning of a long-term expansion into the country. This is significant for visitors to the German city where it opened because it brings the popular American fast-casual chain to the region for the first time, offering a new dining option that wasn't previously available in Germany."
-                },
-                {
-                    "title": "Neuer Treffpunkt vor HSV-Spielen: Was Fans in dieser Kneipe erwartet - abendblatt.de",
-                    "source": "abendblatt.de",
-                    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOUDd0RG9tajl3bUZ5S0pMRkpIcmlHVlQyNUdUV0NfYWNwUm85ZFJPS1BUNm00SzBJNkJncThIT2IwVnlqYmt1R2Z0V2hvS19aUjF1ODhyVjdXeGpNWWI0UVlHYUNXQVVWeDE2bzRmWHhMSkotOWhUYW9EQ01vWXh0VnFVVTJ1aGpKZXYxRjVZa0pzRk9yRUdOc3dyOGx0U2x5a1hHaGg5WG1fdmxmYi05TkZRNVg3Szh0dzlnQXJObmM0S0E?oc=5",
-                    "publishedAt": "2026-09-18T03:05:00.000Z",
-                    "language": "de",
-                    "summary": "# Summary\n\nA new bar has opened as a gathering spot for HSV (Hamburg's football club) fans before matches. The article details what amenities and atmosphere visitors can expect at this fan-friendly establishment. For visitors to Hamburg, this spot offers a convenient pre-game meeting point with a fan-focused atmosphere to experience local football culture."
+                    "summary": "# Summary\n\nA longtime pub on Eigelstein in Cologne is celebrating its 45th anniversary after completing renovations and has welcomed a new owner. Visitors to the area will want to check it out as a restored, classic local watering hole with fresh management that's maintaining the bar's established presence in the neighborhood. The renovation suggests improved amenities while preserving the traditional character that's made it a fixture for nearly half a century."
                 }
             ]
         },
@@ -56,23 +48,31 @@
                     "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNUXZPYU5ybURhbHNQT0ZVV0NQd1hsd2g3UnRmd0lBYnF6emMtRl8zSFdjUld1UEFJNXpEeXB4T3VMMTc0bDRLbEgzZHVfTXFRRngxRDF2MnY2VUJBaHBmUlBfX2k1ek1QMi1DWlhFd2hzWlFRTHg0Z291UUloX3Yxemhaa2RZOVQtTUVYZGJuYldPVVV6X05XSzdCREExZGJ3cURoeUQwT0VqMHh0UFFNb3N6XzlyZzhwNUpzYVBxNlFLMDlzYV9aU3F6UHlNRlZWMGVoOWpBVi1TOUVsYWdVbmVSZ184OXU4ZWZBVVFSa1pzQ24wWmNKNGxMdmM?oc=5",
                     "publishedAt": "2026-09-22T15:00:00.000Z",
                     "language": "nl",
-                    "summary": "# Summary\n\nSea Palace, a popular Chinese restaurant in Amsterdam, has opened its own bakery and café near Oosterdok offering affordable Chinese pastries and snacks priced between €2-6. This new spot gives visitors an accessible way to enjoy quality Chinese baked goods and treats without committing to a full restaurant meal. It's a practical option for anyone wanting a quick, budget-friendly bite in central Amsterdam."
+                    "summary": "# Summary\n\nSea Palace, a popular Chinese restaurant in Amsterdam, has opened its own bakery and café near Oosterdok offering affordable Chinese pastries and snacks priced between €2-€6. This new spot gives visitors quick, inexpensive options for Chinese baked goods and treats without committing to a full restaurant meal. It's a convenient addition for anyone exploring Amsterdam's waterfront area looking for casual, budget-friendly Asian snacks."
                 },
                 {
-                    "title": "Rijsel in Amsterdam organiseert unieke thema-avond: frikandellen, nasi-schijven en stoofvlees op menu - Misset Horeca",
-                    "source": "Misset Horeca",
+                    "title": "Bar Vergist opent in Amsterdam-West: waar bier en wijn eindelijk aan dezelfde tafel zitten - Amsterdamsdagblad.nl",
+                    "source": "Amsterdamsdagblad.nl",
+                    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQdWJYaDNjVkhXMXN0YmJOeVhhNnNGeWUzX00xX1RfNjRuMk8xbEg3eWJObDRxWnBqcXdBZ3dPd0xGVjVKSU1VN2xSWlQ0NDdnc09Sek95ZEliekgxcDQ0YlpIb0dSQk11NGFfWHdWcDJVb1dIZktqclhTcGZfVGpNcl9kX2hOUDEwQklyTElpdTJhbVRQeDhPdGhBbWc4TUhickRFZGxPMnVsZlVwaWpxSFJMQ2xDZ1BJaUlrNVJpcHJxanpoano0X25zd0tCWVky?oc=5",
+                    "publishedAt": "2026-09-23T14:47:34.000Z",
+                    "language": "nl",
+                    "summary": "# Summary\n\nA new bar called Bar Vergist has opened in Amsterdam-West that uniquely combines beer and wine offerings in one venue. This spot is worth visiting if you're in Amsterdam and want to explore both beverages in a casual setting, rather than choosing between a traditional beer bar or wine bar. The concept brings together two drink cultures that typically operate separately."
+                },
+                {
+                    "title": "Restaurant Rijsel organiseert unieke thema-avond met Belgische frituurcultuur - missethoreca.nl",
+                    "source": "missethoreca.nl",
                     "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNaHhTWF9rWG4xeC01THp6ZWtfMlAtLVAtTW9ISEI5dW5uOVVkY19MTE03WnN0cnNERUV0Vkctck5UTWg1eFpCZ1lZOVpNRkU4REljWU9HbDh0amxueFp5cDVnM05uTks1OHRFczNQdXlBWGowUks2UE1VZnpKSnh5b0ZaelQ0OGFES1Y2b2J2YXpJSURLYnhCd0R4NU52cnBOTXFZMjJkOG1zQVlCSXRDTkpWekZ5MG9MM2ZiNEVjYTlvbVpOd3hMQTdSRGM4YVk?oc=5",
-                    "publishedAt": "2026-09-23T05:15:00.000Z",
+                    "publishedAt": "2026-09-23T08:50:50.000Z",
                     "language": "nl",
-                    "summary": "# Summary\n\n**Rijsel restaurant in Amsterdam is hosting a special themed dinner night featuring classic Dutch comfort foods** like frikandellen (fried sausages), nasi-schijven (fried rice cakes), and stoofvlees (beef stew). Visitors to Amsterdam who want to experience traditional Dutch cuisine in a unique, themed setting should mark this event on their calendar, as it offers a nostalgic take on beloved local dishes."
+                    "summary": "# Summary\n\nRestaurant Rijsel is hosting a special themed evening celebrating Belgian frit culture. Visitors to the city would care about this event because it offers a unique opportunity to experience authentic Belgian culinary traditions in a dedicated dining experience. This is particularly appealing for food enthusiasts interested in exploring traditional Belgian cuisine and food culture."
                 },
                 {
-                    "title": "Listening bars veroveren Nederland, en dit zijn de adressen die je wil kennen - cosmopolitan.com",
-                    "source": "cosmopolitan.com",
-                    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNT1ZkWlNrcVNsTGlub2d3ZXUyNW5QcTNzTWpIQzhuNjVKbExWeDFzTmtpdHRXd0pYbTQyMVo2QmpadmpvdnRGQnFKdDdoNVpTMS1MY3pIWHhuc21Rd3VMajNkcHF5WjczZjI0WEhlRXhZNW45NnE3MXYzVzRyOVFmTmpNMGx2WWpZT0c4?oc=5",
-                    "publishedAt": "2026-09-19T07:00:00.000Z",
+                    "title": "Spin in Amsterdam-West: combinatie tussen poolcafé en listening bar - Food Inspiration",
+                    "source": "Food Inspiration",
+                    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPaWdYYkhVNUNCNm0yczgwTVAwbW8xaFZjbmsxTDNTXzB1Zy01SWNoeFVZemNtdVYzUFhIS3FLQXN6TzRXdE9wcmV3bTZiUGg3WFpRZ2xaV0tuc2pmZlFYUE5FeHJBNmNNX3RVTktaR0VEMk1fRTVYbW54LTJvVU01YTFJQ3lXSVktRUFOTjNwYWpyanJPS21fNV9MaFVlVGt3N3ZJaW82VGJpNEU?oc=5",
+                    "publishedAt": "2026-09-21T18:25:36.000Z",
                     "language": "nl",
-                    "summary": "I appreciate you sharing this article, but I'm unable to provide a summary since only the title and source information were provided—not the actual article content. The title indicates the article is about listening bars becoming popular in the Netherlands and lists specific addresses, but I'd need the full article text to give you the practical details about which restaurants/bars are mentioned and why they'd matter to visitors.\n\nCould you share the article body or content so I can create the summary you're looking for?"
+                    "summary": "# Summary\n\nI'd be happy to help, but the article snippet provided is too brief for me to extract substantive information. Based on the title alone, **Spin is a new venue in Amsterdam-West that combines a pool café with a listening bar** – meaning you can play pool while enjoying curated music in an intimate setting. Visitors to Amsterdam would care because it offers a unique social experience blending recreation and music culture in a neighborhood known for creative spots.\n\nTo provide a more detailed summary, I would need the full article text."
                 },
                 {
                     "title": "NENI opent in hartje Amsterdam: dit wil je er proeven - Foodies Magazine",
@@ -80,15 +80,7 @@
                     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9MV1FmQ0c5LU85SE9HWjlkVjJtOGhxdVFNSnhtS29iRTZadV9RdUJZWWpobGRHeXhXM3VwUFVqVEVfNXNjLWd0SE9vdm4wWkJEMHkwS01pclZUenNtNW1zSlhaSzJXNWtLWGhUUFB3?oc=5",
                     "publishedAt": "2026-09-22T05:29:35.000Z",
                     "language": "nl",
-                    "summary": "I'd be happy to help summarize this article, but I don't have access to the full content—only the title and snippet you've provided. \n\nFrom what I can see, the article is about **NENI opening a new location in central Amsterdam**, and it appears to be a food/dining guide about what dishes to try there. To give you a complete and accurate 2-3 sentence summary focusing on the restaurant, specific offerings, and why visitors should care, I would need the full article text.\n\nCould you share the complete article content, or would you like me to work with just the information in the title?"
-                },
-                {
-                    "title": "Spin in Amsterdam-West: combinatie tussen poolcafé en listening bar - Food Inspiration",
-                    "source": "Food Inspiration",
-                    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPaWdYYkhVNUNCNm0yczgwTVAwbW8xaFZjbmsxTDNTXzB1Zy01SWNoeFVZemNtdVYzUFhIS3FLQXN6TzRXdE9wcmV3bTZiUGg3WFpRZ2xaV0tuc2pmZlFYUE5FeHJBNmNNX3RVTktaR0VEMk1fRTVYbW54LTJvVU01YTFJQ3lXSVktRUFOTjNwYWpyanJPS21fNV9MaFVlVGt3N3ZJaW82VGJpNEU?oc=5",
-                    "publishedAt": "2026-09-21T18:25:35.000Z",
-                    "language": "nl",
-                    "summary": "I'd be happy to help summarize this article, but the snippet provided only contains the title and source information without the actual article content. \n\nBased on the title alone, I can tell you that **Spin is a new venue in Amsterdam-West that combines a pool café with a listening bar** (a space focused on high-quality audio and music listening). However, without the full article text, I cannot provide details about why visitors should care, specific offerings, or other relevant information.\n\nCould you provide the complete article text so I can give you an accurate 2-3 sentence summary?"
+                    "summary": "# Summary\n\nNENI, a popular restaurant known for its Mediterranean and Middle Eastern cuisine, has opened a new location in central Amsterdam. Visitors to the city will want to check it out for the restaurant's signature dishes that blend flavors from the region, offering a dining experience that's both distinctive and centrally convenient."
                 }
             ]
         },
@@ -96,44 +88,36 @@
             "places": [],
             "news": [
                 {
+                    "title": "Lekker brunchen of uitgebreid tafelen? Onze foodrecensenten testten deze Antwerpse restaurants uit - nieuwsblad.be",
+                    "source": "nieuwsblad.be",
+                    "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOaWU3TGVyS25fS0xrSF9pNUtZX1UzQ3V5OTNlaUpRSWZfamxFV3M1RmZhbmxibXhfNkJqbDFGY0o4WVFyQmJfMGF0dDdiS1Z3MzhRWHlFdWlJNUxjT1B4Sm41eG14Z1UzSXZPZGMyblB4dVNZYnFTWTZFQ3plWjR5cWxMX3RrSzZpbmVvQjY4eU1SRXpHbVZXNjFTaTNkVklBWk1xWk14WEU1cHdnbXRWMDEzdVZydi1LZkF3dWI2cWFwV0J1MGctdEgxdGZTMU83Zm1TeURKUUVHZ3pLQldVOEJkaEdJcE93VmY2aVpFLXhiS1k1S01kVzdOQ01lSVFXVHlvYXFDRkpkZ2NK?oc=5",
+                    "publishedAt": "2026-09-24T09:05:40.000Z",
+                    "language": "nl",
+                    "summary": "# Summary\n\nFood critics from nieuwsblad.be tested several Antwerp restaurants to evaluate their brunch and dining options. The article reviews multiple dining establishments in Antwerp, providing expert assessments of their food quality and experience. Visitors to Antwerp will find this useful for discovering the best restaurants for brunch or full meal experiences based on professional recommendations."
+                },
+                {
                     "title": "Onze favoriete restaurants in Antwerpen - De Tijd",
                     "source": "De Tijd",
                     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPVmFpTnRQcFpUUXJxSGtQdlJkdmppcE55QUhhOFVaS1psM3gyZlJSRVEzZXBGZlBYa2Zya2kxTk95NEhpZUxkUFlkOHdFbWVJbURyTGI0MFRlVm5fdHVmcHpkR0JDZ0YwNThaakZESDl3TFlwTjNmeXlRdE96a3k1UlF1cDhBV1VlZW1xbVJtSUpWemc?oc=5",
                     "publishedAt": "2026-09-17T11:10:00.000Z",
                     "language": "nl",
-                    "summary": "I'd be happy to help, but the article snippet you've provided is incomplete—it only shows the title and source without the actual content. \n\nCould you please share the full article text or a more detailed snippet? That way I can summarize the specific restaurants mentioned, what makes them notable, and why visitors to Antwerp should care about them."
+                    "summary": "# Summary\n\nI don't have access to the actual article content—only the title and source information provided. The title indicates this is a \"De Tijd\" article about favorite restaurants in Antwerp, Belgium, but without the full text, I cannot summarize the specific restaurants mentioned or their details.\n\n**To help you better:** If you share the article text or a more complete snippet, I can provide a concise 2-3 sentence summary highlighting which restaurants are featured and why they'd matter to visitors."
                 },
                 {
-                    "title": "Italiaans restaurant Mario in Antwerpse Kammenstraat houdt ermee op: “Erik Van Looy komt hier al van kindsbeen af” - Nieuwsblad",
-                    "source": "Nieuwsblad",
-                    "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxNeWlGZGZnMHdCSG5GTGx5cWdwNDlGSGc1QUhDaXR6UVpPT3ptWi0wV09remR2dFJaZDhOUnl6Y1RLZTNIZFNvRzFBMURxZ1E4U1I0TmFzdU9GcE1QR09tMHZwREtaOS1TOTA2Z3ZZaVhOTXlLYVFNaUhIcXFXdWxhSTEtVWJqTnpYdVBZSGRIbjVMZnhLN3pmcWhZQjloN0ktekVkYUgwc1UzVW93VWIwZG1wM1ZfZ3Z5dUlsdG53OFQ1NjJvamo4ZVJQU1FZWnZyZVNJRDhzQzMyeURjUTUyVkZoREhsTnBEcWZKaDNnYWNzbkROWF80UkpWSDdjRnE0YU01Z3B0QkpwRE1iWFJfN3JFTlBwSEFlN0p2cnNLWQ?oc=5",
-                    "publishedAt": "2026-09-22T12:00:00.000Z",
-                    "language": "nl",
-                    "summary": "# Summary\n\nMario, a beloved Italian restaurant on Kammenstraat in Antwerp, is closing after many years of operation. The restaurant was a long-time favorite of notable figures like chef Erik Van Looy, who has been dining there since childhood. Visitors to Antwerp looking for authentic Italian cuisine will need to find an alternative, as this historic neighborhood establishment is shutting down."
-                },
-                {
-                    "title": "Op restaurant gaan, winkelen of uitstapjes doen: hier kan je als student korting krijgen - GVA",
-                    "source": "GVA",
+                    "title": "Op restaurant gaan, winkelen of uitstapjes doen: hier kan je als student korting krijgen - gva.be",
+                    "source": "gva.be",
                     "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxONzVNMi1pVjRZSUFMdGNrUFdjZHdVZnUxbngxeHZVTUdfTk9XQVVPejk1LTF2SXE0bENZaDNRSjR6dzVNdlBQalJENG5xRlpuamtGSmk0dXM0RmNjdlVWcHNsVW5iMzZ4M21BbTJhWllyT1RGaGtvNUJsbmZST1FGRXQwZGRHWldFdGlYdVAxWlNITkZLakYySWZCWUk1bjJfemRvbVp5c2dZTWlHLWpYXzhSdXd4M3Y4Y29aMjNhaWZNMk9jblRkZ3RqZW1kRGEzOFpheVMwdWdQN0hyRU1FaGpYYWQ2Y2M2c0o1ZDZpa2xfLUdO?oc=5",
                     "publishedAt": "2026-09-21T18:45:00.000Z",
                     "language": "nl",
-                    "summary": "# Summary\n\nI appreciate your request, but I'm unable to provide a complete summary because the article snippet provided only contains the headline and publication info, not the actual article content. \n\nTo give you the practical 2-3 sentence summary you're looking for (focusing on the specific restaurant/food spots mentioned and why students visiting would care), I would need access to the full article text.\n\nIf you can share the article body, I'd be happy to summarize it as requested!"
+                    "summary": "# Summary\n\nThe article highlights student discount opportunities at restaurants, shops, and attractions in what appears to be a Belgian city. Students visiting the area can save money by taking advantage of special discounts available at various dining and entertainment establishments. This would be particularly useful for budget-conscious student travelers looking to enjoy local experiences without breaking the bank."
                 },
                 {
-                    "title": "\"Vandalisme, uitwerpselen en drugs\": tv-kok Wim Ballieu is overlast in toiletten van zijn Antwerps restaurant beu - VRT",
-                    "source": "VRT",
-                    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPUF9fNlU3d2xPSTRZZ3ZjQUtEN3RfTEZCU0hnVGtYYlNtam5iSEtLb0phZk9VNkcxNm1fYWU1eWRYRHR0VS1nY0pEOWpsWTlZa0ZPemVwRWhnMVJJbDMwZnhDazBwYUIzRS1LZEx2b1E1bndpRFhTLTNzek9ZakptUHA5YmNLRzcxZkxaSTBEcWVsWU84T0NaUG9Jc09pTE9rRGoyQWpn?oc=5",
-                    "publishedAt": "2026-09-17T03:19:56.000Z",
+                    "title": "Italiaans restaurant Mario in Antwerpse Kammenstraat houdt ermee op: “Erik Van Looy komt hier al van kindsbeen af” - nieuwsblad.be",
+                    "source": "nieuwsblad.be",
+                    "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxNeWlGZGZnMHdCSG5GTGx5cWdwNDlGSGc1QUhDaXR6UVpPT3ptWi0wV09remR2dFJaZDhOUnl6Y1RLZTNIZFNvRzFBMURxZ1E4U1I0TmFzdU9GcE1QR09tMHZwREtaOS1TOTA2Z3ZZaVhOTXlLYVFNaUhIcXFXdWxhSTEtVWJqTnpYdVBZSGRIbjVMZnhLN3pmcWhZQjloN0ktekVkYUgwc1UzVW93VWIwZG1wM1ZfZ3Z5dUlsdG53OFQ1NjJvamo4ZVJQU1FZWnZyZVNJRDhzQzMyeURjUTUyVkZoREhsTnBEcWZKaDNnYWNzbkROWF80UkpWSDdjRnE0YU01Z3B0QkpwRE1iWFJfN3JFTlBwSEFlN0p2cnNLWQ?oc=5",
+                    "publishedAt": "2026-09-22T05:00:00.000Z",
                     "language": "nl",
-                    "summary": "# Summary\n\nTV chef Wim Ballieu is closing the bathrooms at his Antwerp restaurant due to persistent problems including vandalism, drug use, and unsanitary conditions. This is significant for visitors to Antwerp because it affects the dining experience at what appears to be a notable establishment run by a recognized television chef. The closure highlights ongoing issues with public facility misuse that some restaurants in the area are struggling to manage."
-                },
-                {
-                    "title": "Antwerpen verwelkomt nieuwe reus: 4 meter hoge ‘Boom van Borgerhout’ krijgt feestelijke doop op Spoor Oost - GVA",
-                    "source": "GVA",
-                    "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxOc21NX216TEVTUWI1LXdJWWVCWDh0MEp2SHN3ekp1MHJFalFSREFOUUx2QUtzdlRzZVhkSjk4T3Vfa05mRmhIcVl4aUZnTlVJMGRFU1VuMjhLSFptdU5ONTNvUmF6TnQ4NTFDSjBQbW1YMHRQVlUzNXdKbDJCV1gxZ2RDd3V3WFlEdnhUQllIaElDektTNDh3U0l6WFZYSlBrbFFhM0MySVRYMGxZTEZxNFRSdllCU3EyM0k5OGhjd29Qclh0TVNfVTZweHU1MmhkajlVNlZlcE04STJxb0l3NS1kUWc0RmZYdVZNYVRFU09lRDlIT0xLTHlkTk5YVER6Z0RwNE1iNEhiRjU3RlVPUUZZZmFBZmloSlE?oc=5",
-                    "publishedAt": "2026-09-19T20:28:32.000Z",
-                    "language": "nl",
-                    "summary": "# Summary\n\nI appreciate you sharing this article, but I should note that **this isn't actually about a restaurant or food spot**—it's about a 4-meter-tall art installation or monument called \"Boom van Borgerhout\" (Tree of Borgerhout) receiving an official unveiling ceremony at the Spoor Oost location in Antwerp, Belgium.\n\nIf you're looking for restaurant news summaries, feel free to share a food-related article instead, and I'd be happy to help!"
+                    "summary": "# Summary\n\nMario, a long-established Italian restaurant on Antwerp's Kammenstraat, is closing its doors. The restaurant was a beloved spot for notable figures like celebrity chef Erik Van Looy, who has been dining there since childhood. Visitors to Antwerp looking for authentic Italian dining at this historic location will need to find an alternative, as this landmark establishment will no longer be operating."
                 }
             ]
         },
@@ -141,20 +125,36 @@
             "places": [],
             "news": [
                 {
+                    "title": "Yokocho: este não é só mais um restaurante de ramen em Lisboa - Público",
+                    "source": "Público",
+                    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPbjhIOHc2UHNMMHFfN1BrX2ZHY3RnbUJNWlRrYWRPUmR6aTdFeUN2WVVLT3dNLTJvaFVMYXNhZHBJWGhMYzNmWVo0bW94RHljbWVDZm44S1RrMEtPTGZBYzcxZHdqdC1ITDBKX2h3aXFLZW5XblhfaWJ1WlBBLVNlT1FKYzQ2VGplSGk3WXNNeEphOThHYmtaT1p4a05xVkE?oc=5",
+                    "publishedAt": "2026-09-24T09:12:00.000Z",
+                    "language": "pt",
+                    "summary": "I can see this is a Portuguese article about Yokocho, a ramen restaurant in Lisbon, but I only have access to the title and snippet you've provided, which don't contain enough detail for a complete summary.\n\nBased on what's available: **Yokocho is a new ramen restaurant in Lisbon that stands out from typical ramen spots**, suggesting it offers something unique or distinctive beyond standard ramen offerings. **Visitors to Lisbon interested in quality Japanese cuisine would want to check it out** if they're looking for an elevated ramen experience rather than a basic noodle shop.\n\nTo give you a more detailed summary with specific information about what makes it special, I'd need access to the full article text."
+                },
+                {
+                    "title": "Chef Lucas Azevedo abre em Lisboa restaurante premiado em Marrocos - Expresso",
+                    "source": "Expresso",
+                    "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPQXdYUktoQ212aWljY01QOVJ2M1VoYWF6VV91N0YtN1NzdnhnRzMtQ0FwRGxzbVBMcG0yVUFHWDE3YXdZMkloNGJjUHgxVnc3ZGdjWmFHajlycXdrZTJFa2hTUmxjNDVQTF9XZmhqTmRrNnRZR3ozNG1JYmJBNWlNdkRwSHFTSlJsN24tNjhGck9JRUtvN2VBZ0hQbVBKOGM3Q29IU0dOalBRSGVkUXFnUDJJRml4NXZDcHFMTU50YUFuSUFES2xEc3IwNHBoc1dncUhEeE9paGlmR2ZjeDhjaWQ3MU5QMFUxSGhaM1hkQ0ViS2Z6SVh4LVhzOXE0UQ?oc=5",
+                    "publishedAt": "2026-09-23T09:51:28.000Z",
+                    "language": "pt",
+                    "summary": "# Summary\n\nChef Lucas Azevedo is opening a new restaurant in Lisbon based on his award-winning establishment in Morocco. Visitors to Lisbon will be interested because this brings an acclaimed dining concept to the city, offering an opportunity to experience cuisine from a chef with proven credentials and international recognition without traveling to Morocco."
+                },
+                {
                     "title": "Origem. O novo restaurante de Lisboa viaja pelas memórias das receitas das avós - nit.pt",
                     "source": "nit.pt",
                     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQX3lkb2ZqRk9FSXFKNEJ1V0h6YzV6Um1DUHZXbEY1SDBsR055R3BKRDZyTk15Q25jTjRJWTBDY1pNbTNhWnhNSFU0U21KY0ZncmRqNU1UcjFhN2ZNdkg1T2lpWm5WR3ZfOVFNTXZnZXRSclY1TnpsY25CRWFLSHNDbm82SzRNVDFnTk05aXhQSC04UmpFNU5LZmdnd1NmUTVOUjVaQ3B2Nk5vUmtOekltVDBJVDV0Y0lU?oc=5",
                     "publishedAt": "2026-09-23T07:41:00.000Z",
                     "language": "pt",
-                    "summary": "# Summary\n\nOrigem is a new restaurant in Lisbon that specializes in traditional Portuguese grandmother recipes, focusing on nostalgic, heritage-based cuisine. Visitors to Lisbon would appreciate this spot for experiencing authentic, home-style Portuguese cooking that celebrates the country's culinary traditions rather than modern fusion fare."
+                    "summary": "# Summary\n\n**Origem**, a new restaurant in Lisbon, celebrates traditional Portuguese home cooking by recreating grandmother's recipes and culinary memories. Visitors to Lisbon should care because it offers an authentic, nostalgic dining experience focused on classic Portuguese comfort food rather than modern or international cuisine."
                 },
                 {
-                    "title": "Chef Lucas Azevedo abre em Lisboa restaurante premiado em Marrocos - Expresso",
-                    "source": "Expresso",
-                    "url": "https://news.google.com/rss/articles/CBMingRBVV95cUxPTEczSm15c2tmZWJBLTZyelJoeExkTzZVdjBQZ0x6MGRVRnNYcndXZXdudEV1eUFYWXphSzg2d1RQX2U3Ukt0bEpXdmZqaGFIWkJhTmlLQzJDTE0zSHQ3MXE4NDBPR0VxV180TmYwYzJtOFFMZDJtSEJRSGpZbUN1YXBvTUhjQVpidlIyTl9aTlJLRnhsb29fSi1ycnpjRlV2Z1R4eFlUcFBKVW0zUVlQd1RoN2xFVkVUZk5KVjB1ckRxU3pCTHN6WjROZEx2Z1dvLVJoRWJEbVRlekN0dHllbVFSaThqdjIwTnlyS08tU3RKUHR3SkliUzZBUGlQdUozTEw4c0hWUHVSbWc0bGtpZjVjc0s3OTBtd2ZMaTZaWTJIbkJVa0tON0xXRDJBREMwR1pxVDJMRGdqVlYtaXR3Ynl4Zi1TWllUdkxVelI4bklwTTdKTV9MbE1oa0x0VUdOZGpReEVmZFVuR2lxS0pjN0RZODd2Mnk3dElEUndwbE4yNXU4N0xVTWdjaGhJa0k1NkZWcGQ0Ykk4cFU4R1J1ZjRQbzZJUWIwb3hEcXdQOTlRSDk2VGtOaDBwTXYyTUZON3FtenE0VFoxYzloa250OE1uN1JHRmlpc0tqT0RCMWMyMzMyNzFVZWlTSEZacDdfY2xnTlFoZExYMExHMTNMNm55RWJqaGluSm1JbnZpNlE4Ml9WenhQZXloOVJMQQ?oc=5",
-                    "publishedAt": "2026-09-23T09:51:28.000Z",
+                    "title": "Uma abordagem diferente ao sushi! Eis a proposta do novo restaurante premiado de Lisboa - Flash.pt",
+                    "source": "Flash.pt",
+                    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNVVNVNDVtbjAtSEM3ZkhpLWszcXFBejBpWU9fSFNUenBJbV9VYTRwUU9KTUdCVThuMDFrVFdZOUlXT0hFSTZrTEpWbDZrZXhYS3E4cFhKdFR3YWY2Z3c2OURabHVwUjVWU1M5WjY0SndHQ1dwWGdpTUZwZ2I5RHZ4ai0xZkxwWFN5V1VuRFpoVVAyRUVTR1JKM2lwV21pbDNCZGV3aktNcnp2MHotWnNSblNIWmdNQ2lYaFEyTzdHYzDSAbsBQVVfeXFMT25zd0NCTHE2RWFQQ256eXZEQS1LZzRtUUhBOVQ4ZUVia0duUnhtVGxhaldXWURCWTFEUnFFQ3g2bm81ZS0tdlI3NDJQWEQ2Sno3b1ZjTzNrYjA2V19VMzNuMElFTVRaSDlCQTJDVDhCMUhSclEzakYtc2tqQjRvRWNrVGRRamRlTVhSX0Z6TTVzMUxmcFd2RVNudzlYb2g1VzkzUFZXUURjMGVpb245Wk9XT0tuRnM3VXpZVQ?oc=5",
+                    "publishedAt": "2026-09-23T18:30:00.000Z",
                     "language": "pt",
-                    "summary": "# Summary\n\nChef Lucas Azevedo has opened a new restaurant in Lisbon based on his award-winning establishment in Morocco. This is noteworthy for visitors to Lisbon because it brings an acclaimed chef's culinary concept to the Portuguese capital, offering a chance to experience his cuisine without traveling to North Africa. Food enthusiasts and travelers should care because award-winning restaurants typically offer high-quality dining experiences that are worth seeking out."
+                    "summary": "# Summary\n\nA new award-winning sushi restaurant has opened in Lisbon with a unique approach to traditional sushi. While the article doesn't specify the restaurant's name in the provided snippet, it highlights that this establishment offers an innovative take on sushi cuisine. Visitors to Lisbon interested in trying contemporary sushi with a creative twist should consider checking out this newly recognized dining spot."
                 },
                 {
                     "title": "Esporão já é um restaurante em Lisboa: eis a Geradora da Tapada da Ajuda - Público",
@@ -162,23 +162,7 @@
                     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOVHpFcTljUmNQeTg1Ymk3eXJjY2x2Zl90TjhTaEtCVGExOWZqdVNUakNzU011T3lORWpWdWRyS1hEMkdFaEJmczNwNzRpbXNXb3dvSUVYbV8tUk9zSlVCaTZzcG5RQl9qNGNLck5Fb3VueU43WEZyLW1oekZrYzMzVUpfcUdmU1VSakdsdU40b05Ocm41TGdzUWpJcl83TjB3SEJqV3JLSFpBTkdtblB2dzdFN1RJNkJzUDNYMF9iU2EwYW0wZjVKbkx5SQ?oc=5",
                     "publishedAt": "2026-09-18T18:22:20.000Z",
                     "language": "pt",
-                    "summary": "# Summary\n\nEsporão, a renowned Portuguese wine producer, has opened its first restaurant in Lisbon called Geradora at Tapada da Ajuda. Visitors to Lisbon can now experience the winery's cuisine and wine offerings in a restaurant setting rather than only at their main estate. This is significant for food and wine enthusiasts visiting the city who want to explore Esporão's culinary experience without traveling outside Lisbon."
-                },
-                {
-                    "title": "Geradora: o tão esperado restaurante do Esporão já abriu em Lisboa - nit.pt",
-                    "source": "nit.pt",
-                    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPUmd4NnlqUFA4RVhBUl82dUNtbXFNTVRYRmVGMl9LMmxZM2xMdkRjSV9lWVd3Si11d0tyZl9oOHVHQlJONWRwSE42SGFUa3pNbGI1Mzd2UEtrYzhBRWtST29ocjVxWXI3V1RSNXMzZ3FPNExUdC00c3JzMEg3NlZUVGtWZFVFdzEzMWd1RTBuRFZfMHA1UFFWNjk3TXd0ZEJfUl80OUt2R3EzVDNudkhR?oc=5",
-                    "publishedAt": "2026-09-18T14:12:00.000Z",
-                    "language": "pt",
-                    "summary": "# Summary\n\nGeradora, the highly anticipated restaurant from Esporão (a renowned Portuguese wine producer), has officially opened in Lisbon. Visitors to the city should care because it represents a significant culinary addition combining Esporão's wine expertise with fine dining, likely offering curated wine pairings with quality cuisine in an established brand known for excellence."
-                },
-                {
-                    "title": "Yokocho: Tiago Penão abre restaurante de ramen em Lisboa - Mesa Marcada",
-                    "source": "Mesa Marcada",
-                    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOM2xtWEtBek5EVUdYOXQ0WGxzcndkSW5Xb1A0ck5FTE9zcENJZWMzaHVIWi1nRUlyYTEwXzZEeUFTWmlYeENiYnMwdHB0YkZwLUdqclVJcHg1WVBndGFnenRWZTh4RXB5VGV2Q0pmcVlhLW1iQW5ZY2ltZVd2aERpcThoZ3I0WWhiWVVaZHVoSk9YNWM4anllVGdiNmtTMml4OHA4aHJFcS16aE1zNEFhZG14ZERRSG1XYTF4dQ?oc=5",
-                    "publishedAt": "2026-09-16T18:20:54.000Z",
-                    "language": "pt",
-                    "summary": "# Summary\n\nChef Tiago Penão has opened a new ramen restaurant called Yokocho in Lisbon. Visitors to Lisbon should care because this brings an authentic Japanese ramen concept from a notable Portuguese chef, offering a new dining option in the city's restaurant scene."
+                    "summary": "# Summary\n\nEsporão, a renowned Portuguese wine producer, has opened its first restaurant in Lisbon called Geradora at Tapada da Ajuda. Visitors to Lisbon can now experience Esporão's wines paired with food in a dedicated dining space, combining the winery's reputation with restaurant service in the city's Ajuda neighborhood."
                 }
             ]
         },
@@ -186,44 +170,44 @@
             "places": [],
             "news": [
                 {
-                    "title": "Upset as unique Newcastle bar with 'amazing cocktails' shuts with immediate effect - Chronicle Live",
+                    "title": "The best pub for food in the UK has been named and it's in Northumberland - Chronicle Live",
                     "source": "Chronicle Live",
-                    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNbUc0em5PUktFaHhxVktXSEhNd0NhTWVKb1Y5WjlvU0F2VVNIS3ZVcF8wblpncWFTLWxhSWhuRnFkTzBnUlY3WDJmWkZhdFZPcWVzUXJfZ0VZa3JyRTMwclFqa0pOSzcyOXlLNFFKZmw2b1RUdHV6Q3NRYmUxdEFNaTRQb0p6ZmtkLTRfZE9EcUhxbS1NbEk3SWQ5emRHUmJMRWfSAacBQVVfeXFMUGh2TGw1bE1Jc0ZrdE4zVDhKVjdyUmk4RkxTekViT1M0QTVJeUtkeGhmYS1nc24zdW5mM3cwZXRESm5GZ1JrQW4xUUlobDA2TmdreU1HV0J4b2VIYW1GZkFMMVVlS0FWVUt1T0YwaWNfaXRVZjc0Zi0wQ3VqQWRST1JucklpUGJCaU5fM2hjanhUNnBibFFyVkhKMG00azVrdnIyWm1yQzg?oc=5",
-                    "publishedAt": "2026-09-23T09:34:00.000Z",
+                    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOOE9VTW5UQlVoM2xQaFZHc1Zzb2FSQmVJdlhzUElCTVFhU3JQdmFkWFh0aGU1OHNXcmYtb3dTOVpocEp4T0RLUzJaX19yWUFQREVrWjdRQjE0cjJLeDFsR2FDeDAxVDU0RHQ5S0FlZUZhSkVleXh5QXF3VHZ0NURackFoNzFRZHppOHNmTHdCekHSAZYBQVVfeXFMUEdfdHRmeWg1MU1aVWdoX1I0NmFoN0RaQ09UMm5ra2pGZW0zQU11MzFVZFByVFVwZFpXbVhrRkc5Y3NDOWk4TnBMcktVLWRnS0hvcjVseloyMnp0ckpXVTVWSTZqYVRaMmdKamF0TWFHQnlJd0tVbVJ2UGY1RUl1QnFxNHo2OGx0UDJOTXZtUWlUS3RBc0Nn?oc=5",
+                    "publishedAt": "2026-09-24T09:27:00.000Z",
                     "language": "en",
-                    "summary": "# Summary\n\nI don't have access to the full article content—only the title and snippet provided. However, based on the headline, a popular Newcastle bar known for its cocktails has unexpectedly closed. Visitors to Newcastle would care because this was apparently a unique establishment with well-regarded cocktails that's no longer available, eliminating a go-to nightlife option in the city.\n\nTo provide a complete summary with specific details about the bar's name, location, and reasons for closure, I would need access to the full article text."
+                    "summary": "# Summary\n\nA pub in Northumberland has been named the best for food in the UK, making it a notable destination for food-focused visitors to the region. While the specific pub name isn't included in the snippet provided, this recognition suggests the establishment offers exceptional cuisine that stands out among UK pubs. Visitors to Northumberland would want to know about this award-winning spot for quality dining in a traditional pub setting."
                 },
                 {
-                    "title": "Tan Hill Inn brings famous Yorkshire favourites to Newcastle Stack - darlingtonandstocktontimes.co.uk",
-                    "source": "darlingtonandstocktontimes.co.uk",
+                    "title": "Tan Hill Inn brings famous Yorkshire favourites to Newcastle Stack - Darlington & Stockton Times",
+                    "source": "Darlington & Stockton Times",
                     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNc2lrSjFFRkNVWTBwMUM1NHk4el81WklUZEplUExyT2hpeDJEVVV3Q1dWRnhfc0pPVlBkcWJZdjRKTUg1U2U2bkRFbFpTRHNCaEdSVzZSWGRnRWZHV2Fic1F0T3FadE5kbWZxUHBTMmJkcVh2TmMxbUJ5Y2NqSzQ3VlRkNVNKVDRvLUlqVlE4cDhST0piakx2QXo5NDl2UzNXT1ByVVY4UUh1aXVqSEdz?oc=5",
                     "publishedAt": "2026-09-19T04:00:00.000Z",
                     "language": "en",
-                    "summary": "# Summary\n\nTan Hill Inn, a renowned Yorkshire establishment, has opened a location at Newcastle Stack, bringing its popular regional dishes to Newcastle. This is notable for visitors to Newcastle because they can now access authentic Yorkshire cuisine and the inn's well-known offerings without traveling to its original Yorkshire location. Newcastle Stack visitors will have easy access to traditional Yorkshire favorites in the city center."
+                    "summary": "# Summary\n\nTan Hill Inn, a renowned Yorkshire establishment, has opened a location at Newcastle Stack, bringing its traditional Yorkshire cuisine to Newcastle. Visitors to the city can now enjoy authentic Yorkshire favorites without having to travel to the original venue. This is noteworthy for food tourists and locals seeking genuine regional British dining in a convenient central location."
                 },
                 {
-                    "title": "Where to Eat in Newcastle upon Tyne: Five Stops by Area and Format - deeparrival.com",
-                    "source": "deeparrival.com",
-                    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPUkljTHVYMDZidzgtY0Y4YTR0WWVfWUVxU0hDRGVORXRXWUY3dy1GYlBDbnNzU0d3Sk1mMFpRZi1fdXhCVE1nakptamxrcWpUY1U1SEhfMDNJVEotYW9VbFJZMzVyY1VSRkFhZ3lyVy1QUTNTWGtWdkY3X0N3SlRGTnN3OE9JREFxY2Y5S1NB?oc=5",
-                    "publishedAt": "2026-09-21T05:06:55.000Z",
+                    "title": "My Delhi serves up yet another accolade - Bdaily",
+                    "source": "Bdaily",
+                    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNWVhQcHJGOGVpbTVBZVpSQkJVVTgzT1lucVR5VzlZZGFqRDVOV3VxVlVxY0ZSMVNjb3BMM1Vick5BX2FENUNnZkxxRXkwQTRCX3AtRWRrMHdreVV3TnpuOGhfVjlsRzI1Q29PdWgzRlcxZEtwSnBGbmZMRWJaUVZuLUcwMkJONG8?oc=5",
+                    "publishedAt": "2026-09-21T11:16:34.000Z",
                     "language": "en",
-                    "summary": "# Summary\n\nThis article provides a guide to five recommended dining destinations across different areas of Newcastle upon Tyne, organized by neighborhood and restaurant type. While specific restaurant names aren't detailed in the snippet provided, the guide offers visitors a practical breakdown of where to eat based on location and cuisine format. Travelers to Newcastle would find this useful for efficiently planning meals across different parts of the city rather than searching randomly."
+                    "summary": "I'd be happy to help summarize this article, but the snippet provided is too brief to extract meaningful details. The title indicates that \"My Delhi\" (a restaurant) has received an award or recognition, but the actual content isn't included. To give you a useful 2-3 sentence summary with specifics about what the accolade is, why it matters, and its relevance to visitors, I would need the full article text. Could you share the complete article content?"
                 },
                 {
-                    "title": "Newcastle drug dealer dressed as Just Eat delivery rider was dropping off more than food - Chronicle Live",
+                    "title": "Ex-Newcastle striker Andy Carroll reveals he was sexually assaulted in 'traumatic' attack - Chronicle Live",
                     "source": "Chronicle Live",
-                    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOekhxejZlODF5ZlRHY0ZDNVRNU1pEb2hDZGJIeUZMcmFtdDI0ODZMeXJVei02aDFXaFFlYzVyVTFHdGdLY1l0UmJMRmhLcWlmTGY1VDU0cTdHUlljUXhEOTE0ZXpjSHdGZm90Q2djQzhHc1N5TUo5V2pSR2NoWVg2c1laTHJuLTU1d1pSOXFudlNYOTg0bV9TRWVidGvSAaIBQVVfeXFMTmVOQW02UE14b3FBaHdOb3Nsem95dDF0cEdCNkpYT0RMQlNMWFhTbUw0Z2xBdGE4YUk3Rm5naWoxbktCdGhYdmswclE5OHF3Y0pMUEFJbVFRRTAxeVZkSERDTXFqUFRLRHdQOEVEQmJrRFBzYnM0NlIyaFlMQ0x5TzA3c2xzU1l6aVpFMG10Z1hBOC1lVE9kaFNZc0FSNml1bGxR?oc=5",
-                    "publishedAt": "2026-09-22T23:01:00.000Z",
+                    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQcHRLR0R6YVJwdnBDZFRrejZSUGhXTkpObjZTaS00Rk1CRG5ldzdKUHZwNXJGb3hpX29KZG8xUVQ0QzZTVnN4amg5U3JhRENQX3pNc3V3UVBUOFVGV3BuQVNhYUVPbjZteV85aWsxX3FJZGEtMmJUUEZwWkR0TGVMMGIxc0o2bW1xeGNIWjc5ejh5QmlxamF0RU9yUThxMWhXa3NLYnhVX2FwMWvSAbABQVVfeXFMUFB0U3hmT2JjSU1FOHIwOHl2ekwxcXdwTnZvNTJ1eFIzbTd4TFhGei1Sa0h6c3M3TnZSb3RJRGMwTGs0YUZHSEQ5alYyTWNrbnBQZ0pqbUR2c1NOREVIMGp5V19TQXExT3p2SHppaVQxNm45enRMUEhkZGhLM2RILWFaY1hMdE9XdDNVVXhkNG9pUDA0NFhiMC03bFRhX3FQRU04NDN3eHZ1bHZFZXhSMHE?oc=5",
+                    "publishedAt": "2026-09-24T09:22:30.000Z",
                     "language": "en",
-                    "summary": "# Summary\n\nThis article reports on a Newcastle drug dealer who disguised himself as a Just Eat delivery rider to distribute drugs while appearing to make food deliveries. While this is primarily a crime story rather than food news, visitors to Newcastle should be aware that some delivery riders may not be legitimate, highlighting the importance of verifying orders through official apps and being cautious with unknown deliveries."
+                    "summary": "I appreciate you sharing this, but I should note that this article is about a personal news story involving a public figure's assault allegation—not restaurant or food news. It doesn't contain information about a restaurant, food spot, dining establishment, or food-related content that would be relevant to summarize according to your original request.\n\nIf you have a restaurant or food news article you'd like me to summarize, I'd be happy to help with that instead."
                 },
                 {
-                    "title": "The Newcastle pub where you might see the Prime Minister supping a pint of Brown Ale - Chronicle Live",
-                    "source": "Chronicle Live",
-                    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQbnVmRGtfNnRhWDI4MHZCTFpzeldCN2NiWE1OM2lqQUx5RlJsV0JZTVdWY3lSVTlaczQ4MDhBSkZBYWdFUGpuNFU2OElPRmlWeU9mN0h2d3pGVlhISHN3UEZ3UmlITGhHaWpTZHNnX0FabnhudEpKS0RlRlV1MjZfZDdZSDJUdUhvNmlfVEgxdk95TFFaME9mNdIBngFBVV95cUxOdFFXQzBSU3ZCM29DYmtYYlc3UGRpSk9Dd3FDeDFBVEJhNllLRlQwS3JFNFZUVk1pZkxJODZJUGFtZFVXZTZoTjJPeXhwVWQyTzdMUUdydjE3VHk3eUN1NWxHWVJZY05QNTBRU2YwNE1OV1pxV2FxaFllQUh5TXBZR29wd2pnSjFzXy1PRGREeWlpWUpoNGFnOEhlSmFSZw?oc=5",
-                    "publishedAt": "2026-09-20T14:59:29.000Z",
+                    "title": "Vinnies calls for donations to help put food on people's tables - Newcastle Herald",
+                    "source": "Newcastle Herald",
+                    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNMzZPbDlhRnpfMllUVl9MaGpCUGV5MGhaOTF4UVRhbFZDRkdLTEpJbVg3QTRFN1BiZ2JKcU45QWVtSkhFVzlhLXVlMHllMVpmVkFKS1NacGJSMXN4dlVMRnhVZ2loblUxWEQ5aTNNV0ZxMUtKbnM1dlZWOVdXcUpVM0V2MExOcGR1QVQtaVA5NVJhV2p3clJzLWNyRGhpRWIyVndQRHBaQVJqZw?oc=5",
+                    "publishedAt": "2026-09-24T01:09:50.000Z",
                     "language": "en",
-                    "summary": "# Summary\n\nThis article highlights a Newcastle pub with historical significance as a spot where the Prime Minister might be found enjoying a pint of Brown Ale. While the specific pub name isn't detailed in the snippet provided, the piece celebrates a traditional Newcastle establishment that appeals to both locals and visitors interested in experiencing authentic British pub culture. Visitors to Newcastle would care about this location as a notable spot combining political history with the city's renowned pub scene."
+                    "summary": "# Summary\n\nI don't have access to the full article content beyond the title and snippet provided. Based on what's available, this appears to be a news story about Vinnies (St. Vincent de Paul Society) in Newcastle launching a donation drive to support food assistance programs for people in need. To give you a practical summary focused on which specific restaurant/food spot is mentioned and why visitors should care, I would need the complete article text. Could you share the full article or additional details?"
                 }
             ]
         },
@@ -236,7 +220,7 @@
                     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPNFdnUV9FMFNaRkxKZnloczNaRDBaVWhCcV9ySnNKVW1pcGN4aGo4b0U0NzdCX3h5ZXNyZlVnNUIxWk5qZk5MNzZGS0lNYXpsQjdFLS0yT3RtbGM4VzJiNVVPakhnZDB1Yks3QTRRZjNxNjlHOU8zVjhHbEVlN1lBb1NnSTlSdEdUMDVLcVhCUQ?oc=5",
                     "publishedAt": "2026-09-21T20:07:21.000Z",
                     "language": "en",
-                    "summary": "I'd be happy to help, but I don't see the full article content in your message—only the title and source information. To provide an accurate summary focusing on specific restaurants, food spots, and why visitors should care, I would need the actual article text or more details about the events mentioned.\n\nCould you please share the full article content or the specific food/restaurant events covered in the piece?"
+                    "summary": "I appreciate you sharing this article, but I'm unable to provide a summary because the snippet you've provided is incomplete—it only contains the headline and source information, not the actual article content. To summarize the restaurant/food news and identify specific establishments mentioned, I would need access to the full article text. If you could share the complete article content, I'd be happy to provide a 2-3 sentence summary focused on the dining spots and why visitors should care."
                 },
                 {
                     "title": "Tallinn FoodFair brings Estonia’s food sector together for its 33rd edition - The Baltic Review",
@@ -244,7 +228,15 @@
                     "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9DOU5zcEJ0bG85dGl2Y01mMkxCUVFfTkxwWmN0YWE2S0tMTHVBdTBhZjBwS2EyYW0zTzJxWWxCSkpEQjFpanFzUHhrODFwWWw5eHN6X2hvT3FwRnViVGJ4ai1YTHE5ZlhrdlhuRkdLMXFqS1daYUxz?oc=5",
                     "publishedAt": "2026-09-21T05:14:53.000Z",
                     "language": "en",
-                    "summary": "# Tallinn FoodFair 33rd Edition\n\nI don't have access to the full article content, only the title and snippet provided. Based on what's available, the Tallinn FoodFair is holding its 33rd edition as a major event bringing together Estonia's food sector. Visitors to Tallinn would care about this event as it likely showcases local Estonian food producers, restaurants, and culinary traditions in one place—making it ideal for experiencing authentic regional cuisine and discovering local food businesses.\n\nTo give you a more detailed summary with specific restaurants or food spots mentioned, I would need access to the full article text."
+                    "summary": "# Tallinn FoodFair Summary\n\nTallinn FoodFair is holding its 33rd edition, bringing together Estonia's food industry and showcasing the country's culinary sector. This event is significant for visitors interested in Estonian cuisine, local food producers, and culinary trends, offering an opportunity to discover traditional and contemporary food offerings from across the region. Attendees can explore local products, meet food makers, and experience what Estonia's food culture has to offer."
+                },
+                {
+                    "title": "Tallinna Kaubamaja stock trades below its yearly high - AD HOC NEWS",
+                    "source": "AD HOC NEWS",
+                    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxObWtMYXZMc1d0ajVsMGE4STRNekh4QWQ2Y1RzYXg2ZU9PbjlRVkhFcVRpVUFXTTBKN21zTFpRY2k0cUdyMTF3TzQtNkZyaE8yalN0bGNrQUxhRzk4c1h6elRocjRYYWptb0hhcVp1R3dMbWtLWDJuS3VoTlNuSEc0V0RxMEYycTlPZU5QNFdaclN3dGRBcU1VeUdLWEJobU9yTHZrV19VQ3pUaEF6dTlyem9n?oc=5",
+                    "publishedAt": "2026-09-24T03:12:55.000Z",
+                    "language": "en",
+                    "summary": "I appreciate you sharing this article, but this appears to be financial/stock market news rather than restaurant or food news. The article discusses Tallinna Kaubamaja (a major Estonian department store) and its stock trading performance, which isn't relevant to dining or food recommendations.\n\nIf you have a restaurant or food-related news article you'd like summarized, I'd be happy to help with that instead!"
                 },
                 {
                     "title": "Tallinn, Estonia - Christmas markets around the world: 7 countries to add to your winter travel list - The Economic Times",
@@ -252,7 +244,7 @@
                     "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPUkZYUmtxNFZLT0Ftc1otdkpEejM5Qkl3aUdJakZFSlFlYTJSLXE3ZzNqY0FvVWZucmxzcFBjWHBkelE1WVdxVUQteURHS2g4ZEZpS0FBWE9GRmFSV2ZzTFdDbDJwc3h1Z0xWLUVxbm1VZ0RBY3FhbmpvME1lRXZlbmZfZXZNU2VEQVdhdlJrSEpZTlU3YngzdEd6Q2VISjRMZHdyQzVlQ0ZIcFNHc1pYdG9nQ1RpdDl0dlBTSHFVVVFwM25yYnZZRFlQYTRZVjI0ekRGcWhKSVR0aXJQR0FFSGlKWWhaZVROM20ydWlYUQ?oc=5",
                     "publishedAt": "2026-09-18T18:00:43.000Z",
                     "language": "en",
-                    "summary": "# Summary\n\nThis article highlights Tallinn, Estonia as a winter travel destination, featuring its Christmas markets as a major seasonal attraction. The piece is part of a broader guide covering Christmas markets across 7 countries, making it useful for travelers planning festive holiday trips. Visitors to Tallinn would be interested in experiencing the city's traditional Christmas markets, which are a popular winter cultural experience in the Estonian capital."
+                    "summary": "# Summary\n\nI appreciate your request, but I don't have access to the full article content—only the title and snippet you've provided. The headline suggests this is a travel guide about Christmas markets in 7 countries (including Estonia), with Tallinn featured as one destination, but the snippet doesn't contain specific restaurant or food establishment details.\n\nTo give you the practical summary you're looking for (what food spot is mentioned, why it matters to visitors), I'd need the complete article text. Could you share the full content?"
                 },
                 {
                     "title": "Radisson Collection Tallinn has a Sky Bar with magical views - wheretowatch.tv",
@@ -260,7 +252,7 @@
                     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOYWxxT25hR3hpQWtqbWtWeDRDXzNPM09SYjJzeXJKSXdWTzFkdjR5VzM2Q1BYcEVxcjdvbGpaRDdTRkZVY00xSmZJUkdsRDNndnM1Vm1wV1ZlM19sOWRJTGxxQVJLQkRQZlpjU0J0dHctNWJzS0lvcUtFbXRnVWRibEJOeFF2MFczVzBRM29mc3hPQTBQN3VZek43WTZCTGlJVG9FTTktLTVSVzdh?oc=5",
                     "publishedAt": "2026-09-21T16:00:00.000Z",
                     "language": "en",
-                    "summary": "# Summary\n\nThe Radisson Collection hotel in Tallinn features a Sky Bar offering impressive panoramic views of the city. Visitors to Tallinn should care because it provides an excellent spot to enjoy drinks or meals while taking in the scenery, making it a worthwhile destination for those looking for a memorable dining or leisure experience with a view."
+                    "summary": "# Summary\n\nThe Radisson Collection Tallinn hotel features a Sky Bar offering spectacular views of the city, making it an attractive destination for visitors to Tallinn. This rooftop bar would appeal to travelers looking for a high-quality dining or drinking experience with panoramic vistas of the Estonian capital. It's a practical spot to add to an itinerary for evening drinks or meals with a memorable backdrop."
                 }
             ]
         }
