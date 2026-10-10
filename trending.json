@@ -1,17 +1,25 @@
 {
-    "lastUpdated": "2026-10-09T12:13:34.543Z",
+    "lastUpdated": "2026-10-10T11:31:04.436Z",
     "source": "github-actions",
     "cities": {
         "cologne": {
             "places": [],
             "news": [
                 {
-                    "title": "Michelin Guide 2026: Das sind die Kölner Sterne Restaurants - Verliebt in Köln",
-                    "source": "Verliebt in Köln",
-                    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQbnZ6a01EZzVFWENuVTBVc0NXRE1yUHZaTnY2RWlrU1VCM0lCalZvLTlGWFBTOVFsOTlabnEwQk94OG5HV09lVjBLRmNELTc1Y3REUmI0R3BaaElTdG8xaXVkQnlIcUJodFZ5SGV0clZ6R3VXWi1ZWXNQam5YU1p1QWlJOFhvT01OdXNfa2lDUjllUQ?oc=5",
-                    "publishedAt": "2026-10-03T07:00:00.000Z",
+                    "title": "„Mein Lokal, Dein Lokal“: Finale in Köln – Mecker-Maurizio in Bestform - TV Digital",
+                    "source": "TV Digital",
+                    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQZkkzVmlpRXlhRE5lbW5kdHByZnBxR3U4UFdfaVZPWVhrOWUwQkJSSnN4NGNlMXBaWlBXZWlIWk1ZNmtkM0R5UEc1Zkl4YVN3V1JndFR3aUVpVXBVejZJS0NFTm11THZMMzA4elJfbUZnUGxkcDJLUHR6eTlGSUpMTU4wQjBJbmhMc3QyNlJnTkVuU0ttTzYwS3lCUjhlN2FtZGdlaTl0dm9qVzhlcVhUUE5JRmlkUQ?oc=5",
+                    "publishedAt": "2026-10-09T13:30:00.000Z",
                     "language": "de",
-                    "summary": "I'd be happy to help summarize this article, but the snippet provided only contains the title and source information without the actual article content. \n\nBased on the title alone, I can tell you it's about **Cologne's Michelin-starred restaurants in the 2026 guide**, but I cannot provide specific restaurant names or detailed reasons why visitors should care without access to the full article text.\n\nCould you please share the complete article content so I can give you an accurate 2-3 sentence summary?"
+                    "summary": "# Summary\n\nI appreciate you sharing this, but I'm unable to provide a useful summary because the article snippet provided is too limited. The title and snippet only mention that there's a finale of the TV show \"Mein Lokal, Dein Lokal\" (a German restaurant competition show) taking place in Cologne, featuring a personality called \"Mecker-Maurizio,\" but no actual article content or details are included.\n\nTo give you a practical summary focused on what restaurant is featured, why visitors should care, and what the news means, I would need the full article text. Would you be able to share the complete article content?"
+                },
+                {
+                    "title": "Grenzenlos Feiern - Soli Party gegen Abschiebungen am 17.10.2026 in Köln - Rausgegangen",
+                    "source": "Rausgegangen",
+                    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQVUxFTjBXS3lIY3dITjk2SDl6VHlsamJ4Q3ZmV00zck81dm1fbkYyN0UtWjNwZGFtYWdYUFFOM0U3UEZCYTd0Q1JqWnRBVG5tak5YRWUtdDBGeFlCOGNONnRaUWdpcExZUnJ2OW0yNHpSNnEzbFE5cjhFbjM0N1hpMDN4bzRnMzFFMkE?oc=5",
+                    "publishedAt": "2026-10-09T21:40:39.000Z",
+                    "language": "de",
+                    "summary": "I appreciate you sharing this, but this isn't actually a restaurant or food news article. The content is about a solidarity party/political event against deportations scheduled for October 17, 2026 in Cologne, which is unrelated to dining or food establishments. \n\nIf you have a food or restaurant article you'd like summarized, I'd be happy to help with that instead!"
                 },
                 {
                     "title": "Influencer fordert 2500 Euro für Essensfoto – Traditionskneipe schlägt eiskalt zurück - Merkur",
@@ -19,7 +27,15 @@
                     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQTDg2SkpCMEhhWURscl9WdWJaQlczY0Q1WFlJVXlQU3FCYUxET1N2WXdrZlhXMmczLW9QQ0h5QkJKZjRQNDFOSnRVWV9kQ3ZGM3NFWG1weDJWdHhSRXRIOUNqRklyQ0FrZU16d0tZc2JDckw3SEZKMnZsRHRmNU9CdW40ekhvSEpPYzJiWE11VkdKenVGbW1WVHg2akFubkpPLTVsNUdLcVJ1ZWo3ZlFPRml3RmRJNzgydWdQX0tR?oc=5",
                     "publishedAt": "2026-10-07T16:37:55.000Z",
                     "language": "de",
-                    "summary": "# Summary\n\nA German traditional bar rejected an influencer's demand for €2,500 to post a photo of their food on social media, responding bluntly to the request. The establishment refused to pay for promotional content, highlighting a growing tension between restaurants and influencers over compensation for exposure. Visitors to the city would appreciate this bar's stance—it's a place that values authentic customers over paid endorsements and keeps prices fair without inflating costs to cover influencer fees."
+                    "summary": "# Summary\n\nA German traditional pub rejected an influencer's demand for €2,500 to post a photo of their food on social media, calling out the practice as exploitative. The establishment's blunt refusal went viral, resonating with many who are tired of influencers treating restaurant exposure as payment. Visitors to the city would appreciate this pub's stance against influencer culture and might seek it out for supporting independent, authentic establishments that value fair business practices."
+                },
+                {
+                    "title": "Folge vom 05.10.2026: Köln-Wochenstart mit einer internationalen Küche im \"FUX Restaurant\" - www.joyn.ch",
+                    "source": "www.joyn.ch",
+                    "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOMlVTaDI5TmYwQVhtWGNoOEc1UEMtN0tYdE52dmU4dzM4eHQ4UURSUEJUN2pyckRoR2pDOEFnTEpUN0NUTzMxZVJaTmx1cWwwYmZ0VHAxbzM4WFg0R0Q1Ukh4QzkzNnA5dGxEcjNWRi0tU0tmSHQ2bjZGZmc3Y1o3WXU3VkRQby1UdUlUS0ZKYjAtcHZpYmNobkQzX2pKYmowbF9xcDhMSDBTMGYyT0JWRUdPYmVoYV9sYUVlQnhDOFRsMnlLcmxmOXN2Z0lEdmNNckVPMFBZVXhhOE9zZFItVm5aZjBnSFBj?oc=5",
+                    "publishedAt": "2026-10-05T05:58:16.000Z",
+                    "language": "de",
+                    "summary": "# Summary\n\nFUX Restaurant in Cologne is featured for its international cuisine offering, making it a notable dining option for visitors exploring the city's food scene. The restaurant appears to be highlighted as a week-starting destination, suggesting it's worth visiting early in your Cologne trip. Visitors interested in diverse, globally-inspired dishes would find this restaurant a worthwhile stop during their stay."
                 },
                 {
                     "title": "Warum Gelsenkirchen und andere Städte wohl das Dortmunder Bettelverbot kopieren - WDR",
@@ -27,23 +43,7 @@
                     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNcjE5d29ac0syNjAzSGtQVGhWZWkxOEVhc2xXZXJ0YjA2UjJGN2FvOUZtUE5iS1dWcS1OTnBRamMyZ3FLM255d0lCUm5TNEhySFNzWUNQNDJOYUNMcFVZZkJZbEIwV0pSOERXZE52bHJ6TC14NzhmTkthbUR5M1kyUHFJN0h1TkUwUDB3dg?oc=5",
                     "publishedAt": "2026-10-07T03:00:01.000Z",
                     "language": "de",
-                    "summary": "I appreciate you sharing this, but this article isn't actually about restaurants or food. The headline is about Dortmund's begging ban and whether other cities like Gelsenkirchen might adopt similar policies—it's a social/municipal policy story, not a food news article.\n\nIf you have a restaurant or food article you'd like summarized, I'd be happy to help with that instead!"
-                },
-                {
-                    "title": "Gastro-Hype in Köln: Warum plötzlich alle zu Taco Bell wollen - RP Online",
-                    "source": "RP Online",
-                    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPTVZySFQyMWhmcnUyTXY0dFZ4VENXa0dJZWtQanA5MXBFSXNvUDJyYTFIdzFIUC1CVDQ4YjNIWjBJV3BVT2RicWFoaUN6ZWtneHFSQTdSMHo1SXlVcXFaMnViMG1LemZRcVJLVkhrUGRqcTBVS3F1T09kVEVjbEtJYU1SOHZJNy0zcXdZTGVNRVc1N2JaeWdGV292cEpnM1JjdzluOWUyU2QtQzYwVktWYUJfWjJiY0E3MXc?oc=5",
-                    "publishedAt": "2026-10-07T08:27:00.000Z",
-                    "language": "de",
-                    "summary": "# Summary\n\nTaco Bell has become unexpectedly popular in Cologne, generating significant buzz among locals and visitors. The article explores why this fast-food chain is suddenly attracting so much attention in the city. If you're visiting Cologne, this trend suggests Taco Bell is worth checking out if you're curious about what's currently creating a dining scene moment in the city."
-                },
-                {
-                    "title": "„Mein Lokal, Dein Lokal“: Wirt rechnet mit Konkurrenz ab – „Sie sucht das Haar in der Suppe!“ - TV Digital",
-                    "source": "TV Digital",
-                    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxObzBNNXh6WS1rVXhRdXU3aThBeGJjNENnOExIdTdlaWRpdEpXMTVUZjVkSkZBdmtMYVhBaXJyRzlCWFRYa2VTY01sS1IwUk1iQzVKS085ZG5kNmM0VGFadGhBMFk5U3hPLUR4UWMtd3ZfS05YTlhEcnVrY0ptRGZJNWZ0SFV2b2gwa2lsS2hNc1JGTHN4b1p2UjlnTHY2WDdZd3lkSDFFWDRQSmVNbVNQYjA0R2RNWEJpWXVHRXBKWQ?oc=5",
-                    "publishedAt": "2026-10-07T05:00:00.000Z",
-                    "language": "de",
-                    "summary": "I appreciate you sharing this, but I'm unable to provide a meaningful summary because the article snippet provided is incomplete. The title and snippet only contain headline text (\"My Local, Your Local: Innkeeper settles scores with competition - She's looking for a hair in the soup!\") without the actual article content.\n\nTo give you the practical 2-3 sentence summary you're looking for—including the specific restaurant name and why visitors should care—I would need access to the full article text. If you can share the complete article content, I'd be happy to summarize it concisely."
+                    "summary": "# Summary\n\nI appreciate the request, but this article isn't actually about restaurants or food. The headline is about Dortmund's begging ban and whether other cities like Gelsenkirchen will adopt similar policies—a social/civic issue rather than food news.\n\nIf you have a restaurant or food-related article you'd like summarized, I'd be happy to help with that instead!"
                 }
             ]
         },
@@ -56,7 +56,7 @@
                     "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOYjY1VG1zOTc5WWtKYlF0bUdjVEN6aXdxdGZ2bFhZbHNmMk1NRWNyNFFTMG11cFdHOU93eVA3RHZ5cFpJN0VXOV9Jb0FuZ0E1ZGk1Z2YyVDBvRGpsUm9yRVpCaktFU1hRbzROb3BfQWxIZzNEek5TYUxMY181dVNrYU4zZ3hpSGJLM0VjQzc1Z0lYbnNGYWZDWjEzYW1LMHBISENiVUE0MlNuam41YmoxWWh3QlNJX21FT0RxTWFiUHhiZFFjelp6QnFtdTJES0hjWXYyc1dPS3lScXBPVmJXYTZQSVhVeFZiRFBOb1FNTlJrRU9C?oc=5",
                     "publishedAt": "2026-10-05T13:27:23.000Z",
                     "language": "nl",
-                    "summary": "# Summary\n\nFor the first time in a decade, Amsterdam received no newly awarded Michelin stars, while two established restaurants—De Juwelier and Daalder—lost their star ratings. This marks a significant shift in the city's fine dining landscape and suggests a potential decline in Amsterdam's culinary prestige at the highest level. Visitors seeking Michelin-starred dining experiences in Amsterdam should note that the city's roster of top-tier restaurants is contracting rather than expanding."
+                    "summary": "# Summary\n\nAmsterdam's restaurant scene experienced a notable shift in the latest Michelin Guide update, with no new restaurants earning stars for the first time in a decade, while established fine-dining spots De Juwelier and Daalder lost their previous star ratings. This marks a significant change in the city's haute cuisine landscape and suggests tightening standards or shifting culinary trends among Michelin inspectors. Visitors seeking Michelin-starred dining in Amsterdam should note that the pool of acclaimed restaurants has contracted, making reservations at remaining starred establishments potentially more competitive."
                 },
                 {
                     "title": "Politie houdt man aan na dodelijke schietpartij bij bar Amsterdam - NOS",
@@ -64,7 +64,7 @@
                     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNRzhzRkRLSHJpSy13Tm8tTDdUTkRQNTlOckFwTlpTcURydUdVUVdrODhkQ3VSUldJMGQxTU8xdnEyVGdpa3QxSmpjTFg4M01DVUU2elR4OW5LYmJiLTNNWTltUm1QRzJ2N0s3eGVDMnNvR25RVFRvalBSVXdoR3J5Y2ctMUVSVVRUWllqU2NTOU5MMVBNOURDODVoOEY?oc=5",
                     "publishedAt": "2026-10-03T19:01:04.000Z",
                     "language": "nl",
-                    "summary": "I appreciate you sharing this, but I should note that this article appears to be about a serious crime incident (a deadly shooting at a bar in Amsterdam) rather than restaurant or food news. The article doesn't contain information about dining, cuisine, or a food establishment's operations or offerings. \n\nIf you're looking for a summary of food or restaurant news, you may want to share a different article that focuses on culinary topics, restaurant openings, or food-related developments."
+                    "summary": "I appreciate you sharing this, but I should note that this article is actually about a criminal incident (a fatal shooting at a bar in Amsterdam), not restaurant or food news. It's a crime report from NOS (Dutch public broadcaster) about a police arrest following a shooting.\n\nThis wouldn't be relevant food/dining news for someone visiting Amsterdam—it's a serious public safety matter rather than information about dining experiences or food establishments.\n\nIf you have an actual restaurant or food-related article you'd like summarized, I'd be happy to help with that instead!"
                 },
                 {
                     "title": "Geen nieuwe michelinster voor Amsterdam, wel twee sterren minder - AT5",
@@ -72,7 +72,7 @@
                     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOY0JEUTlBeHc3bkFEX3g4Q0xNcmpwZzNlMFc2aXR2dDJIUHY0OThtQ3NJbDdlaGVDd0RQazVsdGRJTWZScjhmazNfelN2NVBhcXR2SGRvZGlVblliX3BCMkRHU2JSNmFKS2pRVDB3MnhOUFpJN1lyU2pnTmRhQ1VVWm5hRU9pRWdwWElqTmtXTmV3Q1ZvTi1IVG5XYU83QzZ2?oc=5",
                     "publishedAt": "2026-10-05T01:55:00.000Z",
                     "language": "nl",
-                    "summary": "I appreciate you sharing this, but I need the full article text to provide an accurate summary. The title and snippet you've provided are in Dutch and indicate that Amsterdam lost two Michelin stars (no new stars were awarded), but I don't have the details about which restaurants were affected or why this happened.\n\nCould you share the complete article text? That way I can give you a concise, practical summary focusing on the specific restaurants involved and why visitors should care."
+                    "summary": "# Summary\n\nAmsterdam lost two Michelin stars in the latest guide update, with no new star-rated restaurants to offset the loss. While the article doesn't specify which restaurants lost stars, this is significant news for the Dutch capital's fine dining scene. Visitors seeking high-end dining experiences should note that Amsterdam's Michelin-starred restaurant landscape has contracted, potentially affecting reservation options at top-tier establishments."
                 },
                 {
                     "title": "De Juwelier in Amsterdam verliest Michelinster: 'Soms is een lekkere klap op je bek ook gewoon goed' - Misset Horeca",
@@ -80,7 +80,7 @@
                     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQdkJqdmozTzV2ZldXc01ZMzNmQXYwNF9VT09kTU95MDJoTHE0SlMxZmpfS0JVbk5VMmlTQUV1V0x3N0R3S1NsYUduck1uWkNkYWtidzNyQzlRR2hKUXdJdDRTa3dxdmlieTZiVUVnaDk5VGp3eVZWYkdLcDItb1RfYXZubXZoUzRIYzNibm1TU0Z4T3J6TzlpYU1ZdWNHZEFqMU1kOXR3OWJpemJidXRLQkpfdVh2QnZKa2VlNGEyNm44Q0MydzUwOG9FcnY?oc=5",
                     "publishedAt": "2026-10-05T12:55:18.000Z",
                     "language": "nl",
-                    "summary": "# Summary\n\nDe Juwelier, a fine dining restaurant in Amsterdam, has lost its Michelin star in the latest guide update. The chef expressed a philosophical attitude toward the loss, suggesting that setbacks can be valuable learning experiences. For visitors to Amsterdam, this means De Juwelier is no longer among the city's Michelin-starred dining options, though the restaurant remains open."
+                    "summary": "# Summary\n\nDe Juwelier, a Michelin-starred restaurant in Amsterdam, has lost its star designation. The chef takes the loss philosophically, acknowledging that sometimes a harsh reality check can be valuable for growth. Visitors to Amsterdam looking for fine dining should note this change in the city's Michelin-rated restaurant landscape."
                 },
                 {
                     "title": "Dit zijn de goedkoopste Michelinrestaurants van Nederland - Foodies Magazine",
@@ -88,7 +88,7 @@
                     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPUVJ1RUs2SUNudHBjNlQ0eVNpUUtqZlNEUjB4RlFOZjJCOXRBTmdTcV9Yb0ZHNVdldmpBY251aGZQcjFHWjNaZlJVWXlTZ2lackQ1MHNHUlZDVUk1QWh3aS1QRG1tTld4RzFRSjI3alhHTkJOQjNreFdLZXVsVzV4M2VkczJpeUU?oc=5",
                     "publishedAt": "2026-10-05T07:00:00.000Z",
                     "language": "nl",
-                    "summary": "# Summary\n\nI appreciate you sharing this, but I'm unable to provide a meaningful summary based on the information provided. The article title and snippet you've shared indicate this is about the cheapest Michelin-starred restaurants in the Netherlands, but the actual article content wasn't included—only the headline and source.\n\nTo give you the 2-3 sentence summary you requested (focusing on what restaurants are mentioned and why visitors would care), I would need the full article text. If you can share the complete article, I'd be happy to summarize it for you."
+                    "summary": "I'd be happy to help summarize this article, but I need the full article text or more details beyond just the title and snippet provided. The title indicates it's about the cheapest Michelin-starred restaurants in the Netherlands, but the snippet doesn't contain enough information to create a meaningful summary with specific restaurant names or practical details for visitors.\n\nCould you please share the complete article content?"
                 }
             ]
         },
@@ -101,15 +101,15 @@
                     "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNWllKeW5QS0t0djdEcTVBaXFqMURWbEZfR1NRZE9UblVoMzFSRDVfN2U5UlRfdEVzcFhoUHNIMHdSQjlwRHJLa3lYVG5BQzBiSXVkNnM1U1hlazZ1Z0cwNnNjNzRZQTBzcnJpZzdmRndUenlzYmlNZGpBd01Jd3czek5BQkZpQWVTdmhOS2kxSE1mZUN0OWxZalZYa0toM3p2M2x6S245dE9KMFFkN052VlJtT0wwdHlJTm5qZWNIc0pwRGZINUp2VXVpMi1QeVU?oc=5",
                     "publishedAt": "2026-10-09T09:11:00.000Z",
                     "language": "nl",
-                    "summary": "# Summary\n\nSensunik, an Antwerp restaurant that was once recognized as Flanders' most child-friendly dining establishment, has filed for bankruptcy. This news is significant for visitors planning family meals in Antwerp, as the popular restaurant is no longer operating. The closure represents the loss of a well-regarded family-friendly dining option in the city."
+                    "summary": "# Summary\n\nSensunik, a restaurant in Antwerp that was once recognized as Flanders' most child-friendly restaurant, has filed for bankruptcy. This news matters to visitors and families in Antwerp who may have relied on or planned to visit this establishment, as it will no longer be operating. The closure represents the loss of a notably family-oriented dining option in the city."
                 },
                 {
-                    "title": "Van “meest kindvriendelijke restaurant van Vlaanderen” tot sluiting: hoe Sensunik ten onder ging - GVA",
+                    "title": "Red Star Champagne exclusief bij Kristof & Kristof: hoe een stukje Red Star Line-historie herleeft in Antwerpen - GVA",
                     "source": "GVA",
-                    "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPZzFkQzFBUHBsbXFBM0FsVkgwQmxxWUhHN3BSZWJmMWwyb0xMODJUdkQtTW9qX1ktaG1nMFlOaUNXSWVpSDlBNGpVV3Y3ZHdhRFpnRE84TjVhTjU5amhtcURTQ1hRSUV1a0tMTXdGMDlEeHRRYTdwd2RQUGlISmlWTkZZdWpBS0p3Mk1hSWJaMnNvaEJlOUkyRDBmRzhkNlk5LW5KaGVIanpCaTk1cDVMU2JDU0RMQi1vZ0FVV09WZm82SG5xY0p4VlU4d2pVakRxbFVvZ1puM3dnRHdyNjh1N0RzWVJHTkNp?oc=5",
-                    "publishedAt": "2026-10-08T17:34:00.000Z",
+                    "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxNenViaS1ybXMxYVFfeDIzUmJJM3V3N3g1NXFJZElPYkpXcG5ONHpnZ3VldUFFbVRCOEVNMnQ5eXZYRXRLa25ITEg1LVRGUFVLSXNwWGhBVzhxR3BUR0gyX04wSGszbXJmVFEtb3BqdFl6bHU4ZExmTm9YbWdwbmM0UlJVQjd4ZUpvWTRsanVrM1BYaWVfU3pISUxkbGl0TGFyZUZKOUtvbFVyUzJTSnlGQWNUSkJhQWxvYm5WbHpvQl9QSDVxdy1WWm9SVDZpWG4yTXRTbHBoUS14RVdnZzdQWWM3WHpfemkwcV9HQng0cXZTSUNwaEc4Mm9VVzkyMWl3NTJCdlpqZTBPckJsZ1lfU1dn?oc=5",
+                    "publishedAt": "2026-10-10T00:10:50.000Z",
                     "language": "nl",
-                    "summary": "# Summary\n\nSensunik, a restaurant in Flanders that was previously recognized as one of the most child-friendly establishments in the region, has closed down. The article discusses the circumstances that led to the restaurant's closure. Visitors planning to dine in Flanders should note that this family-friendly dining option is no longer available."
+                    "summary": "# Summary\n\nRed Star Champagne is now exclusively available at **Kristof & Kristof** in Antwerp, reviving a piece of Red Star Line history—the famous shipping company that operated from the city. Visitors to Antwerp can experience this historical connection by enjoying the champagne at this restaurant/bar, which offers a unique link to the city's maritime past. It's worth visiting if you're interested in local history combined with quality dining and drinks."
                 },
                 {
                     "title": "Mouton in Antwerpen getest: ‘Als je houdt van Parijs, oesters en lazy lunches is dit een plek om te ontdekken’ - Weekend Knack",
@@ -117,7 +117,15 @@
                     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQQkRXN0FYdS1pY2w5WkZJQWQyQWg3cnZjc1VjMnFNNWthcWo3NnBXSFVOdS10clZZOTlZSVF5blk2RlZjdDZNamNxOU5XNHJRaUdwN1VYYjNLTWRvb1FXeTRPMWNlZUU1SlFHWkxrWWFjRkt6QkQ3Njh2VU02MjIzUkVXTQ?oc=5",
                     "publishedAt": "2026-10-07T09:28:05.000Z",
                     "language": "nl",
-                    "summary": "# Summary\n\nA new restaurant called **Mouton** has opened in Antwerp and has been positively reviewed for its Parisian-inspired cuisine, particularly its oysters and leisurely lunch experience. Visitors to Antwerp who enjoy French bistro culture and upscale seafood dining should consider adding this spot to their itinerary, as it offers an authentic Parisian atmosphere without leaving Belgium."
+                    "summary": "# Summary\n\n**Mouton**, a new restaurant in Antwerp, Belgium, has been reviewed and offers a Parisian-style dining experience featuring oysters and leisurely lunches. Visitors to Antwerp who enjoy French cuisine, seafood, and relaxed dining should consider adding this spot to their itinerary. The restaurant appears to capture a casual yet sophisticated atmosphere typical of Parisian bistros."
+                },
+                {
+                    "title": "Van “meest kindvriendelijke restaurant van Vlaanderen” tot sluiting: hoe Sensunik ten onder ging - Nieuwsblad",
+                    "source": "Nieuwsblad",
+                    "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNSjAxanI0MVJtVWRqdm5FajhVazFpNmZnNDUyWjhfX19OSnFJNGw1YkVYeVR5SlFkYUhfN18yb0hDVHFDalhtRFI0LTA0c1ozTmRIcm04dkVWLVpSU1g0Uk1SMWk2UkZiSXloUzZEcVpFV3REakVCOVVpYVVPWGhaWDg1aUNFNWNOMEpPSThQOXFtZDFtVzZrX1BJZU0xaEt0N2N2VlEwdkZUVEF4dXB4YjJQUnJ2c1ZpQ2dZUGFNU0xMTVR4NWhWZmc3ZlZaeHdvaTA3THROMkROaTQwZkMxejJtZEdVWnBFUjRadEdfWFdSZw?oc=5",
+                    "publishedAt": "2026-10-08T17:34:00.000Z",
+                    "language": "nl",
+                    "summary": "# Summary\n\nSensunik, a highly-regarded family-friendly restaurant in Flanders (Belgium), has permanently closed. The article explores what led to the restaurant's downfall from its reputation as one of Flanders' most child-friendly dining establishments. Visitors to the region who were looking for quality family dining options will need to find alternatives, as this previously well-regarded spot is no longer operating."
                 },
                 {
                     "title": "Tijgerprint van de barstoelen tot in de toiletten in vroegere Berchemse dancing: Inti (24) opent Café Kapel - GVA",
@@ -125,15 +133,7 @@
                     "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxQeUhYWVJuZ2JFdTJtWGJpRDd1Tks0R2VUcEUtalVOMXV1VlpBUHo3U1kwaGFhVks0OFBJSDJHQzNLdHNzWklLR1VtcHN2U3ZZMl9ldEVpUTdHRjZObWFGYWhjN09oa0tBUms1bnQ3R0ZNcmhVTDVaTUlNODBTMHpfbFFjTTRuVkZBekt4clpsMWROeDI2RkhXaGJDU1QzZFlXdmFlX3NjN0UzaUdJaGMxTE0tdVhfZWNUdFNJdG1Rb2g4UERIeG1CNTJ3WUd0d1EtRFJudVlZbFdwNkJLQ2ZjWFB0dl95VUM3ckZOZVVHRVJ3cVQxSDZ0Q19QaXJqaVhTSWRzZUE1dEFUT2pvOG9uVVRkZm10R1E?oc=5",
                     "publishedAt": "2026-10-08T09:59:00.000Z",
                     "language": "nl",
-                    "summary": "# Summary\n\nA 24-year-old entrepreneur named Inti has opened a new café called Café Kapel in a former dance venue in Berchem, featuring distinctive tiger-print décor throughout the space, including on barstools and restroom details. The café offers a unique, bold aesthetic that transforms the historic location into a trendy gathering spot. Visitors to the area would be interested in checking out this newly renovated venue for its distinctive design and fresh take on the local dining scene."
-                },
-                {
-                    "title": "Dineren voor het doek opgaat: 7 x lekker smullen voor een theater- of concertbezoek - GVA",
-                    "source": "GVA",
-                    "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPZWQ5RU1pb0Zvb2k5X2hIeEJuLUpjaU8tX0pQUWZOSkw3MndGR2xNeXBPX3o1T3gwajlwTnVid3BZcWNKRGs5NFhQUjkzQlZSa1o3ZUtrUUlEdzFibUNSYnM1SklwcUt2SHRkNW5WaHpDdmJGRDVEeUxfMklySlZLSENwcTJPNExWNmlUS05GelpLYlFUUnFMa1dJeVI0OXNkU2F4cmRaRU5pY0hfSnRpMTFGbEhqeXJUTVNpaFo0QjJlM1F1RVNnUmR3RVFMeEVCakp3ckZ3eWtNUEx1VFZJX3FmUnZnQ0JGUXYxbXVR?oc=5",
-                    "publishedAt": "2026-10-06T05:00:00.000Z",
-                    "language": "nl",
-                    "summary": "# Summary\n\nThis article recommends seven restaurants where you can eat before attending theater or concert performances in the city. The piece provides practical dining options specifically suited for pre-show meals, making it useful for visitors planning an evening out that combines dining and entertainment. While multiple venues are mentioned rather than a single restaurant, the guide helps theatergoers and concert attendees find nearby dining spots with appropriate timing and atmosphere before their events."
+                    "summary": "# Summary\n\nA 24-year-old entrepreneur named Inti has opened a new café called Café Kapel in a former dance hall in Berchem, featuring a distinctive tiger-print design throughout the space, from the bar stools to the bathrooms. This new venue offers visitors a unique, boldly-themed dining and drinking experience in a revitalized historic location. Anyone exploring Berchem's local food and beverage scene would find this a notable new spot worth checking out for its creative aesthetic and fresh addition to the neighborhood."
                 }
             ]
         },
@@ -141,20 +141,20 @@
             "places": [],
             "news": [
                 {
-                    "title": "Luzzi: restaurante português traz prémio internacional para Lisboa - Idealista",
-                    "source": "Idealista",
-                    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOTFBlY3N6RUpGRkRfYzJKckRkME5GT2FRS1RjN09wOHBiUGpvUWZfUXY0RzV1ZERRQlNLdG5kYlhVbEJCWVpQbWRfSlFBMm1zSHdZVVg1dDRaejlneTNucE8xNWhtb0xBTGJibFp1d1c5a3JHNFZJUWMzRENqZzVwenZGTmptRmNnYlZXYjhLZ25ObXNvQUhEMTBEcGZWUlBBLS1xcWlvdWZFeEN0MWhZUUVwaU53NV8zdDVSQWNXbmtuVnpjUGFTLW93?oc=5",
-                    "publishedAt": "2026-10-08T19:39:33.000Z",
+                    "title": "O restaurante com mais de 50 anos onde se come um “dos melhores bifes de Lisboa” - NiT New in Town",
+                    "source": "NiT New in Town",
+                    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQSzJmeGJqMV83eGlNY1k1NzlhdVlqd3R1UjRRd0psWVROenI3Ty1RYmNQOG1fSjAwejU4OGU0TExyeWtaYnZvanpvNllLZTIyakhFcURNQmZlYkRqeERXSXpHeF9IN0ZaRUFvRmtEWVRIc1ZXWEl5ZUtnZDdLdlI4U0hFYjg3ZmN3QVNRMUU4M0pobXY1Vl9oZXBsNEhVLXEwUU5sWWFURzBSU3ZiTWt5MmUtSjZYMVlI?oc=5",
+                    "publishedAt": "2026-10-07T12:56:00.000Z",
                     "language": "pt",
-                    "summary": "# Summary\n\nLuzzi, a Portuguese restaurant in Lisbon, has won an international award, bringing recognition to the city's dining scene. Visitors to Lisbon should care because it signals a standout dining destination offering quality Portuguese cuisine that has gained international acclaim."
+                    "summary": "# Summary\n\nA long-standing Lisbon restaurant with over 50 years of history is recognized for serving one of the city's best steaks. Visitors to Lisbon should care about this spot because it offers authentic, high-quality beef in a traditional establishment with proven culinary credentials and longevity in the competitive restaurant scene."
                 },
                 {
-                    "title": "Samarkand: o único restaurante em Lisboa onde pode provar especialidades do Uzbequistão - NiT New in Town",
-                    "source": "NiT New in Town",
-                    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPZnFWVUhaM1J0SjE5aDJEOTJ0RVJOWU5oQmIxQjloVDFJRDVyUGNDTkIyOElmVWM3NEZCQXEwYmdWSWxXMm9uZFRUZ1NhU1FzVEsxaXlLSzhuMHBXeTgyamZTbk5Eb1QzWlY5aTdfdW5UNFJPVk1Kc0pqcWNobEpiM1dzZGhZZ3BjWTljTzBmYUhyMDlpRU5TZzhzcTdBS3VVRjhQLWlhb1ctTWRzOGNISWRLWE1RaHlVNWEyalEwbEVORVU?oc=5",
-                    "publishedAt": "2026-10-03T10:25:27.000Z",
+                    "title": "Este restaurante com estrela Michelin em Lisboa vai servir um jantar especial com vinhos Alvarinho - VOU SAIR",
+                    "source": "VOU SAIR",
+                    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQd3JBdjRZalltb2hoVWl3cW8zZm9YdHQ1OU8tWlduN3RaRzNGcnFDa2pGOTR3WlJlOEtZVnNDSnc3U1NicW5vTmJEYWl5elM3UXZ6T0ZqcnFxdlJQbnBIQ3RPTFRKcW5GVmVnNkFOVjZtd0FJNjVnTW9fUlNCcEV4RHVwcXZXTWJ4Z0YxVXBnNXRlQktnVWdXbFdGNzlQT0U1RXhnSFhGNHRMeFpXemE2ckYzbFU5ejNQMGc?oc=5",
+                    "publishedAt": "2026-10-09T15:24:06.000Z",
                     "language": "pt",
-                    "summary": "# Summary\n\nSamarkand is Lisbon's only restaurant specializing in Uzbek cuisine, offering authentic dishes from Uzbekistan. Visitors to Lisbon interested in exploring diverse international cuisines and trying unique Central Asian flavors would find this restaurant notable as a one-of-a-kind dining destination in the city."
+                    "summary": "# Summary\n\nA Michelin-starred restaurant in Lisbon is hosting a special dinner paired with Alvarinho wines. This is noteworthy for visitors to Lisbon because it offers an opportunity to experience high-end fine dining with premium Portuguese wine pairings at an acclaimed establishment. The event combines gastronomy and local wine culture, making it an attractive option for food enthusiasts visiting the city."
                 },
                 {
                     "title": "Gyökeres, João Félix, Jorge Jesus e até Cristiano Ronaldo: será este restaurante português o favorito dos craques do futebol? - versa - lifestyle",
@@ -162,7 +162,15 @@
                     "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxNcVFtQy1Ib1hSU2ZMUlA3OGx6ZVZBcVNmcWxHd3BXZVI2Z2VDTW1zWkMzYjMwRU1qSEJ2cTJOUlVpWEpXSEZOSTRRR3AxcDI4c2FhSHF2R2ZnTk5pTEtjV0lHYjkzcnZfQTlqdGZxdVpzOC1MNVhubUVoWW5lYTJUbDNDcjFJSmhma0pQQWZpQlZsdUNRRG01OGdFMS1Cd3BwQVRUd3lUVkhVc1lsMjh2NXNabzFlekxpUmEyLUd3SF94SVBXVGh0SjNzbk1mLTFCS0F2SmZoZ2lHdW11Z3d0RjhCX2EwWGFJWF9wSnNUZkJiUXdZbXNENkpvSUliRkN4MFpfUXBia2l0OVhfdFEtd2tRbmxMdTlyLTFBdjM5VURuLVVXUTVCYXhhRTEwbDFBd0E?oc=5",
                     "publishedAt": "2026-10-07T20:05:00.000Z",
                     "language": "pt",
-                    "summary": "# Summary\n\nA Portuguese restaurant has become a popular dining spot among high-profile football players and figures, with notable visitors including Viktor Gyökeres, João Félix, manager Jorge Jesus, and even Cristiano Ronaldo. The article explores whether this establishment is becoming the go-to restaurant for elite footballers in Portugal. Visitors to Portugal interested in celebrity spotting or experiencing where top football stars dine would find this restaurant worth checking out."
+                    "summary": "# Summary\n\nThe article discusses a Portuguese restaurant that has apparently become a popular dining spot among top football players, including Gyökeres, João Félix, Jorge Jesus, and even Cristiano Ronaldo. While the specific restaurant name isn't clear from the snippet provided, the piece explores whether this establishment has become the go-to venue for elite footballers. Visitors to Portugal interested in dining where famous athletes eat or experiencing an upscale restaurant favored by the football elite would find this restaurant noteworthy."
+                },
+                {
+                    "title": "Luzzi: restaurante português traz prémio internacional para Lisboa - Idealista",
+                    "source": "Idealista",
+                    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOTFBlY3N6RUpGRkRfYzJKckRkME5GT2FRS1RjN09wOHBiUGpvUWZfUXY0RzV1ZERRQlNLdG5kYlhVbEJCWVpQbWRfSlFBMm1zSHdZVVg1dDRaejlneTNucE8xNWhtb0xBTGJibFp1d1c5a3JHNFZJUWMzRENqZzVwenZGTmptRmNnYlZXYjhLZ25ObXNvQUhEMTBEcGZWUlBBLS1xcWlvdWZFeEN0MWhZUUVwaU53NV8zdDVSQWNXbmtuVnpjUGFTLW93?oc=5",
+                    "publishedAt": "2026-10-08T19:39:33.000Z",
+                    "language": "pt",
+                    "summary": "# Summary\n\nLuzzi, a Portuguese restaurant in Lisbon, has won an international award, bringing recognition to the city's dining scene. This achievement highlights Luzzi as a must-visit destination for food enthusiasts traveling to Lisbon who want to experience acclaimed Portuguese cuisine. The restaurant's international recognition makes it a notable dining option for visitors seeking authentic, award-winning meals in the city."
                 },
                 {
                     "title": "O jornal do Brasil em Portugal - DN Brasil",
@@ -170,15 +178,7 @@
                     "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPWkdWY0E5WFpBVnM0cG1rejRRbDZiend5cTFvWWJUX2M2VjJ3QnIwT0hlb0RHVHY3ODJBVU5FQlducG5aSDdfM090VXdYRTJ1M0hmb0JJVGNPeHpLRkdlc1JHWk1CSkxkMl9qb1Q1dE0tRkQ3d19ZYXNVY3BRRFdjWnltdUhrLVNNcmdKd0l5bzZYR1pKUFlxR1BKSVJoNjFhRl9MYU1UQ2doYnhZRGk1bTBPWGtBaEtpeVBfWmFLTjlrckNCT1RDZExhVDMtNEVjdFIxamRR?oc=5",
                     "publishedAt": "2026-10-07T18:50:46.000Z",
                     "language": "pt",
-                    "summary": "I appreciate you sharing this, but I'm unable to provide a summary because the snippet provided doesn't contain actual article content—it only shows the title and source information without the body text or details about a specific restaurant or food story.\n\nTo help you, I'd need:\n- The full article text or a longer excerpt\n- Information about which restaurant is featured\n- Details about what news is being reported\n\nCould you share the complete article or more context?"
-                },
-                {
-                    "title": "Gin com sushi? Restaurante em Lisboa aposta em jantar gínico - SAPO",
-                    "source": "SAPO",
-                    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOTGdjNnpHZC1Eel92UWNxRWpOdlpsSllXRXV0a3NhcFFrbHBha0lZVmFoR3VMZXJDMXRDcjZjZUEyVkE5VjRrel8yNTFpOFdmbDlRVHU3dWFMNHRveU04ZUZ1RmEyZjdNSEpPdGlNeDFac0J0dHQtcll5RmFJVGxpeWN6Vm1Rbmk5UTd0SUFmTFQ2cWw4ZHdQcFk3MzJPQllYYVBrUk1MVWp0VWc?oc=5",
-                    "publishedAt": "2026-10-07T08:30:00.000Z",
-                    "language": "pt",
-                    "summary": "I can see this is a Portuguese article about a restaurant in Lisbon that's combining gin with sushi dining, but the snippet provided is too brief to give you a detailed summary with specific details about the restaurant name, location, or the exact concept.\n\nFrom what's available: A Lisbon restaurant is offering a unique \"gin dinner\" experience that pairs gin with sushi, creating an unconventional dining concept. Visitors to Lisbon interested in creative food and drink pairings or innovative dining experiences would want to check this out for something different from traditional restaurant offerings.\n\nTo get more specific information (restaurant name, address, prices, reservation details), you'd need to read the full article on SAPO."
+                    "summary": "I appreciate you sharing this, but I'm unable to provide a helpful summary because the article content itself isn't included—only the title and source information are provided.\n\nTo give you a concise 2-3 sentence summary focusing on the restaurant/food spot, what's happening, and why it matters for visitors, I would need the actual article text. Could you share the full article content or snippet?"
                 }
             ]
         },
@@ -186,12 +186,20 @@
             "places": [],
             "news": [
                 {
+                    "title": "Then and Now: The Bridge Hotel - a favourite Newcastle pub for more than 170 years - Chronicle Live",
+                    "source": "Chronicle Live",
+                    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPSUZBMEFEVWdha1NHUDB2VUNYUnpreXdOVkNNS1VHR01Dd2FPZDNtZzhLVHBKSWF3NGVxLVEzZk90SDVUeFppTFAwWjMwWVNxVmtENFJubmtxaWt2NFJ6QVpqWFdUNE11c2JjN3Z4Ty1sdW14Qk9UeEZOY2ttaDRSdFNsMmtGTGJGbHR0dTdSSVhNZ1dm?oc=5",
+                    "publishedAt": "2026-10-09T23:16:00.000Z",
+                    "language": "en",
+                    "summary": "# Summary\n\nThe Bridge Hotel is a historic Newcastle pub that has been a local favorite for over 170 years, and this article explores its past and present. The piece provides a \"Then and Now\" look at how the establishment has evolved while remaining an important part of Newcastle's pub culture. Visitors to Newcastle interested in experiencing authentic local history and traditional pubs should know about this long-standing institution."
+                },
+                {
                     "title": "Newcastle late night levy scrapped amid surging hospitality cost pressures - The Caterer",
                     "source": "The Caterer",
                     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOa2RzNjJOelo2TE8tTjRXTVpCTTBQZTB3OTVNLVhmVGFpSS14U1FGUTUtOXdDOE42b2dEUjFqTF94MWZxd1pHc0tJLUtvR3ZTcDl5ajc3b19zNnYyWnFnV0JMV2Y0aDQxbTNra0RHMzAwdnRVcGVCMjZKNXl0OExmQk1kVDZxd2JTQ1BVb09IcV9XWU9TcWJjd2N1bElPNGcwam5ZX18tLTdZUQ?oc=5",
                     "publishedAt": "2026-10-08T21:14:35.000Z",
                     "language": "en",
-                    "summary": "# Summary\n\nNewcastle has scrapped its late-night levy—a tax on venues operating after midnight—in response to mounting cost pressures on hospitality businesses. While no specific restaurant is named, this decision benefits all late-night bars, clubs, and restaurants across the city by reducing their operating expenses. Visitors to Newcastle will likely see more affordable late-night dining and entertainment options, as venues can now pass savings on to customers rather than absorbing this additional tax."
+                    "summary": "# Summary\n\nNewcastle has scrapped its late-night levy tax on hospitality venues operating past midnight, providing financial relief to struggling bars and restaurants facing rising operational costs. This decision benefits local venues by reducing expenses during a challenging period for the industry. Visitors to Newcastle will likely see more nightlife options remain viable and competitive in the city's hospitality scene."
                 },
                 {
                     "title": "Newcastle nightclub Tokyo sold to ambitious local bar operator - Hexham Courant",
@@ -199,7 +207,7 @@
                     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQR25LcVFlbFFSeDNNVGNRM3ZKYWRBNTQ0Q0hnRFdyOXRqb3VqNnNFUUVGejkxRkFBN2F6aEljZnRVSHBhaHMtTkVDdWptRzZtWExMTGNVNUEwOUlNdXNRUzJiSnVibFU2VEFCUDhzZndxRC1uN3BRS2Rud0MzU1NkSjZFaUI4TG90NW1VaU9VTnlHVUdwc3hJMHpic1VqaXJfSTJwcm45YnY?oc=5",
                     "publishedAt": "2026-10-06T12:30:00.000Z",
                     "language": "en",
-                    "summary": "# Summary\n\nNewcastle's nightclub Tokyo has been sold to a local bar operator with ambitious plans for the venue. This change in ownership is notable for visitors and locals interested in Newcastle's nightlife scene, as it suggests potential changes to the club's operations, atmosphere, or programming under new management. The specific vision of the new owner could reshape what Tokyo offers as an entertainment destination in the city."
+                    "summary": "# Summary\n\nThe Newcastle nightclub Tokyo has been sold to a local bar operator who plans to continue running the venue. While the article doesn't provide extensive details about the buyer's vision or timeline for changes, the sale represents a change in ownership for this established nightlife destination. Visitors to Newcastle interested in clubbing should note the ownership transition, though the venue appears set to remain operational under new management."
                 },
                 {
                     "title": "Titanic Brewery plans to open a new bar in Newcastle town centre - Rayo",
@@ -207,7 +215,7 @@
                     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPUlVOVU9Zb2E0ZFVVQlZJWEhXMTgwUDc5WHdpenV1Wk5jTlVfbE5CZjBYazhhNzA3WVpHVndWOFYwXzVReWVuY3lsVnhOTHhKb3JwYUVObm9fSDNJczBfeUdMT1VpdnljelBTNjc3cnhmQ2U5VXljeUJfTE1sa0JOVUxveXl3ckFYNVgyV0RTLVZUN3d3X1E?oc=5",
                     "publishedAt": "2026-10-08T01:17:51.000Z",
                     "language": "en",
-                    "summary": "# Summary\n\nTitanic Brewery, a known brewery company, is planning to open a new bar location in Newcastle's town centre. Visitors to Newcastle would care about this development because it will add another dining and drinking destination to the city's hospitality scene, likely offering Titanic Brewery's signature beers and beverages in a new accessible location."
+                    "summary": "# Summary\n\nTitanic Brewery is opening a new bar location in Newcastle's town centre, expanding its presence in the city. For visitors to Newcastle, this means another quality drinking destination with Titanic's established craft beer selection and atmosphere in a convenient central location. The new venue adds to the city's growing bar and brewery scene."
                 },
                 {
                     "title": "End of an era as popular Newcastle nightclub announces closing date before £1m takeover - Chronicle Live",
@@ -215,15 +223,7 @@
                     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNOF9UdHNOZlhWZTFQeUYxVmZEbVg0d0VmdE54X0JrbVJhcjZLMTA2X1dld1RMV240NnFEM1hmTlRzR1RTYW1RQXIxbE9teUJsWGw5MDF2MzhmTkhJT1RPeFBzN2tILWVCVEdLOF90N3J2MTBBa1ZrSVVCTXU2NUk4REdEcHFFQXl6bWswb2Zra09OOVlsbUE1clhUN3RNdGFQcmJXdUlmeTNqUdIBrwFBVV95cUxNbHJHODJBNTBTeU5VNDBCU1FLZVYyWDBuX3M1SjNlcGZCUFc4d0g2eGhYSnZOYm9CMGlWMUlxUXM5UTBDSXhqVXdSc3VjTUJ2S2JrdzJIVGlQTnNYSjBoQ2IzTlJlWDRhZkJYTjVnZmNxZmlSRmg0T0l2QUlDdkhFZHdlM2VwTml1WXowcnlUM0hGTVgwRm9LQ05XYUZGVWJMdUJWT0taWHd5SlRaYUs4?oc=5",
                     "publishedAt": "2026-10-09T08:19:00.000Z",
                     "language": "en",
-                    "summary": "# Summary\n\nI'd be happy to help summarize this article, but the snippet provided only contains the headline and source information without the actual article content. To give you a concise 2-3 sentence summary focusing on what's happening, which venue is involved, and why visitors should care, I would need the full article text.\n\nCould you please share the complete article or additional details about which Newcastle nightclub is closing and being taken over?"
-                },
-                {
-                    "title": "Newcastle disease returns to Hungary as outbreaks spread across Europe - All about feed",
-                    "source": "All about feed",
-                    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZDdyTUhBUGtxTWdEUE45ZXV6U2cyc2ZwbERKcjluWHQxV1FfZ1BjTmVsRzNTcl9lZndRV0VQSTM1N2Z6MWVLOEF0WWZGR1ZDYVlrSkVidmtXYnVDOVFmWG9IblhYdUpZVFNDMU1hWjRXY09vNWdqWFNqYmJlR1pOelB0azE5b182bC16aFNjUlhJTlh4MmFRa2VCbGU2cjIyWTJsOFlKVXAtSnpLSFUwZjhjV2M0Z2ox?oc=5",
-                    "publishedAt": "2026-10-07T09:33:34.000Z",
-                    "language": "en",
-                    "summary": "I can see the article title mentions Newcastle disease outbreaks in Hungary and Europe, but the snippet provided doesn't contain enough detail about the actual content or any specific restaurant/food establishment mentioned.\n\nNewcastle disease is a serious poultry virus that affects bird populations, not a restaurant or food venue. This appears to be agricultural/veterinary news rather than restaurant or food service news. \n\nTo provide a useful summary focused on restaurants or food spots as requested, I would need the full article text or a different food/restaurant news article. Could you provide more content or a different article?"
+                    "summary": "I appreciate you sharing this, but the snippet provided doesn't contain enough detail for me to write an accurate summary. The title mentions a Newcastle nightclub closure and takeover, but the actual article content isn't included—only the headline and source information.\n\nTo give you a useful 2-3 sentence summary with specific details about the restaurant/venue, closing date, and why visitors should care, I would need the full article text. Could you share the body of the article?"
                 }
             ]
         },
@@ -236,7 +236,7 @@
                     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBtNWFhT25LdXpTS3E1UzF2dkRKU256YWc2Y2M4b1N3S2pZTmVGY2VMR1E0andzX2ZYYVFMbFNsbjZaWVllN3hnYWdCOVFHb19EallidnV5WHc3dWxDRmIyZzdINjQyc2RMOEMtbURnMVAtVlNm?oc=5",
                     "publishedAt": "2026-10-07T11:14:57.000Z",
                     "language": "en",
-                    "summary": "# Summary\n\nEstonia's FoodLover Restaurant Week is launching simultaneously across six cities, offering diners special menus and deals at participating restaurants throughout the country. Visitors to Estonia will appreciate this event as it provides an affordable way to sample cuisine from multiple restaurants and discover new dining spots across different destinations during a concentrated promotional period."
+                    "summary": "# Summary\n\nI don't have access to the full article content beyond the title and snippet provided. However, based on the title, **FoodLover Restaurant Week is launching across six Estonian destinations**, which is a multi-city dining event. Visitors to Estonia would care about this because it typically offers special menus and deals at participating restaurants, making it a great opportunity to experience local cuisine at value prices across multiple cities rather than just one location.\n\nTo provide a more detailed and accurate summary, I would need access to the full article text."
                 },
                 {
                     "title": "Restaurant spaces in Tallinn do not stay empty for long - ERR",
@@ -244,15 +244,7 @@
                     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNVHU2b1V2SUl2UXEyQ2J2Z1BvUTNjdWdyYnpoODBTTTUtMjRsX3pvUWxOZlNQanJROURlTWdoOUlLX1gySzlra2JXUXNhUkFhYWJUTmdPVUJEQUpSbDZWcFRNQVc0cVBZS3Y4U2IyTlh2aWl3RXduc2NqUUI0dS1HNExOaEdSNFhIT3YwRGtlSQ?oc=5",
                     "publishedAt": "2026-10-07T12:40:00.000Z",
                     "language": "en",
-                    "summary": "I don't have access to the full article content—only the title and a snippet that repeats the headline. To provide you with a meaningful 2-3 sentence summary focusing on specific restaurant details and why it matters to visitors, I would need the complete article text. \n\nCould you share the full article or more details about which restaurant or food concept is being discussed?"
-                },
-                {
-                    "title": "Where to watch the FIFA world cup final - ERR",
-                    "source": "ERR",
-                    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBMak1yTGYyWFphNGFpS3kwQlphNmJIZ1ktWEp2cFpkalplMk85VUxZeVdWVlR4OUp6eUZQYWs0OENMVHVvUkFtdGk2SGIyTXoteGVtVnJOOXRuNThNNVY5bEFqOGg3OHQzNTA0aVZjcjA1T0x3UWJ0U0tR?oc=5",
-                    "publishedAt": "2026-10-07T07:00:00.000Z",
-                    "language": "en",
-                    "summary": "I don't have enough information to summarize this article properly. The title and snippet you provided only mention that it's about where to watch the FIFA World Cup final on ERR (Estonian Public Broadcasting), but there are no specific restaurant or food venue details included.\n\nTo write a useful summary focused on restaurants/food spots, I would need the actual article content that lists which specific establishments are showing the match. Could you provide the full article text or more details?"
+                    "summary": "I appreciate you sharing this, but the snippet provided is too minimal to create a meaningful summary. The title indicates the article is about restaurant space availability in Tallinn, Estonia, but without the full article text, I can only tell you that it discusses how restaurant locations in Tallinn are quickly filled by new businesses. To give you a useful 2-3 sentence summary with specific restaurant names and practical details for visitors, I would need access to the complete article content."
                 }
             ]
         }
