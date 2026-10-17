@@ -1,33 +1,17 @@
 {
-    "lastUpdated": "2026-10-16T10:16:56.508Z",
+    "lastUpdated": "2026-10-17T09:51:06.610Z",
     "source": "github-actions",
     "cities": {
         "cologne": {
             "places": [],
             "news": [
                 {
-                    "title": "Polizeieinsatz wegen Übergriff in Köln: Ein Roboter hat eine 16-Jährige belästigt - WDR",
-                    "source": "WDR",
-                    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0waEdkWUx0eWFKT3NsclZSaFZ6cEVCMnZzTHNua0lsMFlGa1VLZ1A3T0RObHdCX1k4aWtUMTlhdGh4aVFoN2hSaWhNNVpLRjJoNnQ4OU1IUnJVRjRlVzZlQTdrUW9ZV3I0bURCaTRudUNVX0hyWFE?oc=5",
-                    "publishedAt": "2026-10-12T14:20:31.000Z",
+                    "title": "Düsseldorfs Gastro-König plant neue Großstadt-Bar - Lindweiler.de",
+                    "source": "Lindweiler.de",
+                    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxObHp0WkpBYTlHeEF0YXNkYjJmSWFIVjN1a3oxcG1vNWNMOUlDVWRwakJVbW1DMkRuU3k1NzdrLS1xTllER1RBakpQN09Kb1Q5M3ZXeGRmLTFiMEdOM2dCRndRQjRwUFVrUEtpNDhRQXgtWjJMWjNRMUJJYmxzUFY0Zlo5Y1BLdw?oc=5",
+                    "publishedAt": "2026-10-16T09:27:47.000Z",
                     "language": "de",
-                    "summary": "I appreciate you sharing this, but this article isn't actually about a restaurant or food news—it's a crime report about a police incident involving a robot allegedly harassing a teenager in Cologne. Since it doesn't cover food, dining, or restaurants, I can't summarize it according to your request. If you have a food or restaurant news article you'd like summarized, I'd be happy to help with that!"
-                },
-                {
-                    "title": "Nach „Mein Lokal, dein Lokal“-Ausstrahlung – Kölner Kneipe reagiert auf scharfe Kritik - DerWesten",
-                    "source": "DerWesten",
-                    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQeFZLcFNfSHlpLUlVVmpSc0cwb1ZIZll1bm5VRzVreWxPRXdvNV95RTlqYmFpUDFPWHNfZHZIUWN4WDVBREFielhhNjJuZ2RxRE10VHNaOE5NX2Voa296WEN5RDhybVdTYTJzWVlkUldTamc3dTVKV21lQ2hrbzVsRDdITmE3d0pRRjI1Qlp3Zk1MbUxhRDFrOUxaSlF6SXM?oc=5",
-                    "publishedAt": "2026-10-12T18:27:00.000Z",
-                    "language": "de",
-                    "summary": "I can see this is a German news article about a Cologne pub that appeared on the TV show \"Mein Lokal, dein Lokal\" and received sharp criticism afterward. However, the snippet provided doesn't contain enough detail for me to summarize the specific news, which restaurant is mentioned, or what the criticism was about.\n\nTo give you an accurate 2-3 sentence summary focusing on the restaurant name, the criticism details, and why visitors should care, I would need access to the full article text. Could you provide more of the article content?"
-                },
-                {
-                    "title": "Grenzenlos Feiern - Soli Party gegen Abschiebungen am 17.10.2026 in Köln - Rausgegangen",
-                    "source": "Rausgegangen",
-                    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQVUxFTjBXS3lIY3dITjk2SDl6VHlsamJ4Q3ZmV00zck81dm1fbkYyN0UtWjNwZGFtYWdYUFFOM0U3UEZCYTd0Q1JqWnRBVG5tak5YRWUtdDBGeFlCOGNONnRaUWdpcExZUnJ2OW0yNHpSNnEzbFE5cjhFbjM0N1hpMDN4bzRnMzFFMkE?oc=5",
-                    "publishedAt": "2026-10-09T21:40:39.000Z",
-                    "language": "de",
-                    "summary": "I appreciate you sharing this, but this isn't actually a restaurant or food news article—it's about a political solidarity event (a party/fundraiser against deportations) happening in Cologne on October 17, 2026. Since it doesn't cover food, dining, or a restaurant, I can't provide the restaurant-focused summary you requested. If you have an actual food or restaurant article you'd like summarized, I'd be happy to help with that!"
+                    "summary": "I don't have access to the full article content from Lindweiler.de, only the title and snippet provided. Based on what's available, here's what I can tell you:\n\nDüsseldorf's prominent restaurateur (referred to as the \"Gastro-König\" or gastro king) is planning to open a new urban bar in the city. While the specific restaurant name and exact location aren't detailed in the snippet, visitors to Düsseldorf would care about this news because a new establishment from an established hospitality figure typically indicates a quality dining or drinking venue worth watching for its opening.\n\nTo provide a more complete summary with specific details about the restaurant name, location, and concept, I would need access to the full article text."
                 }
             ]
         },
@@ -35,12 +19,12 @@
             "places": [],
             "news": [
                 {
-                    "title": "Restaurant The White Room* in Krasnapolsky gaat de deuren sluiten - Misset Horeca",
-                    "source": "Misset Horeca",
-                    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNU0g0SDBXRHduUElqS0FCaEhwczVhaG8xV09EOXctR1RBX2ZyZmRSZFJfeXJPc2tQd2tZRmZycnN1OEZLWTlHS3Y3N01seU1wTlFscUMwaFdSaXMyS2FhYUVhUGVxMHdXeGwyMW5EVHJjTFp5cVZGTHoxT3NOTzlmN3N6SGQ0QlVFQzFFLUZ6RlNUM21va3ZyampaQXBNaDBJ?oc=5",
-                    "publishedAt": "2026-10-16T08:04:33.000Z",
+                    "title": "Restaurant Taiko in Mandarin Oriental Conservatorium sluit onverwacht de deuren - De RestaurantKrant",
+                    "source": "De RestaurantKrant",
+                    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOQ0FnaDZQRWhCRDhXc2lrME9NSVMtaUl3Ukp5Wmk4bTBkcjVNM2FpX25XUU5BYlRFbFpmSjYzWlQ5OEtCVFB1TUJnSTdLWG9rUUh0c1hObnhwSzJzWnVrT2lvRmZKeU1jVkdTb3VLSXMyZHNQX2NsdjdNaVliSUpDVWFqR3RnRzVONDJsc2NzdExpVUJvT0lfb2t2WnoyMlNHMmoxZ05mbEhTNzhQNjlkUUh3?oc=5",
+                    "publishedAt": "2026-10-16T12:00:00.000Z",
                     "language": "nl",
-                    "summary": "# Summary\n\nThe White Room*, a Michelin-starred restaurant located in Amsterdam's historic Krasnapolsky hotel, is permanently closing. This is significant for food tourists and fine dining enthusiasts visiting Amsterdam, as it removes one of the city's notable upscale dining destinations from the available options."
+                    "summary": "I appreciate you sharing this article, but I'm unable to provide a summary because only the title and source information were provided—the actual article content wasn't included in your request. \n\nFrom the title alone, I can tell you that **Taiko restaurant at Mandarin Oriental Conservatorium has unexpectedly closed its doors**, which would matter to visitors planning fine dining in that location. However, to give you a complete summary with context about why this happened and what it means for the city's dining scene, I would need the full article text.\n\nCould you share the complete article content so I can provide the 2-3 sentence summary you're looking for?"
                 },
                 {
                     "title": "Gemeente gaat zelf ongezond restaurant opzetten in strijd tegen te veel fastfoodzaken - AT5",
@@ -48,15 +32,23 @@
                     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQcE5HcVUwUENidFRNay1xNlVHOUdGNmU5OV9TOEdWRnQxV0VtekJWYnM5NHhrSzJ2UkhfYnpLWVl1dU5WeGFNQWFGM1Fqb1RzMVRZZWZiVW4tSzRnb09Ocm12aHZDMTgzWjJaUXp6UG5NVVFJNDZGek53dmRFbnp3cU9LcEx5djZETG8wMm5OY0VhX0NsaGlCOFZRWG9FOENNaTEzVm5SeDRzeW1QV1NKSDdjODRKQkpDYXgyVTZR?oc=5",
                     "publishedAt": "2026-10-13T05:36:00.000Z",
                     "language": "nl",
-                    "summary": "I can see this article is in Dutch and appears to be about a municipality setting up an unhealthy restaurant to combat excessive fast food establishments. However, the snippet provided is too brief to give you a reliable summary with the specific details you're asking for (the exact restaurant name, location, and practical visitor implications).\n\nTo provide an accurate 2-3 sentence summary focused on what would matter to visitors, I'd need access to the full article content. Could you share more of the article text, or would you like me to explain what the headline seems to suggest?"
+                    "summary": "I appreciate you sharing this, but I need to point out that the article snippet provided is too minimal to create an accurate summary. The title translates to \"Municipality to open unhealthy restaurant itself to fight too many fast food establishments,\" which seems contradictory or potentially satirical, but without the actual article content, I cannot reliably explain what this news is really about, which specific restaurant is involved, or provide practical context for visitors.\n\nTo give you an accurate, useful summary, I'd need the full article text or more detailed snippet content."
                 },
                 {
-                    "title": "Restaurant Berli rekent af met het standaardbeeld van de Indonesische keuken: ‘Er is zoveel meer dan rendang’ - Het Parool",
+                    "title": "Het Amsterdam van kinderboekenschrijver Kevin Hassing: ‘T’s Teabar op de Jan Evertsenstraat is de beste plek om af te spreken’ - Het Parool",
                     "source": "Het Parool",
-                    "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNQ3dQeUNsTkxVMWt4VjJOcmY5NzBTNXRib2NoYVVudEcwWG0wY2Z1OG1ocVlSNGxjdExocnl4ajBNNjJOa1J2RXdqbmRPcl9qemFqNjdxVmUtaktJQnpkNFdIT1RoMnBMSVZuSG5SNW85OEcyT0lOS2FMRXc5S0tPUklwVE9RSjFBbndObjBidnNadXQzR2J5aVpFdFRoaFYtNnZVSjNiNF9na0c5RjJXTGJhd3FPUUx4TTVZcWZVenJ2UklKNUYzR3BfQ0VkVjBzRlFIbGRjZmNVV00xcXN5eU9wRGxnRW04d3Fr?oc=5",
-                    "publishedAt": "2026-10-12T01:00:35.000Z",
+                    "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNYThYSThxcUNvX3dzOFBQOFJtczRKemw2N0VZRC1KM1hnckhPWTF0UWhTYTFPajNDVm8tUEdDekRoMHBkbkNsVUhzOW4wRGUxS2ZObFNOQkVlWm9sTFFwMV9ORTc1bGYtSDBOLXltRVJfd3hMVHZqNFRPa3loaFZxTUNyVjQxQXZDWHFxRFJfMEhidlZvZ3h0SmdiRFUzd2Y1Z1R4akFvNmVENlhQd29ucmtYTW5WWXpRZzFkZjBEazVvVWVSeXpPN1RNb2hlTVp5a1dHeUw2c1dmbW1XN2d5RzBoRFRjamxSeGN1UGR4aw?oc=5",
+                    "publishedAt": "2026-10-17T01:01:00.000Z",
                     "language": "nl",
-                    "summary": "# Summary\n\nRestaurant Berli in Amsterdam is challenging the narrow perception of Indonesian cuisine by showcasing dishes far beyond the typical rendang, offering diners a more diverse and authentic culinary experience. Visitors to the city should care because it provides an opportunity to explore lesser-known Indonesian flavors and regional specialties that go beyond what most Dutch restaurants typically serve. This makes Berli worth visiting for anyone seeking authentic, adventurous Indonesian food rather than the usual mainstream offerings."
+                    "summary": "# Summary\n\nChildren's book author Kevin Hassing recommends **T's Teabar** on Jan Evertsenstraat in Amsterdam as his favorite spot to meet people in the city. The article features his personal guide to Amsterdam, highlighting this tea bar as a key destination. Visitors interested in discovering authentic local hangouts favored by creative professionals should consider this spot for a casual meeting or tea."
+                },
+                {
+                    "title": "Restaurant The White Room* in Krasnapolsky gaat de deuren sluiten - Misset Horeca",
+                    "source": "Misset Horeca",
+                    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNU0g0SDBXRHduUElqS0FCaEhwczVhaG8xV09EOXctR1RBX2ZyZmRSZFJfeXJPc2tQd2tZRmZycnN1OEZLWTlHS3Y3N01seU1wTlFscUMwaFdSaXMyS2FhYUVhUGVxMHdXeGwyMW5EVHJjTFp5cVZGTHoxT3NOTzlmN3N6SGQ0QlVFQzFFLUZ6RlNUM21va3ZyampaQXBNaDBJ?oc=5",
+                    "publishedAt": "2026-10-15T13:40:30.000Z",
+                    "language": "nl",
+                    "summary": "I'd be happy to help, but the snippet provided is quite limited. Based on what's available:\n\n**The White Room*, a Michelin-starred restaurant located in the Krasnapolsky hotel, is closing its doors.** Visitors to Amsterdam who were interested in fine dining at this acclaimed establishment should note that it will no longer be operating. This closure represents a significant change in the city's upscale dining scene, as the restaurant was known for its high-end culinary offerings.\n\n(Note: A more detailed summary would require access to the full article text, which isn't provided in the snippet.)"
                 },
                 {
                     "title": "Veel schade na brand bij restaurant in Amsterdam, woningen ontruimd - NH Nieuws",
@@ -64,15 +56,7 @@
                     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOMUVKVF9HaF9KTDZ3VFZXa2tpOEdXb1VHXzh4dVlqdldrMFpoeTk4dE5HaFM1Q3dpRTB1TnZvOXJWRmVjMmp1WVFkZUN1YXV1MU1mSGpMRURIWjFkV0pWcDNFdVZ6S2ZZOXhfUlFhdzdDbXZiVzhma3RlV3RqNTVjaVBjYmpMVVZqd1FHOXRUVllTZWNlUEFjdmpnaGROR0RNSU9wa0l3UQ?oc=5",
                     "publishedAt": "2026-10-11T20:48:00.000Z",
                     "language": "nl",
-                    "summary": "# Summary\n\nA fire broke out at a restaurant in Amsterdam, causing significant damage and requiring the evacuation of nearby residential buildings. While the article doesn't specify which restaurant was affected, visitors to Amsterdam should be aware that the establishment may be temporarily or permanently closed due to the fire damage. This is a practical concern for travelers planning dining experiences in the area."
-                },
-                {
-                    "title": "The PRNT Bar open in Amsterdam: alles minimaal 25 gram proteïne - Entree Magazine",
-                    "source": "Entree Magazine",
-                    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNaUp3cjNwdXVOTzJNOUh3UEpDazN2SEJxYlAxbU1rVjE4eFFaWENJeDZKM3A3WnlUb3hCOWdtOFNVbVpBdnNfVU95Q2lFVjNjVlcwTHBsajVRMmNjRmZHZDBaaXY0ZDFxTFJzYkM5SlRFMDQ3LWtwVld2amQ3aGV1WTQtRkpfN2NmNjh0TW9HWXNmZ204amlBV1JaQzAyaHkyNS1EZ0RrWm0tdHRRa3c?oc=5",
-                    "publishedAt": "2026-10-14T06:04:55.000Z",
-                    "language": "nl",
-                    "summary": "# Summary\n\nPRNT Bar, a new protein-focused restaurant, has opened in Amsterdam with all dishes containing a minimum of 25 grams of protein. This spot would appeal to visitors interested in high-protein dining options, whether for fitness goals, dietary preferences, or simply trying Amsterdam's growing health-conscious food scene."
+                    "summary": "I appreciate you sharing this, but the snippet provided is too brief for me to create a meaningful summary. The title indicates there was a fire at a restaurant in Amsterdam that caused significant damage and required evacuating nearby homes, but the actual article content isn't included—only the headline and source.\n\nTo give you a useful 2-3 sentence summary with specific details about which restaurant, location, and implications for visitors, I would need the full article text. Could you share the complete article content?"
                 }
             ]
         },
@@ -85,15 +69,15 @@
                     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOTGZORDJEdFozRnpZYk9yUFFlMWNTV1JRRTJtWkxjT0x2QmV5NFlBRFUtYndiZWZoVnYwXzdtb3dNU3JJS0lGaXNDcjNUTHR5SmdrREZWeHdGNE9BaFJUcnlMLTk4NlFvblNYR3p1LVk0bnhuRU1DNlU1ck9IcDBkNG9VdjE4ZFBsZWxMQUZpVlBFX2pUWlVJMnNSanhZUzB5ZlBEcjI2NA?oc=5",
                     "publishedAt": "2026-10-13T13:14:31.000Z",
                     "language": "nl",
-                    "summary": "# Summary\n\nRenowned 76-year-old chef Johan Segers is reopening his acclaimed restaurant **'t Fornuis** in Antwerp, moving it just 5 meters across the street to a new location. This is significant for food enthusiasts visiting Antwerp, as 't Fornuis is considered a top dining destination and this reopening means the restaurant remains accessible to diners after its relocation. Visitors to the city looking for high-quality Belgian cuisine won't lose access to this celebrated chef's work."
+                    "summary": "# Summary\n\nRenowned 76-year-old chef Johan Segers is reopening his acclaimed restaurant 't Fornuis in Antwerp, relocating it just across the street to a new location. This minimal move (literally 5 meters) keeps the beloved fine dining establishment in the same neighborhood while allowing for a fresh start. Visitors to Antwerp can continue enjoying Segers' high-end cuisine at this iconic restaurant, now in its new spot."
                 },
                 {
-                    "title": "Johan Segers heropent ’t Fornuis: “Ik raad iedereen aan om op je 76ste met iets nieuws te beginnen” - GVA",
+                    "title": "Naar het favoriete restaurant van actrice en zangeres Ianthe Tavernier: “Hier lust ik echt alles op de kaart” - GVA",
                     "source": "GVA",
-                    "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOSUF5T2lGaGEzNW9NajIwOVpHZVBHZlZVLXBCWkpjTEhLQ0xNankxdUlUaDNtbGZZVUVjbFBhUU9HR1BjSG9EYll2Z3EtTW01TTU4TkRjSVg2T1pLMC1yeVQtanNTeC1CQTBWc1ROdVZXdVlSRWYzVzZHV080SHppbF9IYURBY3pWMC0ycFF2dWk0M29tb1JqZlV5VlBYTXJQb1Z4OUFBZEwtalhFN255em1wWkkyZUZxRFJNVEQtVHhNWUlBeHVBZzdSM2hRamxfSGdOYXZsMGoyTmJsbjMzNDRmaXk0MHdScmtEeFhWM0JzNURsNFczVnNZVWhDcE9I?oc=5",
-                    "publishedAt": "2026-10-12T19:00:00.000Z",
+                    "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOZGFoUHBoejNqTlhTeTNpekRJQ3VDVTVCUlo0SHdlMlF5aExrb2Fub25IZ0k4dXlQaEtfSVZKbFpmWTIxRFNZcERLb2NmT0h3dUplNWtHU05NNTNWOEI2elFSaWVHNVJhaGlIRzdrWnJHeFp1NXVoQzFXZWwwVFF1eEtzOHR6R1NZdkR0WU43MGdaOGRzR0hqYzcwcG5aMU5EVk9qTXVOZ1dHc19SOVpLMnNHSTZLNEx0bXlBenBNSHZGaDZ3N25Tb1BzRFZPZGc5eXoxRHJUeEZpMGtBOTRFMTQ0RGxFYTI5MVZaaTVIVUdlTFR1MHEyTmlR?oc=5",
+                    "publishedAt": "2026-10-16T10:30:57.000Z",
                     "language": "nl",
-                    "summary": "# Summary\n\nBelgian celebrity chef Johan Segers has reopened his restaurant **'t Fornuis** at age 76, embarking on a new culinary venture despite his advanced age. The article highlights Segers' philosophy of reinvention and fresh starts, suggesting his renewed passion for the restaurant business. Visitors to the city should care because this represents a significant reopening from an established culinary figure, likely offering quality dining experiences backed by decades of expertise."
+                    "summary": "# Summary\n\nThis article features actress and singer Ianthe Tavernier's favorite restaurant, where she says she loves everything on the menu. While the specific restaurant name isn't provided in the snippet, visitors to the city would care about this recommendation because it highlights a dining spot endorsed by a local celebrity known for her refined taste. The article likely details what dishes Tavernier recommends and why the restaurant stands out."
                 },
                 {
                     "title": "Fuzz in Antwerpen getest: ‘Andere chefs mogen stikjaloers zijn op dit zaalteam’ - Weekend Knack",
@@ -101,15 +85,7 @@
                     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPdmtLVzFnUlI3YmZwN0xLZFBaRUxJcVlkcnBlWDZFUVhmNjFWc1BGTjRZM082UTBvM0I5THczeUVLd0JZSVUyT0F0SnkxRUlvVTltekxkOVl3UVExRnBtREl1bDRDTG15RUJGcThpYkVjRWRtUVVsYTU2WFNMR1d5ZQ?oc=5",
                     "publishedAt": "2026-10-14T08:37:22.000Z",
                     "language": "nl",
-                    "summary": "# Summary\n\nWeekend Knack reviewed **Fuzz**, a restaurant in Antwerp, and praised its exceptional dining room team, suggesting other chefs should be envious of their service quality. The article highlights that Fuzz stands out not just for its food but particularly for its professional and attentive front-of-house staff. Visitors to Antwerp looking for a well-executed dining experience with top-notch service would want to check out this restaurant."
-                },
-                {
-                    "title": "Na Nakazu opent nu ook Kazu in Antwerpen: waar Italië en Japan samenkomen op één bord - Nieuwsblad",
-                    "source": "Nieuwsblad",
-                    "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOc0VZWUxmZXV1ckVWeWN0UzVUUktHN1lXcW1kbURUVG5kSjJ2VENYS0FVZTBhVjNka3AyNTR4Wm1WWW1ic19FZlBFbHRYSHVRT1h0QXdVVFBvZjlkTkN5VWdvUFVjMmxvVTY5NHBGVWpFZk91Y01ZY0FJRjJ0QVBqMEptN2dQbDRaQURfQkpDeXFKcnJPZUcyQU1yT3lqanNXbUgySTBtX1NPVU5wVUlTZU1XbHFqNmEzZGdEa3FyUzc0VmxDRnkxWjE1XzJjZTVfVVUxb3pZaUJKN01kUGFWMHhJZVJqVVhIdDQzeHNiUU5KSGRlcEVQclBmMA?oc=5",
-                    "publishedAt": "2026-10-14T02:00:00.000Z",
-                    "language": "nl",
-                    "summary": "# Summary\n\nNakazu, a popular restaurant, has opened a new sister location called Kazu in Antwerp that fuses Italian and Japanese cuisines on a single menu. This new spot represents an expansion of the Nakazu concept with a creative culinary approach blending two distinct food traditions. Visitors to Antwerp can now experience this unique Italian-Japanese fusion dining experience at the newly opened Kazu restaurant."
+                    "summary": "# Summary\n\n**Fuzz**, a restaurant in Antwerp, has received praise for its exceptional dining room staff, with critics suggesting other chefs should be jealous of this team. The review highlights the quality of service as a standout feature of the establishment. Visitors to Antwerp should consider Fuzz if they're looking for fine dining with notably attentive and professional service."
                 },
                 {
                     "title": "Stropdas van 52 meter aan Boerentoren kondigt nieuw stadsfestival AAAntwerp aan - VRT",
@@ -117,7 +93,15 @@
                     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZjZJOGM1MzFVRU9RWThnNXBnbE5aVXRPd0FBb2tzdzN2NG1jM0lRQkVyQ25rZHcybkJBSmFpOTgxY1owZlBjVmZZUk9EZDJUcWZ1bnotZTBBVkJPaE03eE9SbzFjS3RmLUxIbkNPMW1IeHY3YlFHRFhoMVpEVlowdXpZLWVwZUNBREg2UnRZckZObjVScE00TXAxRVFqRFNBTjMya2ZZa3g?oc=5",
                     "publishedAt": "2026-10-15T03:48:06.000Z",
                     "language": "nl",
-                    "summary": "I appreciate you sharing this, but I should note that this article appears to be about a **52-meter tie on the Boerentoren (Farmer's Tower) announcing a new city festival called AAAntwerp** — rather than a restaurant or food news story.\n\nThis isn't food-related content, so it falls outside the scope of your request. If you have a food or restaurant article you'd like summarized, I'd be happy to help with that instead!"
+                    "summary": "# Summary\n\nI'd be happy to help, but the article snippet provided is too brief to create a meaningful summary. The title mentions a 52-meter tie at the Boerentoren (a landmark in Antwerp) announcing a new city festival called \"AAAntwerp,\" but there's no content about restaurants or food.\n\nCould you provide the full article text or a longer snippet? That way I can give you accurate information about any food-related aspects of this festival that would interest visitors to Antwerp."
+                },
+                {
+                    "title": "Johan Segers heropent ’t Fornuis: “Ik raad iedereen aan om op je 76ste met iets nieuws te beginnen” - GVA",
+                    "source": "GVA",
+                    "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOSUF5T2lGaGEzNW9NajIwOVpHZVBHZlZVLXBCWkpjTEhLQ0xNankxdUlUaDNtbGZZVUVjbFBhUU9HR1BjSG9EYll2Z3EtTW01TTU4TkRjSVg2T1pLMC1yeVQtanNTeC1CQTBWc1ROdVZXdVlSRWYzVzZHV080SHppbF9IYURBY3pWMC0ycFF2dWk0M29tb1JqZlV5VlBYTXJQb1Z4OUFBZEwtalhFN255em1wWkkyZUZxRFJNVEQtVHhNWUlBeHVBZzdSM2hRamxfSGdOYXZsMGoyTmJsbjMzNDRmaXk0MHdScmtEeFhWM0JzNURsNFczVnNZVWhDcE9I?oc=5",
+                    "publishedAt": "2026-10-12T19:00:00.000Z",
+                    "language": "nl",
+                    "summary": "# Summary\n\nJohan Segers, a Belgian TV personality, is reopening his restaurant **'t Fornuis** at age 76, embracing a new venture later in life. The restaurant is a notable dining destination that would appeal to visitors looking for an established Belgian eatery with local character and media attention. Food enthusiasts visiting the area should take note as this reopening signals renewed energy and potential updates to a recognized local restaurant."
                 }
             ]
         },
@@ -125,12 +109,20 @@
             "places": [],
             "news": [
                 {
+                    "title": "Lamina recebe restaurante portuense Rogério do Redondo para dois jantares em Lisboa e inaugura uma sala com programação própria - TRENDY Report",
+                    "source": "TRENDY Report",
+                    "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQZVJNZ1ozMU0yY3RvLWtJRkZETU9ZNnZ1VGgydEpNREVpQVp2dUFWZ3lSdW80RVlYc0NSX0puc2lwaWhudU1DLTBYS0dRbDVMRkdIUW5CVzNfYmFOYkwwTlVva1hqNkY0ZEVlS0s3Y0RBY1d6S3RQalZBblF6SHNkSW4tSGI1Z202bC14WFdVX21vOTNlaXBVcVRRZllUY3QwTEpJbV9tMGtqekM1NHhnSVFSbHlWYnVOUlBhT1dUS1JhTHpDanU4X2FMZXg1TlBaYm1tTzBBLWY4bmJVUmIxNUt4dDlzNDYzUWc?oc=5",
+                    "publishedAt": "2026-10-16T16:33:24.000Z",
+                    "language": "pt",
+                    "summary": "# Summary\n\nLamina, a Lisbon venue, is hosting chef Rogério do Redondo from Porto for two special dinners while simultaneously inaugurating a new room with its own programming schedule. This is noteworthy for Lisbon visitors interested in fine dining, as it offers a rare opportunity to experience a renowned Porto restaurant's cuisine in the capital, and signals Lamina's expansion into hosting more curated culinary events."
+                },
+                {
                     "title": "O restaurante num shopping de Lisboa que junta famosos há décadas - NiT New in Town",
                     "source": "NiT New in Town",
                     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQaGFHQmk0N3dXQnQ1MFo0VDdGZVFSUXA2QUdPZldnQzZTOFRfcWhFT3F5aTY1cFdOeW9lTElNbVVvMXRtY3Z5dHpHdWZrSEZhRzBUZWRSQ1M3bjFvQk9aZEhDQlgwT3gzMUxBTThQTjZxTDZJdW1jTzBJWUxhTjJjdld2c0hWWFRyQkUyYXVLamZhVEMtM3Rad3pTeDJuRjlFQXV3T2dXaw?oc=5",
                     "publishedAt": "2026-10-14T18:57:00.000Z",
                     "language": "pt",
-                    "summary": "# Summary\n\nI appreciate you sharing this article, but I'm unable to provide a complete summary because only the title and source information were provided—the actual article content/snippet is missing. \n\nFrom the title alone, I can tell it's about **a restaurant in a Lisbon shopping center that has attracted famous people for decades**, but I'd need the full article text to give you the practical details about why visitors should care (such as what cuisine they serve, which celebrities have dined there, or what makes it special).\n\nCould you share the article body or full text so I can provide the 2-3 sentence summary you're looking for?"
+                    "summary": "# Summary\n\nI appreciate you sharing this article, but I'm unable to provide a complete summary because only the title and snippet were provided—the actual article content isn't included. \n\nFrom what's available, the article appears to be about **a restaurant in a Lisbon shopping center that has attracted famous people for decades**, but I'd need the full article text to give you accurate details about which specific restaurant it is and why visitors should care.\n\nIf you can share the complete article text, I'd be happy to provide a concise 2-3 sentence summary with the practical information you're looking for."
                 },
                 {
                     "title": "Este restaurante lisboeta serve tradição portuguesa à mesa e recebe Herman José há mais de 30 anos - versa - lifestyle",
@@ -138,15 +130,15 @@
                     "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPb2VDLUNwT014WUZZenJNa0g3b19XcXdJY2NVQjZYUi05MXhzTnhaNHZOTDZxeTctN1p0UjRBTnY3RGIwLW1OUDVKNS01MlR2T0Fad2hFUG9TXzBad3hNT0JkYUNpZEd4RVhudmlhdFNOTWxzQjlIc0J1THp6LXl1YUVyQTlrVmc5c01ILWtwSlFGNlE2TmNqSEVYR2xGdWJrZ1ZGRVVrRHQ4Z2lJQWpROVJySnJoVWRaZTlKUW9MS3FuZ183YlJ3dTlQbDluVmxSRU5Bc2VPcWQ5TWRvVzBlT01CYi1aTlo5V0xzZUZLRUdybUN6X3ZMLWZocTVabWls?oc=5",
                     "publishedAt": "2026-10-14T18:46:00.000Z",
                     "language": "pt",
-                    "summary": "# Summary\n\nA historic Lisbon restaurant has been serving traditional Portuguese cuisine for over 30 years and is notably frequented by comedian Herman José. Visitors to Lisbon would appreciate this spot for its authentic local food and proven longevity, making it a reliable choice for experiencing genuine Portuguese dining tradition in the city."
+                    "summary": "# Summary\n\nThis article highlights a traditional Portuguese restaurant in Lisbon that has been serving authentic Portuguese cuisine for over 30 years and is known for hosting the famous comedian Herman José as a regular guest. Visitors to Lisbon would care about this restaurant because it offers genuine traditional Portuguese food in an established, well-regarded venue with a loyal clientele and cultural significance. The restaurant's longevity and celebrity patronage suggest it's a reliable spot for experiencing authentic local cuisine and atmosphere."
                 },
                 {
-                    "title": "Pretzels, käsespätzle e cerveja alemã: o Oktoberfest também passa pela zona Oriental de Lisboa - Jornal de Notícias",
-                    "source": "Jornal de Notícias",
-                    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQdm5uYUJzaXkwUEtUaHZqNUduTUJUVTFoNzhJYksxQmlTLVZRWmdzMzRMZzJ0WmpxN3cyNzFUTlVCcGVlZ1ZmN0dhUDRPQ0xFMVBLS09iTTZranNESExFTUlzeTFRYXo3NlJjXzItWms1dW94TmltSFQ0aTBxMy12YzhDUkhPa1dfWEhuX09FTXh2WVhDTjhEOEFiOWJaUDBGajBPR3dLVXhhanpydmY5RldEMlRmNldqUDZDMk43VHl0Y09vR19EbzlDcW5sbmfSAcABQVVfeXFMT2lzWG92bXRkTWo5S1ktMUNRSHlDcEY5N2JXTnA1LW05dmlGQ09HUWpkd2daYVJJQ1VKR3dkT2FoWHpWNzd3ZHJzb2hnOWEtVHo1eWVWYlpDT0pHRnFkdlFfaVNWdG10amxCaWU1eGRpYkMxRG1adWgyWjIwU1hfRU5nT2tQc0JmZmJLWWQ0ZWZXbjFCTm83akVvMC0yRTZ3cVlac2RRaGlRUWlqazhxYlNwTE1Ia3lRdEJ4elhmSm5m?oc=5",
-                    "publishedAt": "2026-10-13T13:00:00.000Z",
+                    "title": "Gastronomia açoriana em Lisboa à mesa do Basáltico - Anotícia",
+                    "source": "Anotícia",
+                    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9MdGdtS3hDTUZWMlF0S2Z4d3djRS1HSEpJQzVKUG14TmZpd1AzTlNBYWNseVFWX3JMMEZQZGJ5RzEtNUFpd2o4VXBVTjFjS1pvVGRfV3hnSVI4cmxIX0dTTmU4UnFwZ1luN2doa0h0Yw?oc=5",
+                    "publishedAt": "2026-10-14T10:50:13.000Z",
                     "language": "pt",
-                    "summary": "# Summary\n\nLisbon's Eastern zone is hosting an Oktoberfest celebration featuring traditional German food and beer, including pretzels, käsespätzle (cheese noodles), and German beverages. While the article doesn't name a specific restaurant, it highlights that visitors to this area of Lisbon can experience authentic German Oktoberfest cuisine and atmosphere. This would appeal to travelers and locals looking for traditional German fare and festive beer culture without leaving the city."
+                    "summary": "I don't have access to the full article content, only the title and snippet you've provided. However, based on what's available:\n\nA restaurant called **Basáltico** in Lisbon is featuring **Azorean cuisine** (traditional food from the Azores islands). Visitors to Lisbon who want to experience authentic Portuguese regional cuisine—particularly dishes from the Azores—would find this restaurant noteworthy as a destination to try this specific culinary tradition.\n\nTo give you a more detailed summary, I would need the full article text."
                 },
                 {
                     "title": "Mais de 300 produtores, 30 restaurantes e três banquetes levam vinho e gastronomia a Lisboa em novembro - SAPO",
@@ -154,15 +146,7 @@
                     "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQQmV6SjBMWXFFUnBCOWJRTncxZXRJc2pmdUN1MF9lVzdEeEctdTVqbjI4Snl3Z0VtWnpnN0p5aTJyRTNLMTNCTUJsZHNzVzZkVE9jU09IVVVWREJhY0QxNUZiTjcyRzd2N2hRRGFIV0kwVG5mM1A5b1JYVU1rdkZQTWpmbG5tQ1hGT1ZYVUtjcEtOYlJHd0lxV2QzcTNkcl9zVHZGSDBKSlBtV1V0VXBOYmt0ak81UU8tWkc5aXBrVXcyQmdqcGg3TEtLOXdqUVZoUkRSczJEcktCcDZTanVRTTNNTEQ?oc=5",
                     "publishedAt": "2026-10-14T08:29:46.000Z",
                     "language": "pt",
-                    "summary": "# Summary\n\nLisbon is hosting a major wine and gastronomy event in November featuring over 300 wine producers, 30 restaurants, and three special banquets. Visitors to the city should care because it's an opportunity to experience Portuguese wines and cuisine from top restaurants all in one place during the festival. This is a significant culinary event that showcases the region's food and wine scene."
-                },
-                {
-                    "title": "O restaurante onde Passos Coelho e Luís Montenegro almoçam por menos de 15€ - NiT New in Town",
-                    "source": "NiT New in Town",
-                    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxORlp5S0p4VTAxU2RBT0hldklNQ091YVQ2aDRLcXZseG1RNUowVm9RVTk3Xzg0aURXOTg4YTkyQW5kdExNbGRVbmt4UjZ2M2lnZXl6bi1vYkxxMlpMcmlUbElmQmlMS29LR1BJb29wVm5ueF9PTktuNWVQeHZXbXBGZEdDMnZxRlNZdEIwak96MzRCamg3RUYxVkxrcS1RMk43eFppM0lLLTdoaElkd09QVkVjVVk?oc=5",
-                    "publishedAt": "2026-10-13T09:12:00.000Z",
-                    "language": "pt",
-                    "summary": "I don't have access to the full article content, only the title and snippet provided. Based on what's available, here's what I can tell you:\n\nThis article appears to highlight a **restaurant in Portugal** that's popular with prominent political figures (former PM Passos Coelho and current leader Luís Montenegro) and offers **lunch meals for under €15**. For visitors to the city, this would be valuable because it identifies an affordable, well-regarded dining spot that attracts notable locals—suggesting it's a quality establishment with good value.\n\nTo give you a more complete summary, I'd need access to the full article text."
+                    "summary": "# Summary\n\nLisbon is hosting a major food and wine event in November featuring over 300 wine producers and 30 restaurants participating in special dinners and tastings. The event includes three large banquets celebrating wine and gastronomy throughout the city. Visitors to Lisbon in November should care because this offers a unique opportunity to sample Portuguese wines and cuisine from multiple top restaurants in one coordinated event."
                 }
             ]
         },
@@ -170,20 +154,36 @@
             "places": [],
             "news": [
                 {
-                    "title": "Christmas pop-up bar to feature Home Alone-inspired cocktails and self-serve Guinness - The Northern Echo",
-                    "source": "The Northern Echo",
-                    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQdmN6cXFuemxJUVBpTGhKeEtBVzhMelJpZ2NJVXJZdWhxZWtoMjZOWWoxOC13VkVWY1hLRTQ0QktQQVdUZUotZ0tDTDg1aUJJNDhtMnhYTVB4LVFKd19qTUtyeFpDWWd3TzJnWnRYcVdaWGdsQ2xsVTdLZGpIcm1VNkloTW04cGphN1h6TEJIYzV3VU9PSWVXSnBHMVRDdlplWEI0ZTdhcnBTcXZlUGZveA?oc=5",
-                    "publishedAt": "2026-10-15T19:00:00.000Z",
+                    "title": "+Helen-Ann highlights the importance of resilient farming and food security - Newcastle Diocese",
+                    "source": "Newcastle Diocese",
+                    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPY3NUSGl3NmlVTnNmdkhuNDNDeGtURGFxR3JkeU54and4YlloY2w3dkRGa3NZbmkwd09jcm1uZi0yY0daQ0JEOEhfODJLLTN6VzJIVmV0ZXVIRG50YXRuSjNKTkt2YmZvd3JKVHFMalJiVEs3MTExSF9zNjJLWWppZWl2TXg2SU00Tk5ySU9OX3lITW5UaEw2dnUwQTRMa3FFeWNYMTBFRnM4QVBYMFpKLUtGLVBER2NPUEE?oc=5",
+                    "publishedAt": "2026-10-16T12:23:01.000Z",
                     "language": "en",
-                    "summary": "# Summary\n\nA Christmas pop-up bar is opening featuring Home Alone-themed cocktails and a self-serve Guinness tap, offering a unique holiday dining experience. While the snippet doesn't specify the exact restaurant name or location, this pop-up would appeal to visitors looking for festive, novelty-themed drinks and entertainment during the Christmas season. The combination of nostalgic movie references and interactive beer service makes it a distinctive holiday destination worth checking out if you're in the area."
+                    "summary": "# Summary\n\nI appreciate you sharing this, but the snippet provided doesn't contain enough specific information for me to write a meaningful summary. The title mentions Helen-Ann discussing farming and food security within the Newcastle Diocese context, but there's no mention of a specific restaurant or food establishment, and the snippet lacks details about what the news actually covers.\n\nTo give you a useful 2-3 sentence summary focused on a specific food spot and why a visitor would care, I'd need the full article text or a more complete snippet. Could you share more details from the article?"
                 },
                 {
-                    "title": "World famous American rock stars with 475,000 followers end up busking at Monument in Newcastle - Chronicle Live",
-                    "source": "Chronicle Live",
-                    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPY09GeGJsd2FNSzMtdGtERGZha0tRTjdMZGk1d0ZWS2RpS0ZSVGFrX0xxNkt1QkhZMi03MmJEaVYwamI4WWpndkhmbzJDQ1pJeV9mNlBPWnFGNjBBeUFGbTlwaXZVSGE3QnpZdTlORFN0NHZPZVFHd0dRYUpmV1pfSUZ0YnJXQmlGc0N4SWNuZzZXVlNvMlRhaWlVMjBYaDJNekYxQ2Zn0gGrAUFVX3lxTFBRT1hQcFhXdldzZEw3WmpjLXZsdzlwcEFnZmx4el9oWHJxaHp2NXgxSkRsWm9RTUhpei1DSGoyZGgtclRPaE92Y0R1ODU4OG5NeVBDMFY4V1l6cUpMbGtQOW1MaDJINmZ1TmY4ekVzRVhiRmFyb3JmVnpnT3lGTDhwOTlXbTdMOW1fWUdJSm9yQ0k1eHZoM2pmWTk2TF95YlpzZkgyTEJtVzNTSQ?oc=5",
-                    "publishedAt": "2026-10-16T09:46:00.000Z",
+                    "title": "A sobering lesson getting banned by this Newcastle United legend from his pub - The Mag",
+                    "source": "The Mag",
+                    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPT1Q0N1RuS2liWG5RX0xIVzJ0MkFaS2pzemNpWm1MS1pPb2JkY0tLT3pxSkJhOGNROU83Wjl0WnM3NEVINFJtVXVRRDBXWlpDVml4Rm4yOUtaXy1jVlc3cDFneUNfYzNqWXQ5cnVvMkVpbUQ1Sm5IOG1mcF9aSGRCdVV4SnFhalZiV2NsTWxvMjB2UFdkVVFuN3EzcE9jSzltVzdwOE1yTjRmdDZKdXdrNHBkbjhnWGR4bHhYaFpLSDV1TmlC?oc=5",
+                    "publishedAt": "2026-10-16T09:58:45.000Z",
                     "language": "en",
-                    "summary": "I'd be happy to help summarize this article, but the snippet provided doesn't contain enough detail about the actual content. Based on the title alone, it appears that a well-known American rock band (with a substantial social media following) performed an impromptu busking session at Monument in Newcastle, England. Visitors to Newcastle would find this newsworthy as it's an unexpected appearance by established musicians performing street performances rather than formal concerts. However, without the full article text, I can't provide specific details about which band it was, why they were busking, or other relevant context."
+                    "summary": "I appreciate you sharing this, but the article snippet provided doesn't contain enough information for me to write a meaningful summary. The title and snippet only mention that a Newcastle United legend has banned someone from his pub, but there are no details about:\n\n- What the actual incident or \"sobering lesson\" was\n- Which specific pub or restaurant is involved\n- Why visitors to Newcastle would care about this news\n\nTo provide the 2-3 sentence summary you've requested, I would need access to the full article text. If you can share more of the article content, I'd be happy to summarize it focusing on the practical details for visitors."
+                },
+                {
+                    "title": "New Christmas themed bar to open in Newcastle as Love Actually and Home Alone murals spotted - Chronicle Live",
+                    "source": "Chronicle Live",
+                    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOeGNZXzZKRWN5eE9uSEo5Nkg5aDJtVnhkdS1vWkNJYVdpWkFmVVBaLWQ4UUJfQlRfdUtpNTRFdHZjMGFoNVZIbE1sQ1RXdk15S2QzY1JOVVZSNm1LSzlvYnNBTUxxRDBNZHRaYXVuTU5OeVFYWWJ5QlBHZ1pPWldmM3NycmZOdEJzdktiY1lMb2xOeVhzU19JUHhpSdIBoAFBVV95cUxOaURBN19fX2tYaG5hZEk3cHpmQ1NwVVhPWHlqWTQyTTFWWmZYQy1Dc0drb1F3TWEyTk1HMFlJSDN2cjdHM0Vja1pXbFJNS2h3TmhoWVE2ZEdVeWxaNC1ZUE4xU04weWRuZlk5Ym94amxwU0FxVkxEdEhzSjhfUkNoOVJMNUd6VkQ1dHBCY0dpdkpsbVYwZTQyVHcyczBKalhR?oc=5",
+                    "publishedAt": "2026-10-13T13:30:00.000Z",
+                    "language": "en",
+                    "summary": "# Summary\n\nA new Christmas-themed bar is opening in Newcastle and will feature murals inspired by popular holiday films like *Love Actually* and *Home Alone*. Visitors to Newcastle looking for festive dining and drinking experiences this holiday season will want to check out this new venue for its themed décor and festive atmosphere."
+                },
+                {
+                    "title": "Durham Book Festival reviews: Food, Connection and Identity with Kit Fan and Anna Hedworth - Cultured. North East",
+                    "source": "Cultured. North East",
+                    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE4zaE9yMy1OVTlJV3MtSWg3LTJTSVl3d1M3LV9kbFhJN2ZLOUV2OW1RRFpRZjBJalZ5SjROSFpxQXBkOGlaaHk3Y3B3NmNITlBuVUNFeHpyWTcxT1JpZENZSXFTSFk4bjFycTlGcEJKWjM4QlJjTFNvOE9Vcw?oc=5",
+                    "publishedAt": "2026-10-15T12:44:49.000Z",
+                    "language": "en",
+                    "summary": "I appreciate you sharing this, but the snippet provided doesn't contain enough details about the actual food news or restaurant being discussed. The title mentions a Durham Book Festival event featuring authors Kit Fan and Anna Hedworth discussing food, connection, and identity, but there's no information about a specific restaurant, food establishment, or practical dining information that would help a visitor to Durham.\n\nTo give you an accurate, useful summary, I'd need the full article text or more detailed snippet content."
                 },
                 {
                     "title": "New Italian restaurant to replace The Last Days of the Raj in Newcastle - Hexham Courant",
@@ -191,23 +191,7 @@
                     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPQ3ZfNzZ1bDU2cW1vRnQzN3JEc1NpNWZ2TkpJLTlia1NncTRFdnpWb3pkS0s1R014OFdSWGRFZ1M0SUd5RDU5bktaaWxEdlUtcE9hd0hVUURSdUJUX290Nk1vd1BFTVVKVFNET0p1Q29LSWE3ODhOSHpxQ3RtQmVocklseDVXaFdEUVFkR0hDNjR2UQ?oc=5",
                     "publishedAt": "2026-10-13T14:45:00.000Z",
                     "language": "en",
-                    "summary": "# Summary\n\nA new Italian restaurant is opening in Newcastle where The Last Days of the Raj (an Indian restaurant) previously operated. This is worth noting for visitors and locals looking for dining options, as it represents a shift in the area's food scene from Indian to Italian cuisine."
-                },
-                {
-                    "title": "Cost-of-living struggles inspire new supermarket in Newcastle-under-Lyme - BBC",
-                    "source": "BBC",
-                    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE4xMjk0T1ppVlV2c1BjdFpoaFctelo0OGdWZnZiRVg1YXNJQW9EUTk5UnVFWDhTanc3b2ZzM3B0ZWJMWXBnOWVZWDVrRUg0LWhrem1HcVEzX2VnR3liOUE?oc=5",
-                    "publishedAt": "2026-10-13T05:32:23.000Z",
-                    "language": "en",
-                    "summary": "# Summary\n\nA new supermarket is opening in Newcastle-under-Lyme in response to residents' cost-of-living challenges, aiming to provide more affordable grocery options in the area. While the article snippet doesn't specify the supermarket's name or exact details, this development is significant for visitors and locals seeking budget-friendly food shopping alternatives during economically tight times. The opening addresses a community need for accessible, competitively-priced groceries in the area."
-                },
-                {
-                    "title": "Newcastle United vs Aston Villa: Away day cost for Villans fans attending St James’ Park - Football Ground Guide",
-                    "source": "Football Ground Guide",
-                    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPQ2ZMeHVCdl9USTFocXRXbHExdmVWZzNYT2FIQ1hFb3NyMU5yVlJNdjlXaWFxcG1OVFZzWWFwaVoxTG9aa2ZISmtMdy1OMHZaZTNhTHRjajNKczZYa2l2Q2xaTy1NaXp4YmhKZzFac1VvbExHM04zM3R6YTFiMDEtUFJMLXdoMDlBWDUxbE5aT0w?oc=5",
-                    "publishedAt": "2026-10-15T14:06:15.000Z",
-                    "language": "en",
-                    "summary": "I can't summarize this article as requested because it's about a football (soccer) match and stadium attendance costs, not about a restaurant or food spot. The article discusses the expenses for Aston Villa fans traveling to watch Newcastle United play at St James Park stadium, which falls outside the food/restaurant news category you're asking me to cover.\n\nIf you have a food or restaurant article you'd like summarized instead, I'd be happy to help!"
+                    "summary": "# Summary\n\nA new Italian restaurant is opening in Newcastle in the space formerly occupied by The Last Days of the Raj, an Indian restaurant. This is relevant to visitors because it provides another dining option in Newcastle's restaurant scene, offering Italian cuisine in a previously established restaurant location."
                 }
             ]
         },
@@ -220,7 +204,7 @@
                     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNaHlwY3dOT1hpeTVlNUZfU0Q3MFd4TVVyUHJKQkt3SlhScWJJT284eWt2S2VmdlJPSXRTVEc0eF9xdC1zUnMtcUNvQ2Jhc01xVGo1cWt2SUxzRDB5N2pJZVItSktYaGpWcFVpdFprZHZ1OTVEYnNTZUNiYnJ1UnJYZ2hzdWU5MTA3dGRibmNScUJMWllZM1ByTWRtY3RTYXJtOHluTUI5Q1RKTHc?oc=5",
                     "publishedAt": "2026-10-15T05:48:00.000Z",
                     "language": "en",
-                    "summary": "# Summary\n\nTallinn's food bank has received 43,000 cans of wild boar meat from the Estonian state following a culling operation related to African Swine Fever (ASF). This donation will help the food bank distribute protein-rich provisions to people in need throughout the city. Visitors and residents should know that this represents a significant food security initiative and highlights how local institutions are managing disease control while supporting vulnerable populations."
+                    "summary": "# Summary\n\nTallinn's food bank has received 43,000 cans of wild boar meat from the state following an African Swine Fever (ASF) culling operation. This donation will help the food bank distribute protein-rich provisions to those in need in the city. Visitors or residents interested in local food security initiatives and how communities address food waste during wildlife management crises would find this newsworthy."
                 }
             ]
         }
