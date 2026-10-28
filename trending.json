@@ -1,41 +1,33 @@
 {
-    "lastUpdated": "2026-10-27T11:12:13.913Z",
+    "lastUpdated": "2026-10-28T11:46:06.984Z",
     "source": "github-actions",
     "cities": {
         "cologne": {
             "places": [],
             "news": [
                 {
+                    "title": "KAISERSCHOTE eröffnet Pop-up-Restaurant auf Santas Weihnachtsmarkt in Köln - inar.de",
+                    "source": "inar.de",
+                    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPeHBveXdsMW51azRxVno0elhXZHVrU19fSHdDN0xJMmxRLVdfZUVlZ3hndWk0SGNoRHFzUGlmaFp4ZFJLeUJPVkhBNk9xNm1sV1ZUOVdiUWRhZ0h5TlREa19zcTBEMEI4MGRDYWR5anNLbG1hTi1mMV96dGI2NmdMblJuSGFNVGJuUUJVR2lxZDBmRllqaG5GdDBuYUJGQQ?oc=5",
+                    "publishedAt": "2026-10-27T08:47:50.000Z",
+                    "language": "de",
+                    "summary": "# Summary\n\nKAISERSCHOTE, a restaurant, is opening a temporary pop-up location at Santa's Christmas Market in Cologne. Visitors to the city during the Christmas season can enjoy dining at this pop-up without needing to visit the restaurant's regular location. This is a convenient option for tourists and locals looking for quality food while exploring the holiday market."
+                },
+                {
+                    "title": "Eine Treppe nach Asien: 25 Jahre »taku« in Köln - Falstaff",
+                    "source": "Falstaff",
+                    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQek5hTlM5MWRCNkpaaWgzUzZwUmhTUWNtc2RDTVA1QXRHaEdERDJiOXBCdVptZl9vRFRwSzgzTWs2ZE55RXVrN1A5LXM2YndxNTB2QlJUelA0RklpVGpDaGtweUIzWkwzNVhLR21KZnNReW41bjNYT1NXVzF3NEpyQ2ZjcVI?oc=5",
+                    "publishedAt": "2026-10-27T09:50:43.000Z",
+                    "language": "de",
+                    "summary": "I don't have access to the full article content, only the title and snippet you provided. Based on what's visible, here's what I can tell you:\n\n**taku**, an Asian restaurant in Cologne, is celebrating its **25th anniversary**. The title suggests it's positioned as a unique gateway to Asian cuisine in the city. Visitors to Cologne would care about this milestone because taku appears to be an established, long-standing dining destination known for Asian food, making it worth experiencing if you're interested in authentic cuisine with a quarter-century track record.\n\nTo provide a more detailed summary, I would need access to the full article text."
+                },
+                {
                     "title": "„Parmesan-Kartoffelstampf“: Kochtalent aus Köln steht jetzt im Bielefelder „Buffy Summers“ am Herd - Neue Westfälische",
                     "source": "Neue Westfälische",
                     "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPODc4QTVwTjRsclBCWHpiVi1qWHhhNUlYOUhWN0dqU3JRRXRKVGVNdTVQcVpMbkVQRVlTSGR2Y2VnbGxsWjBYNUo5cUNjUlJzbmFxUThyLUNXa2tPTHIwVEd1bXJBbEFNSlhpLVRDbzlxdk8zanFYVVVEekFqOEo0NFRvVlZCS2k3Q0tWdXRkNUJ2X1hLUnQ0NXItc25ybTltVE9qRmxxQ0hKUmNHWGktYWNXTXhJQTROUk5JWmwyU241Z2R3TkZVRDVJOGF5WTlBNUdwUmttaDFxcjAtaHk4ZHJB?oc=5",
-                    "publishedAt": "2026-10-27T06:54:00.000Z",
+                    "publishedAt": "2026-10-27T06:56:00.000Z",
                     "language": "de",
-                    "summary": "# Summary\n\nA talented chef from Cologne has joined the kitchen team at **Buffy Summers**, a restaurant in Bielefeld. This is notable for visitors to Bielefeld because it signals fresh culinary talent and potentially new or improved dishes at this establishment, including specialties like parmesan mashed potatoes."
-                },
-                {
-                    "title": "KAISERSCHOTE eröffnet Pop-up-Restaurant auf Santas Weihnachtsmarkt in Köln - lifePR",
-                    "source": "lifePR",
-                    "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNb1FYSGFUdjAyWldSLS1fVkVaNW1mdnJxdXJiaFRnRmwtblBtU0hUTjNna2VCWldlTVZlOXNQUW5ENTBMQ2QwQkxDbmpzTWFoTHFERWxySjNsbElFMFRiRmRyMG5JLVJrT0F5UmhXbE9mekxnZ1B0VWlBb25vcUYwVjVhNlE0MXZvd2xYTFV2UkFOTE1SRkttQktaVlFWeEFWNU5IdEZBakVLV2FObThfWG52ZWFfVXA4UHZpSlBoeWNVV01YcjRic3ZhV3lUT2ZKQkxiUzZDZzZmdkVFdzJ6bVI5c2FyUFk?oc=5",
-                    "publishedAt": "2026-10-27T08:26:00.000Z",
-                    "language": "de",
-                    "summary": "# Summary\n\nKAISERSCHOTE has opened a pop-up restaurant at Santa's Christmas Market in Cologne, offering visitors a dining option while shopping and celebrating during the holiday season. This temporary restaurant provides a convenient place to eat and warm up while enjoying the festive atmosphere of the Christmas market. Visitors to Cologne's Christmas market can now experience KAISERSCHOTE's cuisine without visiting their permanent location."
-                },
-                {
-                    "title": "Täter fliehen mit Tageseinnahmen: Restaurantmitarbeiter mit Pfefferspray attackiert - Rheinische Anzeigenblätter",
-                    "source": "Rheinische Anzeigenblätter",
-                    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPd1U3Ymg0dGpIU2FhcC1LMGstNm0zQlA3YlRrYWM4d1BpaHhvY0dNWVBrUTE2SzZwb2NpV0VKYUZuaUVxUnNUUkdITlJrR0FOUlluZkFBUmFlSjRhSzZ4SE9yWEdSTExSYzZBWWZoRTgzV3NkVGpBT3NVd0dZR2MwcVNPOVU0MGFUWXRKeE5sSk16S0lzaU83S3hwcFN3MGhkQ1MtUXM5aVJfNDF4VG4tVWVtY0tGZTJoakE?oc=5",
-                    "publishedAt": "2026-10-26T13:33:57.000Z",
-                    "language": "de",
-                    "summary": "# Summary\n\nThis article reports on a robbery at a restaurant where perpetrators attacked a staff member with pepper spray and fled with the day's cash takings. While the specific restaurant name isn't provided in the snippet, this incident highlights security concerns for dining establishments in the region. Visitors to the city should be aware of this crime, though no details are given about location, timing, or which restaurant was targeted, making it difficult to provide practical guidance for diners."
-                },
-                {
-                    "title": "Renovierung: 100-jährige Kölner Kult-Kneipe kehrt mit Verspätung zurück - t-online – Köln",
-                    "source": "t-online – Köln",
-                    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPTHdhdExaN1V2V2xPUEZQQWF5Z1gtSUdzeVNkSEo4VEFVeWltVFZJTHF1NWdwc1o5M1RJYmJlcEppbUFydjFwVzFHUVhPSExZRTlFVWhmZERTZjVvRE9HUS1lMHJvR2hNWTZiNXoxM2FNNjhfdEJtUGIzUzUxN2NYblFHQkJiS2duXzZXOXE5dDMxTXdKVlh2bHVONGxSLTlSMWZkdFhkejc3RWZBSkxpNlc5WFZfYnBGX21nZU93a1E4dXJENWc?oc=5",
-                    "publishedAt": "2026-10-22T11:48:55.000Z",
-                    "language": "de",
-                    "summary": "# Summary\n\nA 100-year-old iconic pub in Cologne is reopening after renovations, though later than originally planned. The beloved local bar, a cultural fixture in the city, has undergone updates to modernize its space while maintaining its historic character. Visitors to Cologne interested in experiencing authentic local culture and traditional German pub atmosphere will want to check out this reopened establishment once it fully resumes operations."
+                    "summary": "# Summary\n\nA talented chef from Cologne has joined the kitchen team at **Buffy Summers**, a restaurant in Bielefeld. This culinary addition is noteworthy for visitors interested in quality dining, as it signals the restaurant is expanding its cooking expertise and likely enhancing its menu offerings. The article highlights the restaurant's commitment to attracting skilled chefs to improve its food quality."
                 }
             ]
         },
@@ -48,15 +40,15 @@
                     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPUmI5Wmw0cU9Nc244bnhuZmYxcGxHNDRPQU91SVVxV2lFdEhEN0Q3M1ZjR2F1ZHk1ZkhWUXQ4MWlCZFgtc3hFT241MTA4ckdrVE9RdWtkbTlqemNDV1FxWnVlSjdaSDMxTXBUUEU1Y1BtSEpaTF84VVp6ekE0VDZSZ2xORk5hc2Fkb3ItRXlsakdxbE9QYXBOOEJUSHpsU1NNRXhpMFdvMFBJV29BT1pBVGlRY3lubXBIc0ZsbVh5R0lhbU1BSWFFbWFRc2Q0amtNa0E?oc=5",
                     "publishedAt": "2026-10-27T08:48:00.000Z",
                     "language": "nl",
-                    "summary": "I appreciate you sharing this, but I'm unable to provide a meaningful summary based on what's available. The snippet is too brief and consists mainly of the headline, which suggests that Café-Restaurant Amsterdam is a well-known spot in Amsterdam where regular customers claim you shouldn't bring a secret lover (implying it's a popular gathering place where you might be spotted). However, without access to the full article content, I cannot explain the specific news, context, or why visitors should care beyond this humorous observation. To give you a proper summary, I'd need the complete article text."
+                    "summary": "# Summary\n\nI cannot provide a complete summary based on the information given, as only the headline and source are available—the full article text is missing. However, based on the title, this appears to be a humorous or cautionary piece about Café-Restaurant Amsterdam, where a regular customer warns that it's not a discreet place to meet a secret lover, likely because it's frequented by locals who know each other. Visitors to Amsterdam should be aware that this popular spot is known for its regular clientele who pay attention to who comes in and out."
                 },
                 {
-                    "title": "Italiaanse topcrimineel (64) spoorloos verdwenen, was ooit eigenaar van restaurant in Amsterdam - AD.nl",
-                    "source": "AD.nl",
-                    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPbmhkRjNucHJkN002NlFuWXJYNVpqYTlHM0FNcGU4R1dlS29FUy0tSGdGd1dHdkFIVE54aWs3SGFNRGFjWU42TGRVWjBQZDVodncxVXlENUdTVlhmSnBGOGZPZGJqMFZoc0tvZy1VZFRXb1labERoOHlMN1VlTzZxa1drWkhtRGcwUFo0RWJtWVdmeXdYbWtQd19NM0FydkZPeHA3VDRZbnpfTGx1WGRBcG5fbWM3TktRV2xYRFI5MExnMHpiQWQ3N1d4TQ?oc=5",
-                    "publishedAt": "2026-10-26T16:28:00.000Z",
+                    "title": "De Kerst staat voor de deur in de horeca: deze keuzes maken ze bij Troef, Mood en Wijn Boer - Misset Horeca",
+                    "source": "Misset Horeca",
+                    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOdlhzdW1GWGM1ZDI1czhyUElQYXVzQTJodTM0M2F5WXlKNlRnSnZwWFVoTk90Z3FVZ05BdDVVeXdKcGZJcmJlS083UUplRUVuUThBYVFVZ2FiUEd5VmEzZzgtMHdOeWZZRGJTNHF4QVB5YzNmTHd2d0Fhbnh4bVNFaVBMbjdXeV9tNHVQakwyVGZ1clNvOGZWSjJMNnB3RUVxOUZYb3NXWEFrNVNzUHJxQ2ROOUMwR0szMFNwTWpjVVp6UQ?oc=5",
+                    "publishedAt": "2026-10-28T06:00:00.000Z",
                     "language": "nl",
-                    "summary": "# Summary\n\nThis article reports that a 64-year-old Italian organized crime figure has disappeared; he previously owned a restaurant in Amsterdam. While this is primarily a crime news story rather than a food review, it may interest visitors to know that certain Amsterdam restaurants have had connections to criminal elements. The article doesn't provide details about the restaurant's current status or name, so it's unclear if it remains operational or relevant for diners today."
+                    "summary": "# Summary\n\nAs Christmas approaches, three Amsterdam restaurants—**Troef, Mood, and Wijn Boer**—are sharing their seasonal menu decisions and holiday strategies. The article highlights how these establishments are preparing special offerings and operational choices for the festive season. Visitors planning holiday dining in Amsterdam should check these restaurants' Christmas menus and booking availability, as they're actively curating unique seasonal experiences."
                 },
                 {
                     "title": "Café-Restaurant Amsterdam viert 30e verjaardag: \"Ze dachten dat we gek waren\" - AT5",
@@ -64,23 +56,23 @@
                     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNY1VmNXk3emtENkxrZEgxTmtsYUhuNzZFenIyb1NCVmkweFB0YXJveFlPOWNIWHFvRHRsMzVQUmpHOTBuckRDcFhST1NmTG85ZmRISEJhTGNYU0JJd3UtMHBRdXdKQ1h3ZEprLTBRT19FUVFBc0JZUHpBNllzbDZ2RlFSZkhtOGxoenJkWmJxMmo4ZUhWT3Nnd1M3elhFOGo4NWdHWU9xUVl2enF5WGZz?oc=5",
                     "publishedAt": "2026-10-25T03:53:00.000Z",
                     "language": "nl",
-                    "summary": "I appreciate you sharing this, but I'm unable to provide a complete summary since only the headline and source information are visible—the actual article content isn't included in your message.\n\nFrom the title alone, I can see that **Café-Restaurant Amsterdam is celebrating its 30th anniversary**, and the owners reflect on skepticism they faced early on. To give you the practical 2-3 sentence summary you're looking for (including why visitors should care and specific details), I would need the full article text.\n\nCould you share the complete article content?"
+                    "summary": "# Summary\n\nI appreciate your request, but I'm unable to provide a summary because only the title and snippet are available—the full article content wasn't included. \n\nFrom what I can see, the news is about **Café-Restaurant Amsterdam celebrating its 30th anniversary**, with a quote suggesting the owners faced skepticism when starting out. To give you the practical visitor information you need (location details, what makes it notable, current offerings, or anniversary events), I would need access to the complete article text.\n\nIf you can share the full article, I'd be happy to provide the focused 2-3 sentence summary you're looking for!"
                 },
                 {
-                    "title": "Het Oordeel: Afvoer dampen moet zijn opgelost voor restaurant mag koken - De Rechtspraak",
-                    "source": "De Rechtspraak",
-                    "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPSTBWT3NWSDVCY1JhQW9VMzVSZEpyaXVrUmxyWDM2bjRmejR6UVBqTjROaVpvMEhOeVk5RlprUXpNWDZXVU5sOVcxeGRhN04td3NBZDlVTUM1WGRkRU1UMmlsZFpsY3Z5V0MtZjJGZGoyQXplX3NSUXBkdWxlLS0xZ2RVb3N4UzhPMld6ZUJGRlg5WUtFM0xOOUZUMURwd043UDc0NFp1REUwZ3ZPM1R0MldLMUlJc2tQZjBGaHNnMk9wQ2R3ZG5VcnVYLWdKamJhNjh2dWVKSGMyMEFudWRVQ0ZVRXFUTHpYaFZPU1JoTnA3VUpETVAtbUt4c2FuUk82UGpqcVFtbXNkTmc?oc=5",
-                    "publishedAt": "2026-10-23T14:18:50.000Z",
+                    "title": "Italiaanse topcrimineel (64) spoorloos verdwenen, was ooit eigenaar van restaurant in Amsterdam - AD.nl",
+                    "source": "AD.nl",
+                    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPbmhkRjNucHJkN002NlFuWXJYNVpqYTlHM0FNcGU4R1dlS29FUy0tSGdGd1dHdkFIVE54aWs3SGFNRGFjWU42TGRVWjBQZDVodncxVXlENUdTVlhmSnBGOGZPZGJqMFZoc0tvZy1VZFRXb1labERoOHlMN1VlTzZxa1drWkhtRGcwUFo0RWJtWVdmeXdYbWtQd19NM0FydkZPeHA3VDRZbnpfTGx1WGRBcG5fbWM3TktRV2xYRFI5MExnMHpiQWQ3N1d4TQ?oc=5",
+                    "publishedAt": "2026-10-26T16:28:00.000Z",
                     "language": "nl",
-                    "summary": "# Summary\n\nI can see this is a Dutch legal article about a restaurant dispute, but the snippet provided is too minimal to give you a useful summary. The title indicates it's about a court ruling regarding exhaust/ventilation systems that must be fixed before a restaurant can operate, but without the full article content, I cannot identify which specific restaurant is involved or provide practical details for visitors.\n\nTo give you a proper 2-3 sentence summary with the information you requested, I would need the complete article text."
+                    "summary": "# Summary\n\nAn Italian organized crime boss, age 64, has disappeared without a trace and was previously a restaurant owner in Amsterdam. While this is primarily a crime news story rather than restaurant news, visitors to Amsterdam might be interested to know about the criminal history connected to a former dining establishment in the city. The article doesn't specify which restaurant or provide details about its current status, so it's unclear if this affects any active food venue visitors would encounter today."
                 },
                 {
-                    "title": "Nieuw in Amsterdam: 5 restaurant-hotspots die MAN MAN approved zijn - MAN MAN",
-                    "source": "MAN MAN",
-                    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBpNlktNmtwUEFFY2htc1lYS0RMUU1qUXByUEtRTHB2X3lrRUlZbk5YRkQ3UVdZaXhtOWxxRkhZZjY1Y3JWUEYtaE9CVnNLbEhsY3ZBczBfOHNkbWQ0WFhudllnTHY?oc=5",
-                    "publishedAt": "2026-10-27T10:08:30.000Z",
+                    "title": "Café de Vlieger opent in Amsterdam: gastropub met Hollandse keuken - Entree Magazine",
+                    "source": "Entree Magazine",
+                    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNbDBkclFVWV9aWWlCaThZTXlQY3pzUVhQODVoeThHS3NKVUZITGxvTjVxb2RuNFRfQ0hYU0JOaHFDSjlOR283TEpQREpOOW4xamd2SEJQM1NQaTZMMWVTZ00zOTUzUHVMUlNWdGZuWWI1UFU4YlNBWU10STFZakFKbTNoRXRmTVV4RXhRdlFwQ2ZmYXpCejJHWHptNm1SMjlIM203a0ZCTUR2Zw?oc=5",
+                    "publishedAt": "2026-10-23T09:01:41.000Z",
                     "language": "nl",
-                    "summary": "I appreciate you sharing this, but I don't have access to the full article content—only the title and a snippet. Based on what's available, this appears to be a listicle about five new restaurants in Amsterdam that have been approved by MAN MAN (likely a food/lifestyle publication or platform). To give you a proper summary with specific restaurant names and why visitors should care, I'd need you to share the actual article text or a link to read the full content."
+                    "summary": "# Summary\n\nCafé de Vlieger, a new gastropub specializing in Dutch cuisine, has opened in Amsterdam. The restaurant combines casual pub atmosphere with quality food focused on traditional Hollandse (Dutch) kitchen offerings. Visitors to Amsterdam looking for authentic local cuisine in a relaxed gastropub setting should consider adding this spot to their dining plans."
                 }
             ]
         },
@@ -88,12 +80,20 @@
             "places": [],
             "news": [
                 {
-                    "title": "Chef’s kiss: Deborah Van Haute-Bloemen, gastvrouw van restaurant Bloesem, tipt haar favoriete restaurants in Antwerpen - Weekend Knack",
-                    "source": "Weekend Knack",
-                    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQdlBVb3ctMUlDamY5bmY0V1M0ZEd0emc4NlEwLTMyLWpmeXA3VWpNNktINl9zWTRMMEJJRDN6Uzh1cGdCem51YWNsNml4RENfRktGZE9MZ1pUMkJfM2tkNmxJQTdFYTlwOV9mQ2todEhxQ0pMWlVCQ1gwQlYyME55SnFEbzc1VEUyYWtkLVRGcTJ6R3dWU0dKc3pXNEFnU0lMWHlZaklreklzUzRKS0R4eVMwUkd1UQ?oc=5",
-                    "publishedAt": "2026-10-27T10:00:00.000Z",
+                    "title": "Italiaans restaurant Materia verhuist naar luxehotel Botanic Sanctuary Antwerp: “We gaan voor een Michelinster” - HLN",
+                    "source": "HLN",
+                    "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNMU9TUVhGeU9acWk4YW5TbGF2V3cyak1KcjJ5UjNSSVBndm8xM05rYjhSbTE0MEx3WW1ucUQ3ODc1dW5QOThCY0cyWDBNUkgyeXphSUt0ZzBib0tzbGxyY0s0NENtdGJXenM4QllWWjF3WnpNbU02UUV5Um5selZHMjhWLU92NnRocHIzNXhtSnpqaE1kN2h5amRqYTZYMGx1TkdEMjkyNUhXX3RfYzAtb2pmTzlRLXdTamJLR0pTZUItZTZMVDNkSHFJUEw0UGxZMzEtbERfUGVWWURNclFhaDB3?oc=5",
+                    "publishedAt": "2026-10-26T09:28:06.000Z",
                     "language": "nl",
-                    "summary": "# Summary\n\nDeborah Van Haute-Bloemen, the host at Antwerp's restaurant Bloesem, shares her personal recommendations for favorite dining spots in the city. This insider guide is valuable for visitors looking to discover authentic local restaurants beyond the typical tourist spots, with trusted suggestions from someone deeply embedded in Antwerp's food scene."
+                    "summary": "# Summary\n\nItalian restaurant Materia is relocating to the luxury hotel Botanic Sanctuary Antwerp and aims to earn a Michelin star. This move gives visitors to Antwerp access to an upscale Italian dining experience with elevated ambitions, making it a notable destination for fine dining in the city."
+                },
+                {
+                    "title": "Een vleugje Ibiza in Antwerpen: Bar Zuid opent de deuren - GVA",
+                    "source": "GVA",
+                    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPV0cybU0ybWdPY2tVN1FJMkg2ZTJkem1vc2NXUF9IUXA5aVh3NzRZeXMtMUdQSU9TSEVBODB2VkpwTzF0OFJBRUVHUG43R3hHVXdOWGRxVHA2OUVrR2VBRm0tbzBKYU1EVTBvODRWUWVCNlU0VmFJYi1qN1o0V2V6WXJCZnR2YVJQa2J0OWZnZmszME1oVEYyTUtVTnJwODVhRnNWeXdaZndHU2xDZjMwUzJpZEVmV3VDNFZmRGRzY0FJa0RaSGtRcmlDYw?oc=5",
+                    "publishedAt": "2026-10-25T11:46:57.000Z",
+                    "language": "nl",
+                    "summary": "I'd be happy to help summarize this article, but I'm unable to access the full content from the snippet provided. The title indicates that **Bar Zuid**, a new restaurant/bar with an Ibiza-inspired vibe, is opening in Antwerp, Belgium. To give you a complete 2-3 sentence summary with practical details about why visitors should care (such as location, cuisine type, opening date, or special features), I would need access to the full article text. Could you share more of the article content?"
                 },
                 {
                     "title": "Voormalige uitbater van Antwerps restaurant opgepakt in Colombia voor grootschalige cocaïnehandel - Nieuwsblad",
@@ -101,31 +101,23 @@
                     "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNdnZvLVlUczBqakJjZ094V3lPY24tZWI2UElYV1gwMUdvVV9hbDJOa0dqZE1oVFdnZUlpdWo5RjdnazlWMUdUVW1Qamx6TmVIanFUTUMySnZlU3JvbUFhajhHdDdBdktBOHFqNDNGa2xCc3p4Y0k5VE1NRGxKUFg5RUxnZ0RqVUo2LXJIck9wZVZzSUgtbW9yWmNneThnZ2ZWNDlZaWtoN0h5NXBlMGxmeVQydkN3WWlSNnBVOHV1NHB3MWp5RHAyMmJvU1JYbVB2Qkh5cGVhM3p5TVE0VlZEOHR3?oc=5",
                     "publishedAt": "2026-10-24T15:12:50.000Z",
                     "language": "nl",
-                    "summary": "# Summary\n\nA former manager of an Antwerp restaurant has been arrested in Colombia for large-scale cocaine trafficking. While this is primarily a crime story rather than food news, it highlights concerns about organized crime connections to the hospitality sector in Antwerp. Visitors to Antwerp may be interested in knowing which establishments have had criminal associations, though the article doesn't specify the restaurant's current status or name."
+                    "summary": "# Summary\n\nA former manager of an Antwerp restaurant has been arrested in Colombia for large-scale cocaine trafficking. While this is primarily a crime story rather than dining news, it may be of interest to Antwerp visitors as it involves a previously operating local restaurant. The arrest highlights an unrelated criminal matter but doesn't provide practical dining information for visitors to the city."
                 },
                 {
-                    "title": "Italiaans restaurant Materia verhuist naar luxehotel Botanic Sanctuary Antwerp: “We gaan voor een Michelinster” - HLN",
-                    "source": "HLN",
-                    "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNMU9TUVhGeU9acWk4YW5TbGF2V3cyak1KcjJ5UjNSSVBndm8xM05rYjhSbTE0MEx3WW1ucUQ3ODc1dW5QOThCY0cyWDBNUkgyeXphSUt0ZzBib0tzbGxyY0s0NENtdGJXenM4QllWWjF3WnpNbU02UUV5Um5selZHMjhWLU92NnRocHIzNXhtSnpqaE1kN2h5amRqYTZYMGx1TkdEMjkyNUhXX3RfYzAtb2pmTzlRLXdTamJLR0pTZUItZTZMVDNkSHFJUEw0UGxZMzEtbERfUGVWWURNclFhaDB3?oc=5",
-                    "publishedAt": "2026-10-25T04:37:27.000Z",
+                    "title": "Chef’s kiss: Deborah Van Haute-Bloemen, gastvrouw van restaurant Bloesem, tipt haar favoriete restaurants in Antwerpen - Weekend Knack",
+                    "source": "Weekend Knack",
+                    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQdlBVb3ctMUlDamY5bmY0V1M0ZEd0emc4NlEwLTMyLWpmeXA3VWpNNktINl9zWTRMMEJJRDN6Uzh1cGdCem51YWNsNml4RENfRktGZE9MZ1pUMkJfM2tkNmxJQTdFYTlwOV9mQ2todEhxQ0pMWlVCQ1gwQlYyME55SnFEbzc1VEUyYWtkLVRGcTJ6R3dWU0dKc3pXNEFnU0lMWHlZaklreklzUzRKS0R4eVMwUkd1UQ?oc=5",
+                    "publishedAt": "2026-10-27T10:00:00.000Z",
                     "language": "nl",
-                    "summary": "# Summary\n\nItalian restaurant Materia is relocating to the luxury hotel Botanic Sanctuary Antwerp with ambitious plans to earn a Michelin star. This move is significant for Antwerp visitors because it signals the restaurant's upscale expansion and commitment to fine dining within a prestigious hotel setting. Food enthusiasts visiting the city should note the new location as Materia positions itself as a destination for high-end Italian cuisine."
+                    "summary": "I appreciate you sharing this article, but I'm unable to provide a summary because the snippet provided doesn't contain the actual content—it only shows the headline and source information. To give you a practical 2-3 sentence summary focusing on the restaurant recommendations and why visitors should care, I would need the full article text. If you can share the body of the article, I'd be happy to summarize it for you!"
                 },
                 {
-                    "title": "Naar het favoriete restaurant van Ellen Callebout: “Ik kleed me graag op als Gert en ik uit eten gaan” - GVA",
-                    "source": "GVA",
-                    "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPZzBxQ1dQMVVzVnhTaGQ4LWszV09aSnZERUZaZGpuQU5VcFNhNEg1dXBKWTU0Z0xiSUI2b2dUMHZxekQ1Y3AxajI2bFZkWGRDb2MxcG52TVMteERXc0JXVUVtRUtZbGxWTHZUeDNkRTVib2s3dXpMMDZURXhfUGtNLW9JT1oxeHZjM3ZpR19HR3VaamFYNzR4YXBiSTNSR0JJd2c3dkl3TE9vbE1HV0R2cE5JVzFvRUtpWnNRNlpzQ01Hekk2M2FfNnpRQ3NacmVjRUttQ0t2OEE2UzYzY0NGWmdiV1cwUkJoZ05DeUNsMzY?oc=5",
-                    "publishedAt": "2026-10-23T16:00:00.000Z",
+                    "title": "Nieuwe hotspots in Antwerpen: 13 adressen voor op je radar - www.feeling.be",
+                    "source": "www.feeling.be",
+                    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPc25oN2RfNVZvRGFRWkZCWHVfYkpOWFZRUXFJeGFxbWxnV204WGZjWkc0S3I4UDVMM1lIRlBpa0lOTVppWlkwY054RzNualFuMWN2c3Njdi1lQ0FvOEIxcGdKbHpNV0FoWG5oOU1LNmkxeEVzNXZ4Z252UWR1NXN2aGt6SW1LLXNyUF9iNlBydkZ2X0F0M2QycXRoZDhCWkJYcjFF?oc=5",
+                    "publishedAt": "2026-10-26T13:57:25.000Z",
                     "language": "nl",
-                    "summary": "I appreciate you sharing this article, but I'm unable to provide a meaningful summary based solely on the title and snippet provided. The text appears to be in Dutch and is very limited—it only mentions that Ellen Callebout discusses her favorite restaurant with someone named Gert, and a personal comment about dressing up when dining out, but doesn't specify which restaurant or include relevant details about the food or experience.\n\nTo give you a helpful summary, I would need the full article text or more substantial content about the restaurant itself, its location, cuisine type, and why it's noteworthy for visitors."
-                },
-                {
-                    "title": "Fuzz in Antwerpen is een spannende plek waar smaken en texturen vrolijk mogen botsen ⦿⦿⦿ - De Standaard",
-                    "source": "De Standaard",
-                    "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNak9hMHFfTVFLNWJKeHVqV0ZzZ0FOWXFqWi1BaThyQUs5d0MzVWxKSk9jc285cURnSWpqOWJhUUM2bHp2MmtyRkdRb3ZBSjQ4aWUtUGpaX0Y1eGdQczJocEt0WVZXUERqdS1DMW5GMTJsc2ZlM3J4RTNqWkNBd0Vad2FUazJSNjdmZjRDUTd1R2tmeEdLMXJDZUZack5zaFk1WGtTSWhmWUNWanYyeDVZUGprY3FWcnNWd3k2MUJqUU10N1pzRXFlVklFbThPNkh4WElkeDJoUTFQNEtTWmJIbUF2R1hwcC0zYy02TWtJQzk?oc=5",
-                    "publishedAt": "2026-10-23T23:59:00.000Z",
-                    "language": "nl",
-                    "summary": "# Summary\n\nFuzz is an exciting new restaurant in Antwerp that boldly combines unexpected flavors and textures in creative ways. The restaurant offers a dynamic dining experience where culinary experimentation is encouraged and celebrated. Visitors to Antwerp should consider Fuzz if they're looking for innovative, adventurous cuisine that breaks from traditional cooking conventions."
+                    "summary": "# Summary\n\nThis article highlights 13 new restaurant and food hotspots that have recently opened in Antwerp, Belgium. While specific restaurant names aren't detailed in the snippet provided, the piece serves as a dining guide for visitors and locals looking to discover the city's latest culinary destinations. Visitors to Antwerp should care about this because it helps them find trendy, newly-opened restaurants worth trying rather than sticking to established favorites."
                 }
             ]
         },
@@ -133,28 +125,36 @@
             "places": [],
             "news": [
                 {
+                    "title": "Viagem à mesa: JNcQUOI Asia une Lisboa, Nova Iorque e Tailândia antes de rumar a Taiwan e à Índia - Expresso",
+                    "source": "Expresso",
+                    "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxONElZZGJpUEtRU3VtNW5XalRTX285TGFncGliamV1bmF5SHdoNVdDcHdTU3ExazdnWXdzQkw2bXNOeGlPY0M5QjNUM1RUbmpuQUE0anBFU3VpczRsSnJ2Ukd5WjhNTkVVNFRHcTNpaUVaaFdIXzVjT0xSZXNkRnM2czRCaTk1MktKYWpyejRKQlp3S1dneE1zUWpMNEFjeFFTRm56UndVcVFONXp4a2loaGtRd3BQVk9pa0VrdlhNQlRRdlJDUFlKNm5yUDAwUXM1M3BBcDdvR3Q5cWZDcDNFUHptWV9rM1Y2VmFBZUo1MkxwMThKZ2w2RWppV3FzWnp6YktrNXFJOWZmMnNOdktWdlFSUzJJQktyVnBZNGlGb3NHUDhP?oc=5",
+                    "publishedAt": "2026-10-27T17:47:31.000Z",
+                    "language": "pt",
+                    "summary": "# Summary\n\nJNcQUOI Asia is a new restaurant in Lisbon that blends culinary influences from New York and Thailand, with plans to expand to Taiwan and India. The restaurant offers diners a unique multi-destination food experience without leaving the city. Visitors to Lisbon interested in Asian fusion cuisine and international dining concepts should consider this spot for its innovative approach to combining flavors from multiple culinary traditions."
+                },
+                {
+                    "title": "Em Lisboa, o chef Felipe Neves leva as memórias da cozinha caipira brasileira à alta gastronomia - SAPO",
+                    "source": "SAPO",
+                    "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOMldzYUR0eWtzTG9RcURud054ZTZOZ1NLQmhYdlBEajB2ZlJOWl85RWFTWGNvV1V5c1hJbUNmeDBMUkZfaFJjdzlPNmhidjhEWlJOVVlXaXF5RDAtc2xUVEotTlVsQXpZTnpfVjR5QVJucWpKclI3Mm1NM0hZbGJIMm1TZUppUGp1Z1NmT3pjQkR1dHhaY3NGLXFBbUxQMTJlVXhMQ2pCV2s1dFlIXzFQUnlWZ0Z1RzNCSnYwRjVWQ2RPR2ZXOWVVOV9TdjlCNjJuWHFvSnNZT3NnR2M?oc=5",
+                    "publishedAt": "2026-10-28T08:30:00.000Z",
+                    "language": "pt",
+                    "summary": "# Summary\n\nChef Felipe Neves has opened a fine dining restaurant in Lisbon that elevates traditional Brazilian caipira cuisine to haute cuisine standards. The restaurant offers visitors an upscale take on rustic Brazilian cooking, blending nostalgic flavors with refined culinary techniques. Food enthusiasts visiting Lisbon can experience authentic Brazilian gastronomy presented at a gourmet level, making it a unique dining destination for those seeking a different culinary perspective."
+                },
+                {
+                    "title": "Bacalhau, licores e Fernando Pessoa: esta tasca faz uma viagem à Lisboa de outros tempos - versa - lifestyle",
+                    "source": "versa - lifestyle",
+                    "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNdmhtWlRPbFhmbWhVaHZqck9fazFrSzBUUEJlckRFTWw3WXdDWnBBeTc1aV90WUhaOWJJWlQ1Z201d0dyTHU3dDBnRnU2bHUwVDRLUmlkZEJkd2FQUjg0cklWNFNXdm9sdWVvU1NQSjhVam9PcTg3b0Q4OE9lQUhxbmdCbWliOWhlTFNJTWVEaVlvQi1iUUZkR0I2VS1oeUdLYWtQaWRFajlpSk80RWZLaGJhN056YlNNN3FCNm9lWUlJdFpEUDE5Z2N2TkVBRGhvU2JndmJxYXBQUGdRbzZnTDRlLU1OLXRhUGFzRFh6akg?oc=5",
+                    "publishedAt": "2026-10-27T12:59:49.000Z",
+                    "language": "pt",
+                    "summary": "# Summary\n\nA traditional Lisbon tasca (casual eatery) is recreating the atmosphere of historic Lisbon through authentic bacalhau (cod) dishes, traditional liqueurs, and references to poet Fernando Pessoa. Visitors to Lisbon would appreciate this spot for experiencing the city's nostalgic charm and classic Portuguese cuisine in an authentic, old-world setting."
+                },
+                {
                     "title": "O jornal do Brasil em Portugal - DN Brasil",
                     "source": "DN Brasil",
                     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNM1p2UUVnY2dWbXU1SEwwaFY4S2VEUkhfWkpTM0hYYm9RdjFPek00ZzlXdU9ZRFNwbEJVZmJKV05LRUxqX0JOMkxFY18yTmhiXzVneGpPSXdva2dfZUNyeFhoWG4wQXVVT1g2NnU1TzBQWm1IRXZyUHlTdzdZZ3hPMmpJOUNTWlUxVWFGUDNQWEVHZEpoUmdQdjd4U3NtV1JWMGZnR2d2UTB5RzJuSzNzSkw4NlNTRk90TlE?oc=5",
                     "publishedAt": "2026-10-27T08:27:28.000Z",
                     "language": "pt",
-                    "summary": "I appreciate you sharing this, but I'm unable to provide a summary because the article content wasn't included—only the title and source information were provided. \n\nTo give you a useful 2-3 sentence summary focusing on the restaurant/food spot, what's happening, and why it matters to visitors, I would need the actual article text or snippet content.\n\nCould you share the full article or more details about what it covers?"
-                },
-                {
-                    "title": "Saudades do Brasil ou com vontade lá ir? Este espaço em Lisboa serve Bobó de Camarão e muito mais - versa - lifestyle",
-                    "source": "versa - lifestyle",
-                    "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOTG1PMDdjbmdxcXNydDJfSS12dk1VRDk5c01xLVYzdEo5Vi11UmR5ZlJORE9XTDNrbkFES3Y0d1EtbTJmaHItbFFmR3JOQ3dxVm03Zl9rYThsd2JsajlRZW1jb0NlYlJCdEVQTWwweHBoWnlvX1hHeTRxMnIydmZ1SDJlUHVoNmdDeURPcFBWWVJ4OTZxaHhfRTlaTUowU3RLQXhzakp6TVZ3VGVIaG05MldwN19RTXhXNnBIM0JiYWFMSG1DdWptNTRBbHU5UEVRdklXejU5ZWpLMGRSSVA4UXN1dWNNZUJmUHBPNVVCNXp3Y1Z6VkdqWjZDbkRiR0FjX05GelpxVQ?oc=5",
-                    "publishedAt": "2026-10-26T19:13:16.000Z",
-                    "language": "pt",
-                    "summary": "# Summary\n\nA new Brazilian restaurant has opened in Lisbon offering authentic dishes like Bobó de Camarão (shrimp stew), providing visitors and locals with a taste of Brazilian cuisine without leaving the city. This spot is ideal for anyone craving traditional Brazilian food or seeking to experience Brazilian culture in Lisbon. The restaurant appears to be a go-to destination for those with nostalgia for Brazil or curiosity about the country's culinary offerings."
-                },
-                {
-                    "title": "Congresso europeu de gastronomia traz a Lisboa sabores e tradições de oito origens - Anotícia",
-                    "source": "Anotícia",
-                    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE10TWtIejNScHJqM1lEUU9EZUdEeThZU2Fjc2t6UFFreWU3b3ZlaElzc1pWTUljREkwbzJYRGh3cndIaXdDczdtR2NPTnhtblRPQzF3X2ltWU4xbE5GMnZXLTBqZG5wRU9OUzNscWpJWFJZQQ?oc=5",
-                    "publishedAt": "2026-10-26T20:12:32.000Z",
-                    "language": "pt",
-                    "summary": "# Summary\n\nA European gastronomy congress is taking place in Lisbon, featuring flavors and culinary traditions from eight different origins. While the article doesn't mention a specific restaurant, it highlights Lisbon as the host city for this international food event. Visitors to Lisbon during this congress would have the opportunity to experience diverse European cuisines and culinary traditions all in one location."
+                    "summary": "I don't have access to the actual article content—only the title and source information you've provided. The title \"O jornal do Brasil em Portugal - DN Brasil\" (The Brazil newspaper in Portugal) suggests this is about Brazilian news coverage in Portugal, but there's no specific restaurant or food information visible in what you've shared.\n\nCould you please paste the actual article text or snippet so I can provide the 2-3 sentence summary you're looking for?"
                 },
                 {
                     "title": "Parcel. No novo wine bar de Lisboa há vinhos dos 6€ aos 220€ - NiT New in Town",
@@ -162,15 +162,7 @@
                     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPTjhVZUFGREFXN2hhMFRucjBsOUxILVdvaWdCT3g3WkFucmRsS1Noc1FyMDhMeU9Uejg1czlHeldYd1ZxeVBqVVdNWEt6a3B3T0hoUGlORHF6cE5ZQy1SWWJFeHVsNGFvNHhYLUdmZWpPalYzWkR2UjBhRTY2MVdqc0dVcmhMWXlHQTdKckFXMG8tX2hhT2FnUW9RcmlRUTA2LXZyZg?oc=5",
                     "publishedAt": "2026-10-25T16:58:00.000Z",
                     "language": "pt",
-                    "summary": "# Summary\n\nParcel is a new wine bar that has opened in Lisbon, offering an extensive wine selection ranging from affordable bottles (€6) to premium options (€220). Visitors to Lisbon would appreciate this spot for its diverse wine list that caters to all budgets and preferences, making it an accessible destination whether you're looking for an inexpensive glass or a high-end tasting experience."
-                },
-                {
-                    "title": "Essência do Vinho e Chefs Week juntam grandes nomes da gastronomia em Lisboa - Imagens de Marca",
-                    "source": "Imagens de Marca",
-                    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNLUt3X2Vyd19BZWZtLUVTUzU3Z1dVbEpNc1F4YzcxZGpIX0prTmZBem1KWEVyMVBzcVVzTXRJM0pnNUl5OWNkQllFSW1yalgtV3IyOTRDTlVDTkVzTWdoV0ZaemNpNkVtWGtaQTUtQkJlT0ZjOTNqS0FXdW9qdXlBOWZuTW4xU3NfYkN1OXNKa0N1QXZBS0xsS2Z5c2stdHdva2E4c0YzdWNuQUNmWUVSaWt1c2M?oc=5",
-                    "publishedAt": "2026-10-21T12:00:10.000Z",
-                    "language": "pt",
-                    "summary": "# Summary\n\nEssência do Vinho (Wine Essence) and Chefs Week are joining forces to bring together top chefs and culinary talents in Lisbon. This event combines wine appreciation with high-level gastronomy, featuring renowned chefs and food professionals. Visitors to Lisbon should care because it's an opportunity to experience world-class cuisine and discover innovative dishes from Portugal's best culinary talents in one place."
+                    "summary": "# Summary\n\nParcel is a new wine bar that has opened in Lisbon, offering an extensive wine selection with bottles ranging from €6 to €220. Visitors to Lisbon would appreciate this spot for its accessible price range, making it ideal for both casual wine drinkers and serious collectors looking for premium bottles in one convenient location."
                 }
             ]
         },
@@ -178,67 +170,50 @@
             "places": [],
             "news": [
                 {
-                    "title": "Newcastle designer clothing store issues statement after car smashed through glass and fled scene - Chronicle Live",
+                    "title": "New Christmas bar in Newcastle announces opening date coinciding with dazzling moment for city centre - Chronicle Live",
                     "source": "Chronicle Live",
-                    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOcVB2R1FrVUxGMlRremVYbHVwZ2pQekhmNVZkZExrdjVMNFc5bVVSa2JOelhOalJxZWNIYVE2X3lvNTAwZE5TUFJKSktBZW1sQkpDclh5ejc3d2RkLWxzdmtFdnFVVW5SYTRhcWZxVktvekhoRVZvREVOdFlwVHV4ZkdSYUVrSHJRbDNtVm1qMGpOakR5QlJ6bGNnbkNHZExZU1V6QtIBqgFBVV95cUxNZGZiQUVodXlic0c4NnNHV3IzRTd2cVEzTjRFeGhrR1l3TktVdXk4d3RDanR2N2s0OWRsR29FbmJTOHNZak8yRnlOLWZFT2x0OGpyeDhjdVZHbE81amF3Rk1nRlJUVjJXdnZqam12cll6WUo3YktFaElnVHBra2p0ZGlrdUNpYWJNNWltUzZDRXZYdUxkVU5Dc3ZURXlTRnp6RkxianNJdGZXdw?oc=5",
-                    "publishedAt": "2026-10-27T08:07:00.000Z",
+                    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQNzNnUGpCU3gzRXFIMmdpMXRZSDdPaG1Dem5jVTdWMkhqck83V2Z2WC1xVlRIUG9CWjlmNmxROHNLZmExZWRfaGtqRUdYek1mQ0djVnJyejFHU1hQQk5WNTBIRG9ORnE4ODNGZ2I4a0Q5dS1iTDB6QVltclp2Ml9mbkk5eHBfZEsxWmptWVA0NkNvMXB2QkpEdGZ4Y3dXcFd4T1B4akZR0gGrAUFVX3lxTE12ZG8tUm5mT3pIczM5ZUc4VzcwVTBzbGdfZk5DQXNMeW1HTTNzbXdUbzduVWNwazlobFcyZG5sYXJFVXp3cFlaYU9NbVhpN2xNRzBWLWV5dXlpa0dSdWNsOWJ2TDBVODV1UFMtaVJOQzFnVm9jVS05czNkTjdFNEpPaG1fQ0VFSUxZN005b21pNDBQMXdlTlAtbUh4b0pXTjV6RlNiWEt1T0gzbw?oc=5",
+                    "publishedAt": "2026-10-27T17:27:00.000Z",
                     "language": "en",
-                    "summary": "I appreciate you sharing this, but I should point out that this article is actually about a designer clothing store that experienced a hit-and-run incident—it's not a restaurant or food news article. Since you asked me to summarize food/restaurant news, this doesn't match that category. If you have a restaurant or food-related article you'd like summarized instead, I'd be happy to help!"
+                    "summary": "# Summary\n\nA new Christmas-themed bar is opening in Newcastle city centre and has announced its launch date to coincide with a major festive celebration event in the city. While the snippet doesn't specify the bar's name or exact details, visitors to Newcastle should care because it offers a new seasonal destination to enjoy holiday drinks and atmosphere during the Christmas season. The timing suggests it's designed to capitalize on the city's festive programming and peak holiday visitor traffic."
                 },
                 {
-                    "title": "New Italian restaurant to open in North East village today - The Northern Echo",
-                    "source": "The Northern Echo",
-                    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQTU5ubUk1YURSRjVKTmxpZm00LW5tRC1RVDluSXczRkZxRHRmQzdhWkdwZXhOa2p0VG1oZmx1Ty1vXzVRYTc1NU1XYjh3TmhSLUZwVzZmakJIS1RDZk1kZFJtcFQ4TkNJYTdfanVwaTEzanFKd1FYZnpFYWJDRFVnQUZiNW1zZ3VaVmI2RnhVY2w1cmQzTjdiOUZzazdFNkI0MzF3Sw?oc=5",
-                    "publishedAt": "2026-10-25T12:29:41.000Z",
+                    "title": "Replay: 15:01 Newcastle - 27 Oct 2026 - At The Races",
+                    "source": "At The Races",
+                    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBPaE1xLWIyZjVUbHlWVGFRLWJackpIdmRMb0YwRkhTWnFFa3pqeGZkdTFYclozZWVBV0MzTGJYczhNVDM1ZkMweTJnTFVzR2FzZUVLZUVzTEpTRk9UREJUSjRhdjlXS2FkWERsS3RJbVFtaHM?oc=5",
+                    "publishedAt": "2026-10-27T15:02:06.000Z",
                     "language": "en",
-                    "summary": "I'd be happy to help summarize that article, but I don't have access to the full text content—only the title and source information you provided. To give you an accurate 2-3 sentence summary with specific details about the restaurant, menu offerings, or why it matters to visitors, I'd need you to share the article's body text. Could you paste the full article content?"
+                    "summary": "I appreciate you sharing this, but this doesn't appear to be a restaurant or food news article. The headline references a horse racing event (\"15:01 Newcastle - 27 Oct 2026\") from \"At The Races,\" which is a horse racing broadcast service, not food-related content.\n\nIf you have an actual restaurant or food article you'd like summarized, I'd be happy to help!"
                 },
                 {
-                    "title": "Dan-O's lands $25M investment to expand product lineup - The Business Journals",
-                    "source": "The Business Journals",
-                    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPeS1uM1JINVNDcURWZ3ViR05SRGRlN1JzYTUzQVRYNWQ3WXJXS0RLeEJieTB6NDIwOUhzcm5JdTZvRFhtejFaYWZBd2VaRGh4Z25LNXV3aVFIRkw3Ti01V0c5ZkNXSmxMS3N0OGtHVzhKd2RQdnR4NV9SUmNKMG5NQTZXbXhVVmtSd094MjBrdEgwUjFHWjR3?oc=5",
-                    "publishedAt": "2026-10-26T16:57:00.000Z",
-                    "language": "en",
-                    "summary": "# Summary\n\nDan-O's, a seasoning brand, has secured a $25 million investment to expand its product lineup. This funding will enable the company to develop new offerings beyond its current seasoning products. Visitors to the area would care about this news if they're interested in trying new Dan-O's products at local restaurants or retailers, or if they're curious about growing local food brands."
-                },
-                {
-                    "title": "Old fashioned sweet shop to open in Newcastle in 2027 as plans confirmed - Chronicle Live",
-                    "source": "Chronicle Live",
-                    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQOWhubEZHU01TdjhUUmVJblVFRWpMNDNkY0VpT1pYM2NGdFgyclNCbDlXSERSRnNVakFWbHlSaWttLU54SHZoWGRmU00xTmRVRzdibUVuNGhOdHBlZDlaMlptRWVvbGQ2dTVYVVFNX3VSX1lBUkxIZDF3Y0I5Vk1HU1BrSHFXdXBESUF6MjA0bUQ4ZGoycmRvdnVxQdIBoAFBVV95cUxQaktJeXBIYzhoN2l5Z2Jwa3J2VElSbmhoVnNyaTNuMmdCUEdCLXJJbE1wbldPUmRNRkxFUDdHemc1THpHVHBWdHZwN0xwdXpsWk1GTWw2TGlMNHM4bVFIWFcxTDk4a2QtLVhnVjBSS0FhX193TTZmLU9Fdjk4VE5fcUcwV3Vvd1pUMmN3cUs5Q1JFdFZETC12a0Q0UnN3c0t5?oc=5",
-                    "publishedAt": "2026-10-26T13:20:00.000Z",
-                    "language": "en",
-                    "summary": "# Summary\n\nA vintage-style sweet shop is set to open in Newcastle in 2027, offering visitors and locals a nostalgic confectionery experience. While the article doesn't specify the shop's exact name or location in the snippet provided, this new addition would appeal to tourists and residents seeking unique, old-fashioned treats and a throwback shopping experience. Newcastle visitors looking for distinctive local attractions and gift shopping options would find this a worthwhile stop once it opens."
-                },
-                {
-                    "title": "Meet the Hunter teen with huge dreams to make the 2028 Olympics - Newcastle Herald",
+                    "title": "Good Food Guide NSW and ACT: full list of award winners and every hatted restaurant - Newcastle Herald",
                     "source": "Newcastle Herald",
-                    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQVVVXR1Q4cS1tNWNzRUdnQ2NYbnpldE1wblA5VWEwMUNzMVY3OGRWNG03TE5BdTVfYU8ybl9YY1lxSHFRazdVN1BFYktjU3pDZnQwaU92c3diVTZkWVl0SDRJYmFiMmdmNllHZk9pUDdIT0Z4ZWpmUDBnME1nUzhWdHNrc1VUTkY0NVUtUUw0djY4Z2pZR3k5N18zV3l1bll2M3NYWE1hOA?oc=5",
-                    "publishedAt": "2026-10-27T00:41:20.000Z",
+                    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNNEhDaC0xUnpwZ0pvTWk0T1pEYllFNTVFaUx6eTFOZjhPTnp3TmNzWWNzajkwdTdsZUh0dVRNVWJwYThIdVpXeHF0TXQ4RkM5WWlYenV4QzdONUJkaXJpaUhvM2tKQkpkTmppbHRYUDRFOVhzVEFNSDNyU3NKRklQMTBkSjFTY0p4M05rel9QUkgwcXREaDBaajFXTGdrZzdsVFI3ZXpjVVF4ZGFwYjdHVGNvOA?oc=5",
+                    "publishedAt": "2026-10-28T00:00:57.000Z",
                     "language": "en",
-                    "summary": "I appreciate you sharing this, but the article you've provided is actually about an Olympic athlete from Hunter, not a restaurant or food news story. The title and snippet don't contain any information about a restaurant, food spot, or dining establishment that would be relevant to visitors.\n\nCould you please share the correct food/restaurant article you'd like me to summarize? I'm ready to help once you provide the right link or content."
+                    "summary": "# Summary\n\nThe Good Food Guide NSW and ACT released its annual awards, recognizing top-rated restaurants across New South Wales and the Australian Capital Territory. The article provides a comprehensive list of award winners and all restaurants that received hats (the guide's rating system). Visitors to these regions can use this guide to discover highly-acclaimed dining options, from casual spots to fine dining establishments."
+                },
+                {
+                    "title": "Opening date confirmed for Hickory's Smokehouse in Newcastle as pub transformed - Chronicle Live",
+                    "source": "Chronicle Live",
+                    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNZkdwUWZxZGxPRm0wTGxzZDR2bnp6R2FtdjVMeGw1akpLdmRQZHU0VldvX0drSWFkbFViNXIxX1hmQWtTOFY5QTRhSXIxbHQwMkowWGltS3JXYVJ2VnMzVzk5WG03NndxWEpfbElPeHJ5MHRVVlpOY1pUbkxXbTdPUFBQSzlwMzRxcjFOckYwbExkV1FxZUlNQWFXdVI1RHY1Z0dBVl9xaWFjdVRWMU5F0gG0AUFVX3lxTFBrbUJsOEs5SVc0ZXMwOXV3MG1hZ1kwMzlCRUxNM0xUckdDblFWVFIyd0I2QUhfZTF5VzJ3ZzZnZVVMa284bVc5RWlfR2hzakZFS19OR2piTjhMZlIzbFhHblZpbTN5WkZzajlvRTd2dlVHYkM2SEFoUmRTUDVoT1pwYWFoYkNlV0xmNDdKN3BRZGRqNklRc18ycVdiS01BWWNQVTN2OE5nb0t1enE5UTBaT2s3OA?oc=5",
+                    "publishedAt": "2026-10-27T12:37:00.000Z",
+                    "language": "en",
+                    "summary": "# Summary\n\nHickory's Smokehouse, a BBQ and smokehouse restaurant, has confirmed its opening date in Newcastle after transforming a former pub location. Visitors to Newcastle will want to know about this because it's bringing a new dining option specializing in smoked meats to the city's restaurant scene."
+                },
+                {
+                    "title": "First look: a 'modern tavern' is opening on Newcastle's King Street - Newcastle Herald",
+                    "source": "Newcastle Herald",
+                    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZmhtbDI0VGZGSmdtcWVCUXdHWEVSSUtQLVA5OGFUdkQ0OUdxdVItdkQ5dy1lSmp6ZFJCSzVyaDk0V1ZFVkM4cDV1SmVnb19JZzF5M0hLMHYzaU9IRXY3blFxN3Z4Y2U5eHNCV0xoNTh6bTJFR0hMQWh6cXozSHRFZk5ZeVZpSGN3Qmp1MXU1MHZoUUcxY2g1WWRXbG1oQWZDWjYxbHdfTkRkN0lDbm04UFlfRQ?oc=5",
+                    "publishedAt": "2026-10-28T01:32:07.000Z",
+                    "language": "en",
+                    "summary": "I don't have access to the full article content beyond the title and snippet provided. Based on what's available, a new \"modern tavern\" is opening on King Street in Newcastle, but I can't provide specific details about the restaurant's name, cuisine, opening date, or what makes it noteworthy without reading the complete article.\n\nTo give you the practical summary you're looking for, could you share the full article text? That way I can tell you exactly why visitors to Newcastle should care about this new venue."
                 }
             ]
         },
         "tallinn": {
             "places": [],
-            "news": [
-                {
-                    "title": "Your Tallinn hit list: the top 5 events this week - Estonian World",
-                    "source": "Estonian World",
-                    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQRGN4ckhPb3pRYUhTY3FTT01udDF6R2VxT0VVbDdESEdjR1YxdDM2bnVyVHQ4X1kzc2l2US1TVTNTZHJTZzJPdTFreVljZk9GTlFqYnd0UEpYZGowWmlBWWN6OWtMSzY5Z1g3bFllS2E0U3NpQWZzLXV0OWIwRXlYWG1BQ3l1SFJlYWtZMGt3VQ?oc=5",
-                    "publishedAt": "2026-10-26T16:57:39.000Z",
-                    "language": "en",
-                    "summary": "I don't have access to the full article content to provide an accurate summary. You've shared the title and source, but not the actual article text describing the 5 events in Tallinn.\n\nCould you please share the article content or more details about what events and restaurants are covered? That way I can give you the 2-3 sentence summary you're looking for, focusing on the specific food spots and why visitors should care."
-                },
-                {
-                    "title": "Your Tallinn hit list: the top 5 events this week - Estonian World",
-                    "source": "Estonian World",
-                    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOd18zaWxXc05nZkhaRDI5SWZRMWJZNkdFc3BUYTRkOFJjX0xHMGhQRHhNYk10by1VdU1FZ1ZSeWZhNHVKQXJWTzE3TGZHWEhtUVQzUFFxSHRpV3hReUpfTHlZTXpNM3FoR25OWmxvT1NEN0JPSUItR3BieXZRby1KZ2pkNE4xcmY1TGZ0VUxHbw?oc=5",
-                    "publishedAt": "2026-10-20T13:59:18.000Z",
-                    "language": "en",
-                    "summary": "I appreciate your request, but I don't see the full article content to summarize—only the title and source information. To provide an accurate summary focusing on the restaurant/food news, specific establishments mentioned, and visitor relevance, I would need the complete article text or snippet content. Could you share the full article or more details about the events mentioned?"
-                }
-            ]
+            "news": []
         }
     }
 }
