@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2026-11-05T13:39:35.456Z",
+    "lastUpdated": "2026-11-06T13:23:08.555Z",
     "source": "github-actions",
     "cities": {
         "cologne": {
@@ -11,7 +11,7 @@
                     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNS1p6QzNrcXVvYVRqMzBnMEFIWllwVS1RQmNWczQ3ZS1WM0VwWXdSeWM3MVU4T25wRFJnTF8xeVlxc2FlTjhqcHd1TUVRcFcwRGhUWGV1Rldmc2YwSE5Eb1k5M0szZ1VhNklfM2Nobk1yZldWRzZreDgtSmE5dlBEcm1TcWRuLXBTZk1CbUNpNmJoZw?oc=5",
                     "publishedAt": "2026-11-01T12:07:00.000Z",
                     "language": "de",
-                    "summary": "I appreciate you sharing this, but I'm unable to provide a meaningful summary because the snippet provided is extremely limited. The title translates to \"Put away your phone in the restaurant - pilot project in Sardinia,\" but the actual article content isn't included—only the headline and source information.\n\nTo give you a useful 2-3 sentence summary focusing on the specific restaurant, why visitors should care, and the details of this pilot program, I would need the full article text. Could you share the complete article content?"
+                    "summary": "# Summary\n\nA restaurant in Sardinia is running a pilot program where diners must leave their phones at the entrance during their meal. This initiative appeals to visitors seeking a genuine dining experience free from phone distractions, offering a unique way to enjoy food and conversation without digital interruptions."
                 }
             ]
         },
@@ -19,12 +19,28 @@
             "places": [],
             "news": [
                 {
-                    "title": "Dit zijn de beste restaurants van Noord-Holland volgens Lekker500 2027 - Lekker500",
-                    "source": "Lekker500",
-                    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPU2ExRUxPam8xdC0xRmh6Rm01Sng5TXZZVm1hdHllZmNyNU5FZnVqTGJURHBPak1kcF9weHJWMjkyQk84bW1COVp6aU1ESnZwUVZGbUc5S2g2TTVJR3BKNlJqWHRpMG5EN0Z6SlBrX29mVlhxSGppMVB5RzV2WlBxQ0lBaXhNY0pqT0JTdW4zdTFoRDRpdWdsVWtwZw?oc=5",
-                    "publishedAt": "2026-11-05T12:32:34.000Z",
+                    "title": "Ron Blaauw sluit restaurant in Zuid: \"Horeca is niet meer wat het was\" - NH Nieuws",
+                    "source": "NH Nieuws",
+                    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNd2N2WVc0d2xCaXJTNG1ITFJMdmMyNnhlNlBxV1JiVmtZek8wbUtuN2hGd2MtMURBV3FyZkNnc0ZjNWEwS25sNzBzb3dzeHhzSktEdE9ZSFB5UFpzV0RlajhHOVRzak40NmtWY3Q1Y2VlOWZQSDFMQTRCcWFRdVFDcXoxcG5iZXc?oc=5",
+                    "publishedAt": "2026-11-06T10:03:38.000Z",
                     "language": "nl",
-                    "summary": "# Summary\n\nI'd be happy to summarize this article, but the snippet provided only contains the title and source information without the actual article content. To give you a useful 2-3 sentence summary focusing on the specific restaurants mentioned, why someone should care, and practical details, I would need the full article text.\n\nCould you please share the complete article content or a longer excerpt?"
+                    "summary": "# Summary\n\nI appreciate you sharing this article, but I'm unable to provide an accurate summary because only the title and source information were provided—the actual article content (beyond the headline) wasn't included. \n\nTo summarize the piece properly, I would need the full article text. Based on the headline alone, I can see it's about **Ron Blaauw closing a restaurant in Amsterdam's Zuid district** and includes a quote suggesting the hospitality industry has changed, but I cannot provide specific details about why this matters to visitors without reading the complete article.\n\nWould you be able to share the full article text?"
+                },
+                {
+                    "title": "Ron Blaauw stopt met sterrestaurant Ron Gastrobar*: 'Uit eten gaan is compleet veranderd' - Misset Horeca",
+                    "source": "Misset Horeca",
+                    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQRjA2YktYYTZaYW9qY0ltQjRTN1lCVkNrRVFNdU5XblhCVGY4ZDJlUjBPeU9UX1Q4NEM0N1phV2h2LUJxWEFsXzZyaE9EdDNZVllXcll2UTh5V09tRFVwTExUQkpobmk4Y2wzc0xoaXI2cmt0Tnk1cXJkQjlIQnU0a1dHZDBQSldsTnYtbUVlcXNFYk9TcHh1ZGtCWnRJWExDQVVtMlBYQ3NtWFhFdDZjUHdEV0pCQnhxOFNucA?oc=5",
+                    "publishedAt": "2026-11-06T10:01:49.000Z",
+                    "language": "nl",
+                    "summary": "# Summary\n\nRenowned chef Ron Blaauw is closing his Michelin-starred restaurant Ron Gastrobar in the Netherlands, citing significant changes in dining culture as the reason. Visitors to the city who were planning to experience fine dining at this starred establishment will need to find alternative options, as the restaurant will no longer be operating."
+                },
+                {
+                    "title": "Sterrenrestaurant Ron Gastrobar sluit in februari 2027 definitief de deuren - De RestaurantKrant",
+                    "source": "De RestaurantKrant",
+                    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNZU5mR2xiNE85clV3OEhuOTV5X0dqbVBtT3h0UzdRUkpZbS0yRDhxeGtOdFQ2SXJxamVTZGJGNXJZdTJ0cHpJbEkyUG5UUW0zbnJuZlZTN0lkamhZQlVxc1JUdU9sUGdCbkVqUUxaX3lYVlozUlg1dHR5ZjhDQUNVWGt1ZDhCdkNyMG13eW50S0VTRnBFVmNBVXhvTlZhcUl4TVh6UW02Nmo4LW1B?oc=5",
+                    "publishedAt": "2026-11-06T09:04:28.000Z",
+                    "language": "nl",
+                    "summary": "# Summary\n\nRon Gastrobar, a Michelin-starred restaurant, will permanently close its doors in February 2027. This is significant for food enthusiasts visiting the city, as it marks the end of fine dining at this acclaimed establishment, giving diners limited time to experience it before it shuts down."
                 },
                 {
                     "title": "Restaurants in Amsterdam: dit zijn de beste hotspots & tips - Foodies Magazine",
@@ -32,31 +48,15 @@
                     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5FZ1U0ZFFDYmVfVHF6b1JNU01Ya09fUlo2R2RvOEx3R0dQZ2pueGw2Zzc5NkpzU2NuVXBkQkFwNEJlRzY5bGlFeGZJdWZDVkwwb3k5Q1NBRUgyb0RmbFR4VWpRMl9ZbjhRckt6SXpkZ1BYU3N1MjkwYw?oc=5",
                     "publishedAt": "2026-11-02T08:00:00.000Z",
                     "language": "nl",
-                    "summary": "I appreciate your request, but I'm unable to provide a summary because the article content itself wasn't included—only the title and source information were provided. The title suggests it's a guide to Amsterdam's best restaurants and food hotspots from Foodies Magazine, but without the actual article text, I can't summarize the specific restaurants mentioned or key details visitors should know.\n\nIf you could share the full article text, I'd be happy to create a concise 2-3 sentence summary highlighting the main dining recommendations and why they'd matter to visitors."
+                    "summary": "I don't have access to the full article content from this snippet, only the title and source information. \n\nTo provide you with an accurate 2-3 sentence summary, I would need the actual article text. However, based on the title alone, I can tell you this appears to be a **guide to the best restaurants and food hotspots in Amsterdam** from Foodies Magazine—useful for visitors looking for dining recommendations in the city.\n\nCould you share the full article text so I can give you the specific details about which restaurants are featured and why they're worth visiting?"
                 },
                 {
-                    "title": "Indiase restaurants Kailash Parbat in Centrum en Anjappar in Zuid dicht wegens mogelijke arbeidsuitbuiting en mensensmokkel - Het Parool",
+                    "title": "From a secret restaurant to a crew of pizza makers: food hall Kade Noord brings Amsterdam ‘creative cowboys’ together under one roof - Het Parool",
                     "source": "Het Parool",
-                    "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQZzM3R1hCVEdpa0h1bW53azRqRWM2RWxmX2ZoazNHMXBjMGY0eWVkWEdSUm9hQlY2VnZEdVlFOTBwazNqWFFjWXNJREwxanJfcWhXMkE0RlR0OEF3Uno2bzQ2UjNYcm1TMzRUZkxyaUVraWtGSExKNnNHMXMwdl8tWFdkNXBmYU1hemxjVkMwdENhS2NpNHpQelhGOHFkM0p2ZzFOR29LejlHaXpMVE9PLXVaRVhmbFlLd21QdWJicllqUnZDODlTNnIxUXkzcXp2U25KYUh6MlZocWR0VkM3eW51OTRCWkN0U3hFZjN5RGNiVEhIdlZacw?oc=5",
-                    "publishedAt": "2026-11-03T12:45:00.000Z",
+                    "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPSGtzcDZpOTR6ZExkdnZBX1FfbWs1SlVxYzlvUER3RzFKZnlNc0d4NXZkLUxwb2QzaVZmNG9YSkFybWw4X3hTT3g0WUNPUTlZUUFkY0VsWWowS3AyMWhwcVVmRVBqSGZyZGNqMlR1SmN6YUd5elJZLW1OeUdEbjVpQnl0dFRpTTZKZEhDSUtzSXY3ZnpCaGdNSVl2NHZhczdwUEVmXzNKb3BocE5iUmJxYzJpY2E2ODRXaHFlTFhWcXhPTUp1SkFYbDJFX0VUbE5iUlg0M254YzBFOWI5emZUV25vdWRhU0wxNlUzbnJFU1FqdUFvZlRpUDlkRmc?oc=5",
+                    "publishedAt": "2026-11-05T18:00:09.000Z",
                     "language": "nl",
-                    "summary": "# Summary\n\nTwo Indian restaurants in Amsterdam—Kailash Parbat (in Centrum) and Anjappar (in Zuid)—have been closed due to an investigation into suspected labor exploitation and human trafficking. Visitors to Amsterdam should be aware that these popular dining spots are currently shut down, and the closures highlight serious concerns about working conditions in some local restaurants. This news matters for tourists and locals planning meals, as it affects where they can eat and reflects on the city's restaurant safety standards."
-                },
-                {
-                    "title": "Ook Amsterdam sluit restaurants in onderzoek naar arbeidsuitbuiting - RTV Utrecht",
-                    "source": "RTV Utrecht",
-                    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOZVZYcURuTGtsWjRETllFdTZDYzRva29qc1JqcTFYT1JYRzVxdGtHYThiamdhMndXUXFiNVp3WUU3U0xzSXdTR3V3OVNadC1mSUhzaU1XUTQzaE9uWXVjOW81dVZBTlBXVF81WFppajY2QV9GVHFwRTYxUl83eUt1b3RsNkR5bHJTVXBvT3p0NzNjTDB5TFFfdm1Rdzh5NWR2bDE2VGxGcmxhM09r?oc=5",
-                    "publishedAt": "2026-11-04T07:33:45.000Z",
-                    "language": "nl",
-                    "summary": "# Summary\n\nI appreciate your request, but I'm unable to provide a complete summary because only the title and snippet were provided, without the full article text. \n\nFrom what's available, I can tell you that:\n- **What**: Amsterdam has closed restaurants as part of an investigation into labor exploitation\n- **Why it matters for visitors**: This indicates authorities are cracking down on restaurants with poor labor practices, which could reflect on workplace standards and ethical operations in the city's food scene\n\nTo give you a proper 2-3 sentence summary with specific restaurant names and details, I would need access to the full article content."
-                },
-                {
-                    "title": "Restaurants in Amsterdam gesloten om arbeidsuitbuiting - NH Nieuws",
-                    "source": "NH Nieuws",
-                    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQTDdINGVvWmtCT3FQWWFyNlZGMFdSNFBCVXgyTFZ2Ymc1amFQREpaV0pjdTFLUUVxdDdJWkJ3Z1hCd19sS1F3UURwVDBsUHNvWDNvaWhZNGVsSGJZTGVBeVhiaU9NdVZKUG4teFhmZURLYUdpd1FaLXhhZjkya2pWaEVMNGxpMlMyb2tjRjkxU0hpSERCVENr?oc=5",
-                    "publishedAt": "2026-11-03T04:50:00.000Z",
-                    "language": "nl",
-                    "summary": "I don't have access to the full article content, only the title and snippet you've provided. Based on what's available, here's what I can tell you:\n\nSeveral restaurants in Amsterdam have been closed due to labor exploitation issues, according to NH Nieuws. While the snippet doesn't specify which restaurants were affected, this news would matter to visitors because it highlights food safety and ethical concerns about working conditions in the city's dining establishments. If you're planning to eat out in Amsterdam, this serves as a reminder to research restaurants' labor practices and working conditions.\n\nTo give you a more detailed and accurate summary, I'd need access to the full article content."
+                    "summary": "# Summary\n\nKade Noord, a new food hall in Amsterdam, has opened as a gathering space for the city's creative food entrepreneurs, including operators of a former secret restaurant and artisanal pizza makers. The venue brings together independent food creators under one roof, offering visitors access to multiple unique dining concepts in a single location. For visitors to Amsterdam, this food hall represents an exciting opportunity to discover innovative, independent food businesses that reflect the city's creative food scene."
                 }
             ]
         },
@@ -64,12 +64,12 @@
             "places": [],
             "news": [
                 {
-                    "title": "Deze laagdrempelige nieuwkomer is een voltreffer: “Eindelijk nog eens een restaurant aan de Marnixplaats waar het om eten draait” - GVA",
-                    "source": "GVA",
-                    "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxObFhvSHo1bHQ2LWJveHpJc2ppbVNMb3VDU2paamtFeXcyMHdPaUR1djBFUFVPU1BGQmdTbEhSNUlPdzRKMFlwZHJWNzVaeFVudFV6dENxb2J4XzA4VUd0MTFoUG43alFyNmFHZHBDWTlQVXZUM3h5TnBVRFQ5bVZPd0prblJFZlRwWkh5WUVhOS1zZmpBaTdOTkJobTU1V2Q0Q1lWYXhxUnlhTVRQQnlEQnhEaGthbU50Q0UySnZSZXR0WTNMUEg1WWw1b2wwbWQxdUh0Y19mZkNiVG1wSUgxeVlUM0E5d3owc2x2bWpITmdidXJpMzIwWWZiNlQyOWppM0MxdW1zUnllWlNXWlhTUWZuMzQ?oc=5",
-                    "publishedAt": "2026-11-05T08:38:18.000Z",
+                    "title": "Wat te doen dit weekend in en rond Antwerpen? Van eerste winterbar tot literatuurfestival - HLN",
+                    "source": "HLN",
+                    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNZlctWE1VNW5BMVJwNnUwTC1vWTQ5RDNRQWFJWk81Rmh2cFUzRlg4RFd4N1doLUs0TGMwYkxudkdPcGZJY2hwcUtGek5zX1JBRTlQeU5PQW1TUE8yd3FWd1lqVkpwOFJ6UWZvaTd1S05mZm4tTGRNQ1hVbGNGVVQzWXBKYzNuVExsV2VsY242RVhIRV84YVpfOVNnREhEQVpFREJ6SjdmRk1MaDc2RFNyWEZGZHNFRGNqazEwUWF1RVQ0VWpiYXc?oc=5",
+                    "publishedAt": "2026-11-06T10:15:40.000Z",
                     "language": "nl",
-                    "summary": "# Summary\n\nA new casual restaurant has opened at Marnixplaats that's drawing praise for focusing on quality food rather than just being a trendy hangout spot. This addition is notable because the square has been lacking a genuinely food-focused dining option. Visitors to the city should care because it offers an approachable, unpretentious alternative for eating well in a central location."
+                    "summary": "I appreciate you sharing this article, but I'm unable to provide a detailed summary because the snippet provided is incomplete—it only contains the headline and source information, not the actual article content. \n\nTo give you the practical, food-focused summary you're looking for, I would need the full article text. If you can share the complete article or additional details about which restaurants or food venues are featured, I'd be happy to summarize it focusing on what visitors to Antwerp should know about the dining scene this weekend."
                 },
                 {
                     "title": "De 13 beste brasserieën en bistro’s in Antwerpen volgens onze recensent - Weekend Knack",
@@ -77,31 +77,31 @@
                     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOUjdiWVBwNkE1dm5pMkRka0RjR1d5c0VXUlp0M0VEb01waEZ5YVNIemotVmE2WDNXY1laR29hbnNwNjFNdTg1YnBzTFAzbW5xU0dOTkZ3WnJFdEdqTE5LQVRiaEY1a21xZ3pMOWQ0b3ktTGhVcHlxdWt6TjNqdHRvUHpkM2s?oc=5",
                     "publishedAt": "2026-11-05T09:00:00.000Z",
                     "language": "nl",
-                    "summary": "# Summary\n\nWeekend Knack has published a guide to the 13 best brasseries and bistros in Antwerp according to their food critic. While the article doesn't specify individual restaurant names in the snippet provided, this curated list would be valuable for visitors looking for reliable dining recommendations in the city. Someone traveling to Antwerp would care about this because it offers a vetted selection of classic French-style dining options from a trusted local source."
+                    "summary": "# Summary\n\nWeekend Knack has compiled a list of the 13 best brasseries and bistros in Antwerp according to their food critic. Visitors to Antwerp would find this guide valuable for discovering top-rated casual dining spots that offer authentic Belgian and French-inspired cuisine. The curated selection provides reliable recommendations for both tourists and locals looking for quality restaurant options in the city."
                 },
                 {
-                    "title": "5 x op restaurant voor minder dan 50 euro: onze recensenten proefden in deze Antwerpse restaurants - GVA",
-                    "source": "GVA",
-                    "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNamFDUnV3SEdZSS15UzE1Q010b0ZueTN5dThhRUF6THZXWWt2bnNDYjVJR0xpSlRsZ2dRRHR0U2l6VG5pcE1Za0hYMUlldVpEcEppNGxfRTNrSjJKOHRFNWNlQ1pNMzdUZkZVbTdCSnZkWTloek5obUQ4c2x2YjY2b19vTHhHNm1reC1wTFhPTVhIMFRXM3VNa3Ywc1hLVVNtT0JEV0EwV2MwdjFMMVpWZnVEUHg2WEg1RXFhZzEyTzJCSkxVZDVCZ2ltZkVxdjF2VldLYVdzNjAwQ1NmSGdROE1GRk9XVzlKU1hDRG11S1BMRGFrNlhaRTk4QmQ3RS1MWExz?oc=5",
-                    "publishedAt": "2026-11-05T09:00:00.000Z",
+                    "title": "Moose Bar 2024: locaties, data en openingsdata - Belg.be",
+                    "source": "Belg.be",
+                    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE42S0lPT3REWWVhQWpkc2dGZmhmeFNRSUdOR3poR3FNMmpTRVZydVUxOEEwQTlxTFFSYnBtQngyNmxFN0NZcjI3QXpETmRPRlEwTkFXdV9xaEdIOS1pdlFDR1lQN0U5S2JOZ3pzZmVnUzRFMzBfQ1Q5aEllV1NXX3c?oc=5",
+                    "publishedAt": "2026-11-05T20:09:57.000Z",
                     "language": "nl",
-                    "summary": "# Summary\n\nThis article highlights five Antwerp restaurants where diners can enjoy a meal for under €50 per person, based on reviews by the publication's critics. While specific restaurant names aren't provided in the snippet, this guide would be valuable for visitors to Antwerp looking for quality dining options that won't break the budget. It's a practical resource for finding well-reviewed, affordable restaurants in the city."
+                    "summary": "I appreciate you sharing this, but I'm unable to provide a meaningful summary because the snippet provided is extremely minimal—it only contains the title and source information without the actual article content. \n\nTo give you the 2-3 sentence summary you're looking for (focusing on what the news is about, which restaurant is mentioned, and why visitors would care), I would need access to the full article text. Could you provide the complete article content?"
                 },
                 {
-                    "title": "Op restaurant gaan lukt niet altijd meer, dus kwam sterrenchef Anthony Stoop naar WZC Wommelgheem - HLN",
-                    "source": "HLN",
-                    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPcG13NmZTMFhFdkp4aVRUNHNyRWJGenNTTWx2T0ctMEhmWF9OU0xDbi1TazhXNVJud1EwQ3kwenAwNGtpSHpBaGNaYnkwQkgzaThUQzlDNUdwODhKSExXaEM1Q2xrNWxLcXVOUk91YXVzUWU2RzV6aFVwTlVPcmJNTFlvQTVPSHg4Xzg2dlZKXzlZamtMb1JNS254RENiMU1IVnJsQUY2eXJKREg1ZXluSnAtY2ltQl94eUtoUWNhNXF1dXVOQWduamFIb1BkQkF2?oc=5",
-                    "publishedAt": "2026-11-04T15:47:52.000Z",
+                    "title": "Naar het favoriete restaurant van Isabelle Van Hecke: “Als ik met iemand in ’t Stad afspreek, denk ik vaak aan deze plek” - Nieuwsblad",
+                    "source": "Nieuwsblad",
+                    "url": "https://news.google.com/rss/articles/CBMipgJBVV95cUxOZEpSOG1Vd09lT09Eb1ZidWtZX25QbmlPSW1pVlAxUlpBNGRFQ1JncHNUSVFKbVZWUVdfWTkzVThYQzVTQkM5a1RfS2hkVnl4YWh1MGkzRGUxQ0xNSjY4Qy1TWWQxM3BFQTY3WkhnOG5xeFlkbmhLVTk1dWxuMDlxV3JSSmh1anlKOXd2SGZaMDZFX0lCc2c5R21GUDdiVldOMVNRbVZKS2lvUXozbEk1dVJZa0Roc2Z5cHVYcm1OVEFhUjY4SHdSM2Z6QXlnd0thVmF5b3FHRmczZHhzYWxBN3dmYi1YdUVkclV3enEyaDFZbkJGcjlXV1dwQkpsUF9WcnNPaWVmZGlVRTNoRkZhVDFvd2RlTHhKWWlVbmNFVVl4emt1WWc?oc=5",
+                    "publishedAt": "2026-11-06T04:02:39.000Z",
                     "language": "nl",
-                    "summary": "# Summary\n\nMichelin-starred chef Anthony Stoop brought his culinary expertise to WZC Wommelgheem (a senior care facility) to serve fine dining to residents who can no longer easily visit restaurants. This initiative makes gourmet dining accessible to elderly or mobility-limited visitors in the Antwerp area. For travelers, it highlights how innovative chefs are democratizing fine dining experiences beyond traditional restaurant settings."
+                    "summary": "# Summary\n\nThis article features Isabelle Van Hecke's favorite restaurant in 't Stad, which she frequently chooses as a meeting spot with friends and colleagues. While the specific restaurant name isn't provided in the snippet, it's a local establishment that Van Hecke recommends highly enough to make it her go-to choice for social gatherings. Visitors to 't Stad looking for a trusted, well-regarded dining spot should take note of this insider recommendation."
                 },
                 {
-                    "title": "Eventlocatie Ma’dam strijkt neer aan Park Spoor Noord - GVA",
-                    "source": "GVA",
-                    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNTFhweUpqSGM3enlrVE1DWEpHQ1U4U1kzT19XWFZKc2lydzAzWGpuVHN2amw1RWw0N2RMbFNyUFZ0U0pLaHB3QTJYa0FpRUdfRTdtNkpQb29udmREc3BKQllQR3RYMFpxaEMwVVA3UEJaQm1hekxsSkE4NVI3S1NwVldBOXlCd0N1cUxQS1M5MHA1QzRMVFJ6eUFJQXY3MGVfak12SjFZQ192NFR6YmpyMHM1ZUFiYUVjWXp2LXdKelJuY3pMcmt3?oc=5",
-                    "publishedAt": "2026-11-02T16:45:00.000Z",
+                    "title": "Feestfenomeen Moose Bar klaar voor nieuw winterseizoen - AFAS Dome",
+                    "source": "AFAS Dome",
+                    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQdERKTDU1NVBnOWhzWXVkb2NtYUpreGVTcTNZem55blg3UEJhLVpaelRwQjFyUTVLUTgtYVJyRHpyYV9odmNvZ0IxN2pzbGIzU2JrSDNpS25JRC1nTmlqcDc0Smd4alNCX1ZGUnRGV0dtNkc4ZTNKd3pfdzBQQVp4a1E1WF93VjZxQzNxNTdwMA?oc=5",
+                    "publishedAt": "2026-11-06T07:33:23.000Z",
                     "language": "nl",
-                    "summary": "I don't have access to the full article content, only the title and source information you've provided. Based on the title alone, I can tell you that:\n\n**Ma dam**, an event venue, is opening a new location at Park Spoor Noord (likely in Antwerp, Belgium, based on the GVA publication). \n\nTo give you a complete 2-3 sentence summary with practical details about why visitors should care, I would need access to the full article text. Could you share the article body or snippet so I can provide a more useful summary?"
+                    "summary": "I appreciate you sharing this, but I'm unable to provide a meaningful summary because the snippet provided is incomplete—it only contains the headline and source information without the actual article content.\n\nTo give you a useful 2-3 sentence summary focusing on what the news is about, which restaurant is mentioned, and why visitors should care, I would need the full article text. Could you share the complete article content?"
                 }
             ]
         },
@@ -114,15 +114,7 @@
                     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNX3I0OEZGb181VFJwSjhpd2ZqNE1NVHJkdWpNYzRNN0VQWXMzSW9rRVZ2Rkh5QmVnTkhwV3FkT0c0YlJ1ZjNCclhkVkJ3V21pNC00aGVqRUw1VnRqMzExQXBTSU5TVEtPa21ZSTljYlRfbXBYS3JoMklZM1FzMlRGX0xCTXJkdU5ZV1lpRWE2QU5IbUU?oc=5",
                     "publishedAt": "2026-11-02T00:00:00.000Z",
                     "language": "pt",
-                    "summary": "# Summary\n\nTime Out Lisboa has compiled a list of the 30 best restaurants in Lisbon for group dinners, making it a practical guide for visitors planning social dining experiences in the city. This curated selection helps tourists and locals quickly identify restaurants that are well-suited for larger parties, with good ambiance and service for group settings. If you're visiting Lisbon and want to organize a group meal, this list eliminates the guesswork in finding establishments that excel at accommodating multiple diners."
-                },
-                {
-                    "title": "Os takoyakis chegaram. Novo restaurante de Lisboa celebra a street food japonesa - NiT New in Town",
-                    "source": "NiT New in Town",
-                    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQSDlSSTdoOGp6Q2lFbEhacmQ3bE5uVDBFZUFRMHRyY2NubkJ4bmF6Uk9ERjZwMmRWZHFDLVhUOTVUT2JTcldudFlRTjY5NDNVTHAwckcyLW0zcHNQTFMxeV9VVk9SWTcyUjdwb21UR2ZLOTdsb3EyUldRY0xPS2RxTEw5dnR5NHZfdDROMGVCd29rY2Q2TFhhX3RueHNQR3FzY0c1aVJBU3phZFd2Z2k5S3lMRHJhQkY1dVE?oc=5",
-                    "publishedAt": "2026-11-01T08:26:00.000Z",
-                    "language": "pt",
-                    "summary": "# Summary\n\nA new restaurant in Lisbon has opened celebrating takoyaki, the popular Japanese street food (fried octopus balls). Visitors to Lisbon now have a dedicated spot to enjoy authentic takoyaki, adding to the city's growing Japanese food scene. This is worth knowing if you're looking for casual, quality Japanese street food while exploring the city."
+                    "summary": "# Summary\n\nTime Out Lisboa has compiled a list of the 30 best restaurants in Lisbon specifically suited for group dinners. This guide is useful for visitors planning to dine out with friends or colleagues, as it highlights venues that are known for accommodating larger parties and providing a good group dining experience. Anyone organizing a group meal in Lisbon can use this resource to find restaurants that excel at handling reservations and creating a welcoming atmosphere for gatherings."
                 },
                 {
                     "title": "Rebentamento de petardos no Rossio e homem refugiado em restaurante. Detidos nas acampadas presentes a tribunal - Diário de Notícias",
@@ -130,15 +122,7 @@
                     "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQaWJSX0tDUEZVMHlyR1MtUl84dFNsX2VUQXE4Qi1mM2tvNkFMTEduWk4zN203QUQ0VkFhOFJOMk9YMF9EVHh3ZzBNdzMtT3hVa2N3c2dnc2M2QWlhME9ULXBhSjlfaDJIX1FoREVkYVpLMktETFZqNDU0Y3MwV2lxVkw1MldKODBENG9xa00zblpBeWlMNi0xTld0Vjl6eGpMaFJwV3VRMWF6TXAxZkRZTkJqaDk1QktBeTdZaUZkajItSEV1WjE1OWlsWjVOZ3dLblJRSA?oc=5",
                     "publishedAt": "2026-11-02T09:32:57.000Z",
                     "language": "pt",
-                    "summary": "I appreciate you sharing this article, but this isn't actually food or restaurant news—it's a crime/public safety story about firecrackers exploding in Lisbon's Rossio square and a man taking refuge in a restaurant during the incident. While a restaurant is mentioned, the focus is on a legal case involving detainees, not on the food establishment itself. This wouldn't be useful information for visitors interested in dining recommendations or food industry developments."
-                },
-                {
-                    "title": "Depois de Lisboa, o Sebastião atravessa o rio Tejo para abrir um novo restaurante. Saiba onde fica e o que pode comer por lá - SAPO",
-                    "source": "SAPO",
-                    "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOYm91YW43aVZlcGpKVGNzZGlvUFhfT2hLZ0drcjBrbEFROWRDeE1lMDd0aGhiX1F6YldwMjV0dWE3QVVtWEVSVkdzYUY4anlBUkF5Z0xOOE5mQXdLSks4X3I4M0VwQUYtbEVkUFZmaVQ0cDB6SmNiR3BJQnlDY1oyUVg1U1BoUVBoREdNdmFBcUlRWU4wYjlGR3hHZWdZcFd3dEJCbFFvRTZ3TDVuWHVRVzhhQ1Yxb1F2ZEZNOEt0T3JmZ2JPSkdoNUVEX2RwajRFdzI2OWVrcXh2WlY2anpseVZjS3FlQnBBeG9kNWJ1WWh5bUJKRkRhWXVaTDhSNzQ?oc=5",
-                    "publishedAt": "2026-11-02T19:30:00.000Z",
-                    "language": "pt",
-                    "summary": "# Summary\n\nThe popular Sebastião restaurant is expanding beyond Lisbon by opening a new location across the Tagus River. This new restaurant will offer the same dining experience in a different location, giving visitors more accessibility to the restaurant's cuisine. If you're visiting the Lisbon area, this expansion means you'll have an additional option to experience Sebastião's food, particularly useful if the original Lisbon location is fully booked."
+                    "summary": "I appreciate you sharing this, but this article isn't actually about food or restaurants. It's a news story about firecrackers exploding in Lisbon's Rossio square and a man taking refuge in a restaurant during an incident, with arrests related to encampments. While a restaurant is mentioned, it's only as a location where someone sought shelter during a public disturbance—not a food or dining review article.\n\nIf you have a genuine restaurant/food article you'd like summarized, I'd be happy to help with that instead!"
                 }
             ]
         },
@@ -146,20 +130,20 @@
             "places": [],
             "news": [
                 {
+                    "title": "'Something big is coming' Newcastle pub to undergo £3m transformation as big plans revealed - Chronicle Live",
+                    "source": "Chronicle Live",
+                    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQXzBlUTVJdEZVOVpITWo1N2dZOXljM3VFNUY2cS1aM2xBV1ktYWRXYW5INXBhaXowbkFqVFFVSkZCWHd2bU1FYlFNYkRMODhjWlJpRk9HZ0tXM1BLb1BXLVpGdE9mbmpXa3hKc2E0UEh2ZTlBdFNMam1SYVIzcmkwNnZodFdHQnZjRU5NY0NtbENuaE9kZmZFSHU2RTR6QWlBdVHSAacBQVVfeXFMUEVJTk4wUVExMlZZbWd3blR0YWE2RWZERnlQSzlfOXFxcU12M29MYk0xWE93dmVPcDRMc1NVZE5ucTBfN0pRX3FZOU5Hcm1oYW1NNFRYVmVxTk9STEJlUDdtYWtTRHVRNGxPNzZCamZHXy1CdmRYOVZtWllNa1dkMS1wSTk3eVppcGFVVms5akJ3dzFQUDhjbUxtZjJ1UVV3TzhoMlFtaG8?oc=5",
+                    "publishedAt": "2026-11-06T10:07:00.000Z",
+                    "language": "en",
+                    "summary": "# Summary\n\nA Newcastle pub is undergoing a £3 million transformation with major plans to revamp the venue, though specific details about which pub or the exact nature of the changes aren't provided in the snippet. Visitors to Newcastle should care because this signals significant investment in the local hospitality scene and suggests an improved or expanded dining/drinking experience will soon be available. The renovation appears to be substantial enough to create notable buzz in the city's food and beverage sector."
+                },
+                {
                     "title": "Only one Newcastle pub named among Good Food Guide's 100 Best Pubs 2026 - Hexham Courant",
                     "source": "Hexham Courant",
                     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNREx6WmkxbUkzVGd1SEluSE9STGljdmZNOEpRT2JtTHpHaFhaSlFXWkp3LXBzd0hOV2JSOEk1ZEdTZHEwOWRVWmM1V1BpV3ZxdUtWT0MyNHI3dVNmaHdwdlZZOWtCdHNMX2wzWUlEWHhnYUVUS21HUHdfMGhLR3hFQW5CN29kaElIT0Vzdm45SERUYlFrak9PMDZXNzc5SWo1TXNWZWhB?oc=5",
                     "publishedAt": "2026-11-03T05:00:00.000Z",
                     "language": "en",
-                    "summary": "# Summary\n\nThe Good Food Guide has released its 2026 list of 100 Best Pubs in the UK, with only one Newcastle pub making the cut. While the article doesn't specify which Newcastle pub was selected, this recognition matters to visitors because it identifies a locally-acclaimed establishment that meets high standards for food quality and pub experience. For those visiting Newcastle, this guide offers a reliable recommendation for where to find quality dining in an authentic pub setting."
-                },
-                {
-                    "title": "First Look: Newcastle United-themed Guinness and oyster bar opens at Fenwick - The Caterer",
-                    "source": "The Caterer",
-                    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQOExBN3VHTEtwOG1qYVpsUF94dkpUQllRU3c0XzB6M1htaVN1NVdpbTNvWnJ1eFZzNXY5TlZ1N3ZnVFZTUWhyYzdwOWpuTTlILUM2Z2dxZ3RpdFV3RDBWLWRIUXk5bzVySEJLd3hRQVB4Rjctd3E1dC1NR3BhNWQtNzZiZVpYaXBTYmF1MlFoTk4zVk8xUG4taVp0NExlMTBGRHFmN3M3eXRieU0?oc=5",
-                    "publishedAt": "2026-11-04T11:59:39.000Z",
-                    "language": "en",
-                    "summary": "# Summary\n\nA new Newcastle United-themed Guinness and oyster bar has opened at Fenwick department store in Newcastle. The venue combines the city's football heritage with Irish pub culture and seafood offerings. Visitors to Newcastle would want to check it out for a unique dining experience that merges local sports passion with quality food and drink in a distinctive setting."
+                    "summary": "# Summary\n\nOnly one Newcastle pub has been recognized in the Good Food Guide's 100 Best Pubs 2026 list, though the article doesn't specify which establishment made the cut. Visitors to Newcastle looking for dining recommendations should know that the city has limited representation in this prestigious national guide, meaning they may need to venture beyond the most highly-rated pub options or look to other dining sources for quality recommendations."
                 },
                 {
                     "title": "Dave’s Hot Chicken to open second Newcastle restaurant at Metrocentre - restaurantonline.co.uk",
@@ -167,23 +151,23 @@
                     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOZVg0b1VGWTF2dFloTHdxTEo5UG40aTFobHdiMXNNWGVtYXhfV05HcnRoS2k2a3NKcHNwaUI1bXhNNGhRdmNEVlFzRWFyNDVvRVk5VVFHaWt1dkpxU1hrTUlEaFpQNU1ObjZoY25rUTVSVmpJdlBsbVNqQzB4QlRPVEp0RVpJVVZNWGZYR2E2VDZySjJaXzVFNVVqUXN3Z0piS2tHZzBzTmFwX2pKZVM0cXN2MkYzQXNldGhXOFo1S08?oc=5",
                     "publishedAt": "2026-11-04T09:21:41.000Z",
                     "language": "en",
-                    "summary": "# Summary\n\nDave's Hot Chicken is opening a second location in Newcastle at the Metrocentre shopping center. This expansion gives residents and visitors another convenient spot to access the popular hot chicken restaurant chain. For people in the Newcastle area, this means easier access to Dave's Hot Chicken without having to travel to their existing location."
+                    "summary": "# Dave's Hot Chicken Opens Second Newcastle Location\n\nDave's Hot Chicken, a popular chicken restaurant chain, is opening its second Newcastle location at the Metrocentre shopping center. This expansion gives Newcastle residents and visitors another convenient spot to try the restaurant's signature hot chicken offerings without traveling to their first location. For food lovers visiting or shopping at the Metrocentre, this new restaurant provides an additional dining option in a major retail hub."
                 },
                 {
-                    "title": "Oysters and pie & mash on the menu as new Guinness bar The Harp and Stripes opens in Newcastle - Chronicle Live",
+                    "title": "Man charged with threatening Black Garter bouncer in Newcastle with food processor blade - Chronicle Live",
                     "source": "Chronicle Live",
-                    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOSTRoODRyVFRkZkRlODkyU0E2MXFIdm9jWkRzMlVUcUQ5UHQ0RC0xVTI2dmg1SDEzWk41c3E1b04wNFVhdHFMM2c5U2plRThMZG4yaVB6eXBLSnJyUlVSc1lTc1k5bHZMYWlxV1gwbHp3MVdFTWJENndBczZ2RFhwcnBQNElJVWJjcWZRMjZUU3pVZ9IBlwFBVV95cUxPa1F1SG1IODhDam1vWXZnNDZUSU9PVDFKV2ttWXIwVnlJNU91REJ6cDc2SjMyRGdJQnVnVlNHRjBvTTJKcVhJSnV2MVlXMTM0c0NNX3hxX2dxR0xlQnk2UldxXy1OZlA0NXk0OU9uUVdreVowQS1RZXZGWTZkdUh0QV9NU1NUVUtGdkhEdG5rOGllZVlzOXJr?oc=5",
-                    "publishedAt": "2026-11-03T17:11:40.000Z",
+                    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPTDhMa21ucHg1U3BnQjAxMFJ2bmI0M29TV2o0d3Jkb3dPQzVNX2NqR3h1dG90LW9feElyS0xmZ3lYOWc4MVhTM1FaWUJnZWJpcUJqLVRaNThlb1NwaW9oRDdGX1dGOU52Vm9CTTVUanVpbm9pNGpsTU1xbVMtZVltUkI1SFF3Y1ByLW5XTGxvMW1FSW1CQzBMNGV2elhEVFk?oc=5",
+                    "publishedAt": "2026-11-06T00:59:00.000Z",
                     "language": "en",
-                    "summary": "# Summary\n\nA new Guinness bar called The Harp and Stripes has opened in Newcastle, offering traditional Irish fare including oysters and pie & mash. Visitors to Newcastle looking for authentic Irish pub food and Guinness in a dedicated themed bar now have a new destination to explore in the city."
+                    "summary": "# Summary\n\nA man has been charged with threatening a bouncer at Black Garter, a venue in Newcastle, using a food processor blade. While this is primarily a crime story rather than food news, it involves the Black Garter establishment in Newcastle city center. Visitors to Newcastle should be aware of this incident at this popular nightlife venue, though it appears to be an isolated criminal incident rather than an issue with the venue's operations."
                 },
                 {
-                    "title": "Dave’s Hot Chicken adds a restaurant in Newcastle - QSR Media UK",
-                    "source": "QSR Media UK",
-                    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQejhLNmZqWVlxRFVfRFZQSktYX2Z4ajJ6b0U2VWp2UjFHX3M1NExOLTUyLXBfbUxWWlA2R19MOTIxMWRYV3RTVTU3clQ3U0V6NmpNazlxSTVZQXU4U2c5c1M1di1nSUE4WFhvX0pyZkR1OGVudERSRXZGUm9Zei1XVXZBN2RfenhZWUFnNHREZw?oc=5",
-                    "publishedAt": "2026-11-04T04:06:35.000Z",
+                    "title": "Newcastle Had 17 Shots, Two on Target and No Answer as Jaissle Is Booed Off - The False 9",
+                    "source": "The False 9",
+                    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPTmI0QnRYX25MdnhXVnNocXRmUGtDWndoVWZNb203eXAzTld4NmtUT2JOZGFVQy1yeTFtdnJIMWJQYUhpSTJnWE9Yc3FrT1pBYXJFT01wS3YyQ2kyeEJvZE5zUG45NE9BN2xPOGhRQ3lHUURZWXlfYWRvdW51LWNBNjFsbmp3c3VoTFFoTkU3UQ?oc=5",
+                    "publishedAt": "2026-11-03T07:10:28.000Z",
                     "language": "en",
-                    "summary": "# Summary\n\nDave's Hot Chicken, a popular chicken restaurant chain, has opened a new location in Newcastle. This expansion is notable for bringing the brand's offerings to the Northeast of England. Visitors to Newcastle now have access to this growing chain's menu, making it a new dining option for those seeking hot chicken sandwiches and related fare in the city."
+                    "summary": "I can't summarize this as a restaurant/food news article because it's actually a sports article about Newcastle United's football (soccer) match performance and their manager Jaissle, not about food or dining. The title and content discuss a game with 17 shots and fan disapproval, which has no relevance to restaurants or food venues.\n\nIf you have a food/restaurant article you'd like summarized, please share that instead!"
                 }
             ]
         },
@@ -196,7 +180,7 @@
                     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPNVBlYlBBNjVRTEpQNkNub3RyQkVUSGxydlYxczVyVjZ2ckctLVlXMHdudml5UUZ3ZUQtNDA4cUpWXzNnS0U3U2thOGs5SFlZbk5QMmVLSFhzYWxLTnRoMEpFOV8wa1NQNDJ5M00tckE4cEZ5VkdGZUFHN3pJZDJmTVFKS3R0SUc0NjlxWUZzN3hmMG5DSUM0Z0d1STJ0UQ?oc=5",
                     "publishedAt": "2026-11-02T15:42:17.000Z",
                     "language": "en",
-                    "summary": "I'd be happy to help summarize this article, but I notice you've only provided the title and source information—not the actual article content or snippet text. To give you an accurate 2-3 sentence summary focusing on what's new at Restaurant Tchaikovsky in Tallinn and why visitors should care, I'd need the full article body. Could you please share the complete article text?"
+                    "summary": "I don't have access to the full article content beyond the title and source information you've provided. To give you an accurate 2-3 sentence summary focusing on what's new at Restaurant Tchaikovsky in Tallinn, why visitors should care, and specific details about the changes, I would need to read the complete article text.\n\nCould you share the article content or a longer excerpt? That way I can provide the practical summary you're looking for."
                 }
             ]
         }
