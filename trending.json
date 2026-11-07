@@ -1,5 +1,5 @@
 {
-    "lastUpdated": "2026-11-06T13:23:08.555Z",
+    "lastUpdated": "2026-11-07T12:01:21.014Z",
     "source": "github-actions",
     "cities": {
         "cologne": {
@@ -11,7 +11,7 @@
                     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNS1p6QzNrcXVvYVRqMzBnMEFIWllwVS1RQmNWczQ3ZS1WM0VwWXdSeWM3MVU4T25wRFJnTF8xeVlxc2FlTjhqcHd1TUVRcFcwRGhUWGV1Rldmc2YwSE5Eb1k5M0szZ1VhNklfM2Nobk1yZldWRzZreDgtSmE5dlBEcm1TcWRuLXBTZk1CbUNpNmJoZw?oc=5",
                     "publishedAt": "2026-11-01T12:07:00.000Z",
                     "language": "de",
-                    "summary": "# Summary\n\nA restaurant in Sardinia is running a pilot program where diners must leave their phones at the entrance during their meal. This initiative appeals to visitors seeking a genuine dining experience free from phone distractions, offering a unique way to enjoy food and conversation without digital interruptions."
+                    "summary": "# Summary\n\nI appreciate you sharing this, but I'm unable to provide a helpful summary because only the title and source information were provided—the actual article content is missing. The title suggests a pilot program in Sardinia where restaurants are encouraging diners to put away their phones, but without the full article text, I can't give you details about which specific restaurant is involved or why visitors would care.\n\nIf you could share the article text or a more complete snippet, I'd be happy to create the 2-3 sentence summary you're looking for."
                 }
             ]
         },
@@ -19,28 +19,12 @@
             "places": [],
             "news": [
                 {
-                    "title": "Ron Blaauw sluit restaurant in Zuid: \"Horeca is niet meer wat het was\" - NH Nieuws",
-                    "source": "NH Nieuws",
-                    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNd2N2WVc0d2xCaXJTNG1ITFJMdmMyNnhlNlBxV1JiVmtZek8wbUtuN2hGd2MtMURBV3FyZkNnc0ZjNWEwS25sNzBzb3dzeHhzSktEdE9ZSFB5UFpzV0RlajhHOVRzak40NmtWY3Q1Y2VlOWZQSDFMQTRCcWFRdVFDcXoxcG5iZXc?oc=5",
-                    "publishedAt": "2026-11-06T10:03:38.000Z",
+                    "title": "Ron Blaauw to close Michelin-star restaurant in Amsterdam-Zuid: ‘Times have changed’ - Het Parool",
+                    "source": "Het Parool",
+                    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPQUx0dkxkQmVkaVRZa0NjT1p0bUk5RTdFSDJQMXFaOFhEUV90MlpMVEFGbmNicHZLYTVCRW0xWEp5UV9FTS1aRzZQNmZHamRnTlhZZVJDNmpkaW9RNHBsTlVybkFFSmNwZWpyd0JtUG1waUl3RVk3Q2wydnVHb0xCQ2c5Y1VmaG1CdG9FX215dkhWVTl2QjkzOC13OThvOUd1R3JCTmpHZ01HblNYM1JRaVhqcklwY0xBYUc3TnlUTlIyajYtVlh3?oc=5",
+                    "publishedAt": "2026-11-06T15:00:20.000Z",
                     "language": "nl",
-                    "summary": "# Summary\n\nI appreciate you sharing this article, but I'm unable to provide an accurate summary because only the title and source information were provided—the actual article content (beyond the headline) wasn't included. \n\nTo summarize the piece properly, I would need the full article text. Based on the headline alone, I can see it's about **Ron Blaauw closing a restaurant in Amsterdam's Zuid district** and includes a quote suggesting the hospitality industry has changed, but I cannot provide specific details about why this matters to visitors without reading the complete article.\n\nWould you be able to share the full article text?"
-                },
-                {
-                    "title": "Ron Blaauw stopt met sterrestaurant Ron Gastrobar*: 'Uit eten gaan is compleet veranderd' - Misset Horeca",
-                    "source": "Misset Horeca",
-                    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQRjA2YktYYTZaYW9qY0ltQjRTN1lCVkNrRVFNdU5XblhCVGY4ZDJlUjBPeU9UX1Q4NEM0N1phV2h2LUJxWEFsXzZyaE9EdDNZVllXcll2UTh5V09tRFVwTExUQkpobmk4Y2wzc0xoaXI2cmt0Tnk1cXJkQjlIQnU0a1dHZDBQSldsTnYtbUVlcXNFYk9TcHh1ZGtCWnRJWExDQVVtMlBYQ3NtWFhFdDZjUHdEV0pCQnhxOFNucA?oc=5",
-                    "publishedAt": "2026-11-06T10:01:49.000Z",
-                    "language": "nl",
-                    "summary": "# Summary\n\nRenowned chef Ron Blaauw is closing his Michelin-starred restaurant Ron Gastrobar in the Netherlands, citing significant changes in dining culture as the reason. Visitors to the city who were planning to experience fine dining at this starred establishment will need to find alternative options, as the restaurant will no longer be operating."
-                },
-                {
-                    "title": "Sterrenrestaurant Ron Gastrobar sluit in februari 2027 definitief de deuren - De RestaurantKrant",
-                    "source": "De RestaurantKrant",
-                    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNZU5mR2xiNE85clV3OEhuOTV5X0dqbVBtT3h0UzdRUkpZbS0yRDhxeGtOdFQ2SXJxamVTZGJGNXJZdTJ0cHpJbEkyUG5UUW0zbnJuZlZTN0lkamhZQlVxc1JUdU9sUGdCbkVqUUxaX3lYVlozUlg1dHR5ZjhDQUNVWGt1ZDhCdkNyMG13eW50S0VTRnBFVmNBVXhvTlZhcUl4TVh6UW02Nmo4LW1B?oc=5",
-                    "publishedAt": "2026-11-06T09:04:28.000Z",
-                    "language": "nl",
-                    "summary": "# Summary\n\nRon Gastrobar, a Michelin-starred restaurant, will permanently close its doors in February 2027. This is significant for food enthusiasts visiting the city, as it marks the end of fine dining at this acclaimed establishment, giving diners limited time to experience it before it shuts down."
+                    "summary": "I don't have access to the full article content to provide an accurate summary of the specific details, reasons, or timeline for Ron Blaauw's restaurant closure. To give you a proper 2-3 sentence summary focusing on what, where, and why it matters to visitors, I would need to see the complete article text beyond just the title and snippet. Could you share the full article or more details?"
                 },
                 {
                     "title": "Restaurants in Amsterdam: dit zijn de beste hotspots & tips - Foodies Magazine",
@@ -48,15 +32,31 @@
                     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5FZ1U0ZFFDYmVfVHF6b1JNU01Ya09fUlo2R2RvOEx3R0dQZ2pueGw2Zzc5NkpzU2NuVXBkQkFwNEJlRzY5bGlFeGZJdWZDVkwwb3k5Q1NBRUgyb0RmbFR4VWpRMl9ZbjhRckt6SXpkZ1BYU3N1MjkwYw?oc=5",
                     "publishedAt": "2026-11-02T08:00:00.000Z",
                     "language": "nl",
-                    "summary": "I don't have access to the full article content from this snippet, only the title and source information. \n\nTo provide you with an accurate 2-3 sentence summary, I would need the actual article text. However, based on the title alone, I can tell you this appears to be a **guide to the best restaurants and food hotspots in Amsterdam** from Foodies Magazine—useful for visitors looking for dining recommendations in the city.\n\nCould you share the full article text so I can give you the specific details about which restaurants are featured and why they're worth visiting?"
+                    "summary": "I appreciate you sharing this, but I'm unable to provide a summary because the article content itself wasn't included—only the title, source, and language indicator were provided. To give you a helpful 2-3 sentence summary focusing on specific restaurants and why visitors should care, I would need the actual article text or snippet content.\n\nIf you can share the full article text, I'd be happy to summarize it for you."
                 },
                 {
-                    "title": "From a secret restaurant to a crew of pizza makers: food hall Kade Noord brings Amsterdam ‘creative cowboys’ together under one roof - Het Parool",
-                    "source": "Het Parool",
-                    "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPSGtzcDZpOTR6ZExkdnZBX1FfbWs1SlVxYzlvUER3RzFKZnlNc0d4NXZkLUxwb2QzaVZmNG9YSkFybWw4X3hTT3g0WUNPUTlZUUFkY0VsWWowS3AyMWhwcVVmRVBqSGZyZGNqMlR1SmN6YUd5elJZLW1OeUdEbjVpQnl0dFRpTTZKZEhDSUtzSXY3ZnpCaGdNSVl2NHZhczdwUEVmXzNKb3BocE5iUmJxYzJpY2E2ODRXaHFlTFhWcXhPTUp1SkFYbDJFX0VUbE5iUlg0M254YzBFOWI5emZUV25vdWRhU0wxNlUzbnJFU1FqdUFvZlRpUDlkRmc?oc=5",
-                    "publishedAt": "2026-11-05T18:00:09.000Z",
+                    "title": "Ron Blaauw sluit restaurant in Zuid: \"Horeca is niet meer wat het was\" - AT5",
+                    "source": "AT5",
+                    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOSkNWbWNGemR5emV1RTV1YzZOTmtCamFLZDg2ME1OdThPQlM2QTRTQi1xOFN0ZFJyUnpCb2UxcmFEcnpudjBHRWdSVVVWWGw2dlYwY2xMRmZEUGV5MnFaWUFEd2ZJT0JjODVhaVpEMGVua1pSa1RyelRTeUNIV2N2MUpNNlk?oc=5",
+                    "publishedAt": "2026-11-06T01:01:00.000Z",
                     "language": "nl",
-                    "summary": "# Summary\n\nKade Noord, a new food hall in Amsterdam, has opened as a gathering space for the city's creative food entrepreneurs, including operators of a former secret restaurant and artisanal pizza makers. The venue brings together independent food creators under one roof, offering visitors access to multiple unique dining concepts in a single location. For visitors to Amsterdam, this food hall represents an exciting opportunity to discover innovative, independent food businesses that reflect the city's creative food scene."
+                    "summary": "# Summary\n\nI can see this is a Dutch article from AT5 about Ron Blaauw closing a restaurant in Amsterdam's South district, with the quote \"Hospitality is no longer what it was.\" However, I don't have access to the full article content to provide you with specific details about which restaurant is closing, the reasons behind it, or its significance to visitors.\n\nTo give you an accurate 2-3 sentence summary with practical information for someone visiting Amsterdam, I would need the complete article text. Could you share the full content?"
+                },
+                {
+                    "title": "Ron Blaauw (59) stopt na 14 jaar met zijn gastrobar: ‘Horeca is niet meer wat het was’ - De Ondernemer",
+                    "source": "De Ondernemer",
+                    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNNHZ6NTdWQkpKT243TEYyMTN0RU1fTE11T1kwbFhLZGEwdjZHTGJ2UzdGY0RQZC1LS29qYVpmeWtmc2wxVUJ3blI3T3dDZHRHR3ZMRDZPS2NkQWhPQVVlcXRGSjdEeVFPVnVzUnhxUVVqbmJ3LU5oS3U0bGh5Q2t0UGNsVEVSeFdqVmFTZEhWVXZDNmtDMG90MXc2TmhEXy1iMmxDaTBYVlFnUldvM0xHRk1xWUJqeWs?oc=5",
+                    "publishedAt": "2026-11-06T09:53:13.000Z",
+                    "language": "nl",
+                    "summary": "# Summary\n\nRon Blaauw is closing his gastrobar after 14 years of operation, citing that the hospitality industry has fundamentally changed for the worse. This is notable for visitors to the city because it means this established dining spot will no longer be available, and it reflects broader challenges facing independent restaurants in the current economic and social climate."
+                },
+                {
+                    "title": "Sterrenrestaurant Ron Gastrobar sluit in februari 2027 definitief de deuren - De RestaurantKrant",
+                    "source": "De RestaurantKrant",
+                    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNZU5mR2xiNE85clV3OEhuOTV5X0dqbVBtT3h0UzdRUkpZbS0yRDhxeGtOdFQ2SXJxamVTZGJGNXJZdTJ0cHpJbEkyUG5UUW0zbnJuZlZTN0lkamhZQlVxc1JUdU9sUGdCbkVqUUxaX3lYVlozUlg1dHR5ZjhDQUNVWGt1ZDhCdkNyMG13eW50S0VTRnBFVmNBVXhvTlZhcUl4TVh6UW02Nmo4LW1B?oc=5",
+                    "publishedAt": "2026-11-06T08:00:00.000Z",
+                    "language": "nl",
+                    "summary": "# Summary\n\nRon Gastrobar, a Michelin-starred restaurant, will permanently close its doors in February 2027. This is significant for food enthusiasts visiting the city, as it means they have limited time to experience this fine dining establishment before it shuts down. Anyone wanting to dine at this acclaimed restaurant should book well in advance during the remaining months of operation."
                 }
             ]
         },
@@ -64,12 +64,12 @@
             "places": [],
             "news": [
                 {
-                    "title": "Wat te doen dit weekend in en rond Antwerpen? Van eerste winterbar tot literatuurfestival - HLN",
+                    "title": "Gault&Millau deelt nieuwe scores uit: dit waren vorig jaar de beste restaurants in Antwerpen - HLN",
                     "source": "HLN",
-                    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNZlctWE1VNW5BMVJwNnUwTC1vWTQ5RDNRQWFJWk81Rmh2cFUzRlg4RFd4N1doLUs0TGMwYkxudkdPcGZJY2hwcUtGek5zX1JBRTlQeU5PQW1TUE8yd3FWd1lqVkpwOFJ6UWZvaTd1S05mZm4tTGRNQ1hVbGNGVVQzWXBKYzNuVExsV2VsY242RVhIRV84YVpfOVNnREhEQVpFREJ6SjdmRk1MaDc2RFNyWEZGZHNFRGNqazEwUWF1RVQ0VWpiYXc?oc=5",
-                    "publishedAt": "2026-11-06T10:15:40.000Z",
+                    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNNXZleVdxTlc3ejByZjd4aXhVUTNfY055ZkY5aW55SUtWYktYcW4zZElHTkVTMjdnVnJNYUlLN01Fb0VQc1Z4ZHdlV3p6ZkRRX3BtQnZXZFRRd09kRjgyU1RiSW9mVjhLY2FneFhQaXJFX1p1SW1rSDFIdjRVdEN6TU00ZVpqbEZDQUdUZHF1RngyRk0xb0dQSWhiRUFNUlV1SnNjZHMtY2tPSUFNQ0lTSWo4aGNUZ0REMFFteTlDOE5NZ3RUZlUtcy1Hcw?oc=5",
+                    "publishedAt": "2026-11-07T09:58:27.000Z",
                     "language": "nl",
-                    "summary": "I appreciate you sharing this article, but I'm unable to provide a detailed summary because the snippet provided is incomplete—it only contains the headline and source information, not the actual article content. \n\nTo give you the practical, food-focused summary you're looking for, I would need the full article text. If you can share the complete article or additional details about which restaurants or food venues are featured, I'd be happy to summarize it focusing on what visitors to Antwerp should know about the dining scene this weekend."
+                    "summary": "# Summary\n\nGault&Millau, a prestigious restaurant guide, has released its latest rankings for the best restaurants in Antwerp from the past year. While the snippet doesn't specify individual restaurant names, this annual rating update is important for visitors because it identifies which dining establishments have earned the highest accolades and recognition from an authoritative culinary authority. Checking these rankings helps visitors quickly find top-quality restaurants worth booking in Antwerp."
                 },
                 {
                     "title": "De 13 beste brasserieën en bistro’s in Antwerpen volgens onze recensent - Weekend Knack",
@@ -77,7 +77,7 @@
                     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOUjdiWVBwNkE1dm5pMkRka0RjR1d5c0VXUlp0M0VEb01waEZ5YVNIemotVmE2WDNXY1laR29hbnNwNjFNdTg1YnBzTFAzbW5xU0dOTkZ3WnJFdEdqTE5LQVRiaEY1a21xZ3pMOWQ0b3ktTGhVcHlxdWt6TjNqdHRvUHpkM2s?oc=5",
                     "publishedAt": "2026-11-05T09:00:00.000Z",
                     "language": "nl",
-                    "summary": "# Summary\n\nWeekend Knack has compiled a list of the 13 best brasseries and bistros in Antwerp according to their food critic. Visitors to Antwerp would find this guide valuable for discovering top-rated casual dining spots that offer authentic Belgian and French-inspired cuisine. The curated selection provides reliable recommendations for both tourists and locals looking for quality restaurant options in the city."
+                    "summary": "# Summary\n\nWeekend Knack has published a guide ranking the 13 best brasseries and bistros in Antwerp according to their food critic. This curated list is useful for visitors or locals looking for reliable dining recommendations in the city, offering a mix of traditional and contemporary options in Antwerp's casual dining scene. The article provides an expert-vetted shortlist to help diners navigate Antwerp's brasserie and bistro offerings."
                 },
                 {
                     "title": "Moose Bar 2024: locaties, data en openingsdata - Belg.be",
@@ -85,23 +85,23 @@
                     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE42S0lPT3REWWVhQWpkc2dGZmhmeFNRSUdOR3poR3FNMmpTRVZydVUxOEEwQTlxTFFSYnBtQngyNmxFN0NZcjI3QXpETmRPRlEwTkFXdV9xaEdIOS1pdlFDR1lQN0U5S2JOZ3pzZmVnUzRFMzBfQ1Q5aEllV1NXX3c?oc=5",
                     "publishedAt": "2026-11-05T20:09:57.000Z",
                     "language": "nl",
-                    "summary": "I appreciate you sharing this, but I'm unable to provide a meaningful summary because the snippet provided is extremely minimal—it only contains the title and source information without the actual article content. \n\nTo give you the 2-3 sentence summary you're looking for (focusing on what the news is about, which restaurant is mentioned, and why visitors would care), I would need access to the full article text. Could you provide the complete article content?"
+                    "summary": "I appreciate you sharing this, but I'm unable to provide a meaningful summary because the snippet provided is minimal and doesn't contain the actual article content—it only shows the title and source. To give you a helpful summary focusing on specific locations, dates, opening information, and why visitors would care about Moose Bar, I would need the full article text. Could you share the article body or a longer excerpt?"
                 },
                 {
-                    "title": "Naar het favoriete restaurant van Isabelle Van Hecke: “Als ik met iemand in ’t Stad afspreek, denk ik vaak aan deze plek” - Nieuwsblad",
-                    "source": "Nieuwsblad",
-                    "url": "https://news.google.com/rss/articles/CBMipgJBVV95cUxOZEpSOG1Vd09lT09Eb1ZidWtZX25QbmlPSW1pVlAxUlpBNGRFQ1JncHNUSVFKbVZWUVdfWTkzVThYQzVTQkM5a1RfS2hkVnl4YWh1MGkzRGUxQ0xNSjY4Qy1TWWQxM3BFQTY3WkhnOG5xeFlkbmhLVTk1dWxuMDlxV3JSSmh1anlKOXd2SGZaMDZFX0lCc2c5R21GUDdiVldOMVNRbVZKS2lvUXozbEk1dVJZa0Roc2Z5cHVYcm1OVEFhUjY4SHdSM2Z6QXlnd0thVmF5b3FHRmczZHhzYWxBN3dmYi1YdUVkclV3enEyaDFZbkJGcjlXV1dwQkpsUF9WcnNPaWVmZGlVRTNoRkZhVDFvd2RlTHhKWWlVbmNFVVl4emt1WWc?oc=5",
-                    "publishedAt": "2026-11-06T04:02:39.000Z",
+                    "title": "5 x op restaurant voor minder dan 50 euro: onze recensenten proefden in deze Antwerpse restaurants - GVA",
+                    "source": "GVA",
+                    "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNamFDUnV3SEdZSS15UzE1Q010b0ZueTN5dThhRUF6THZXWWt2bnNDYjVJR0xpSlRsZ2dRRHR0U2l6VG5pcE1Za0hYMUlldVpEcEppNGxfRTNrSjJKOHRFNWNlQ1pNMzdUZkZVbTdCSnZkWTloek5obUQ4c2x2YjY2b19vTHhHNm1reC1wTFhPTVhIMFRXM3VNa3Ywc1hLVVNtT0JEV0EwV2MwdjFMMVpWZnVEUHg2WEg1RXFhZzEyTzJCSkxVZDVCZ2ltZkVxdjF2VldLYVdzNjAwQ1NmSGdROE1GRk9XVzlKU1hDRG11S1BMRGFrNlhaRTk4QmQ3RS1MWExz?oc=5",
+                    "publishedAt": "2026-11-05T09:00:00.000Z",
                     "language": "nl",
-                    "summary": "# Summary\n\nThis article features Isabelle Van Hecke's favorite restaurant in 't Stad, which she frequently chooses as a meeting spot with friends and colleagues. While the specific restaurant name isn't provided in the snippet, it's a local establishment that Van Hecke recommends highly enough to make it her go-to choice for social gatherings. Visitors to 't Stad looking for a trusted, well-regarded dining spot should take note of this insider recommendation."
+                    "summary": "# Summary\n\nGVA's restaurant critics reviewed five Antwerp restaurants where diners can enjoy a full meal for under €50 per person. The article highlights affordable dining options in Antwerp that don't compromise on quality. Visitors to Antwerp looking for good food at reasonable prices will find this guide useful for discovering recommended budget-friendly restaurant choices."
                 },
                 {
-                    "title": "Feestfenomeen Moose Bar klaar voor nieuw winterseizoen - AFAS Dome",
-                    "source": "AFAS Dome",
-                    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQdERKTDU1NVBnOWhzWXVkb2NtYUpreGVTcTNZem55blg3UEJhLVpaelRwQjFyUTVLUTgtYVJyRHpyYV9odmNvZ0IxN2pzbGIzU2JrSDNpS25JRC1nTmlqcDc0Smd4alNCX1ZGUnRGV0dtNkc4ZTNKd3pfdzBQQVp4a1E1WF93VjZxQzNxNTdwMA?oc=5",
-                    "publishedAt": "2026-11-06T07:33:23.000Z",
+                    "title": "Gault&Millau deelt nieuwe scores uit: dit waren vorig jaar de beste restaurants in de regio rond Antwerpen - HLN",
+                    "source": "HLN",
+                    "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPTWdHRWdVckdoei0wQjdKNmNlLV92c2FPMDZiWkhBUUxCZHFLNWRxNUdJWnd1NFFwUVpUbmlicm9GQ3BiMndhYm9CQjM0SHFGTDVvUjdwOWwtZkxNd2tLNHA2TTBVZmFYWllkYlI5YjRYbmFoZWUxT1hnUmdsZFFiUlB0UFJmUXMxTHg5YVhldUJjUU5lanY1TzdaMHliSlltMTBQRTRaWFRpTllELUpSRlE4Ul9QcmhEWmpZdGlZbHJlNDhlMlN5dUxLT0llSUxqV3Ytc3lXM1BUd1U?oc=5",
+                    "publishedAt": "2026-11-07T10:39:05.000Z",
                     "language": "nl",
-                    "summary": "I appreciate you sharing this, but I'm unable to provide a meaningful summary because the snippet provided is incomplete—it only contains the headline and source information without the actual article content.\n\nTo give you a useful 2-3 sentence summary focusing on what the news is about, which restaurant is mentioned, and why visitors should care, I would need the full article text. Could you share the complete article content?"
+                    "summary": "# Summary\n\nGault&Millau has released its updated restaurant ratings for the Antwerp region. While the article doesn't specify individual restaurants in the snippet provided, this annual guide ranks the best dining establishments in the area based on cuisine quality and dining experience. Visitors to Antwerp can use these new ratings to discover top-rated restaurants worth trying during their visit."
                 }
             ]
         },
@@ -114,15 +114,15 @@
                     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNX3I0OEZGb181VFJwSjhpd2ZqNE1NVHJkdWpNYzRNN0VQWXMzSW9rRVZ2Rkh5QmVnTkhwV3FkT0c0YlJ1ZjNCclhkVkJ3V21pNC00aGVqRUw1VnRqMzExQXBTSU5TVEtPa21ZSTljYlRfbXBYS3JoMklZM1FzMlRGX0xCTXJkdU5ZV1lpRWE2QU5IbUU?oc=5",
                     "publishedAt": "2026-11-02T00:00:00.000Z",
                     "language": "pt",
-                    "summary": "# Summary\n\nTime Out Lisboa has compiled a list of the 30 best restaurants in Lisbon specifically suited for group dinners. This guide is useful for visitors planning to dine out with friends or colleagues, as it highlights venues that are known for accommodating larger parties and providing a good group dining experience. Anyone organizing a group meal in Lisbon can use this resource to find restaurants that excel at handling reservations and creating a welcoming atmosphere for gatherings."
+                    "summary": "# Summary\n\nTime Out Lisboa has compiled a list of the 30 best restaurants in Lisbon for group dinners, providing a curated guide for visitors and locals planning meals with larger parties. The article highlights specific venues that excel at accommodating group dining, which is valuable information for travelers organizing social meals or celebrations in the city. Anyone visiting Lisbon looking for tested, quality restaurant recommendations suitable for groups would find this resource useful for making reservations and planning their dining experiences."
                 },
                 {
-                    "title": "Rebentamento de petardos no Rossio e homem refugiado em restaurante. Detidos nas acampadas presentes a tribunal - Diário de Notícias",
-                    "source": "Diário de Notícias",
-                    "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQaWJSX0tDUEZVMHlyR1MtUl84dFNsX2VUQXE4Qi1mM2tvNkFMTEduWk4zN203QUQ0VkFhOFJOMk9YMF9EVHh3ZzBNdzMtT3hVa2N3c2dnc2M2QWlhME9ULXBhSjlfaDJIX1FoREVkYVpLMktETFZqNDU0Y3MwV2lxVkw1MldKODBENG9xa00zblpBeWlMNi0xTld0Vjl6eGpMaFJwV3VRMWF6TXAxZkRZTkJqaDk1QktBeTdZaUZkajItSEV1WjE1OWlsWjVOZ3dLblJRSA?oc=5",
-                    "publishedAt": "2026-11-02T09:32:57.000Z",
+                    "title": "Já sabemos quais são os 10 melhores restaurantes para almoçar em Portugal - NiT New in Town",
+                    "source": "NiT New in Town",
+                    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOS09XdmY1RlowYktWYjgzMGNoSTQ0TXRfbFZuRG1JMkswT2dFdVQ2NzlRajhMY05IXzZ4Q1Y4akJPc05pSmFkVHh4aVRzQTNjdVJ4cDRjNkpmN0pYcmdJdmZKN1dHX3hmcjBwODl3RXIzemszc25CbjhOalg4YjhFTURtbU1FdDdRSjNBUVNMZlp0RkVhc25ESnVtYm5fVC1pdjMxOWQ5eFpYMUs4b29wc0RR?oc=5",
+                    "publishedAt": "2026-11-06T10:30:00.000Z",
                     "language": "pt",
-                    "summary": "I appreciate you sharing this, but this article isn't actually about food or restaurants. It's a news story about firecrackers exploding in Lisbon's Rossio square and a man taking refuge in a restaurant during an incident, with arrests related to encampments. While a restaurant is mentioned, it's only as a location where someone sought shelter during a public disturbance—not a food or dining review article.\n\nIf you have a genuine restaurant/food article you'd like summarized, I'd be happy to help with that instead!"
+                    "summary": "# Summary\n\nNiT New in Town has released a list of the 10 best restaurants for lunch in Portugal. While the article doesn't specify individual restaurant names in the snippet provided, visitors to Portugal would find this guide useful for discovering top-rated lunch destinations across the country. This curated selection helps travelers and locals identify quality dining options for midday meals without having to research extensively."
                 }
             ]
         },
@@ -130,12 +130,20 @@
             "places": [],
             "news": [
                 {
-                    "title": "'Something big is coming' Newcastle pub to undergo £3m transformation as big plans revealed - Chronicle Live",
-                    "source": "Chronicle Live",
-                    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQXzBlUTVJdEZVOVpITWo1N2dZOXljM3VFNUY2cS1aM2xBV1ktYWRXYW5INXBhaXowbkFqVFFVSkZCWHd2bU1FYlFNYkRMODhjWlJpRk9HZ0tXM1BLb1BXLVpGdE9mbmpXa3hKc2E0UEh2ZTlBdFNMam1SYVIzcmkwNnZodFdHQnZjRU5NY0NtbENuaE9kZmZFSHU2RTR6QWlBdVHSAacBQVVfeXFMUEVJTk4wUVExMlZZbWd3blR0YWE2RWZERnlQSzlfOXFxcU12M29MYk0xWE93dmVPcDRMc1NVZE5ucTBfN0pRX3FZOU5Hcm1oYW1NNFRYVmVxTk9STEJlUDdtYWtTRHVRNGxPNzZCamZHXy1CdmRYOVZtWllNa1dkMS1wSTk3eVppcGFVVms5akJ3dzFQUDhjbUxtZjJ1UVV3TzhoMlFtaG8?oc=5",
-                    "publishedAt": "2026-11-06T10:07:00.000Z",
+                    "title": "First Look: Newcastle United-themed Guinness and oyster bar opens at Fenwick - The Caterer",
+                    "source": "The Caterer",
+                    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQOExBN3VHTEtwOG1qYVpsUF94dkpUQllRU3c0XzB6M1htaVN1NVdpbTNvWnJ1eFZzNXY5TlZ1N3ZnVFZTUWhyYzdwOWpuTTlILUM2Z2dxZ3RpdFV3RDBWLWRIUXk5bzVySEJLd3hRQVB4Rjctd3E1dC1NR3BhNWQtNzZiZVpYaXBTYmF1MlFoTk4zVk8xUG4taVp0NExlMTBGRHFmN3M3eXRieU0?oc=5",
+                    "publishedAt": "2026-11-04T11:59:39.000Z",
                     "language": "en",
-                    "summary": "# Summary\n\nA Newcastle pub is undergoing a £3 million transformation with major plans to revamp the venue, though specific details about which pub or the exact nature of the changes aren't provided in the snippet. Visitors to Newcastle should care because this signals significant investment in the local hospitality scene and suggests an improved or expanded dining/drinking experience will soon be available. The renovation appears to be substantial enough to create notable buzz in the city's food and beverage sector."
+                    "summary": "# Summary\n\nA new Newcastle United-themed Guinness and oyster bar has opened at Fenwick, a major department store in Newcastle. The venue combines the city's famous football club branding with Irish stout and seafood offerings. Visitors to Newcastle interested in sports, traditional pub culture, or quality Guinness and oysters now have a unique themed destination that blends local pride with classic Irish-British dining."
+                },
+                {
+                    "title": "Top North East restaurant to 'say goodbye forever' after four years as closing date confirmed - Chronicle Live",
+                    "source": "Chronicle Live",
+                    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNckUxWGFmUUhfODMxMkdzcjNzUGsxWTgyVzQwb0x5aF9TZHhVQUQzUHFtMTBfUGhkSnBOaWFzczNEQ2EzbGxiaGpmSTV3aVNSRDlRbFdyb3R5TTZYMlRYeGdiVGVJc2J3NUwyRVNnalR3WU0tMTl0RHNGTTZOLXlHQVJrOVA0ZGhpZ3g5UWZuaXhjSkVSekxUaFNFUdIBoAFBVV95cUxQVC0xLW5ILVdlaE9iLXZwbTZaZ2dUeTdlZjR3UXRMc2Z5c0Nyc2J3dHhibkJ4V1lwRGhaSlFVT05Bc3VWZTRpMC1uY1gwTElHX0dzX3V0Q0FJc3FtdzB4MDNaMWszZGlqSlNsSldubWR5YVpXRjVmdHVQQVlPd2N0U2Z3aEZ1MEhEOGx6VTROeFFrZTNySllGcWszYjdFY2RV?oc=5",
+                    "publishedAt": "2026-11-07T10:26:00.000Z",
+                    "language": "en",
+                    "summary": "# Summary\n\nI don't have access to the full article content beyond the headline and source information you've provided. To give you an accurate summary with specific details about which restaurant is closing, the reason for closure, and why visitors should care, I would need the complete article text.\n\nCould you please share the full article or additional details? That way I can provide a concise 2-3 sentence summary with the practical information you're looking for."
                 },
                 {
                     "title": "Only one Newcastle pub named among Good Food Guide's 100 Best Pubs 2026 - Hexham Courant",
@@ -143,31 +151,23 @@
                     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNREx6WmkxbUkzVGd1SEluSE9STGljdmZNOEpRT2JtTHpHaFhaSlFXWkp3LXBzd0hOV2JSOEk1ZEdTZHEwOWRVWmM1V1BpV3ZxdUtWT0MyNHI3dVNmaHdwdlZZOWtCdHNMX2wzWUlEWHhnYUVUS21HUHdfMGhLR3hFQW5CN29kaElIT0Vzdm45SERUYlFrak9PMDZXNzc5SWo1TXNWZWhB?oc=5",
                     "publishedAt": "2026-11-03T05:00:00.000Z",
                     "language": "en",
-                    "summary": "# Summary\n\nOnly one Newcastle pub has been recognized in the Good Food Guide's 100 Best Pubs 2026 list, though the article doesn't specify which establishment made the cut. Visitors to Newcastle looking for dining recommendations should know that the city has limited representation in this prestigious national guide, meaning they may need to venture beyond the most highly-rated pub options or look to other dining sources for quality recommendations."
+                    "summary": "# Summary\n\nOnly one Newcastle pub has made it onto the Good Food Guide's prestigious list of 100 Best Pubs for 2026, though the article doesn't specify which establishment received this recognition. Visitors to Newcastle looking for high-quality pub dining should seek out this recognized venue, as being featured in the Good Food Guide is a significant marker of quality and reputation in the UK food scene."
                 },
                 {
-                    "title": "Dave’s Hot Chicken to open second Newcastle restaurant at Metrocentre - restaurantonline.co.uk",
-                    "source": "restaurantonline.co.uk",
-                    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOZVg0b1VGWTF2dFloTHdxTEo5UG40aTFobHdiMXNNWGVtYXhfV05HcnRoS2k2a3NKcHNwaUI1bXhNNGhRdmNEVlFzRWFyNDVvRVk5VVFHaWt1dkpxU1hrTUlEaFpQNU1ObjZoY25rUTVSVmpJdlBsbVNqQzB4QlRPVEp0RVpJVVZNWGZYR2E2VDZySjJaXzVFNVVqUXN3Z0piS2tHZzBzTmFwX2pKZVM0cXN2MkYzQXNldGhXOFo1S08?oc=5",
-                    "publishedAt": "2026-11-04T09:21:41.000Z",
-                    "language": "en",
-                    "summary": "# Dave's Hot Chicken Opens Second Newcastle Location\n\nDave's Hot Chicken, a popular chicken restaurant chain, is opening its second Newcastle location at the Metrocentre shopping center. This expansion gives Newcastle residents and visitors another convenient spot to try the restaurant's signature hot chicken offerings without traveling to their first location. For food lovers visiting or shopping at the Metrocentre, this new restaurant provides an additional dining option in a major retail hub."
-                },
-                {
-                    "title": "Man charged with threatening Black Garter bouncer in Newcastle with food processor blade - Chronicle Live",
+                    "title": "Exclusive first look inside Christmas on Grey Street as stunning festive bar to open in Newcastle - Chronicle Live",
                     "source": "Chronicle Live",
-                    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPTDhMa21ucHg1U3BnQjAxMFJ2bmI0M29TV2o0d3Jkb3dPQzVNX2NqR3h1dG90LW9feElyS0xmZ3lYOWc4MVhTM1FaWUJnZWJpcUJqLVRaNThlb1NwaW9oRDdGX1dGOU52Vm9CTTVUanVpbm9pNGpsTU1xbVMtZVltUkI1SFF3Y1ByLW5XTGxvMW1FSW1CQzBMNGV2elhEVFk?oc=5",
-                    "publishedAt": "2026-11-06T00:59:00.000Z",
+                    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOdGpTNXNaOU4yQ0pHRW9aTkRrZFdCc1kyUHNuY0dicDRGYS1hM0E5MUZ1ampKTnJqcmV1c2FOU2R5YjE1NlYwNzN2V3dUbmNwYTlXeURVaE5MN09RMW5yWlRmVHNTMTRuZDNrczVaMG9zclI5bXlaU24tSzZZQWFlU19wamxuLThvVXpDOFdJMGhXa09YN3BKa2x0T0tiSy1kY1h30gGoAUFVX3lxTFBhTGZwVHpDcFhCdFZaQmlVWFZqLWZmcGlzMkVKYkhlWnkxT1ZMUXRDNmR3MnAzeWJNOW1LWjJhWGZmajNqTHZWeExPLVZSRVJ5WXJVc1JmVzJhOGx5b2tmem5rNFJWTTM4OXY5Rk4zUWx4UFpCM2QzN3Z3QXVZckNoNDY2N2lIYUwyaVpHNzRzOG5wdV9PcFZIX0lDdVE0VkdkMDVoSGRuSQ?oc=5",
+                    "publishedAt": "2026-11-06T20:06:37.000Z",
                     "language": "en",
-                    "summary": "# Summary\n\nA man has been charged with threatening a bouncer at Black Garter, a venue in Newcastle, using a food processor blade. While this is primarily a crime story rather than food news, it involves the Black Garter establishment in Newcastle city center. Visitors to Newcastle should be aware of this incident at this popular nightlife venue, though it appears to be an isolated criminal incident rather than an issue with the venue's operations."
+                    "summary": "# Summary\n\nA new festive bar called \"Christmas on Grey Street\" is opening in Newcastle and offers an exclusive Christmas-themed dining and drinking experience. Visitors to Newcastle during the holiday season would appreciate this as a dedicated seasonal destination for festive celebrations, drinks, and dining in an elaborately decorated setting. The venue represents a timely addition to the city's hospitality scene for those seeking immersive holiday entertainment."
                 },
                 {
-                    "title": "Newcastle Had 17 Shots, Two on Target and No Answer as Jaissle Is Booed Off - The False 9",
-                    "source": "The False 9",
-                    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPTmI0QnRYX25MdnhXVnNocXRmUGtDWndoVWZNb203eXAzTld4NmtUT2JOZGFVQy1yeTFtdnJIMWJQYUhpSTJnWE9Yc3FrT1pBYXJFT01wS3YyQ2kyeEJvZE5zUG45NE9BN2xPOGhRQ3lHUURZWXlfYWRvdW51LWNBNjFsbmp3c3VoTFFoTkU3UQ?oc=5",
-                    "publishedAt": "2026-11-03T07:10:28.000Z",
+                    "title": "'Something big is coming' Newcastle pub to undergo £3m transformation as big plans revealed - Chronicle Live",
+                    "source": "Chronicle Live",
+                    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQXzBlUTVJdEZVOVpITWo1N2dZOXljM3VFNUY2cS1aM2xBV1ktYWRXYW5INXBhaXowbkFqVFFVSkZCWHd2bU1FYlFNYkRMODhjWlJpRk9HZ0tXM1BLb1BXLVpGdE9mbmpXa3hKc2E0UEh2ZTlBdFNMam1SYVIzcmkwNnZodFdHQnZjRU5NY0NtbENuaE9kZmZFSHU2RTR6QWlBdVHSAacBQVVfeXFMUEVJTk4wUVExMlZZbWd3blR0YWE2RWZERnlQSzlfOXFxcU12M29MYk0xWE93dmVPcDRMc1NVZE5ucTBfN0pRX3FZOU5Hcm1oYW1NNFRYVmVxTk9STEJlUDdtYWtTRHVRNGxPNzZCamZHXy1CdmRYOVZtWllNa1dkMS1wSTk3eVppcGFVVms5akJ3dzFQUDhjbUxtZjJ1UVV3TzhoMlFtaG8?oc=5",
+                    "publishedAt": "2026-11-06T10:07:00.000Z",
                     "language": "en",
-                    "summary": "I can't summarize this as a restaurant/food news article because it's actually a sports article about Newcastle United's football (soccer) match performance and their manager Jaissle, not about food or dining. The title and content discuss a game with 17 shots and fan disapproval, which has no relevance to restaurants or food venues.\n\nIf you have a food/restaurant article you'd like summarized, please share that instead!"
+                    "summary": "# Summary\n\nA Newcastle pub is undergoing a £3 million transformation as part of major expansion plans. While the article doesn't specify the pub's name in the snippet provided, this significant renovation indicates a popular local establishment is being reinvented. Visitors to Newcastle should care because this suggests an upgraded venue with improved facilities and likely enhanced food and drink offerings will soon be available."
                 }
             ]
         },
@@ -180,7 +180,7 @@
                     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPNVBlYlBBNjVRTEpQNkNub3RyQkVUSGxydlYxczVyVjZ2ckctLVlXMHdudml5UUZ3ZUQtNDA4cUpWXzNnS0U3U2thOGs5SFlZbk5QMmVLSFhzYWxLTnRoMEpFOV8wa1NQNDJ5M00tckE4cEZ5VkdGZUFHN3pJZDJmTVFKS3R0SUc0NjlxWUZzN3hmMG5DSUM0Z0d1STJ0UQ?oc=5",
                     "publishedAt": "2026-11-02T15:42:17.000Z",
                     "language": "en",
-                    "summary": "I don't have access to the full article content beyond the title and source information you've provided. To give you an accurate 2-3 sentence summary focusing on what's new at Restaurant Tchaikovsky in Tallinn, why visitors should care, and specific details about the changes, I would need to read the complete article text.\n\nCould you share the article content or a longer excerpt? That way I can provide the practical summary you're looking for."
+                    "summary": "I don't have access to the full article content needed to provide an accurate summary. While I can see the title mentions Restaurant Tchaikovsky in Tallinn is undergoing some kind of change or new chapter, I would need the article text to tell you specifically what's happening, why it matters, and what visitors should know about it.\n\nIf you can share the article text or more details, I'd be happy to create that 2-3 sentence summary for you."
                 }
             ]
         }
