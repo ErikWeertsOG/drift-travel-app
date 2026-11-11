@@ -1,33 +1,41 @@
 {
-    "lastUpdated": "2026-11-10T13:54:10.984Z",
+    "lastUpdated": "2026-11-11T13:07:06.088Z",
     "source": "github-actions",
     "cities": {
         "cologne": {
             "places": [],
             "news": [
                 {
-                    "title": "Verbot im Karneval: Kölner Kneipe lässt Jecken mit diesen Kostümen nicht rein - t-online – Köln",
-                    "source": "t-online – Köln",
-                    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNRHVIbHRTTnRDbTZjR1ZYN0JNeEY0U29wcmZBWk5VTFNEZi1KSEVLTlVSSTVROG8xdmhEUk0xaThoYktCenZ3OERIM0kwQ29BR281MC0wRERmLVBPRlNCRzBVZU5pQlM0ZmhseXJkX0lIdE5qR0ZzWXlUbkxOM3JwdkNsLWpVU3RNcUZrRUFsLWcwMGV0ejlwajJ3Q0c2VnhMYmMtY2ZueXkxUGhPVHNnZU00UC04ajJHT0steHR0RXdoTjA?oc=5",
-                    "publishedAt": "2026-11-10T09:04:44.000Z",
-                    "language": "de",
-                    "summary": "# Summary\n\nA Cologne bar has implemented a costume ban during Carnival season, refusing entry to people wearing certain costumes. While the specific bar name and costume restrictions aren't detailed in the snippet provided, this is relevant for visitors planning to celebrate Carnival in Cologne, as they'll need to check dress code policies before heading to bars during the festivities. This reflects broader efforts by some establishments to maintain order and safety during the traditionally rowdy Carnival celebrations."
-                },
-                {
-                    "title": "Kölner Torburg ist Musikkneipe des Jahres - Radio Köln",
-                    "source": "Radio Köln",
-                    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPX2luVGdqZkJncDU3aEpPZmVXSEZEZHRLQVVYd2xISHA5Y0pJQkZ2dnhNTGplcmRrQVkwbkRuclJ1ZUJaZnVVRkVVNHJtRGRmT1Q4dHdrTnVneE1lM1pSMmJ4R29UaFZIcWNIamhwSElaN1lMeFFBR05IMlJ0SEVzZHRzeGtCR0t6WVlCcQ?oc=5",
-                    "publishedAt": "2026-11-10T04:58:00.000Z",
-                    "language": "de",
-                    "summary": "# Summary\n\nI apologize, but the article snippet provided is too brief to create a meaningful summary. The title only mentions that \"Kölner Torburg\" (a bar in Cologne) has been named \"Music Bar of the Year\" by Radio Köln, but the snippet lacks details about why it won, what makes it special, or why visitors should care.\n\nTo provide a useful 2-3 sentence summary focusing on what, where, and why someone visiting should care, I would need the full article text."
-                },
-                {
                     "title": "11 Restaurants in Köln, in denen ihr heiße Suppe essen könnt - Mit Vergnügen Köln",
                     "source": "Mit Vergnügen Köln",
                     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFAwSUExVDdwRWc4d1Ixdjh3ZW9BanhfZHZwM0V6NXVHVF84VmNaLUU0V1o0emxRbmMzVDVWSDc5Z05IdEJnVi1acUI1QXhfWlNiYTJkM2xZdHl4MGM0eWc?oc=5",
                     "publishedAt": "2026-11-07T12:08:33.000Z",
                     "language": "de",
-                    "summary": "# Summary\n\nThis article highlights 11 restaurants in Cologne (Köln) where visitors can enjoy hot soup. While specific restaurant names aren't provided in the snippet, the guide would be useful for anyone visiting Cologne looking for warm, comforting soup options, particularly during colder months. Travelers seeking local dining recommendations with a focus on traditional soup dishes would find this resource practical for planning meals."
+                    "summary": "# Summary\n\nThis article from Mit Vergnügen Köln highlights 11 restaurants in Cologne where visitors can enjoy hot soup. While the article doesn't specify individual restaurant names in the provided snippet, it's a practical guide for anyone visiting Cologne looking for comforting soup options during colder months or seeking traditional local fare. Visitors would find this useful for discovering diverse soup-focused dining spots across the city."
+                },
+                {
+                    "title": "Torburg in Köln ist die beste Musikkneipe Deutschlands - RTL.de",
+                    "source": "RTL.de",
+                    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQU1Z1NzNpNkNhN1J2VlVqcG1PUnlYZHBqVjc4a19la1NfcFlzSTlFQVg4Ti1Ba3lIcHZyV29rQnV1ZWtIRVg1Q2pidk02TEU1clVxdFdfRE1JTVJqU280ZE5ua1JXdkpWZUxLSjJnbTlwcWVhRDZxMnhBSlFfM1NTMURlTlpUcklsalRTUUFNRThLOVBHLWhiczBLYzlPdE1v?oc=5",
+                    "publishedAt": "2026-11-10T17:41:56.000Z",
+                    "language": "de",
+                    "summary": "# Summary\n\nTorburg, a music bar in Cologne, Germany, has been named the best music pub in the country. Visitors to Cologne looking for live music entertainment combined with drinks and a local atmosphere would want to check out this highly-recognized venue."
+                },
+                {
+                    "title": "Beste Musikkneipe liegt in der Südstadt - Westdeutsche Zeitung",
+                    "source": "Westdeutsche Zeitung",
+                    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPQVE3Y3puOU5fUnU3MnV5SXlGc3pCN29yOGg1bkdrakROTmRDOFNPdTg5YTR1SGZCQmNocUU0cFlrY1lZSmJyak5WblYxUXVuZXg4ZUQwWl9JZkUxRE1ST1Y0UHUwb0tiM19sV1ZvbUZNcko0RmhYelpVWUFOX0ZPRnhaTXdVel94WUMxT0NGTXluelJ6a0didTZJY3c2YXYtTGJYNlhzS2F2QV9IVk00cFFmcDg?oc=5",
+                    "publishedAt": "2026-11-10T22:20:00.000Z",
+                    "language": "de",
+                    "summary": "I appreciate you sharing this article, but I'm unable to provide a summary because only the title and source information were provided—not the actual article content. The snippet doesn't contain the details needed to explain what the news is about, which specific music bar (Musikkneipe) in the Südstadt (South City) was recognized, or why visitors should care.\n\nTo help you, please share the full article text, and I'll gladly summarize it in 2-3 sentences focusing on those key points."
+                },
+                {
+                    "title": "Verbot im Karneval: Kölner Kneipe lässt Jecken mit diesen Kostümen nicht rein - t-online – Köln",
+                    "source": "t-online – Köln",
+                    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNRHVIbHRTTnRDbTZjR1ZYN0JNeEY0U29wcmZBWk5VTFNEZi1KSEVLTlVSSTVROG8xdmhEUk0xaThoYktCenZ3OERIM0kwQ29BR281MC0wRERmLVBPRlNCRzBVZU5pQlM0ZmhseXJkX0lIdE5qR0ZzWXlUbkxOM3JwdkNsLWpVU3RNcUZrRUFsLWcwMGV0ejlwajJ3Q0c2VnhMYmMtY2ZueXkxUGhPVHNnZU00UC04ajJHT0steHR0RXdoTjA?oc=5",
+                    "publishedAt": "2026-11-10T09:04:44.000Z",
+                    "language": "de",
+                    "summary": "# Summary\n\nA Cologne bar has announced a costume dress code policy for Carnival season, refusing entry to patrons wearing certain costumes. While the specific bar name and prohibited costume details aren't fully clear from the snippet, this is relevant to visitors planning to celebrate Carnival in Cologne, as they'll need to check costume restrictions before heading to bars during the festivities."
                 }
             ]
         },
@@ -35,12 +43,12 @@
             "places": [],
             "news": [
                 {
-                    "title": "Tientallen horecaprominenten sturen brandbrief over verhoging toeristenbelasting in Amsterdam - Misset Horeca",
-                    "source": "Misset Horeca",
-                    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOdGJILWJ1X0gxQVU3Y1JIMWxuWTMtcGpwNmlfbTg0dl8xUUkzYUMzblVUY25GV01mUFNKMXlCckMwcTVmMlp3d2U5eGRsdGRod3RaVEU4bU1uTGQ1UHlra2VQQnJ5VDVGV25YaC1wME52WUZvcHpiZ3JDaFdNOWZfNk5iQmtidzAwTFo1R2JUOFEtMGYtSHFJMkpZaG5mbUJMeWc?oc=5",
-                    "publishedAt": "2026-11-10T10:46:09.000Z",
+                    "title": "Pulitzer’s Bar in Amsterdam serveert cocktails met eigen soundtrack - Entree Magazine",
+                    "source": "Entree Magazine",
+                    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNNDg2WnZtQmZUYU91dGlSSWVuaEFDNUo0UEpxVXMtelBhTnlUeS1Ud044RXo2cDhIN1ZWbGNBR2RrV0Q1eERjNWV2US1oelJQS1k0VkdpOHRVcFZwaThqVmpxclFQWmRUSnJ4UnJYZVNTZTl6R2kyTWRYdnZfTGlWakRubEo5bnVIN1VVVVJDRDNtaFhTd2RIR0xteEdhNnRKcjFCcHg3Vmk1OW8?oc=5",
+                    "publishedAt": "2026-11-11T12:17:54.000Z",
                     "language": "nl",
-                    "summary": "# Summary\n\nMultiple prominent Amsterdam hospitality figures have sent an open letter protesting the city's planned increase in tourist taxes. The letter doesn't highlight a specific restaurant but represents a collective concern from the hospitality industry about rising costs that could affect dining and service prices. Visitors should care because higher tourist taxes typically get passed on to consumers through increased restaurant and bar prices, potentially making Amsterdam's already expensive dining scene even costlier."
+                    "summary": "# Summary\n\nPulitzer's Bar in Amsterdam now offers a unique dining experience by pairing cocktails with custom-created soundtracks, blending mixology with personalized music. This innovative concept sets the bar apart from typical cocktail venues and creates a more immersive, multi-sensory experience for guests. Visitors to Amsterdam looking for distinctive nightlife experiences beyond standard bars would appreciate this creative approach to cocktail service."
                 },
                 {
                     "title": "Een vertrouwd gezicht achter de bar - Gemeente Amsterdam",
@@ -48,23 +56,23 @@
                     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOeXJrRmcxUXdabGx5VVhaeklONldkUXhzZlpzN2JYMXZTemFNMG1BVjU3VHAybVZyNHU3dkE4Q0lSMjFYUXZNTk1IeWN2ZXVmcHRYbEdnbW1IdjF0ZzRYZVZ6aDJWMi0ySERqZDlENDBKYmlnM3dRY1NQV0xXZ2dtNnRLTQ?oc=5",
                     "publishedAt": "2026-11-09T11:19:34.000Z",
                     "language": "nl",
-                    "summary": "I appreciate you sharing this, but I'm unable to provide a meaningful summary based on the information you've provided. The title \"Een vertrouwd gezicht achter de bar\" (A familiar face behind the bar) and snippet are too vague—they don't specify which restaurant is being discussed, what the actual news is about, or why it would matter to visitors.\n\nTo give you a useful summary, I would need:\n- The full article text\n- The specific restaurant name\n- Details about what happened (new opening, staff change, closure, etc.)\n\nCould you share the complete article or more details?"
+                    "summary": "I appreciate your request, but I'm unable to provide a summary because the article content wasn't included—only the title and source information were provided. The title translates to \"A familiar face behind the bar\" from Amsterdam Municipality, but without the actual article text, I cannot tell you which specific restaurant is featured, what the news is about, or why a visitor should care.\n\nCould you share the full article text so I can create the 2-3 sentence summary you're looking for?"
                 },
                 {
-                    "title": "Restaurant De Salon in Amsterdam-West - Barts Boekje",
-                    "source": "Barts Boekje",
-                    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9HajY0b053eEowZV9pbDhEaWZ5LUhWMGNxbkw2dGJ0UlkwRHdNYURvNU94ZzZiSmhHQ1NVbTVDc3ZGbGZVRGs3dzdCdEpUMkJPR0xpTUFIZE9vbUlYdlJPMFFYS0I5QkEwOWc?oc=5",
-                    "publishedAt": "2026-11-09T11:13:35.000Z",
+                    "title": "Stien (32) en Geert (26) ontmoetten elkaar in bar San Francisco op de Zeedijk: ‘We logen allebei over onze leeftijd’ - Het Parool",
+                    "source": "Het Parool",
+                    "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOVVE4TlpaZGlqT3dZd0p0T2l0Wmt5VENQMWR5REVXcWd3TVBxV2I1X3EzZlRIaUVYcDVqUTJIZ2lDVjVOYlJMaUlQc0FQbHE4aEJGUkVQc0tGV3IwU2xhaXdSa0plUTRHWGV5cTdySE41NU93ajJ2TUZBWnhIZHVUVUlOX2VnYlc0T3gzTnh6RUtmRlI2UUg1dzhjbjRMc2Y5aDRzc3FzM00tR2FDNEtzbnFoTWswLXZyRDNqXzEwR2prX1ZMa1FDVmtEblJFa3k2c05NUUJ1WTJWOHNt?oc=5",
+                    "publishedAt": "2026-11-11T02:00:30.000Z",
                     "language": "nl",
-                    "summary": "I appreciate you wanting me to summarize this article, but I'm unable to provide a meaningful summary based on what you've shared. The information provided only includes the title and source without the actual article content or snippet details. \n\nTo give you a useful 2-3 sentence summary focusing on what the news is about, the restaurant details, and why visitors should care, I would need access to the full article text. Could you share the complete article content or the detailed snippet?"
+                    "summary": "# Summary\n\nThis article is a human interest story about two people, Stien (32) and Geert (26), who met at **San Francisco bar on Amsterdam's Zeedijk** and humorously both lied about their ages when they first met. While not a traditional food/restaurant review, the piece highlights San Francisco as a social venue worth visiting on the Zeedijk if you're looking for a place where interesting encounters happen."
                 },
                 {
-                    "title": "Ron Blaauw sluit restaurant in Zuid: \"Horeca is niet meer wat het was\" - AT5",
-                    "source": "AT5",
-                    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOSkNWbWNGemR5emV1RTV1YzZOTmtCamFLZDg2ME1OdThPQlM2QTRTQi1xOFN0ZFJyUnpCb2UxcmFEcnpudjBHRWdSVVVWWGw2dlYwY2xMRmZEUGV5MnFaWUFEd2ZJT0JjODVhaVpEMGVua1pSa1RyelRTeUNIV2N2MUpNNlk?oc=5",
-                    "publishedAt": "2026-11-06T01:01:00.000Z",
+                    "title": "Mis het niet: tijdelijk exclusief driegangenmenu bij Jansz. voor slechts €49 (inclusief goodiebag én welkomstdrankje!) - JAN Magazine",
+                    "source": "JAN Magazine",
+                    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE4tal94Vlg5dnJid0VkMnc5NTNLckhiNmRmLWxpV1cyOVY3eVE1eDRRdlVOOFFYTlo1QVc0MDMtMXRPR0RXSVJHSTRxZC1rU1pLZWZCNEdrdkF4RklBaktFQkpLaWNET1M2RWtJeFpDcXlHcnc?oc=5",
+                    "publishedAt": "2026-11-10T23:46:04.000Z",
                     "language": "nl",
-                    "summary": "# Summary\n\nI appreciate your request, but I'm unable to provide a complete summary because only the headline and source information are visible—the full article content wasn't included. From the title alone, I can tell you that chef Ron Blaauw is closing a restaurant in Amsterdam's South district, citing that \"the restaurant industry is no longer what it was.\"\n\nTo give you a practical summary about why visitors should care, I'd need access to the full article details. If you can share the complete article text, I'd be happy to provide a concise 2-3 sentence summary with the specific restaurant name and relevant details for travelers."
+                    "summary": "# Summary\n\nRestaurant Jansz. is offering a limited-time exclusive three-course menu for just €49, which includes a welcome drink and a goodie bag. This is an exceptional deal for visitors looking for high-quality dining at an affordable price point. Anyone visiting the city should take advantage of this promotional offer while it lasts, as it provides significant value for a multi-course meal at what appears to be an upscale establishment."
                 },
                 {
                     "title": "Ron Blaauw (59) stopt na 14 jaar met zijn gastrobar: ‘Horeca is niet meer wat het was’ - De Ondernemer",
@@ -72,7 +80,7 @@
                     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNNHZ6NTdWQkpKT243TEYyMTN0RU1fTE11T1kwbFhLZGEwdjZHTGJ2UzdGY0RQZC1LS29qYVpmeWtmc2wxVUJ3blI3T3dDZHRHR3ZMRDZPS2NkQWhPQVVlcXRGSjdEeVFPVnVzUnhxUVVqbmJ3LU5oS3U0bGh5Q2t0UGNsVEVSeFdqVmFTZEhWVXZDNmtDMG90MXc2TmhEXy1iMmxDaTBYVlFnUldvM0xHRk1xWUJqeWs?oc=5",
                     "publishedAt": "2026-11-06T09:53:13.000Z",
                     "language": "nl",
-                    "summary": "I don't have access to the full article content beyond the title and snippet provided. However, based on what's available:\n\n**Ron Blaauw, owner of a gastrobar, is closing his restaurant after 14 years of operation, citing that the hospitality industry has changed significantly.** While the snippet doesn't specify the location, visitors to the city where this gastrobar was located should know that this dining spot will no longer be available. **The closure reflects broader challenges facing restaurant owners in the current hospitality landscape.**\n\nTo provide more specific details about why visitors should care (such as the restaurant's location, cuisine style, or reputation), I would need access to the full article."
+                    "summary": "# Summary\n\nRon Blaauw is closing his gastrobar after 14 years of operation, citing that the hospitality industry has fundamentally changed. The 59-year-old entrepreneur's decision reflects broader challenges facing the restaurant sector. Visitors to the city should note that this popular dining establishment will no longer be available, marking the end of an era for this long-standing venue."
                 }
             ]
         },
@@ -80,12 +88,20 @@
             "places": [],
             "news": [
                 {
-                    "title": "“Dit is echt gestoord”: Antwerps restaurant Fuzz van chef Tom Loockx is slechts zeven weken open en al ‘Opmerkelijkste Nieuwkomer’ in Gault&Millau - HLN",
+                    "title": "Deze 120 restaurants uit Antwerpen staan in de nieuwe Gault&Millau - HLN",
                     "source": "HLN",
-                    "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQZFZMU012SURaRy1wRF9FLWx2T2x6LTlqQnp6bTlZQXBXWmhjdHFvNkdDYkdsY3NKVWdxb0Q2Mkd2MEUwTmZVRy1KejVvZ1gyZjh2UVVmVlNLRkxSMVNacmxpYnctZ1U3eVRkdFVjVHBsc0FsdUx4SmZEbkxtdzdDY0FKN3JidnhlLUN6eFU2cldHV3o0X1ZQVzhTVjNrdWk0LTU5MHZmSTZsSmxSRTltcmJHNEtwanZTSkQ2eWh4bEFKWC1xRFlueUs2ampFYTNkcWZYUUhSNDlJNDViUi1HaTNaSUR4bHhra3ZIZ3FCQV83aFY0VEVBT0R2cDk2LXpHYUZCSUV5ZWRqTUluSWc?oc=5",
-                    "publishedAt": "2026-11-09T15:15:00.000Z",
+                    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxONXh2Q29iWTJMQTA0YjVjRVpEbVIwTkk4dlJWYVdKVnAxUlJaX25EM21MUmxSY1ZJX2lkdHd0aHFaMFNmRFo5MDZ4emUza3Z3bUI1cElNS2pTNHJ3UjkyeHY2RUdEd2Z6TEREN28tbmIybkZ5d3dGQy12QnBCSk5UeFgzNVNQc0k3dlBUbFoxM09VMEdOS3NzeEhya0dfbmRycGtnUDNoVTk3Zw?oc=5",
+                    "publishedAt": "2026-11-09T14:45:00.000Z",
                     "language": "nl",
-                    "summary": "# Summary\n\nChef Tom Loockx's new restaurant Fuzz in Antwerp has achieved remarkable recognition, being named \"Most Notable Newcomer\" in the prestigious Gault&Millau guide after just seven weeks of operation. This is an impressive accomplishment for a newly opened restaurant and signals exceptional quality dining. Visitors to Antwerp should take note of this restaurant as it's already garnering critical acclaim from Belgium's top food critics."
+                    "summary": "# Summary\n\nThe prestigious Gault&Millau restaurant guide has listed 120 restaurants from Antwerp in its latest edition. This is significant for visitors because Gault&Millau is a leading culinary authority that identifies and rates quality dining establishments, helping travelers quickly identify the best restaurants worth visiting in the city. Knowing which Antwerp restaurants made this selective list makes it easier to find acclaimed dining options during a visit."
+                },
+                {
+                    "title": "De raket van het Panamarenkoplein: restaurant Nebo stijgt vierde keer op rij bij Gault&Millau en dat is heel straf - GVA",
+                    "source": "GVA",
+                    "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxObHFXZTlMaHBpMUR3d0NwT1N3S2ZXb2ZtdDRza0RkWHBPMmpsMUJhYjMxcFdSTEIzRkpCTUVqdmVhc0l3eGlER0pIaWFKS3l1MkM5RjJlclltTHE3cW5Qcno4dkRQOWFxSnY4YkdqZE1ZTUgzUGh2SnlBdkM1VEtMYy02M05oTVZJeWhMRmMxRDFndFM0eHdUbG1VNl9ySlo0MzU0Vk11dUtKMVplRzJIUGt2bFdfczBoYVRtNGljVE55NjlfQjhRRk5ScU1YQVR0OGktc21nVHFJWVRnTUwtWEl1Y0o1Q1pIczJPbUxncmpTd1oyX3dkMHNTT1NBc3UzdE5kZFp5cHV6THNXd09tMzJKVG4zX1U?oc=5",
+                    "publishedAt": "2026-11-11T00:16:55.000Z",
+                    "language": "nl",
+                    "summary": "# Summary\n\nRestaurant Nebo on Panamarenkoplein has been ranked up by Gault&Millau for the fourth consecutive year, making it one of the city's rising culinary stars. This consistent recognition indicates the restaurant is delivering increasingly excellent food and service. Visitors to the city should take note, as Nebo appears to be a top destination for quality dining with a strong upward trajectory in Belgium's most respected restaurant guide."
                 },
                 {
                     "title": "Boury opnieuw op 1, Gert De Mangeleer beste chef: dit zijn de beste restaurants volgens Gault&Millau - VRT",
@@ -93,31 +109,23 @@
                     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE4tRDIwN0stZzRGTkVTNmg0UFhwY21FaGFZOUFWRzNmLUtrb2VWcWxEc0pIdTk5dVJudGE3TWY4S0I5M0w1NlNhbkxKeWRVV3dQM09JbXdtNlNSOGVxYVdSMm5YaWktVUdkTENPbERKM2JEZWtNV1E?oc=5",
                     "publishedAt": "2026-11-09T14:56:09.000Z",
                     "language": "nl",
-                    "summary": "# Summary\n\nBoury has been ranked #1 again in the latest Gault&Millau restaurant guide, with chef Gert De Mangeleer named Belgium's best chef. Visitors to Belgium should care because this ranking identifies the country's top dining destinations, making it a reliable guide for finding exceptional restaurants worth visiting."
+                    "summary": "# Summary\n\nBelgium's Gault&Millau guide has released its latest restaurant rankings, with **Boury** reclaiming the top spot and chef **Gert De Mangeleer** named best chef in the country. Visitors to Belgium should care about this because Gault&Millau is a prestigious culinary authority that helps diners identify the finest dining experiences available."
                 },
                 {
-                    "title": "Gert De Mangeleer (49) vindt zichzelf opnieuw uit in Antwerpen en is Chef van het Jaar: “Soms pinken de gasten een traantje weg” - GVA",
-                    "source": "GVA",
-                    "url": "https://news.google.com/rss/articles/CBMipgJBVV95cUxOMjJLVG84OWFndnllbnQ0Q0tLZlpYR2NNZW55cTE0SDNuU0taUmI5LWlnWmRIZ1NlQU1hVWN6V1RmajRwNGFMaXVzS2tOQjdGR205ek0wUVNCcktabkFFQlBVcWFVSlE1eWZoRXV2SDQtekpxd1JkMHFqbVB5Ykc3QjBLb1FabHlUYWJCYXo2S1YtNkVvU1JYWldDTzdCd3pxNS1mNkFFWEw2Wm1NM0Jqbkx4RXBCRnQ4MmJDVzBUTWlKRW5Ca2daOC14cXAwckRFcVNjUUtlMjRnTmFVOHF3Z0doZUE4MmtZY0JId3NUMW5OemVCLTRWY2NrNnJicllpSC1vVkh6VVpWT3JPb3FiTU1mYUJTc3pnRWZOUl85bWNCUjNmTlE?oc=5",
-                    "publishedAt": "2026-11-09T15:39:44.000Z",
-                    "language": "nl",
-                    "summary": "# Summary\n\nGert De Mangeleer, a 49-year-old chef, has been named Chef of the Year and has reinvented himself with a restaurant in Antwerp that's known for emotionally moving dining experiences. His food is so impactful that guests sometimes get tearful during meals. Visitors to Antwerp should know about this acclaimed chef's restaurant if they're looking for exceptional, emotionally resonant cuisine."
-                },
-                {
-                    "title": "Deze 120 restaurants uit Antwerpen staan in de nieuwe Gault&Millau - HLN",
+                    "title": "“Dit is echt gestoord”: Antwerps restaurant Fuzz van chef Tom Loockx is slechts zeven weken open en al ‘Opmerkelijkste Nieuwkomer’ in Gault&Millau - HLN",
                     "source": "HLN",
-                    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxONXh2Q29iWTJMQTA0YjVjRVpEbVIwTkk4dlJWYVdKVnAxUlJaX25EM21MUmxSY1ZJX2lkdHd0aHFaMFNmRFo5MDZ4emUza3Z3bUI1cElNS2pTNHJ3UjkyeHY2RUdEd2Z6TEREN28tbmIybkZ5d3dGQy12QnBCSk5UeFgzNVNQc0k3dlBUbFoxM09VMEdOS3NzeEhya0dfbmRycGtnUDNoVTk3Zw?oc=5",
-                    "publishedAt": "2026-11-09T14:45:00.000Z",
+                    "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQZFZMU012SURaRy1wRF9FLWx2T2x6LTlqQnp6bTlZQXBXWmhjdHFvNkdDYkdsY3NKVWdxb0Q2Mkd2MEUwTmZVRy1KejVvZ1gyZjh2UVVmVlNLRkxSMVNacmxpYnctZ1U3eVRkdFVjVHBsc0FsdUx4SmZEbkxtdzdDY0FKN3JidnhlLUN6eFU2cldHV3o0X1ZQVzhTVjNrdWk0LTU5MHZmSTZsSmxSRTltcmJHNEtwanZTSkQ2eWh4bEFKWC1xRFlueUs2ampFYTNkcWZYUUhSNDlJNDViUi1HaTNaSUR4bHhra3ZIZ3FCQV83aFY0VEVBT0R2cDk2LXpHYUZCSUV5ZWRqTUluSWc?oc=5",
+                    "publishedAt": "2026-11-09T15:15:00.000Z",
                     "language": "nl",
-                    "summary": "# Summary\n\nThe prestigious Gault&Millau restaurant guide has recognized 120 restaurants in Antwerp in its latest edition. This is significant for visitors because Gault&Millau is one of Europe's most respected food critics' guides, so these listed establishments represent the city's best dining options across various price points and cuisines. If you're planning to eat well in Antwerp, these 120 restaurants are the ones worth prioritizing."
+                    "summary": "# Summary\n\nChef Tom Loockx's new Antwerp restaurant **Fuzz** has achieved remarkable recognition in just seven weeks of operation, earning the \"Most Notable Newcomer\" award from prestigious Belgian food guide Gault&Millau. This is an unusually fast accomplishment for a new restaurant, making Fuzz a must-visit destination for food enthusiasts visiting Antwerp who want to experience cutting-edge cuisine from an acclaimed chef."
                 },
                 {
-                    "title": "Gault&Millau stelt nieuwe gids 2027 voor: dit zijn de beste restaurants in jouw buurt - GVA",
+                    "title": "Den Bourgondiër Wilrijk: driegangenmenu en review - GVA",
                     "source": "GVA",
-                    "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNXzhFTWVZaUF6M2p0MGxOY1E2ZURQenVPbFMxdUhQQjQxZ2lFdjlhdFpqTUZENmg0VEdvZDlpSHdZdmd2bS1MSDJMTm1pZEVIZFlzWThQLXdPSGxGMW12N0d4TTJ3U0gzMXg0S1J3bkp2bFFWdTZoaDlPYUpvRXRuZ3JQVVozYmNnRkpBdlMzZU9qLVRULVBQRF9XZlRNTGFRZXRQbS1BdW9qNXlPdWp6ZTNYVnA0QzVFbTVqQnNPQklSaElXOE5LbldwM0FYTEhBaFI5OXZiVWQ2ems?oc=5",
-                    "publishedAt": "2026-11-09T16:01:04.000Z",
+                    "url": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxOVDdzdHVORHhScHgwaUhOQ01IV1RLVHFJMVU1djJGVkhQbEt4cnQ5UnhTQ1dtTXFmNWo5bjViTmlLdnkxcmdlQUhGc21hV054WXVwUDB1TzhfbnlnM05ibDcyQ29ZbW9WNkxlcm9fOGhabFZRQnlpRzV2V0NjbnlpS2NUQ0RlUkU2VldFTFZYdG9KUTNmSUUtNkxMeGtUUFVKVDAyV2FEai1zd3phN1c1QVREcWZ1aWFDXzRDbElteHIwRnlSc2FNd2dEam5IUjlsNjZMbXdoOWRhNHNhb2Rzb1dtWDJWVHhLcEktaEJwRWxrd2E2LWt6S0ZvcFJ0UUNwMXdLaXE2c2JTdnRlSFdYYVJoN2E2RF80c0ZiT2s0MWxCcmo1VHJHNEtUR1QyMjczSHJ1clg2Tmk?oc=5",
+                    "publishedAt": "2026-11-09T14:50:39.000Z",
                     "language": "nl",
-                    "summary": "# Summary\n\nGault&Millau has released its 2027 restaurant guide, highlighting the best restaurants in various neighborhoods. The article doesn't specify individual restaurants but serves as a resource for finding highly-rated dining options by area. Visitors to the city would find this guide useful for discovering quality restaurants recommended by this prestigious Belgian food authority."
+                    "summary": "# Summary\n\nI appreciate you sharing this article, but I'm unable to provide a summary because only the title and source information were provided—the actual article content/snippet is missing. The headline indicates this is a review of Den Bourgondiër Wilrijk (a restaurant in Wilrijk, Belgium) and mentions a three-course menu, but without the full article text, I cannot extract the specific details about why visitors should care or what the key news is.\n\nIf you can share the complete article text, I'd be happy to summarize it for you in 2-3 sentences."
                 }
             ]
         },
@@ -125,12 +133,28 @@
             "places": [],
             "news": [
                 {
-                    "title": "Estela juntou três mulheres e abriu um restaurante que serve saudade na Alameda - Mensagem de Lisboa",
-                    "source": "Mensagem de Lisboa",
-                    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPLUZSbG9kOGtsRmlRVGVwdVAwMlVCSGxPajBCRGJGMFpXcFdENGw5bGtOUWVVMEtSR3U3cjFXbGNnRzcxWExBTFk2Q3hLSXQ1Z2VTQU15RUUtbS1oUW44LTZNUTFrWmVvMmJKMHRCZmJDbkczQ09pRkk4R2t0ZERUMjIydjZuVGxBWFdoZTUyeHppNzBIZ2c?oc=5",
-                    "publishedAt": "2026-11-10T12:34:47.000Z",
+                    "title": "Carlos Ferreira: 30 anos a levar a gastronomia portuguesa ao Canadá - Dinheiro Vivo",
+                    "source": "Dinheiro Vivo",
+                    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNWHhJYjNIVWV0Y3dBU016YTN2dlE3M21BcVpQSmRnUWpOV2I0TFhYR3BfTHQzNUp2MXBPbGVjb3lfa3lTZm5jN1Jyemx5WlZ5MUc2dlRjTGRMWWJNWUNJVUEyYzBsc0lrcmJWdTFrNDdiUklwMDM3WGVKaHBBOFIwd0d5Nm5pSmNjeUtocHZfWUtDVGF2cGVv?oc=5",
+                    "publishedAt": "2026-11-11T11:18:28.000Z",
                     "language": "pt",
-                    "summary": "# Summary\n\nEstela and two other women have opened a new restaurant on Lisbon's Alameda that specializes in serving dishes with emotional nostalgia and comfort (\"saudade\"). Visitors to Lisbon would want to check this spot out for its unique concept combining female entrepreneurship with traditional Portuguese comfort food in a trendy neighborhood location."
+                    "summary": "# Summary\n\nCarlos Ferreira has been promoting Portuguese gastronomy in Canada for 30 years, according to this Dinheiro Vivo article. While the specific restaurant name isn't mentioned in the snippet provided, this celebrates a Portuguese chef or restaurateur's significant contribution to bringing authentic Portuguese cuisine to the Canadian market. Visitors to Canada interested in Portuguese food or culture would care about this as it highlights a long-established destination for genuine Portuguese dining."
+                },
+                {
+                    "title": "Morreu Luís Baena, pioneiro da cozinha de vanguarda em Portugal - Expresso",
+                    "source": "Expresso",
+                    "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNTWlfMnZGWVFQa21pMXJUN1NYQTh5SFVKVHdzYTV3UDBIamhDMXJZRkR6MGpIR1NFSDM2VVhZbUtyWV9mNEdkdHJxVVFOYTV6UXZJYXMxRlNxeGxfSzdBbWk1SkJ3am9GUFc0WmdMZnhNOENhYkNyLVpOSVEtSzBBckpfbVVsaDdGMWNNVlZ0c1NubVMxZ2kxMnoyZmFtRWNESGJSQjdOc1cwWHVNeEtFVzNLY1dIZXZsZ2JmOHc5SlQ2bl9IbG9EanRNbDd2OU1RWGYyRE5iejBqMnVWWkE?oc=5",
+                    "publishedAt": "2026-11-10T21:10:37.000Z",
+                    "language": "pt",
+                    "summary": "I can see this is a Portuguese article about Luís Baena's death, but the snippet provided is too brief for me to extract the specific details you're looking for. The title indicates it's about Luís Baena, a pioneer of avant-garde cuisine in Portugal, but I cannot identify which specific restaurant he was associated with or provide practical visitor information without more content from the article.\n\nTo give you an accurate 2-3 sentence summary with the details you requested, I would need access to the full article text."
+                },
+                {
+                    "title": "Fez figura durante décadas, fechou em 2026. Lisboa despede-se de restaurante da Rua do Paraíso - Time Out Lisboa",
+                    "source": "Time Out Lisboa",
+                    "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOLW5LSnQwVXM1UFN6Z0NGVG5EcEc1Rkh3bzkxRWFBUzd5R04zY21zZThEby14eXIwMEdEejVRTDFtNzZXQkpYX0dyMzJPU00zeFhKSl9PVWVmcEVrakxHR0FFTFlrM053OG93eUxmU2NudFA0VWg5eUpaMXZUaEdueFdiUmtaSnVBYjNRVzMzc1NMMTVrZFZEallaSHBUa0hxX041aEFVYnlkMkhIVk1fZUJ6TWxNVW5qVXVkak9KbUt4dmxDZXg0dWJMMlFadmlsTVR0RnZPWkQ?oc=5",
+                    "publishedAt": "2026-11-10T15:01:00.000Z",
+                    "language": "pt",
+                    "summary": "# Summary\n\nA long-standing restaurant on Lisbon's Rua do Paraíso has permanently closed in 2026 after operating for decades. The closure marks the end of an era for this notable dining establishment in the city. Visitors to Lisbon who appreciated this traditional restaurant will need to seek alternatives, as it's no longer available."
                 },
                 {
                     "title": "Pregos, cocktails e DJ no novo after-work do Elia Bar, em Lisboa - Jornal de Notícias",
@@ -138,31 +162,15 @@
                     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNLTNpeXNqNExOSkttTlFvaDJ6ejk3OWlFdy1qQ2g3Ui1ocUJsNWJsMmRSRWZaOVhDcWxhSkxFS2xHVlJqUFBSZW03T2lMZTh1YjhTeHFORGN5VkJIaFhYYkl2U1VERWlRaEQtYlhiV3dnU0JmUzhkM2czZ2tCSzVlbFdaU05qZEFlVnNxaGVfLWhQR0dZMmt0cdIBmAFBVV95cUxNLTNpeXNqNExOSkttTlFvaDJ6ejk3OWlFdy1qQ2g3Ui1ocUJsNWJsMmRSRWZaOVhDcWxhSkxFS2xHVlJqUFBSZW03T2lMZTh1YjhTeHFORGN5VkJIaFhYYkl2U1VERWlRaEQtYlhiV3dnU0JmUzhkM2czZ2tCSzVlbFdaU05qZEFlVnNxaGVfLWhQR0dZMmt0cQ?oc=5",
                     "publishedAt": "2026-11-09T09:00:00.000Z",
                     "language": "pt",
-                    "summary": "# Summary\n\nElia Bar in Lisbon has launched a new after-work event featuring traditional Portuguese pregos (steak sandwiches), cocktails, and DJ entertainment. Visitors to Lisbon looking for a lively evening spot combining casual food, drinks, and live music now have a new destination to check out. The event offers a social atmosphere ideal for unwinding after work or exploring Lisbon's nightlife scene."
+                    "summary": "# Summary\n\nElia Bar in Lisbon has launched a new after-work event featuring pregos (Portuguese steak sandwiches), cocktails, and a DJ. Visitors to Lisbon should care because it's a casual social spot that combines traditional Portuguese food with modern nightlife entertainment, making it ideal for evening hangouts after work or sightseeing."
                 },
                 {
-                    "title": "Nestlé transformou um restaurante de Lisboa num cenário futurista para apresentar a nova máquina de café - Marketeer",
-                    "source": "Marketeer",
-                    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPbWswWFJpaExlbTFORUdGbElNNHRKdVMtOGVEbGxsUE9BeTdfSFR1cFZTQllDX0FhWDJGWmI5S3Y0eExkYl9xLVRBTFdmMGJkT3NwM1FjWTk0QTNoUThwM3ktckpla1JNOEcyZkkweVFwVkZ0SjRXZk4wRm5pOVhGRjB3VjdzTFNKU1AzTE5CYXdUZlJSdExRN1hRVjJJUVJ0R1JLQVBIbE5Dd1pYNlJ1UXdQOXA4TW1oYk5US0lpWXhocEFfamRhS1dXcw?oc=5",
-                    "publishedAt": "2026-11-10T10:27:00.000Z",
+                    "title": "Estela juntou três mulheres e abriu um restaurante que serve saudade na Alameda - Mensagem de Lisboa",
+                    "source": "Mensagem de Lisboa",
+                    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPLUZSbG9kOGtsRmlRVGVwdVAwMlVCSGxPajBCRGJGMFpXcFdENGw5bGtOUWVVMEtSR3U3cjFXbGNnRzcxWExBTFk2Q3hLSXQ1Z2VTQU15RUUtbS1oUW44LTZNUTFrWmVvMmJKMHRCZmJDbkczQ09pRkk4R2t0ZERUMjIydjZuVGxBWFdoZTUyeHppNzBIZ2c?oc=5",
+                    "publishedAt": "2026-11-10T12:34:47.000Z",
                     "language": "pt",
-                    "summary": "# Summary\n\nNestlé transformed a Lisbon restaurant into a futuristic setting to launch its new coffee machine. While the article doesn't specify which restaurant was used, this event highlights Nestlé's latest coffee technology innovation. Visitors to Lisbon would be interested if this new machine becomes available at local cafes, potentially offering improved coffee quality or convenience at their favorite spots."
-                },
-                {
-                    "title": "Esta família abriu duas lojas vintage em Lisboa. Uma delas tem bar e recebe concertos - NiT New in Town",
-                    "source": "NiT New in Town",
-                    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNLTU2WGx1aWx6bnUwd3MwM2dEYWxlTzBJaC16TWEyN0ljWnB1XzFfdEVlazBnYjlNeFlOWGliNEpJRzBqVEFvMklYOFlBRFV5a2tlQ0VjRmZlRXZpcEMyNERJVTA4cGtLUWNSNVo4VEl3NXBNRFpGRmN1ZUlkdmhvck1QTHRRWVRHU2xva3hGVFhNVjNld1dZLVF4YzhPRklUemlLR0JERzZ5djVvQmJzUzRNWG9HZVpkRTZlNkIwUzhnNkRxME1IdzVjMA?oc=5",
-                    "publishedAt": "2026-11-08T11:51:00.000Z",
-                    "language": "pt",
-                    "summary": "# Summary\n\nA family has opened two vintage shops in Lisbon, with one location featuring a bar and hosting live concerts. Visitors to Lisbon would appreciate this as a unique spot combining vintage shopping, drinks, and entertainment in one venue. It's a worthwhile destination for those interested in secondhand goods, casual dining, and cultural events in a single location."
-                },
-                {
-                    "title": "Fomos conhecer a Laurentina, o restaurante de Lisboa onde o bacalhau é rei há 50 anos - VOU SAIR",
-                    "source": "VOU SAIR",
-                    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQQzJvaGRIV2MzN0E5N1lSMTk5dzFtOEJtbUNtWkpQYVBFRGVRY2RqMWVLT0dKNVE5SkgtdU9XZGRqUlZDSTNpZnVTdl8zdHVOejVyMzdZZHk1ZXQtMWVZTjJBbUZUTU1UZUZjX24wZFBLTEE3cmotalpWdFVLc3piMlZURHNPaWd0ajdWU0stQTFyQXNYZklXUldjLVVuR0d0R3E5Vk9xMA?oc=5",
-                    "publishedAt": "2026-11-09T11:48:48.000Z",
-                    "language": "pt",
-                    "summary": "# Summary\n\nLaurentina is a historic 50-year-old restaurant in Lisbon that specializes in codfish (bacalhau) dishes, making it a legendary spot for this Portuguese classic. Visitors to Lisbon should care because it represents authentic, traditional Portuguese cuisine with deep roots in the city's food culture. The restaurant appears to be a must-visit destination for anyone seeking genuine local dining experiences centered around Portugal's most iconic fish."
+                    "summary": "# Summary\n\nEstela, along with two other women, opened a new restaurant on Lisbon's Alameda that serves traditional Portuguese comfort food with emotional depth (\"saudade\"). Visitors to Lisbon should care about this spot because it offers an authentic, intimate dining experience that captures the essence of Portuguese culinary and cultural tradition in a newly opened venue on a popular avenue."
                 }
             ]
         },
@@ -170,28 +178,20 @@
             "places": [],
             "news": [
                 {
-                    "title": "Newcastle Food Festival confirms return with 'exciting ideas' for Exhibition Park - Chronicle Live",
+                    "title": "Tokyo's replacement confirmed as Newcastle bar to undergo six figure transformation - Chronicle Live",
                     "source": "Chronicle Live",
-                    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPNm04ZDZOVHVBMHppYjlWaGVYTFVVTzV5ZF9PNGRRR1pNa0tVVXF6MGNHU0RCaVJHY0dsSFNTZEdNSTNKVXM3Q0JSS0c3QkxVS292UUVPaUFld3M3d2lMdmhPMWFpQkJvOGJFcC1hMzAtdWhNb1JTa2YwR2dFYm9xV3N0S1dUVHNGWlE5MENiZ2F6TzhLaTJsUldfdnBMNWVuWU5nQjdRTS3SAa4BQVVfeXFMTU9TUjFTYWFJcnVROVEwUTI4dTdIUzdDVzJkWW43V2duaXpPTU01cUZlcWtHTFlZQTFPbDJHb0ptQk40YUJHN1libE82QkN3M2J6bi03VGdaTW14SGtaVUVZNm1LeUVOanFUVFdCSHBmLTJNX2VoX1NHd1hlRW1QdXh1SzF6Ymc0dGR3cHYwd2VYZlhZRFR3QkRpemhoeE1xbGhZQ3FaSG02ZDRoZ3Z3?oc=5",
-                    "publishedAt": "2026-11-10T11:45:00.000Z",
+                    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQekNEdV9uTlR0c2E3X3A4VmxNU2RwTlFxTjdsUlRpUXhSZ2NMNkU1b1Azb3l0cThIdHdWWjBwVGtLb2pVSl9NemFFYl8wbVV0T1Raa1JjNi1MSkVDeUxQZDkxY1FIZHI3NlQ0eHBFZGQ5UVBFTjN1emtmU1hSLWFxZTdjQ1ZVN2plWkMzU21iMEJwU3MtbGM0b2t1c2dIWFpOcTBiTkFsY2VwOER6NnhfMEgwd9IBuAFBVV95cUxQZXN2OUZEcWF5M3g3RWZQUHpWME80QXZyQUF6VUlNRXBDZGIwWmNENHo2c3liTXZXbUFkUkMzYjQwVF8xTWNzQWZudFRHOHBMUWxSa1I2NDhxc2t6b2hhcU1QS3R3b3pDcXBaQjNlZUl5U2szNmVoT0w4TS1fci01bzU4bmdjcVR0Q0k1TE0wcDBHMUktTUJNQVRmZ1R3RU8tZTA0TVFOTHgzRW9jcU4wWklJX2FzRjlp?oc=5",
+                    "publishedAt": "2026-11-11T11:30:00.000Z",
                     "language": "en",
-                    "summary": "# Newcastle Food Festival Returns to Exhibition Park\n\nNewcastle Food Festival is making a comeback at Exhibition Park with new and exciting plans for the event. Visitors to Newcastle can look forward to enjoying food, drink, and entertainment offerings at this popular annual festival. This is good news for food lovers and tourists visiting the city who want to experience local culinary offerings and entertainment in a central location."
+                    "summary": "# Summary\n\nA Newcastle bar is undergoing a significant six-figure renovation following the closure of a venue called Tokyo. While the article title suggests this is a replacement establishment, visitors to Newcastle should care because this indicates new dining or nightlife options are coming to the city, with substantial investment suggesting an upgraded venue and experience."
                 },
                 {
-                    "title": "First look inside Hickory's as Newcastle pub transformed into American smokehouse restaurant - Chronicle Live",
-                    "source": "Chronicle Live",
-                    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNNld2U0JaQ3dIZ1gtMGNtZzdmNzZ3N2dJOTJXYzRVODd1TnR0VThzWmYtYWJBZUU0dkJlRFcxY0dQUHZNLWN1bXR2LWxic1k0dDdHZWNzVHZQX0JhUnBreVhGM2x5MVpLY3k3aFZDNnlSWG9QcEVTV056eUZ3YWZ6VFVqTmhuSjVqZWdtZWFCVVZqTE9aX2pxemxQNm52bXJhRGZPZnZpdXYxenB0TGo0aWhzSdIBuAFBVV95cUxPUmdiSy14QURnejBrS3pUWlpCcWhGajR6NnE2THFac0Y5emVqRUFyX3FKVUR6N0JISjI1amdGRHNUdW1UMmhlODlFeWhwWi13THFCSjhoc0N5WEZUOVdJU1FJREpGazNfNUVERWRmRnRQOS0ySm1WSG11ajh5d0s2RVhCaHdIYUJlUUpRMUZ5dWNsNjJqLXh5R2ozVUlhWS16MGFodjNmMW9qbzVaMW1WYm1sUFFvemE5?oc=5",
-                    "publishedAt": "2026-11-10T12:49:00.000Z",
+                    "title": "North East food festival returns with 90 traders and four live stages - full details - The Northern Echo",
+                    "source": "The Northern Echo",
+                    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOMEM3cmlaUTJRd1Y5RGpQWFh4ZVNmejRsTk9yV3BNd3g3RXJ5TWpIUmUwQzlLLUw3ZlFJUl9fVDhWWVBqblFpUFFkaEtGQVVxTFpTb1F6SGk3MFNSOXJDWkQ5eHdCdXBvTHhRX2tjcWo0WkZCOVFpcjRnMW93N0Y5WU9adVo3Q0c4a1laZ3N0R3R3a3ZOZ2R3OG5DY2I?oc=5",
+                    "publishedAt": "2026-11-11T05:30:00.000Z",
                     "language": "en",
-                    "summary": "# Hickory's American Smokehouse Opens in Newcastle\n\nA longtime Newcastle pub has been transformed into Hickory's, a new American smokehouse restaurant. The venue offers visitors an authentic barbecue dining experience in a reimagined space that previously operated as a traditional pub. If you're visiting Newcastle and craving American-style BBQ and smoked meats, this new restaurant provides a notable dining option in the city center."
-                },
-                {
-                    "title": "British Indian Good Food Guide Reveals Its 2026 Top 100 Restaurants - Press Release Hub",
-                    "source": "Press Release Hub",
-                    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZnNheFFSeTRINHpiMWF3SExfYU40UXlsWmpENk43TnV6OXNEZDE2azVRdXpmeTBqeURJdHFxQ2p3eUxtOE9VamZpLUcxUDlKYXQzQ0hZM01CUk1XVTJCNzViSDhXSjJHbEdVYUtIUVQ2cXB1RXRCamFEXzlEcEJWV3lGV3ZEbzFoTlJzLTdKbkVNaXlOZDRvV295TVZpOUZ1LUZGQXA1YkNsOE9HOFVrdVN1R2lKQW1JS0d3?oc=5",
-                    "publishedAt": "2026-11-10T08:58:17.000Z",
-                    "language": "en",
-                    "summary": "# Summary\n\nThe British Indian Good Food Guide has released its 2026 rankings of the top 100 Indian restaurants in the UK. While the article doesn't specify individual restaurant names in the snippet provided, this annual guide highlights the best Indian dining destinations across the country. Visitors looking for authentic Indian cuisine should consult this guide to discover highly-rated restaurants in their area, as it serves as a credible resource for finding quality Indian food experiences."
+                    "summary": "# Summary\n\nThe North East food festival is returning with 90 food traders and four live entertainment stages, offering visitors a wide variety of regional and specialty food options. While the article doesn't specify a particular restaurant, it highlights a major culinary event that would appeal to food lovers visiting the region. Visitors should care because it's an opportunity to sample diverse cuisines, discover local food vendors, and enjoy live entertainment all in one location."
                 },
                 {
                     "title": "Brazil confirms 4 Newcastle disease outbreaks as export restrictions mount - All about feed",
@@ -199,15 +199,23 @@
                     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPTWZXNjJvd1JobzBxa3NNV2FBemhtbktxZWdsYTlpVktYODZJQjRqdzNHcVAxSzVtOUotSDBTalNjMV9Hdlh2VExfenVNTmdlcGZ6OWhJOERiOGotbmRPM1RhRzA4VjNIbVctVXVkekcwdm04TG5VQWlWMkNFQWFONklzZThFNk1nRTZZSGJvS0YxQVM2NFlnVg?oc=5",
                     "publishedAt": "2026-11-09T08:01:46.000Z",
                     "language": "en",
-                    "summary": "I appreciate you sharing this, but this article appears to be about agricultural/livestock disease rather than restaurant or food news in the traditional sense. It discusses Newcastle disease outbreaks affecting poultry in Brazil and resulting export restrictions—this is primarily industry news affecting food production rather than a story about a specific restaurant, dining venue, or food destination that would interest visitors.\n\nIf you're looking for restaurant/food news, could you share a different article? I'd be happy to summarize news about restaurants, cafes, food events, or culinary destinations instead."
+                    "summary": "# Summary\n\nI appreciate you sharing this article, but I should note that this appears to be **agricultural/trade news rather than restaurant or food news**. The article discusses Newcastle disease (a poultry illness) affecting Brazil's exports, which is relevant to food supply chains and agriculture, but doesn't mention a specific restaurant or dining establishment.\n\nIf you're looking for restaurant news or food destination information for travelers, I'd need a different article focused on dining venues, food businesses, or culinary experiences rather than agricultural trade issues."
                 },
                 {
-                    "title": "Santa Pub Crawl 2026 - Newcastle Weekly",
-                    "source": "Newcastle Weekly",
-                    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE0wdVRpaW9EamVER09BdkdTMWhETlJ1SlJraWZxU1o3YUNLRGpPb2VhMUVNcVlfbnFVZGRnNXdnQl9lUi1xdEpMTTdKXzBzLVJTLVFqNi1KMFdnYVdfME5BZ2dB?oc=5",
-                    "publishedAt": "2026-11-09T04:20:59.000Z",
+                    "title": "First look inside Hickory's as Newcastle pub transformed into American smokehouse restaurant - Chronicle Live",
+                    "source": "Chronicle Live",
+                    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNNld2U0JaQ3dIZ1gtMGNtZzdmNzZ3N2dJOTJXYzRVODd1TnR0VThzWmYtYWJBZUU0dkJlRFcxY0dQUHZNLWN1bXR2LWxic1k0dDdHZWNzVHZQX0JhUnBreVhGM2x5MVpLY3k3aFZDNnlSWG9QcEVTV056eUZ3YWZ6VFVqTmhuSjVqZWdtZWFCVVZqTE9aX2pxemxQNm52bXJhRGZPZnZpdXYxenB0TGo0aWhzSdIBuAFBVV95cUxPUmdiSy14QURnejBrS3pUWlpCcWhGajR6NnE2THFac0Y5emVqRUFyX3FKVUR6N0JISjI1amdGRHNUdW1UMmhlODlFeWhwWi13THFCSjhoc0N5WEZUOVdJU1FJREpGazNfNUVERWRmRnRQOS0ySm1WSG11ajh5d0s2RVhCaHdIYUJlUUpRMUZ5dWNsNjJqLXh5R2ozVUlhWS16MGFodjNmMW9qbzVaMW1WYm1sUFFvemE5?oc=5",
+                    "publishedAt": "2026-11-10T12:53:45.000Z",
                     "language": "en",
-                    "summary": "I appreciate you sharing this, but I'm unable to provide a meaningful summary based on the information provided. The snippet only contains the title \"Santa Pub Crawl 2026\" and the publication name (Newcastle Weekly), without any actual article content describing what the event is, which specific pubs are involved, or details about the crawl.\n\nTo give you the concise, practical summary you're looking for, I would need access to the full article text. If you can share the article content, I'd be happy to summarize it focusing on the key details for visitors."
+                    "summary": "# Summary\n\nHickory's, a new American smokehouse restaurant, has opened in Newcastle after transforming a former pub space. The venue specializes in smoked meats and BBQ-style cuisine in an American-themed setting. Visitors to Newcastle now have a dedicated destination for authentic smokehouse dining and BBQ fare in the city center."
+                },
+                {
+                    "title": "British Indian Good Food Guide Reveals Its 2026 Top 100 Restaurants - Press Release Hub",
+                    "source": "Press Release Hub",
+                    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZnNheFFSeTRINHpiMWF3SExfYU40UXlsWmpENk43TnV6OXNEZDE2azVRdXpmeTBqeURJdHFxQ2p3eUxtOE9VamZpLUcxUDlKYXQzQ0hZM01CUk1XVTJCNzViSDhXSjJHbEdVYUtIUVQ2cXB1RXRCamFEXzlEcEJWV3lGV3ZEbzFoTlJzLTdKbkVNaXlOZDRvV295TVZpOUZ1LUZGQXA1YkNsOE9HOFVrdVN1R2lKQW1JS0d3?oc=5",
+                    "publishedAt": "2026-11-10T08:57:49.000Z",
+                    "language": "en",
+                    "summary": "# Summary\n\nThe British Indian Good Food Guide has released its 2026 ranking of the top 100 Indian restaurants across the UK. While the article doesn't name specific restaurants in the snippet provided, this guide is valuable for visitors looking to find highly-rated authentic Indian dining experiences in British cities. Anyone traveling to the UK seeking quality Indian cuisine should consult this list to discover award-winning restaurants recognized by industry experts."
                 }
             ]
         },
