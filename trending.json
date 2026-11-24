@@ -1,17 +1,33 @@
 {
-    "lastUpdated": "2026-11-23T16:44:08.410Z",
+    "lastUpdated": "2026-11-24T16:39:22.571Z",
     "source": "github-actions",
     "cities": {
         "cologne": {
             "places": [],
             "news": [
                 {
-                    "title": "90er Party im PM in Kölle – 27.11.2026 · PM in Kölle, Die 90er Bar, Köln - virtualnights.com",
-                    "source": "virtualnights.com",
-                    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBNQ0hNRjVhbG5vZVFhcW16OVRCaGdtRUdySnZrazBlNWtpbnFpMFdWOWtkR3ZpalVTSjRVSUZPU1FpNy1NTV8zelU1Sk1KOWZ0OHVFckIyaEMwZXoxMmpibllad0g3U2xPc19IWVI1N2hRZ0E?oc=5",
-                    "publishedAt": "2026-11-22T23:07:00.000Z",
+                    "title": "Stadt schließt Shisha-Bar in Mülheim - Radio Köln",
+                    "source": "Radio Köln",
+                    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPb0lSeU52Q2lQMjROTEVhVEx3cXZDZklURTM1eWwta2JJcGxfMU91cGlmR2dOUkUtMVNsRk93VUhrTE9laFVVYm9wVnZlLS14MGEyOXBoZFVFRG1MMDFTeUdWRHZqZWxrRTRXdVVTcVppZEE1WEZZU3RwemlTS2kxWF9uTnB6Q0U?oc=5",
+                    "publishedAt": "2026-11-24T11:07:00.000Z",
                     "language": "de",
-                    "summary": "I appreciate you sharing this, but this article isn't actually about food or a restaurant. It's announcing a **90s-themed party event** happening on November 27, 2026, at **PM in Kölle** (a bar in Cologne, Germany). While it's entertainment news rather than food news, visitors to Cologne interested in nightlife and themed parties would want to know about this 90s nostalgia event at this venue."
+                    "summary": "# Summary\n\nThe city of Cologne has closed a shisha bar located in the Mülheim district. While the specific reason for closure isn't detailed in the snippet provided, this would be relevant to visitors looking for shisha lounges in that area, as the establishment is no longer operating."
+                },
+                {
+                    "title": "Vietnam: Sechs Tote bei Explosion in Restaurant - Radio Köln",
+                    "source": "Radio Köln",
+                    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOMlRnalU5X1V5eDZFZFo1ZGpoTFNzNzVjNG90a0p6dmhRQWdHZ0xUTk1WSWRObFM2ZEg1Z1JnTlo0RnY3UzZHMEFDQ3hlaGtqUGZBOXp4d0JUaTF4Vzd3c3A1ODQyQ1pESGJHMV9kY0Vsa2Ztd21aNHc1NlI5aEhCOWVWWnV4MFJ1YXg1eg?oc=5",
+                    "publishedAt": "2026-11-24T09:01:00.000Z",
+                    "language": "de",
+                    "summary": "I appreciate you sharing this, but I should note that this appears to be a news article about a tragic incident (an explosion at a restaurant in Vietnam resulting in six deaths) rather than a typical restaurant/food review or business news piece.\n\n**Summary:** A deadly explosion occurred at a restaurant in Vietnam, killing six people, according to reporting by Radio Köln. While this is significant news, it's a tragedy rather than the type of restaurant feature (opening, menu innovation, etc.) that would typically guide a visitor's dining choices. Visitors to the affected area should stay informed about local safety advisories and avoid the incident location."
+                },
+                {
+                    "title": "Stadt schließt Shisha-Bar in Mülheim - www.lindweiler.de",
+                    "source": "www.lindweiler.de",
+                    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1SWWpQT0pPdi14TXl4cTF0aGl6bFJ2WFdlNHZCcGpiV0JVMUxBRkJyc0poOW1xLVV4WVJxNnFET2lKM1RPeE9xek1FYzVoTGRjRzNnWDZDNWRKY3dHdEs2eHppR3pmQXU4cTNSX3p6WkhGeWc?oc=5",
+                    "publishedAt": "2026-11-24T12:07:48.000Z",
+                    "language": "de",
+                    "summary": "I appreciate you sharing this, but I'm unable to provide a helpful summary because the article snippet provided is minimal—it only contains a headline and URL without the actual article content. \n\nTo give you a useful 2-3 sentence summary covering what happened, which establishment was affected, and why visitors should care, I would need access to the full article text. If you could share the complete article or more details, I'd be happy to summarize it for you."
                 }
             ]
         },
@@ -19,36 +35,36 @@
             "places": [],
             "news": [
                 {
+                    "title": "Proefwerk op de kaart: bij deze restaurants in Amsterdam kun je het beste uit eten - Het Parool",
+                    "source": "Het Parool",
+                    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxObmYtQUE0NFp0OWI4ODlreXVTbFFRb2Jid2JZMFNjcy1OcEU4TUszTFhpZVRmaUc4Si1nS3BDcVRuWFJTaEM3TjBwdU5TblBmeDBUSmo2RlRVYWxxTDNXRlA5cnlBRHFfWG8zY2lwajhmdDlHQm9VamVuWVdZc3ptdk9VVkVuZkM1UXpTME10WQ?oc=5",
+                    "publishedAt": "2026-11-21T02:00:00.000Z",
+                    "language": "nl",
+                    "summary": "I appreciate the request, but I'm unable to summarize this article because only the title and source information are provided—the actual article content isn't included in your message. To give you a useful 2-3 sentence summary focusing on the specific restaurants mentioned and why visitors should care, I would need the full article text. Could you provide the complete article content?"
+                },
+                {
                     "title": "Bowlen, poolen en padellen mét goede horeca: 'Het loopt storm' - Entree Magazine",
                     "source": "Entree Magazine",
                     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPWFRmeGdCY0pnN3Aya3cxTGJ6M3hPQmN6MERHeDJkVlZoRlNQbjdNeHNXOHoyUk5aeUJ3cEFpU0lZSWwyUXhkR0lHWGpjTy1iTFFtY25pcFRkRHFkckxRQjg2R2l0dTh6YzdFdndRTG5Nb21iQWE5RFc0RWhSMlpoODlQaDlSblR2My1V?oc=5",
                     "publishedAt": "2026-11-23T07:38:32.000Z",
                     "language": "nl",
-                    "summary": "I appreciate you sharing this article, but I'm unable to provide an accurate summary. The snippet provided only contains the headline and source information in Dutch, without the actual article content. To give you a useful summary with specific details about which restaurant or food spot is mentioned and why visitors should care, I would need access to the full article text.\n\nIf you can share the complete article content, I'd be happy to summarize it for you in English focusing on those practical details."
-                },
-                {
-                    "title": "Nieuwe restaurants in Amsterdam: dit is dé Barts Boekje lijst - Barts Boekje",
-                    "source": "Barts Boekje",
-                    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9senhSbmVhalktMW9kS3VQMENERW5oUjRWQkhpdlNRdG1DclFnblJRQ0gtNnBGcnVlVXFZNHRlT1drM0ZKdkdndXZLcm05SmRaOTFVamtvX25KVkk5bEVhcjVfeUxrTGxlTG1lYQ?oc=5",
-                    "publishedAt": "2026-11-17T08:00:00.000Z",
-                    "language": "nl",
-                    "summary": "I appreciate you sharing this, but I'm unable to provide a meaningful summary because the article content itself wasn't included—only the title and source information were provided. \n\nTo give you a helpful 2-3 sentence summary with specific restaurant details and practical travel information, I would need the actual article text. If you can share the full article content, I'd be happy to summarize it for you."
+                    "summary": "I appreciate your request, but I'm unable to provide an accurate summary because only the title and a snippet are available—the full article content isn't included. \n\nFrom what I can see, the article is about a venue in the Netherlands that combines recreational activities (bowling, pool, and padel tennis) with quality dining/hospitality, and it's apparently very popular (\"it's storming\"). To give you a helpful 2-3 sentence summary with specific restaurant details and practical visitor information, I would need access to the complete article text.\n\nCould you share the full article or more content details?"
                 },
                 {
                     "title": "Belangrijkste conclusies uit Misset Horeca Superlijst: Randstad én regio scoren in de top - Misset Horeca",
                     "source": "Misset Horeca",
                     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPWGxpMUNmSmhHSDZzZjNfYjI3SEtJWG13SnZDR0E4Ym02ajVxaWctRDZWdHQ2RE5zZkpscFhwMkZDNHMyZGwtbElBNXZrb0VzNDBpSlBPMi1WT0hUTV83elBzekhmam8yR1ljSVhGaGwyeGwtVTBkbldhQ196dFR6aFNxOVlta2xveGo2UFpyY2tJa3BUS1gwMmpTc0U2U3lKd3RGeHdZODh0TWtxOVlmRGpDS1lkT25OZDRwU19oMkg?oc=5",
-                    "publishedAt": "2026-11-23T11:57:23.000Z",
+                    "publishedAt": "2026-11-23T06:00:00.000Z",
                     "language": "nl",
-                    "summary": "# Summary\n\nMisset Horeca released their annual Superlijst (top restaurants ranking), showing that high-quality dining venues are found not just in the Randstad (Amsterdam, Rotterdam, Utrecht area) but also throughout the Dutch regions. This comprehensive ranking is valuable for visitors planning where to eat, as it highlights standout restaurants across the entire Netherlands rather than concentrating only on major cities."
+                    "summary": "# Summary\n\nI appreciate you sharing this, but I'm unable to provide a meaningful summary because the article snippet provided only contains the title and headline—there's no actual article content to summarize. To give you a useful 2-3 sentence summary with specific restaurant names and details, I would need the full article text. Could you share the complete article content?"
                 },
                 {
                     "title": "Eberhardjes schenken 17.500 euro aan Mensen Maken Amsterdam - Foodclicks",
                     "source": "Foodclicks",
                     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOTkNneVg1VmV5NWNnSUl3QmNxYlI4dy1mTGNkQktLOFd5aUxSTXZoNktyUTF1ZE1HWTZCRlBXRFFxZURxMGs2UHlfUUFrRFFMZXUtOElZUHp6ckNkZFJ3Ni15U1hWbVZNcHVYYjA1bjhQRFdvZWs1QzRHb0FkUzFxVTk4SHdmclR1TUltS09PMUpBemdJX0lV?oc=5",
-                    "publishedAt": "2026-11-23T12:25:18.000Z",
+                    "publishedAt": "2026-11-23T12:27:52.000Z",
                     "language": "nl",
-                    "summary": "# Summary\n\nI appreciate you sharing this, but the snippet provided doesn't contain enough detail for me to give you a meaningful summary. The title indicates that **Eberhardjes** (a restaurant/food business) donated €17,500 to **Mensen Maken Amsterdam** (a charitable organization), but the actual article content isn't included.\n\nTo write a helpful summary with context about why visitors should care, I'd need the full article text. Could you share more of the article details?"
+                    "summary": "# Summary\n\nI appreciate you sharing this, but I'm unable to provide a complete summary since only the title and snippet are provided—the full article content isn't included. \n\nBased on what's available: **Eberhardjes (a restaurant/food business) has donated €17,500 to Mensen Maken Amsterdam**, a charitable organization. For visitors to Amsterdam, this would be noteworthy if you're interested in supporting socially responsible dining or want to learn more about restaurants actively contributing to community causes in the city.\n\nIf you can share the full article text, I'd be happy to provide a more detailed and practical summary."
                 },
                 {
                     "title": "Het eten van Waroeng Padang Lapek is net zo pittig als op Sumatra: ‘Ik waarschuw de mensen soms’ - Het Parool",
@@ -56,7 +72,7 @@
                     "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQVExkbmlyYVZLUEJpMFhTWlBRcW93QmdnbU0yVkpQS0Q1c3FUakplcEp1cHZOYlhCNHlWazFzMnFXYXhVVFU4cU1NT0lPNVlpOFN2UzJIVHRJdjlTRXpoQndFb2JfeTlyUnpxV25iX1dYX1hva19TcDl1S082V0lWZmZfWmtVUDlsRkswRU5DS0ZiekhjQnYxZzYzNThPaDdYVkpUeDJhVjRoZVhyajhhN2lrSWQ3RTJHVzRPOFpQSmotaTlESVoxcjRpeU9FLVFYWkVBaUxrYl9mQQ?oc=5",
                     "publishedAt": "2026-11-23T02:00:00.000Z",
                     "language": "nl",
-                    "summary": "# Summary\n\nWaroeng Padang Lapek, an Indonesian restaurant in Amsterdam, serves authentic Sumatran cuisine with notably spicy dishes that match the heat level found in Sumatra itself. The restaurant's owner warns customers about the intensity of the food, as it's genuinely hot for those unaccustomed to spicy cuisine. Visitors to Amsterdam looking for authentic, traditional Indonesian food with an adventurous palate should know this spot delivers the real deal—but should come prepared for serious heat."
+                    "summary": "# Summary\n\nWaroeng Padang Lapek, an Indonesian restaurant in Amsterdam, serves authentic Sumatran cuisine that is genuinely spicy—so much so that the owner warns diners about the heat level. Visitors to Amsterdam interested in bold, authentic Indonesian flavors should know this spot delivers the real deal, though it's best suited for those who can handle serious spice."
                 }
             ]
         },
@@ -69,23 +85,39 @@
                     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPbDlneC1pZ3pqOTRLT1RpV01pZHhaQnZONmtsbTBjMlpTM1BXNl9IbnN4bTVNaWRnUHBDa2F0eU1jbUlkQ0Ixa3ZoUHlUNzh6QU9vak04aFFFOHNtUVJmSnpmdkpXRlowTnB0a2pwcVlZdDd5aVFqUXFGX0tvSXI2eFJ0dEJ2aGlzQjVMdV9IZ0E4eHViVFlmZEhKVXlxbEo2UUtHREl3?oc=5",
                     "publishedAt": "2026-11-20T12:27:00.000Z",
                     "language": "nl",
-                    "summary": "# Summary\n\nThis article from De Tijd highlights restaurant recommendations in Antwerp, specifically featuring **Licolo**, which offers a unique 8-course pizza experience. Visitors to Antwerp should care about this because Licolo represents an innovative dining concept that elevates the traditional pizza format into a full multi-course tasting menu, making it a distinctive culinary destination worth experiencing during their visit."
+                    "summary": "I don't have access to the full article content—only the title and snippet provided. Based on what's available, here's what I can tell you:\n\nThis article from De Tijd features restaurant recommendations in Antwerp, with a highlight on **Licolo**, which appears to offer an unique 8-course pizza experience. Visitors to Antwerp would care about this because it represents an innovative dining concept that elevates traditional pizza into a multi-course tasting menu, making it worth checking out for a memorable culinary experience.\n\nTo provide a more detailed summary, I would need access to the complete article text."
                 },
                 {
-                    "title": "Kledingwinkels en horeca lijden onder stijgende prijzen en begroting, maar zien ook hoop in de feestdagen - Nieuwsblad",
-                    "source": "Nieuwsblad",
-                    "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxNczdYaUdfdjhaM2RGX0J3MVRvWkxKRndXdU9lY3pyRmM4Y0otaURxd2dueXY0STg2V29zV0tOV2NmQXFveUpXMndoM3hDdkR4Nld3QXNvakdGZlJnNDdXMGtZY3YtQldHMUttZ1dfZ1hXMzJWanp1bVl0TkUzNkdoY1N5Z3REUW5xTXJ3S0hrME5OS1E3aUc1aGdSaktoNUhkbWxLMTdTLUVTdWplWUN3V0dPWVVrTGI3NENkZ2NrT1p6X2dhUEowcWhENU1PZHBVa3FZNnVkZDh3Q2hocXNuYUtyRjVmMFZoaFRWM3NfNERfOFpQUkx0V0MxQUduLUZyaHpKbS0yaHJmY2ZnZ0xUVXhmUnppZw?oc=5",
-                    "publishedAt": "2026-11-23T09:00:00.000Z",
-                    "language": "nl",
-                    "summary": "# Summary\n\nThis article discusses how clothing stores and restaurants are struggling with rising prices and reduced consumer budgets, but are hopeful the holiday season will boost sales and foot traffic. While no specific restaurant is highlighted, the news is relevant to visitors because it explains why many dining and retail establishments may have raised prices recently and are likely running special promotions during the holidays. For travelers, this means it's a good time to look for holiday deals at local restaurants and shops in the city."
-                },
-                {
-                    "title": "Sergio doet zijn ‘last dance’ in Le Pristine, terwijl familie Dheedene werkt aan nieuw restaurant: “We stappen af van fine dining” - GVA",
+                    "title": "Na zijn ontboezeming in ‘De Slimste mens’: dit is het Antwerpse restaurant waar Kevin Janssens zijn pony gaat eten - GVA",
                     "source": "GVA",
-                    "url": "https://news.google.com/rss/articles/CBMipwJBVV95cUxNVGpaYk5MTm9GUi1rUjJ0OUN3NUU4TURzRTF6d3h5VWtUQU9SbjRrdUhtR2pGVUZlckdZTWpGZU9rZ1RXODBaRE1GOTM1WWE4dzQ4cy1OYUVIRlN4dnp0aWpKeGJLTkJhMVZpNjZ3WU03d3c1aTlzVUIzVVVlb3N2UU1SOVZYWDE0dUhja0NjMUoxYUNTYzNnUFJIUW0wX045MTJ6eGdiS2ppTzFORFY2Z0F1el8xeFlSQTFFOV9Mcl9CYzlyNFlvVUdJSHdDd1hlMHhtdklBXzRZMjhpT09QM3ZyT19WdEZqR01rSWw2WHVheW94Ym8ySXRRU1lnejBhWE1hekNNUXNlWnRGbU5yNzE0QVlhZXBDLTliYmpieDZQZWlMdzVV?oc=5",
-                    "publishedAt": "2026-11-17T01:00:00.000Z",
+                    "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxQZDY2WDNFX0FlMjdLVnVNeXFyNFNFMC1XbjVpNUtFM0czUFE4S2hOVGlOb1o0Nmw5Yzh2VC1UYUFZZnF4LXVoaWVwVHhsX3FkYnBKRlN2dXFSeHlWMjc0ZFFpWVVHZ0w5X0lubTJ0NUNIYVlqckhucFBGOWZacGNCTmVMMzdWaFpTVVdLcXNwWFNoLVl6dlpKdm9nVFd4ek5YOXN0OVR0VG1Oc2lERDZlOFdaVmc0WnlrZ2lQXzd5RzAtM1NpOTV1bW1YVDYtcXA3UTRUUGxTdDBDTUVvWkZLXzFfSG53S0EyR285UE1XWXRCQkdqN09kVTdpX0luRzh5UmgzY1RPNkpVcGhZSTQ1a1BZTHhFQQ?oc=5",
+                    "publishedAt": "2026-11-24T14:40:29.000Z",
                     "language": "nl",
-                    "summary": "# Summary\n\nChef Sergio is closing his fine dining restaurant Le Pristine, while the Dheedene family is opening a new restaurant concept that moves away from fine dining. Visitors to the city should note that Le Pristine's era is ending, but a new dining option from the same family will be replacing it with a different, more casual approach to food service."
+                    "summary": "# Summary\n\nActor Kevin Janssens recently revealed on the Belgian TV show \"De Slimste Mens\" that he plans to take his pony to an Antwerp restaurant. The article identifies the specific restaurant where this unusual dining experience will take place. Visitors to Antwerp interested in celebrity dining spots or quirky restaurant experiences might find this location noteworthy."
+                },
+                {
+                    "title": "Kindvriendelijk restaurant Sensunik definitief dicht: “Er kwam geen enkel aanneembaar bod” - Nieuwsblad",
+                    "source": "Nieuwsblad",
+                    "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOQ1ZMRVRDUlRQWVVwZ3ZvaUxzRFZLSGtnYlRzZTJIby1mcnh5cW95WUJsNFotZVFfNW44TVJnM19JcXhCcm5hOGMyT3Z6RXJGN3pNVG9WbHh2LWNFWi1jdm93QlhJQXVxeEkycmhRQ1I4NzQ2ZFE1Z0tIc2xPd1FiY3V0MjFUc2JneENrU2RqOEo3enlYMHI0Z0V1aTZTemRJYzZWN0dORHdiNWg5alBvbFJKN1FVTTR5dGszRlY3eVBnY3czVDJHcl9TNnpmcWpKYnVMUm1yNUhuLWNKWDRTOW8teW9PZHhCb0dtTFpmbDlwRHZrRl9obWdVMjJJX0U?oc=5",
+                    "publishedAt": "2026-11-24T13:54:39.000Z",
+                    "language": "nl",
+                    "summary": "# Summary\n\nSensunik, a family-friendly restaurant, has permanently closed after failing to receive any acceptable offers to keep it operating. The closure means visitors to the city will lose this dining option that was known for being welcoming to children. This news would concern families looking for kid-friendly dining establishments in the area."
+                },
+                {
+                    "title": "Sergio doet zijn ‘last dance’ in Le Pristine, terwijl familie Dheedene werkt aan nieuw restaurant: “We stappen af van fine dining” - Made in",
+                    "source": "Made in",
+                    "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNWTl2WWltbWJqZ28xMmcyTENNNFN4RzVTR0tXaTBuV1VVUWtlRFdFclFGRXpiWXlGc1FYZlBEbzdKbV9RSUh5eFBXRGU4NGI2S2tVWHRlQU9JWFNDT1JJanBJaHBWRWxfQ242QzRXaHNORTR3OUdLWlFDbTBEcERQYXdtZC16eEw5Y3BJWkhhd1JUVWRtXzFPdzNPSEtQWHlUQ3RZdm1Wb2Q5MEdnamdJZTh1Nlk3SVJ3VjNfOHZkUjRtbGpOd2p1RDZ5cUlWVEJ0NTY3LWpTb3lyTGNRd05KTi1RVnhra2kxWW8zdldVMA?oc=5",
+                    "publishedAt": "2026-11-18T20:08:31.000Z",
+                    "language": "nl",
+                    "summary": "# Summary\n\nSergio, the chef at Le Pristine, is closing the restaurant after his final service, while the Dheedene family is opening a new restaurant concept that moves away from fine dining. This transition represents a shift in the local dining scene from upscale gastronomy to a more casual approach. If you're visiting the city, this signals the end of an era for Le Pristine and the upcoming arrival of a new dining option with a different philosophy."
+                },
+                {
+                    "title": "Bars in Antwerpen: Ruinart opent 'Wintergarden' in Botanic Sanctuary - De Tijd",
+                    "source": "De Tijd",
+                    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOWlJLQkNrTE9ZTHVIUm1BSzRZcEdsTGdZM041ZHR6dXcyUGhqN3hlbEZ2bE1uZzBjY0tZeGtSU19ManpEV0wzVS0yMkFXZ0FHTUZZVFJNQTFOVTZIeXdDTGZHX0NHcExZc19fWmxIT0E0SlppeVYzd3pkV0FfZ3lmYk8teFZTZGF3TWZKMjVvakRaRndydTJsTHlZdWlTTnVnZE9KaGJSUWxkejJFV2NaMWgyOHdzUQ?oc=5",
+                    "publishedAt": "2026-11-19T13:42:00.000Z",
+                    "language": "nl",
+                    "summary": "# Summary\n\nRuinart, a champagne house, has opened a new bar called \"Wintergarden\" in Antwerp's Botanic Sanctuary. This new venue offers visitors a unique champagne experience in a botanical setting, combining luxury beverages with an upscale garden atmosphere. If you're visiting Antwerp and interested in champagne or upscale bar experiences, this is a distinctive new spot worth checking out."
                 }
             ]
         },
@@ -93,20 +125,20 @@
             "places": [],
             "news": [
                 {
+                    "title": "Prémios Manja 20+: 20 jovens talentos da gastronomia portuguesa - Mesa Marcada",
+                    "source": "Mesa Marcada",
+                    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQM2UydENtWDFMNjN3WHowWWVQM0U0TnBielRFWEdDZFI3OXZhUkp3X2Z1OTc2UE9wWk9DM1ZxNVFoRlc3UVZBVU5rdlNIQ2FOWXEzYUJaSTBweWNqbG5ROUFEbTdZUHMtUG9JZXg0Nk1QNUE0MGRseEw3R2RSVzJ2TU4xMm9KSzhwN1V0bWRnUlFxWFlBN2c?oc=5",
+                    "publishedAt": "2026-11-24T12:18:42.000Z",
+                    "language": "pt",
+                    "summary": "I'd be happy to help, but the snippet provided is quite limited and doesn't contain the actual article content—it only shows the title and source information. \n\nBased on the title alone, this appears to be about \"Manja 20+\" awards recognizing 20 young talents in Portuguese gastronomy, published by Mesa Marcada (a Portuguese food media outlet). However, without the full article text, I cannot identify specific restaurants mentioned or provide practical details for visitors.\n\nCould you share the full article content so I can give you an accurate 2-3 sentence summary with specific restaurant names and visitor-relevant information?"
+                },
+                {
                     "title": "Restaurante Geradora: criatividade que chega a Lisboa pela mão do Esporão - ECO",
                     "source": "ECO",
                     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPSkV0UVcwZEFoc1BzdzdTMF91ZjliVWx2OGlZTW5QZGFhcmtvUzlzTFN5NGhTdmRaN3dLVERUbmhSTFVIdUlaX0RkanFkOE9Bd0x5YW5OQU5WZVVadVZPcEFfWEQ1Ym80ckRKN0xKLUFkNEtJNDFRRi1tb0VtZFpRQkw0N2VWbjF5YXljU243T0ZGRDUwVVFRbnFKUU1QdnhCeEthckFwZw?oc=5",
                     "publishedAt": "2026-11-22T08:00:50.000Z",
                     "language": "pt",
-                    "summary": "I don't have access to the full article content, only the title and snippet provided. Based on what's available, here's what I can tell you:\n\n**Geradora**, a new restaurant backed by **Esporão** (a renowned Portuguese wine producer), has opened in Lisbon with a focus on creative cuisine. Visitors to Lisbon would care about this because it combines innovative food with the reputation of a prestigious Portuguese wine brand, likely offering quality dining with curated wine pairings. This represents an interesting culinary venture that brings together creativity and established Portuguese gastronomy expertise to the capital."
-                },
-                {
-                    "title": "Ainda é possível comer bom e barato em Lisboa: 12 restaurantes com pratos até 10€ - Lisboa Secreta",
-                    "source": "Lisboa Secreta",
-                    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9fUXpXOVdOMGNaT0dsTWNLa1M3LUJPMERzMVNicF9xTGxMX21TVFJFYnh4bWRxaWx1V1JmNms1TFFJZzhBSEpTM0pMNjkzTFo4UW5CV2E3dXhBeVRDUzNLbVpKYTJNYnZVR2c?oc=5",
-                    "publishedAt": "2026-11-20T18:03:24.000Z",
-                    "language": "pt",
-                    "summary": "# Summary\n\nThis article highlights 12 affordable restaurants in Lisbon where you can find quality meals for 10 euros or less. The piece, from Lisboa Secreta, demonstrates that budget-friendly dining with good food is still possible in the Portuguese capital. Visitors to Lisbon on a tight budget would find this guide invaluable for discovering where to eat well without overspending."
+                    "summary": "# Summary\n\nI don't have access to the full article content, only the title and a snippet. However, based on the available information: **Geradora is a new creative restaurant opening in Lisbon, backed by Esporão** (a well-known Portuguese wine producer). Visitors to Lisbon would care because it represents a collaboration between a respected winery and culinary creativity, likely offering an interesting dining experience that combines innovative cuisine with quality Portuguese wines.\n\nTo provide a more detailed and accurate summary, I would need access to the complete article text."
                 },
                 {
                     "title": "Irlanda: Conor Gillen, fundador do primeiro bar irlandês em Lisboa - TSF",
@@ -114,15 +146,23 @@
                     "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5xSFh0Uy1zYWIyNl9YRGpsYzZ5S2gyU21sRGJ6LTVlaUpLRC1adzU0RjBmUnBGOVdKVnZaclRmQ0hYMG1wWWdPU05lOF9fUi1pZEFJYWFScklmNWJhSHVNamQ0WkJ2cFpYVE1Ib2o0TDNPWVpoNzBR?oc=5",
                     "publishedAt": "2026-11-22T11:03:33.000Z",
                     "language": "pt",
-                    "summary": "I don't have access to the full article content, only the title and snippet provided. However, based on what's available, this news covers Conor Gillen, who founded Lisbon's first Irish bar. Visitors to Lisbon interested in authentic Irish pub culture and dining would find this relevant as it offers a new venue for traditional Irish food and drinks. To provide a more detailed summary with specific details about the bar's offerings and location, I would need access to the complete article text."
+                    "summary": "I don't have access to the full article content, only the title and snippet provided. Based on what's available, here's what I can tell you:\n\n**Summary:** Conor Gillen has founded the first Irish bar in Lisbon, Portugal. Visitors to Lisbon interested in authentic Irish hospitality and culture would find this a notable addition to the city's bar scene, offering a new venue for traditional Irish drinks and atmosphere.\n\nTo provide a more detailed and accurate summary with specific information about the bar's features, location, or what makes it noteworthy, I would need access to the full article text."
                 },
                 {
-                    "title": "Já pode provar a carne mais cara do mundo por menos de 10€ em Lisboa - NiT New in Town",
-                    "source": "NiT New in Town",
-                    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOTXVETEpXOS0xZ0Ztd1l1WEFrVnBwc1Z5QU9sNDZEalBSV2h5M2UxeUp4Rm44ZWNubEJNdmpEZmNBWW1DY3EyNnpYSkticnlpUHFOWUltVU05TnFQd0E5QTlkbzBOX1gxQXRqYW5RcnV2eVFZbExURUF1OE1RbEZ3bWdMR2FiN3psQ1V3NE9kejBpN1dmckt3SnpUZnBMTmREVFhvbXhaUm9fa3c?oc=5",
-                    "publishedAt": "2026-11-21T11:51:00.000Z",
+                    "title": "Capricciosa chega a Évora e é o primeiro restaurante da marca fora de Lisboa - Diário do Sul",
+                    "source": "Diário do Sul",
+                    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQNm9saHVaMGhVczR0eUI3Y0FDektCTlJIV2lKOFdSZEoySHJkeVVxa1RtbERnY1FIeEdDb09sLVVnc09OdXBia012c09vX3c2YTVzbWoxeGlpd0NOSGFkcDZoaEtZaklmWDFpRGJKLWVpVUtyWGI5cjdoUThPd3hGclhZcnI0Vk52U0lDZlZDaXdqWS1Hc0l1V3dJM0FxRFRha1lVdWNYOUkxZlRjOTFnbQ?oc=5",
+                    "publishedAt": "2026-11-20T12:14:40.000Z",
                     "language": "pt",
-                    "summary": "# Summary\n\nA restaurant in Lisbon is now offering Wagyu beef—one of the world's most expensive meats—for under €10, making it an accessible luxury for visitors. This represents an exceptional value opportunity for tourists and locals looking to experience premium Japanese beef without the typical high price tag. Anyone visiting Lisbon interested in high-quality dining experiences at bargain prices would want to check out this offer."
+                    "summary": "# Summary\n\nCapricciosa, a popular restaurant brand from Lisbon, has opened its first location outside the capital in Évora. This expansion brings the established restaurant concept to the historic city, giving visitors and locals access to Capricciosa's dining experience without traveling to Lisbon. For travelers to Évora, this represents a new dining option from a well-known brand in the region."
+                },
+                {
+                    "title": "Criadores do Red Frog abriram um novo bar em Lisboa - Echo Boomer",
+                    "source": "Echo Boomer",
+                    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1RZTUxYy0yT1N0d0laa3VYeUZfN0F4NDRGck0wRDE2YjlkVEVRZGtRZUJfel9UU2FnNXVYM3laRTBTWHI2VXVjY1VLQ0JMUWExem1JLXFRR3ptejd2NlUtY256Wk12T3NqcnlaeGhSal8wXzZRUnNSdnpn?oc=5",
+                    "publishedAt": "2026-11-23T17:49:11.000Z",
+                    "language": "pt",
+                    "summary": "# Summary\n\nThe creators of Red Frog have opened a new bar called Echo Boomer in Lisbon. This is notable for visitors because Red Frog was a popular establishment, so fans of their concept and style now have a new venue to experience in the city. If you enjoyed Red Frog's atmosphere or offerings, this new bar is worth checking out during your visit to Lisbon."
                 }
             ]
         },
@@ -130,12 +170,36 @@
             "places": [],
             "news": [
                 {
-                    "title": "Iconic EastEnders actress Cheryl Fergison spotted dining at North East parmo hotspot - The Northern Echo",
-                    "source": "The Northern Echo",
-                    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNbGg2dmlQNmJva09VRlVjb3U2S3o4UHJvWHBsMThEWE91QTFHWEdhUjlPY0pnRDhzUldCZVNLcVpYdUVZTS1CT3RxSWlneTZKSjQ1X0RNVThFY2ZibFBSQmUwY3Z4ZGp0U2NtNGhlM3JNSVpUNkJTZmVWY2NRai1lbnA5eFdPYl9zN2h3dFV6NlM0MmxHcVlqdlZ4azJ6c080djFYdXdnSXVWZnM?oc=5",
-                    "publishedAt": "2026-11-23T11:28:00.000Z",
+                    "title": "'$3.38m contribution': Newcastle food festival plates up its best year yet - Newcastle Herald",
+                    "source": "Newcastle Herald",
+                    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOa25PcTVNVHJVWExWZlJXeFFGVkVnSmVweWVwbWFDZkJ5NmtMSE52WnhqZW5EN3hKQkR0bFdjbWRKMVJlaElvdVhXUEc3X3ZBZGUtS3ZKbmJFV0drU0tkRW4yMGNZb0NpaHd5Y180M3Y2aGl2QzZBODREX0FOSThzTTlfNGJBeU9kMnIxSGxNWHJuWTRwTHQwNW1fSjlzZUE3OHdJQkRqVUdvZTBBeC1n?oc=5",
+                    "publishedAt": "2026-11-24T00:40:28.000Z",
                     "language": "en",
-                    "summary": "# Summary\n\nThis article reports that EastEnders actress Cheryl Fergison was spotted dining at a popular parmo restaurant in the North East. While the specific restaurant name isn't provided in the snippet, parmos (a breaded meat dish topped with béchamel and cheese) are a beloved local specialty in the North East region. Visitors interested in authentic regional cuisine or celebrity spotting would find this relevant to discovering where locals and notable figures eat."
+                    "summary": "# Newcastle Food Festival Posts Record Success\n\nNewcastle's annual food festival achieved its best performance yet, generating a $3.38 million economic contribution to the city. While the article doesn't mention a specific restaurant, the festival as a whole demonstrates Newcastle's thriving food scene and culinary appeal. Visitors and food enthusiasts should care because it reflects the city's growing reputation for quality dining experiences and vibrant food culture worth exploring during festival season."
+                },
+                {
+                    "title": "The Newcastle Christmas Market stalls where your money goes furthest - The Northern Echo",
+                    "source": "The Northern Echo",
+                    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNVzhYZFo5eVc0V1gwZ2JHS2YwZU5lNUlFSUM4SGZWTVVjaDA4Y0JnbUJtTTYxbk1kMHFITFJMVHdhTDRTVTJFeGxRZEhOTXQ0c200OHRkQm5MWGcwS1NoZGxTQVVLNVd0Q1R1RThCczVGWTlQVVA1Qnd2QXY5ZVAzLU9TNVFIZ1oxSmp6cHEtQmVrY2hxSlRfRFNhUVFWTG9pNVVvNzZHTVJLY19T?oc=5",
+                    "publishedAt": "2026-11-23T20:00:00.000Z",
+                    "language": "en",
+                    "summary": "I don't have access to the full article content to provide an accurate summary. The snippet provided only shows the headline and publication name, but doesn't include the actual article text describing which stalls offer the best value at Newcastle Christmas Market.\n\nTo give you a helpful 2-3 sentence summary with specific details about the stalls and why visitors should care, I would need the complete article content. Could you share the full text or article link?"
+                },
+                {
+                    "title": "North East spot hailed as 'fantastic' by I'm A Celeb soap star before jungle debut - The Northern Echo",
+                    "source": "The Northern Echo",
+                    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOdGZxOEVXNzF3U2dxZnNTWlJXZE91T0NzRk9BNnBIU1pURDl6bjJ2blZVRUVnbFdjWHBKWDlVYkpMVlpwY05nVWdRWlNqeGhMd2s1OWtDRVJuUldRQVM3Nkc1N3dMWE1FaTRydnNIOE1ySTNlN2ZwQ2ZSc1R0WHZjU0NmY2N2OS1CQm1XcTFNbEJYdjBOTGpDOHNBSzh1aUFSbWFPOGpn?oc=5",
+                    "publishedAt": "2026-11-23T20:00:00.000Z",
+                    "language": "en",
+                    "summary": "# Summary\n\nI don't have access to the full article content to provide an accurate summary. The title and snippet you've provided don't include specific details about which North East restaurant or food spot is mentioned, what the actual news is, or the soap star's name.\n\nTo give you a helpful 2-3 sentence summary with the specific restaurant name, why visitors should care, and the actual news, I would need the complete article text. Could you share the full article or provide more details?"
+                },
+                {
+                    "title": "Inside new-look North Staffordshire pub after three-week refurb - The Sentinel",
+                    "source": "The Sentinel",
+                    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNanR0WjlIeEZ3VHVFeWEwdXZIRVgtd2sxZHFIM181RlJwVkVJcFktTGh4S05TRFh1a0hLd21VYy1iR0p2LUQxSUpjT1JkbjM0bTRjcWpnM3p1MFFCU3BST0I5c0dUcXREbHlVT2dvRG9mbG1HbUtoNmJrV3hfUHZrejM1aThaQ0NNU1RUeHR5cFR0bEZsdkFFdURidmfSAaIBQVVfeXFMTjZISGpucV93T0licl9wYWNxQ2ZGeW9CYVRNMUFxdENzWjcwUnR5ZWNEMXpPWmZfaFFSV3p4d0o1Wk1QQzhiTTgtNExoVnk5U3l2bjZJQVctbGs2X2hGLXo1UXBHT2tYT3NjaEF4cGk2LWVqU3FzTVc5ZERhYXp1LUoyYVZQUHhlZHNPUEdIaW1zWXpNcUpnOEhuSVZ4MGdYZlZ3?oc=5",
+                    "publishedAt": "2026-11-23T14:55:00.000Z",
+                    "language": "en",
+                    "summary": "I don't have access to the full article content, only the title and snippet you provided. Based on what's available, here's what I can tell you:\n\nA pub in North Staffordshire has recently completed a three-week renovation and reopened with a refreshed look. However, without the full article text, I cannot provide specific details about which pub it is, what changes were made, or why visitors should care beyond the general appeal of a newly updated venue.\n\nTo give you a complete summary with practical details for visitors, I'd need access to the full article content."
                 },
                 {
                     "title": "The unforgettable Rick’s Cocktail Bar and Newcastle nights out in the 1980s and '90s - Chronicle Live",
@@ -143,31 +207,7 @@
                     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPa1ZFQW01Ti0xSVJoZUVlZ3B5RDZXR1BtZUpSN0wxTm81OWFpdzU3M3lwdkx6TTFvelhLS3JWVjNVZVQwS0p2cnBhM3FncGFRY1lpaGZKUjFrb0lUZ2ViQjhZaFphV1EtaFNrdjZWcEFPeDBlTlVQSXNicVpHOTVhMy1GeFVfdGpzb25TSnRWM3lQdU5GaE1ReDZPclJBNl9Kdk01Q0xB?oc=5",
                     "publishedAt": "2026-11-21T10:26:00.000Z",
                     "language": "en",
-                    "summary": "# Summary\n\nThis article is a nostalgic retrospective about Rick's Cocktail Bar, a legendary Newcastle nightlife destination that was popular during the 1980s and '90s. The piece celebrates the bar's cultural significance in Newcastle's social scene during that era. Visitors interested in Newcastle's nightlife history and local heritage would find this article valuable for understanding the city's entertainment past, though the bar itself may no longer be operating."
-                },
-                {
-                    "title": "Full guide to Newcastle Christmas Market 2026 - opening times, stalls and food & drink prices - Chronicle Live",
-                    "source": "Chronicle Live",
-                    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPLWRQNE1tUnpHUEg3OXBHWFdxOHRBSTY4SXFuOGhualdYR0FfbzBRRXpIeHpVTUJCdWhKLXBCNlh4OTl0MGhQTlIxTWg1YjlKZ3pCWG1nY1FGWjdKaXlObWs5Q2k0Xzl6bzhvYU9wRzRDSXFLRFZIbnZ5UUp5SG1JZlBtTmpyU1doZGppTERLZzBTQ1JxcjJKM2ViN2hiYUdrNE04?oc=5",
-                    "publishedAt": "2026-11-21T14:50:00.000Z",
-                    "language": "en",
-                    "summary": "I'd be happy to help summarize this article, but I notice the snippet provided only contains the headline and source information—the actual article content wasn't included. To give you an accurate summary with specific details about the Newcastle Christmas Market 2026 (opening times, stalls, prices, and why visitors should care), I would need the full article text. Could you please share the complete article content?"
-                },
-                {
-                    "title": "25 photos as Moosenwirt officially opens for 2026 at Newcastle Christmas Market - Chronicle Live",
-                    "source": "Chronicle Live",
-                    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPdVMzUjZoSDhTNUhtazQwaUdHeGNOc1ZWUk9RX0VmLTJCZGhObDBpTFF1U1hDWWxkSm83b2Z5cjRHa0g0T1poS2FNSGI0MHIwNEhkVjFwVGdLS1Z0OTBXaEJOSmJJOHN6YVgwU29VdUFBMUtIcndYcEN1WmxZM3V3RGhmRHhRcm13dTJjOUlWQkhsdDc5Mm5IbTRaUDZiNzVXWDlV0gGoAUFVX3lxTFBieURFSzQySHJCcTlUb3hLOW5Cbjc5dUx4dTNwbklkOEhGY2h2a1pMQUR5VGp1YmpaVzNTNFAyYk8yNHRRUldCTGRKM01vTk03UVNUVWdvYlB3cEU4WXNSMlR1SlVqRDk3eEJLOGlSOXQ0aDlEZ1lySjBfRlRrZWpQNFQ1S2QzNHhvMVd4RUVYS1J4cXBGV2IteC1zcGV4c3pIRmQ0MTJUbQ?oc=5",
-                    "publishedAt": "2026-11-20T20:11:00.000Z",
-                    "language": "en",
-                    "summary": "# Summary\n\nMoosenwirt, a popular Alpine-themed food stall, has officially opened for the 2026 season at Newcastle Christmas Market. Visitors to Newcastle's Christmas Market can now enjoy this traditional Bavarian-style venue for food and drinks during the festive period. The opening represents a highlight of the market's 2026 lineup, making it a worthwhile stop for anyone seeking festive food experiences in the city."
-                },
-                {
-                    "title": "Newcastle Christmas Market prices in full for beer, mulled wine, prosecco & more - Chronicle Live",
-                    "source": "Chronicle Live",
-                    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQT2s5djVCcXpRUFJCVm41dkVBQjF6VlpVQmtPT3ZyNG1WNUotSjV5X1dtR09DOVpKSVZVTGk4T1JzRmpHdmNMcnRQbFhCV2szREotc1FDN0JHbE5RUC1kVU9penJZbGJsVjZuelB2b3h3ZHZaRG5CWWJqaHRQOTg4ZjRKQVdTM0FNQktpUmJIYmFrVWhNQVJEWG1ieVNWRXl3Mm5sZ0FR?oc=5",
-                    "publishedAt": "2026-11-21T10:52:14.000Z",
-                    "language": "en",
-                    "summary": "# Summary\n\nNewcastle's Christmas Market has released its full pricing for festive beverages including beer, mulled wine, and prosecco. Visitors planning to attend the market should review these prices in advance to budget for drinks and plan their spending accordingly. This information is essential for anyone visiting Newcastle during the holiday season to enjoy the market's festive offerings."
+                    "summary": "# Summary\n\nThis article reflects on Rick's Cocktail Bar, a legendary Newcastle nightspot that defined the city's social scene during the 1980s and '90s. The piece celebrates the bar's cultural significance and the memorable nights out it provided to generations of Newcastle residents during that era. Visitors interested in Newcastle's nightlife history and nostalgia for classic '80s and '90s venues would find this article particularly relevant for understanding the city's social heritage."
                 }
             ]
         },
@@ -175,12 +215,12 @@
             "places": [],
             "news": [
                 {
-                    "title": "To The Moon and Back - Falstaff",
-                    "source": "Falstaff",
-                    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5MeDJXTi1MQmRhRlFSWHV4UElBaDdReDU2SVhCTXd1R3U4V2lMa3E1THAwVGpMQWFYdFhrTzU0Qi05bHhpalMtdE1La3Faa1RzV1JoZFFmQ0ZEdkZzdkprRnMzVGs2M0dMUGc?oc=5",
-                    "publishedAt": "2026-11-17T09:34:40.000Z",
+                    "title": "Tallinn Opens Christmas Market as Estonia’s Medieval Capital Welcomes Winter Visitors - EU Today",
+                    "source": "EU Today",
+                    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5Jc1lPMUFudGdTbkZZd2N0ZFpmcVBtUGdiaV96TUROTWN5M0ctcHhfZGlUUzQxNlJzWG9MZ2pWc21XdkZyZmtabFMwRVR0WUZ4TTdDOGVDSDRWVHpidXJMSTY4Zk4zMVBYbjVHV0FsM19XdzZKYmp2UUlDZTk?oc=5",
+                    "publishedAt": "2026-11-22T10:00:00.000Z",
                     "language": "en",
-                    "summary": "I don't have enough information to summarize this article. The title \"To The Moon and Back - Falstaff\" and snippet provided don't contain the actual article content—only the headline and publication source (Falstaff, an Austrian food and wine magazine).\n\nTo create a helpful summary, I would need the full article text. Could you share the complete article or more details about what this news covers?"
+                    "summary": "# Summary\n\nTallinn's Christmas market has opened in Estonia's medieval capital, attracting winter visitors to the city. While the article doesn't mention a specific restaurant or food establishment, the Christmas market typically features traditional Estonian holiday food and beverages. Visitors to Tallinn during the winter season would care about this because the market offers authentic seasonal dining experiences and festive atmosphere that are central to the city's winter tourism appeal."
                 },
                 {
                     "title": "Estonia's €20,000 food robot set to relocate to Tallinn - ERR",
@@ -188,15 +228,7 @@
                     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOVF9maHo2X2RkeFVYZ0VVRF9KTkxpaUU1Y2F4RlhGcGdDZ0pqSWR2SlVUYmxWYTdXUzQzYTVWMG1EU1cyWkVyc0VLdjdNY0QwbjNpRXdpR3E0bHI4bGdxOEcyMjYyZVNXMmsxalgyZl9tTy1YcmpTTW1GUGZna0lvcW1fT2pmQ3piOTktOFRn?oc=5",
                     "publishedAt": "2026-11-18T10:11:00.000Z",
                     "language": "en",
-                    "summary": "# Summary\n\nEstonia is relocating a €20,000 food robot to Tallinn, expanding automated food service in the capital. While the article doesn't specify which restaurant will house the robot, visitors to Tallinn will gain access to a unique dining experience with robotic food preparation and service. This development highlights Estonia's embrace of food technology and offers tourists and locals an innovative way to grab meals in the city."
-                },
-                {
-                    "title": "Tallinn bar security guards sentenced to 13 years for robberies - ERR",
-                    "source": "ERR",
-                    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPY054M1lWR1pfd28tWndTY0F3VE5rRXgzYTN5WGN4emR0bnA5NWhhLXNuYkVuUWdWMkc2YWEwRjcxSVE2Vzc5RFhPZFVsNV9tNGljNTNVRnJKY19lLWxzcnpWVGFwTVlJOXVETVNDZ2otdmMyOEdhV0J2QjNxWGFSZU8tc2N4SWNjSTZYbXZGODVjTHVuLUx2dnlB?oc=5",
-                    "publishedAt": "2026-11-17T14:18:00.000Z",
-                    "language": "en",
-                    "summary": "# Summary\n\nSecurity guards working at a Tallinn bar were sentenced to 13 years in prison for committing robberies. While the specific bar name isn't mentioned in the snippet provided, this news highlights a serious crime that occurred at a local establishment. Visitors to Tallinn should be aware of this incident as a reminder to stay alert when visiting bars and nightlife venues in the city."
+                    "summary": "# Summary\n\nA 20,000-euro food robot is being relocated to Tallinn, Estonia's capital, though the article snippet doesn't specify which restaurant will house it. Visitors to Tallinn should care because this indicates the city is adopting innovative food service technology, potentially affecting dining experiences and efficiency at the establishment using it."
                 }
             ]
         }
